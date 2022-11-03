@@ -19,8 +19,8 @@ possibilité de tester sa solution dans un environnement de test et l’automati
 - Exploitation et optimisation: Cette étape consiste à surveiller en continue l’évolution du code, prévoir les menaces, optimiser la qualité et la performance
 
 ### Présentation de l'offre Cloud Pi Native
-Catalogue du portail Cloud
 Documentation Cloud Pi Native
+Lien vers le catalogue du portail Cloud
 FAQ
 
 ### Guide pratique
