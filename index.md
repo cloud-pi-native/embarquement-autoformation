@@ -3,7 +3,12 @@
 
 ## Tronc commun
 ### Le "nouveau monde logiciel": cloud au centre, cloud native
-Le logicel a dévoré le monde
+- Le logiciel a dévoré le mondela 
+- La culture utilisateur a évolué
+- Le travail de développement a évolué 
+- Le cloud au centre
+- Les technologies "cloud native": API, microservices, conteneurs, kubernetes... 
+- Les nouvelles approchses de production: DevOps, DevSecOps, mode produit..
 
 
 ### Fondamentaux et bonnes pratiques dans le nouveau monde logicel: parcours DevSecOps
@@ -19,9 +24,9 @@ possibilité de tester sa solution dans un environnement de test et l’automati
 - Exploitation et optimisation: Cette étape consiste à surveiller en continue l’évolution du code, prévoir les menaces, optimiser la qualité et la performance
 
 ### Présentation générale de l'offre Cloud Pi Native
-Documentation Cloud Pi Native
-Lien vers le catalogue du portail Cloud
-FAQ
+- Documentation Cloud Pi Native
+- Lien vers le catalogue du portail Cloud
+- FAQ
 
 ### Guide pratique
 L'objectif du guide pratique est de centraliser l’ensemble des ressources nécessaire à la montée en compétence des équipes technique, métier, et transverse en proposant des ressources de divers format et adaptées à toute l’organisation. Ce guide: 
