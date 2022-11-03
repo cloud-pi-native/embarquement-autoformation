@@ -18,18 +18,21 @@ possibilité de tester sa solution dans un environnement de test et l’automati
 - Mise en production: Suite à la mise en production du code, il est essentiel de surveiller l’état de sécurité incluant la configuration, l’infrastructure, et les tests de pénétrations
 - Exploitation et optimisation: Cette étape consiste à surveiller en continue l’évolution du code, prévoir les menaces, optimiser la qualité et la performance
 
-### Présentation de l'offre Cloud Pi Native
+### Présentation générale de l'offre Cloud Pi Native
 Documentation Cloud Pi Native
 Lien vers le catalogue du portail Cloud
 FAQ
 
 ### Guide pratique
+L'objectif du guide pratique est de centraliser l’ensemble des ressources nécessaire à la montée en compétence des équipes technique, métier, et transverse en proposant des ressources de divers format et adaptées à toute l’organisation. Ce guide: 
+- Fait le lien avec le catalogue de service MI
+- Illustre les étapes du montage et de la gestion d'un projet
+- Expose des ressourcesd'autoformation pour chaque étape
 
 
 
 ## Parcours spécifiques
-### Parcours développeurs
-### Parcours chefferie de projet
-### Parcours décideurs
-
+### Parcours "équipes projet": développeurs, architectes solution, intégrateurs...
+### Parcours "gestionnaires de projet": direction de programme,chefs de projets, architectes d'entreprise...
+### Parcours "décideurs": direction métiers, sponspors et commanditaires, responsables politiques...
 
