@@ -77,12 +77,12 @@ Objectif : Disposer d’une offre claire, validée et résiliente d’un point d
 Niveau 1 : Fondamentaux/introduction au DevSecOps 
 Dans ce niveau de maturité, vous apprenez les fondements du DevSecOps : 
 - réaliser une étude de cas DevSecOps 
-- les premeirs éléments de la transformation organisationnelle et la façon de travailler qu’emmène le DevSecOps 
+- les premiers éléments de la transformation organisationnelle et la façon de travailler qu’emmène le DevSecOps 
 - les premiers éléments du pilotage par le test et les métriques et mesures indispensables au pilotage de projet en mode DevSecOps 
 - les concepts d’une architecture à couplage faible, avec des composants facilement réutilisables et des logiciels facilement testables 
 - à définir les features de votre backlog
 
-Niveau 2 : Avancé/travail en DevSecOps 
+Niveau 2 : Avancé/production en DevSecOps 
 Dans ce niveau de maturité, vous apprenez comment travailler dans un cadre DevSecOps soit à  : 
 - comprendre comment DevSecOps est guidé par des comportements tels que la collaboration et l'acceptation du changement. 
 - concepts tels que l'infrastructure éphémère, qui met l'accent sur la construction rapide, puis la mise au rebut lorsque cette construction n'est plus nécessaire. 
@@ -90,7 +90,7 @@ Dans ce niveau de maturité, vous apprenez comment travailler dans un cadre DevS
 - concevoir une application en utilisant l’offre DSO 
 - Comment aller plus vite, utiliser l'automatisation et passer plus de temps à construire des fonctionnalités et moins de temps à déboguer lors des intégrations
 
-Niveau 3 : Expert/Organisation en DevSecOps 
+Niveau 3 : Expert/organisation en DevSecOps 
 Dans ce niveau de maturité, vous comprendrez l’impact du DevSecOps sur l’organisation, la création de valeur et sa mesure dans une persepctive d’amélioration  continue : 
 - comment la production d'un produit minimum viable vous permet de tester une hypothèse et d'obtenir un retour d'information précieux sur la livraison de ce que le client désire vraiment. 
 - définir une organisation optimale pour les équipes DevSecOps. Vous passerez en revue une variété de perspectives sur DevSecOps et explorerez les idées fausses sur DevSecOps 
@@ -101,31 +101,27 @@ Dans ce niveau de maturité, vous comprendrez l’impact du DevSecOps sur l’or
 
 
 ### Parcours "décideurs": direction métiers, sponspors et commanditaires, responsables politiques...
-Description : Donne le mandat, les moyens et se porter garant de l’engagement
-Objectif : Aligner l’offre avec la feuille de route, les doctrines et les orientations législatives. Améliorer l’image et réduire les risques au niveau politique publique
+Ce parcours d'adresse au personnes qui donnent mandat pour la production d'applicatifs et se portent garants des moyens et de l’engagement des organisations en ce sens. L'objectif est d'aligner une organisation DSO avec une feuille de route, des doctrines ou des orientations législatives pour réduire les risques à un niveau politique ou relations publiques.
 
-Niveau 1 : Fondamentaux 
-Introduction au DevSecOps 
-Ce niveau de maturité atteint, vous apprenez les fondements du DevSecOps : 
- à réaliser une étude de cas DevSecOps 
-Vous toucherez aux premiers éléments de la transformation organisationnelle et la façon de travailler qu’emmène le DevSecOps 
- les premiers éléments du pilotage par le test et les métriques et mesures indispensables au pilotage de projet en mode DevSecOps 
- les concepts d’une architecture à couplage faible, avec des composants facilement réutilisables et des logiciels facilement testables 
- à définir les features de votre backlog
+Niveau 1 : Fondamentaux/introduction au DevSecOps 
+Dans ce niveau de maturité, vous apprenez les fondements du DevSecOps : 
+- réaliser une étude de cas DevSecOps 
+- les premiers éléments de la transformation organisationnelle et la façon de travailler qu’emmène le DevSecOps 
+- les premiers éléments du pilotage par le test et les métriques et mesures indispensables au pilotage de projet en mode DevSecOps 
+- les concepts d’une architecture à couplage faible, avec des composants facilement réutilisables et des logiciels facilement testables 
+- à définir les features de votre backlog
 
-Niveau 2 : Avancé
-Travailler en DevSecOps 
-Ce niveau de maturité atteint, vous apprenez comment travailler dans un cadre DevSecOps : 
-Vous verrez comment DevSecOps est guidé par des comportements tels que la collaboration et l'acceptation du changement. 
- à prioriser les features définies dans votre backlog 
- la conception d’une application en utilisant l’offre DSO 
- à aller plus vite, à utiliser l'automatisation et à passer plus de temps à construire des fonctionnalités et moins de temps à déboguer lors des intégrations
+Niveau 2 : Avancé/production en DevSecOps 
+Dans ce niveau de maturité, vous apprenez comment travailler dans un cadre DevSecOps soit à  : 
+- comprendre comment DevSecOps est guidé par des comportements tels que la collaboration et l'acceptation du changement. 
+- prioriser les features définies dans votre backlog 
+- concevoir une application en utilisant l’offre DSO 
+- Comment aller plus vite, utiliser l'automatisation et passer plus de temps à construire des fonctionnalités et moins de temps à déboguer lors des intégrations
 
-Niveau 3 : Expert
-Organisation DevSecOps 
-Ce niveau de maturité atteint, vous comprenez davantage l’impact du DevSecOps sur l’organisation, la création et la mesure de la valeur, et l’amélioration en continue : 
-Vous découvrirez comment la production d'un produit minimum viable vous permet de tester une hypothèse et d'obtenir un retour d'information précieux sur la livraison de ce que le client désire vraiment. 
-Vous découvrirez l'organisation optimale pour les équipes DevSecOps. Vous passerez en revue une variété de perspectives sur DevSecOps et explorerez les idées fausses sur DevSecOps. 
-Vous comprendrez le concept Behavior Driven Development et saurez en appliquer le cadre 
- à prendre des décisions basées sur des métriques et données factuelles
+Niveau 3 : Expert/organisation en DevSecOps 
+Dans ce niveau de maturité, vous comprendrez l’impact du DevSecOps sur l’organisation, la création de valeur et sa mesure dans une persepctive d’amélioration  continue : 
+- comment la production d'un produit minimum viable vous permet de tester une hypothèse et d'obtenir un retour d'information précieux sur la livraison de ce que le client désire vraiment. 
+- définir une organisation optimale pour les équipes DevSecOps. Vous passerez en revue une variété de perspectives sur DevSecOps et explorerez les idées fausses sur DevSecOps 
+- le concept Behavior Driven Development et saurez en appliquer le cadre 
+- à prendre des décisions basées sur des métriques et données factuelles
 
