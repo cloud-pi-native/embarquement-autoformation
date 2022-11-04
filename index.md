@@ -9,7 +9,12 @@
 - Le cloud au centre
 - Les technologies du paradigme "cloud native": API, microservices, conteneurs, kubernetes... 
 - Les nouvelles approchses de production: DevOps, DevSecOps, mode produit..
-
+- Le monde est volatile, incertain et s’accélère  (VUCA)
+-Les GAFAM mettent à disposition des produits de haute qualité, résilients et qui passent à l’échelle
+- La transformation numérique, un triple défi technologique, culturel et dans les méthodes de production
+- L’usager au centre
+- Une obsession « le zéro distance » : entre le besoin utilisateur et le produit proposé via un feedback régulier et la co-construction
+- Une voie privilégiée d'appréhension de la complexité :  Lean - Startup - Agile  et cultiver la Tech, besoin d’un outillage adapté.
 
 ### Fondamentaux et bonnes pratiques dans le nouveau monde logicel: parcours DevSecOps
 - Définir et planifier: Le projet suit une méthodologie de développement agile, implémentée en Scrum, dans laquelle on débute avec la
@@ -24,6 +29,17 @@ possibilité de tester sa solution dans un environnement de test et l’automati
 - Exploitation et optimisation: Cette étape consiste à surveiller en continue l’évolution du code, prévoir les menaces, optimiser la qualité et la performance
 
 ### Présentation générale de l'offre Cloud Pi Native
+Pourquoi cette offre? 
+- le numérique au coeur des politiques publique ( LOPMI )
+- Besoin de transformation majeur de la culture  « penser numérique »
+- Des cycles de production long & friction, qualités se dégradant dans le temps
+- Besoin accru de sécurité, d’élasticité et de réactivité 
+- La croissance vs coût / impact environnemental non soutenable
+- Absence d’un système de normes commun à l l’innovation et au développement de grosse solution. (impossibilité de croître)
+- Les usagers « oubliés » de l’écosystème… les développeurs
+- Des acteurs SIC dont la formation n’a pas évoluée, un marasme peu de perspectives
+
+Présentation de l'offre:
 - Documentation Cloud Pi Native
 - Lien vers le catalogue du portail Cloud
 - FAQ
