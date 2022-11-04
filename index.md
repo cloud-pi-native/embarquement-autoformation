@@ -93,7 +93,7 @@ Dans ce niveau de maturité, vous apprenez les pratiques de bases qu’un SRE do
 - Introduction aux différents outils nécessaires à remplir vos fonctions: versionning, gestion d’images, outils collaboratifs, etc.
 - Réalisation de tests d’acceptance et d’intégration
 - Bases du monitoring (gestion basique des logs)
-- Bonnes pratiques de la mise en service (feature toggles)
+- Bonnes pratiques de la mise en service (feature toggles) 
 
 Niveau 2: Avancé/garantir la livraison de versions stables et sécurisées
 Dans ce niveau de maturité, vous apprenez à garantir la stabilité et la sécurité des livraisons de code applicatifs sur la chaîne de service DSO. Pour cela vous apprendrez :
