@@ -68,6 +68,35 @@ Dans ce niveau de maturité, vous montez en autonomie sur l’utilisation de l'e
 - les concepts de déploiement « canary releases » et vous les mettrez en pratique
 
 
+### Parcours "SRE" (Site Reliability Engineering ou ingénierie de la fiabilité des sites) : responsables de la fourniture des services et de l'accomapgnement de l'offre cloud Pi Native...
+Ce parcours d'adresse aux personnes responsables du déploiement, de la configuration et de la surveillance du code de l'offre de service Cloud Pi Native. L'objectif est d’assurer la maîtrise de la chaine de l’offre par les consommateurs.
+
+Niveau 1 : Fondamentaux/garantir les environnements de développement : 
+Dans ce niveau de maturité, vous apprenez les pratiques de bases qu’un SRE doit maîtriser pour le bon développement des fonctionnalités par les équipes projet via la maitrise des environnements de développement :
+- les premiers éléments de l’architecture microservices
+- Introduction aux différents outils nécessaires à remplir vos fonctions: versionning, gestion d’images, outils collaboratifs, etc.
+- Réalisation de tests d’acceptance et d’intégration
+- Bases du monitoring (gestion basique des logs)
+- Bonnes pratiques de la mise en service (feature toggles)
+
+Niveau 2: Avancé/garantir la livraison de versions stables et sécurisées
+Dans ce niveau de maturité, vous apprenez à garantir la stabilité et la sécurité des livraisons de code applicatifs sur la chaîne de service DSO. Pour cela vous apprendrez :
+- conception d’une application en utilisant l’offre DSO
+- maîtrise de la conteneurisation 
+- Déployement de codes applicatifs dans des environnements de tests 
+- Monitoring d'applications et assurance de la haute disponibilité
+- Concepts de déploiement « blue/green » et mise en pratique
+- Garantie du bon fonctionnement et la haute disponibilité de la plateforme 
+- Réalisation de tests de performance sur la plateforme 
+
+Niveau 3 : Expert/Garantir une continuité de production sur toute la chaine d’intégration et de déploiement
+Dans ce niveau de maturité, vous apprenez à être autonome pour accompagner les équipes projet à la compréhension et à l'utilisation de l’offre de service, ainsi que pour mettre en oeuvre l'ensemble des bonnes pratiques:
+- Concepts de l’architecture d’une application basé sur Cloud Pi Gen 2
+- Automatisation de vos différents tests
+- Développement piloté par les tests (TDD), des tests de non regression, des smoke tests et des tests d’intrusion
+- Maitrise d'un outil d’intégration et de déploiement continu ainsi qu’un outil de provisionning
+- Monitoring d’infrastructure et assurance d'un plan de reprise d’activité (DR) 
+- Concepts de déploiement « canary releases » et vous les mettrez en pratique
 
 ### Parcours "gestionnaires de projet": direction de programme,chefs de projets, architectes d'entreprise...
 Ce parcours s'adresse aux personnes qui pilotent les équipes de production du code applicatif. L'objectif est de comprendre les fondements, modes de travail et impacts d'une infrastructure DevSecOps sur une organisation de production. 
