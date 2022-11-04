@@ -7,7 +7,7 @@
 - La culture utilisateur a évolué
 - Le travail de développement a évolué 
 - Le cloud au centre
-- Les technologies "cloud native": API, microservices, conteneurs, kubernetes... 
+- Les technologies du paradigme "cloud native": API, microservices, conteneurs, kubernetes... 
 - Les nouvelles approchses de production: DevOps, DevSecOps, mode produit..
 
 
