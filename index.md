@@ -56,7 +56,7 @@ L'objectif du guide pratique est de centraliser l’ensemble des ressources néc
 ### Parcours "équipes projet": développeurs, architectes solution, intégrateurs...
 Ce parcours s'adresse aux personnes qui livrent du code applicatif. L'objectif est de leur permettre de s'appuyer sur les moyens d'une plateforme de livraison DevSecOps proposant des outils d'intégration et de déploiement au standard et à l’état de l’art.
 
-Niveau 1 : Fondamentaux/adoption des pratiques : 
+**Niveau 1** : Fondamentaux/adoption des pratiques : 
 Dans ce niveau de maturité, vous apprenez les pratiques de bases qu’un développeur doit avoir pour utiliser l’offre DSO :
 -à exprimer des epics en collaboration avec les métiers
 -à bien gérer vos projets en maîtrisant un outil de collaboration et de développement logiciel, et un outil de versionning
@@ -65,7 +65,7 @@ Dans ce niveau de maturité, vous apprenez les pratiques de bases qu’un dével
 - les bases du monitoring (gestion basique des logs)
 - les bonnes pratiques de la mise en service (feature toggles)
 
-Niveau 2: Avancé/ maitriser la qualité jusqu'à la livraison
+**Niveau 2** : Avancé/ maitriser la qualité jusqu'à la livraison
 Dans ce niveau de maturité, l'objectif est la matrise du niveau de qualité du code de bout en en bout. Pour cela vous apprendrez :
 - la conception d’une application en utilisant l’offre DSO
 - à aller plus loin dans les tests du cycle de vie d’un logiciel (tests unitaires, tests fonctionnels, tests de performance)
@@ -74,7 +74,7 @@ Dans ce niveau de maturité, l'objectif est la matrise du niveau de qualité du 
 - à monitorer vos applications et à assurer de la haute disponibilité
 - les concepts de déploiement « blue/green » et les mettrez en pratique
 
-Niveau 3 : Expert/ Être autonome sur la chaine DevSescOps 
+**Niveau 3** : Expert/ Être autonome sur la chaine DevSescOps 
 Dans ce niveau de maturité, vous montez en autonomie sur l’utilisation de l'ensemble la chaîne DevSecOps et apprenez :
 - les concepts de l’architecture d’une application basé sur Cloud Pi Gen 2
 - à automatiser vos différents tests
@@ -87,7 +87,7 @@ Dans ce niveau de maturité, vous montez en autonomie sur l’utilisation de l'e
 ### Parcours "SRE" (Site Reliability Engineering ou ingénierie de la fiabilité des sites) : responsables de la fourniture des services et de l'accomapgnement de l'offre cloud Pi Native...
 Ce parcours d'adresse aux personnes responsables du déploiement, de la configuration et de la surveillance du code de l'offre de service Cloud Pi Native. L'objectif est d’assurer la maîtrise de la chaine de l’offre par les consommateurs.
 
-Niveau 1 : Fondamentaux/garantir les environnements de développement : 
+**Niveau 1** : Fondamentaux/garantir les environnements de développement : 
 Dans ce niveau de maturité, vous apprenez les pratiques de bases qu’un SRE doit maîtriser pour le bon développement des fonctionnalités par les équipes projet via la maitrise des environnements de développement :
 - les premiers éléments de l’architecture microservices
 - Introduction aux différents outils nécessaires à remplir vos fonctions: versionning, gestion d’images, outils collaboratifs, etc.
@@ -95,7 +95,7 @@ Dans ce niveau de maturité, vous apprenez les pratiques de bases qu’un SRE do
 - Bases du monitoring (gestion basique des logs)
 - Bonnes pratiques de la mise en service (feature toggles) 
 
-Niveau 2: Avancé/garantir la livraison de versions stables et sécurisées
+**Niveau 2** : Avancé/garantir la livraison de versions stables et sécurisées
 Dans ce niveau de maturité, vous apprenez à garantir la stabilité et la sécurité des livraisons de code applicatifs sur la chaîne de service DSO. Pour cela vous apprendrez :
 - conception d’une application en utilisant l’offre DSO
 - maîtrise de la conteneurisation 
@@ -105,7 +105,7 @@ Dans ce niveau de maturité, vous apprenez à garantir la stabilité et la sécu
 - Garantie du bon fonctionnement et la haute disponibilité de la plateforme 
 - Réalisation de tests de performance sur la plateforme 
 
-Niveau 3 : Expert/Garantir une continuité de production sur toute la chaine d’intégration et de déploiement
+**Niveau 3** : Expert/Garantir une continuité de production sur toute la chaine d’intégration et de déploiement
 Dans ce niveau de maturité, vous apprenez à être autonome pour accompagner les équipes projet à la compréhension et à l'utilisation de l’offre de service, ainsi que pour mettre en oeuvre l'ensemble des bonnes pratiques:
 - Concepts de l’architecture d’une application basé sur Cloud Pi Gen 2
 - Automatisation de vos différents tests
@@ -119,7 +119,7 @@ Ce parcours s'adresse aux personnes qui pilotent les équipes de production du c
 Description : Pilote des ressources de développement
 Objectif : Disposer d’une offre claire, validée et résiliente d’un point de vue technique, permettant de limiter les risques
 
-Niveau 1 : Fondamentaux/introduction au DevSecOps 
+**Niveau 1** : Fondamentaux/introduction au DevSecOps 
 Dans ce niveau de maturité, vous apprenez les fondements du DevSecOps : 
 - réaliser une étude de cas DevSecOps 
 - les premiers éléments de la transformation organisationnelle et la façon de travailler qu’emmène le DevSecOps 
@@ -127,7 +127,7 @@ Dans ce niveau de maturité, vous apprenez les fondements du DevSecOps :
 - les concepts d’une architecture à couplage faible, avec des composants facilement réutilisables et des logiciels facilement testables 
 - à définir les features de votre backlog
 
-Niveau 2 : Avancé/production en DevSecOps 
+**Niveau 2** : Avancé/production en DevSecOps 
 Dans ce niveau de maturité, vous apprenez comment travailler dans un cadre DevSecOps soit à  : 
 - comprendre comment DevSecOps est guidé par des comportements tels que la collaboration et l'acceptation du changement. 
 - concepts tels que l'infrastructure éphémère, qui met l'accent sur la construction rapide, puis la mise au rebut lorsque cette construction n'est plus nécessaire. 
@@ -135,7 +135,7 @@ Dans ce niveau de maturité, vous apprenez comment travailler dans un cadre DevS
 - concevoir une application en utilisant l’offre DSO 
 - Comment aller plus vite, utiliser l'automatisation et passer plus de temps à construire des fonctionnalités et moins de temps à déboguer lors des intégrations
 
-Niveau 3 : Expert/organisation en DevSecOps 
+**Niveau 3** : Expert/organisation en DevSecOps 
 Dans ce niveau de maturité, vous comprendrez l’impact du DevSecOps sur l’organisation, la création de valeur et sa mesure dans une persepctive d’amélioration  continue : 
 - comment la production d'un produit minimum viable vous permet de tester une hypothèse et d'obtenir un retour d'information précieux sur la livraison de ce que le client désire vraiment. 
 - définir une organisation optimale pour les équipes DevSecOps. Vous passerez en revue une variété de perspectives sur DevSecOps et explorerez les idées fausses sur DevSecOps 
@@ -148,7 +148,7 @@ Dans ce niveau de maturité, vous comprendrez l’impact du DevSecOps sur l’or
 ### Parcours "décideurs": direction métiers, sponspors et commanditaires, responsables politiques...
 Ce parcours d'adresse au personnes qui donnent mandat pour la production d'applicatifs et se portent garants des moyens et de l’engagement des organisations en ce sens. L'objectif est d'aligner une organisation DSO avec une feuille de route, des doctrines ou des orientations législatives pour réduire les risques à un niveau politique ou relations publiques.
 
-Niveau 1 : Fondamentaux/introduction au DevSecOps 
+**Niveau 1** : Fondamentaux/introduction au DevSecOps 
 Dans ce niveau de maturité, vous apprenez les fondements du DevSecOps : 
 - réaliser une étude de cas DevSecOps 
 - les premiers éléments de la transformation organisationnelle et la façon de travailler qu’emmène le DevSecOps 
@@ -156,14 +156,14 @@ Dans ce niveau de maturité, vous apprenez les fondements du DevSecOps :
 - les concepts d’une architecture à couplage faible, avec des composants facilement réutilisables et des logiciels facilement testables 
 - à définir les features de votre backlog
 
-Niveau 2 : Avancé/production en DevSecOps 
+**Niveau 2** : Avancé/production en DevSecOps 
 Dans ce niveau de maturité, vous apprenez comment travailler dans un cadre DevSecOps soit à  : 
 - comprendre comment DevSecOps est guidé par des comportements tels que la collaboration et l'acceptation du changement. 
 - prioriser les features définies dans votre backlog 
 - concevoir une application en utilisant l’offre DSO 
 - Comment aller plus vite, utiliser l'automatisation et passer plus de temps à construire des fonctionnalités et moins de temps à déboguer lors des intégrations
 
-Niveau 3 : Expert/organisation en DevSecOps 
+**Niveau 3** : Expert/organisation en DevSecOps 
 Dans ce niveau de maturité, vous comprendrez l’impact du DevSecOps sur l’organisation, la création de valeur et sa mesure dans une persepctive d’amélioration  continue : 
 - comment la production d'un produit minimum viable vous permet de tester une hypothèse et d'obtenir un retour d'information précieux sur la livraison de ce que le client désire vraiment. 
 - définir une organisation optimale pour les équipes DevSecOps. Vous passerez en revue une variété de perspectives sur DevSecOps et explorerez les idées fausses sur DevSecOps 
