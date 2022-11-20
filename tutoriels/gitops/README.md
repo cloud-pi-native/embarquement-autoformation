@@ -37,10 +37,11 @@ sudo vi /etc/hosts
 ## Manipulation d'exemple du tutoriel 
 
 ## jouez sur les valeurs et regarder le cluster se modifier directement dans l'interface
-Tips : cloner ce repository et "pointez" argo sur le fichier "application.yaml" de votre repertoire
+Tips : cloner ce repository 
 
 ```bash
-kubectl apply -f https://repo-Ulr>/raw/application.yaml
+# Pointez argo sur le fichier "application.yaml" de votre repertoire
+kubectl apply -f https://<votre-repo-url>/raw/application.yaml
 ```
 
 #### Links
