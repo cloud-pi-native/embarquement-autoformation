@@ -1,21 +1,21 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: echoserver
+  name: echoserver-deployment
   namespace: echoserver-ns
 spec:
   replicas: 3
   selector:
     matchLabels:
-      app: echoserver
+      app: echoserver-application
   template:
     metadata:
       labels:
-        app: echoserver
+        app: echoserver-application
     spec:
       containers:
       - image: opsdockerimage/echoserver:1.10
         imagePullPolicy: Always
-        name: echoserver
+        name: echoserver-application
         ports:
         - containerPort: 8080
