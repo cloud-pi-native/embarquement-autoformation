@@ -1,0 +1,18 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  namespace: echoserver
+  name: echoserver-ingress
+
+spec:
+  rules:
+  - host: "echo.fake-domain.local" #echo.numerique-interieur.com 
+    http:
+      paths:
+        - path: /
+          pathType: Prefix
+          backend:
+            service:
+              name:  echoserver-service
+              port:
+                  number: 8080
