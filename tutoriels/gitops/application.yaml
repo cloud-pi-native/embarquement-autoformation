@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://gitlab.com/etiquet/argocd-app-config.git
+    repoURL: https://github.com/dnum-mi/dso-formation/tree/etiquet-patch-1/tutoriels/gitops.git
     targetRevision: HEAD
     path: dev
   destination: 
