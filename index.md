@@ -130,7 +130,7 @@ Dans ce niveau de maturité, vous apprenez les fondements du DevSecOps :
 Niveau 2 : Avancé/production en DevSecOps 
 Dans ce niveau de maturité, vous apprenez comment travailler dans un cadre DevSecOps soit à  : 
 - comprendre comment DevSecOps est guidé par des comportements tels que la collaboration et l'acceptation du changement. 
-- concepts tels que l'infrastructure éphémère, qui met l'accent sur la construction rapide, puis la mise au rebut lorsque cette construction n'est plus nécessaire. 
+- concepts tels que l'infrastructure éphémère , qui met l'accent sur la construction rapide, puis la mise au rebut lorsque cette construction n'est plus nécessaire. 
 - prioriser les features définies dans votre backlog 
 - concevoir une application en utilisant l’offre DSO 
 - Comment aller plus vite, utiliser l'automatisation et passer plus de temps à construire des fonctionnalités et moins de temps à déboguer lors des intégrations
