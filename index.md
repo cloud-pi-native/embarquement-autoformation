@@ -2,19 +2,19 @@
 
 
 ## Tronc commun
-### Le "nouveau monde logiciel": cloud au centre, cloud native
-- Le logiciel a dévoré le mondela 
-- La culture utilisateur a évolué
-- Le travail de développement a évolué 
-- Le cloud au centre
-- Les technologies du paradigme "cloud native": API, microservices, conteneurs, kubernetes... 
-- Les nouvelles approchses de production: DevOps, DevSecOps, mode produit..
-- Le monde est volatile, incertain et s’accélère  (VUCA)
--Les GAFAM mettent à disposition des produits de haute qualité, résilients et qui passent à l’échelle
-- La transformation numérique, un triple défi technologique, culturel et dans les méthodes de production
-- L’usager au centre
-- Une obsession « le zéro distance » : entre le besoin utilisateur et le produit proposé via un feedback régulier et la co-construction
-- Une voie privilégiée d'appréhension de la complexité :  Lean - Startup - Agile  et cultiver la Tech, besoin d’un outillage adapté.
+### Le "nouveau monde logiciel", un défi technologique, organisationnel et culturel
+
+Les tendances globales du monde contemporain sont difficiles à appréhender (concept "VUCA": Volatil, les choses changent vite / Complex en raison des crises multiple: économique, sanitaire, climatique / Uncertain car toutes les crises s’entrecroisent / Ambiguous du fait de la complexité et de l’incertitude).
+
+Une révolution numérique est en cours: le logiciel conquiert des secteurs d'activités entiers et accélère les transformations du monde (Marc Andreessen "Why software is eating the world").
+
+Un nouveau paradigme logiciel a émergé, celui des GAFA, qui permet de mettre à disposition rapidement à l'échelle, des produits de haute qualité et résilients. Ce "nouveau monde logiciel" est défini par 3 ruptures: 
+- Une rupture technologique: l'automatisation grandissante des ressources informatiques a placé le cloud est maintenant au centre, les technologies du paradigme "cloud native" (API, microservices, conteneurs, kubernetes...)
+- Une rupture organisationnelle et des modes de production: le travail de développement a évolué,de nouvelles approches de production ont émergé (DevOps, DevSecOps, mode produit...)
+- Une rupture culturelle: la culture utilisateur a évolué, les producteurs sont obsédé par le « le zéro distance » entre le besoin utilisateur et le produit (feedback régulier et la co-construction), 
+
+Le service public cherche à maitriser ces rutpures pour remettre l’usager au centre en définissant une voie d'accès d'appréhension privilégiée de la complexité :  Lean - Startup - Agile  et cultiver la Tech, besoin d’un outillage adapté.
+
 
 ### Fondamentaux et bonnes pratiques dans le nouveau monde logicel: parcours DevSecOps
 - Définir et planifier: Le projet suit une méthodologie de développement agile, implémentée en Scrum, dans laquelle on débute avec la
