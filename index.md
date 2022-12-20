@@ -4,16 +4,16 @@
 ## Tronc commun
 ### Le "nouveau monde logiciel", un défi technologique, organisationnel et culturel
 
-Les tendances globales du monde contemporain sont difficiles à appréhender (concept "VUCA": Volatil, les choses changent vite / Complex en raison des crises multiple: économique, sanitaire, climatique / Uncertain car toutes les crises s’entrecroisent / Ambiguous du fait de la complexité et de l’incertitude).
+Les tendances globales du monde contemporain sont devenues extrèmement difficiles à appréhender. C'est le concept "VUCA": Volatil (les choses changent vite) Complex (en raison de la multiplicité des crises: économique, sanitaire, climatique), Uncertain (intéractions entre toutes ces crises) et Ambiguous (du fait de la complexité et de l’incertitude).
 
-Une révolution numérique est en cours: le logiciel conquiert des secteurs d'activités entiers et accélère les transformations du monde (Marc Andreessen "Why software is eating the world").
+Une révolution numérique est en cours: l'expension du logiciel a redéfini des secteurs d'activités entiers (banque, assurance, hotellerie, service de voyage, taxi, réseaux sociaux, ...) et accélère les transformations du monde (Marc Andreessen "Why software is eating the world").
 
-Un nouveau paradigme logiciel a émergé, celui des GAFA, qui permet de mettre à disposition rapidement à l'échelle, des produits de haute qualité et résilients. Ce "nouveau monde logiciel" est défini par 3 ruptures: 
-- Une rupture technologique: l'automatisation grandissante des ressources informatiques a placé le cloud est maintenant au centre, les technologies du paradigme "cloud native" (API, microservices, conteneurs, kubernetes...)
-- Une rupture organisationnelle et des modes de production: le travail de développement a évolué,de nouvelles approches de production ont émergé (DevOps, DevSecOps, mode produit...)
-- Une rupture culturelle: la culture utilisateur a évolué, les producteurs sont obsédé par le « le zéro distance » entre le besoin utilisateur et le produit (feedback régulier et la co-construction), 
+Un nouveau paradigme logiciel a émergé, celui des GAFA, qui permet de mettre à disposition rapidement, à l'échelle, des produits de haute qualité, de facon résiliente. Ce "nouveau monde logiciel" est défini par 3 ruptures: 
+- Une rupture technologique: l'automatisation grandissante de la gestion des ressources informatiques et des réseaux ont rendu incontournable la maitrise du cloud et des technologies associés  dites "cloud native" (conteneurs, API, microservices, kubernetes...)
+- Une rupture dans les modes d'organisation et les pratiques de production: le travail des développeurs (Dev) et des opérateurs (Ops) a évolué. De leur collaboration, devenue indispensable, sont nées de nouvelles approches de production (DevOps/DevSecOps)
+- Une rupture culturelle: les attentes des consommateurs ont évolué (simplicité et ergonomie maximale, pas de mode d'emploi), les producteurs sont obsédés par le « zéro distance » avec le besoin utilisateur et le produit et placé au centre ("mode produit": feedback régulier, co-construction et évolution en continu)
 
-Le service public cherche à maitriser ces rutpures pour remettre l’usager au centre en définissant une voie d'accès d'appréhension privilégiée de la complexité :  Lean - Startup - Agile  et cultiver la Tech, besoin d’un outillage adapté.
+Afin de remettre l'usager au centre, le service public cherche à maitriser ces ruptures. L'objectif poursuivi est de définir un outillage et une voie d'accès privilégiée permettant appréhender la complexité de ce "nouveau monde"(Lean - Startup - Agile  et cultiver la Tech).
 
 
 ### Fondamentaux et bonnes pratiques dans le nouveau monde logicel: parcours DevSecOps
