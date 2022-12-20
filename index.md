@@ -8,7 +8,7 @@ Les tendances globales du monde contemporain sont devenues extrèmement difficil
 
 La révolution numérique est en cours et accélère les transformations du monde (Marc Andreessen "Why software is eating the world". L'expension du logiciel a redéfini des secteurs d'activités entiers (information, banque, assurance, hotellerie, service de voyage, taxi, sociabilité, ...) .
 
-De cette expension rapide, un nouveau paradigme logiciel a émergé, né de l'Open Source et propulsé par les GAFA. Il permet de mettre à disposition rapidement, à l'échelle, des produits de haute qualité, de facon résiliente. Ce "nouveau monde logiciel" est défini par 3 ruptures: 
+De cette expension rapide, un nouveau paradigme logiciel a émergé. Né de l'Open Source et propulsé par les GAFA, il permet de mettre à disposition rapidement, à l'échelle, des produits de haute qualité, de facon résiliente. Ce "nouveau monde logiciel" est défini par 3 ruptures: 
 - Une rupture technologique: l'automatisation grandissante de la gestion des ressources informatiques et des réseaux ont rendu incontournable la maitrise du cloud et des technologies associés  dites "cloud native" (conteneurs, API, microservices, kubernetes...)
 - Une rupture dans les modes d'organisation et les pratiques de production: le travail des développeurs (Dev) et des opérateurs (Ops) a évolué. De leur collaboration, devenue indispensable, sont nées de nouvelles approches de production (DevOps/DevSecOps)
 - Une rupture culturelle: les attentes des consommateurs ont évolué (simplicité et ergonomie maximale, pas de mode d'emploi), les producteurs sont obsédés par le « zéro distance » avec le besoin utilisateur et le produit et placé au centre ("mode produit": feedback régulier, co-construction et évolution en continu)
