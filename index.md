@@ -21,7 +21,10 @@ De cette expension rapide, un nouveau paradigme logiciel a émergé. Né de l'Op
 Afin de remettre l'usager au centre, le service public cherche à maitriser ces ruptures. L'objectif poursuivi a travers la présente initiative est double 1) définir une voie d'accès privilégiée permettant d'appréhender la complexité de ce "nouveau monde" (Lean - Startup - Agile) 2) Construire et mettre à disposition le plus largement possible des "kits" permettant d'outiller une telle approche, tout en cultivant la Tech et ceux qui la font (tenir le rythme de l'évolution technologique).
 
 
-### Fondamentaux et bonnes pratiques dans le nouveau monde logicel: parcours DevSecOps
+### Fondamentaux et bonnes pratiques dans le nouveau monde logicel: l'approche DevSecOps
+Le DevSecOps est une approche recouvrant des dimensions techniques (outils d'automatisation, infrastructures, plateformes,...) et organisationelles (roles, compétences, pratiques, ...) pour développer une culture de responsabilité partagé entre le développement, la sécurité et l'exploitation. https://www.youtube.com/watch?v=nrhxNNH5lt0
+
+Le DevSecOps est un cycle dont les étapes peuvent être décomposées selon: 
 - Définir et planifier: Le projet suit une méthodologie de développement agile, implémentée en Scrum, dans laquelle on débute avec la
 définition des besoins et la planification des activités
 - Développer: Le processus se poursuit avec une phase de développement dans laquelle le code est construit par des développeurs internes à l’administration,
@@ -32,6 +35,10 @@ développements et modifications effectuées peuvent indure des vulnérabilités
 possibilité de tester sa solution dans un environnement de test et l’automatisation de tests lors du déploiement
 - Mise en production: Suite à la mise en production du code, il est essentiel de surveiller l’état de sécurité incluant la configuration, l’infrastructure, et les tests de pénétrations
 - Exploitation et optimisation: Cette étape consiste à surveiller en continue l’évolution du code, prévoir les menaces, optimiser la qualité et la performance
+
+Historiquement, il s'agissait d'intégrer le développement et l'exploitation mais toute responsabilité partagée (au premier chef la sécurité) a vocation à être intégrée. L'origine et la signification de l'approcheDevOps est à ce titre instructive.
+https://publication.octo.com/fr/telechargement-livre-blanc-decouverte-devops
+
 
 ### Les origines de l'offre Cloud Pi Native
 - le numérique au coeur des politiques publique ( LOPMI )
