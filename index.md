@@ -14,8 +14,7 @@ De cette expension rapide, un nouveau paradigme logiciel a émergé. Né de l'Op
 - Une rupture culturelle: les attentes des consommateurs ont évolué (simplicité et ergonomie maximale, pas de mode d'emploi), les producteurs sont obsédés par le « zéro distance » avec le besoin utilisateur et le produit et placé au centre ("mode produit": feedback régulier, co-construction et évolution en continu)
 
 Afin de remettre l'usager au centre, le service public cherche à maitriser ces ruptures. L'objectif poursuivi a travers la présente initiative est double:
-- Définir une voie d'accès privilégiée permettant appréhender la complexité de ce "nouveau monde" (Lean - Startup - Agile)
-- Cultiver la Tech pour construire et mettre à disposition le plus largement possible l'outillage d'une telle approche.
+1) Définir une voie d'accès privilégiée permettant d'appréhender la complexité de ce "nouveau monde" (Lean - Startup - Agile) 2) Construire et mettre à disposition le plus largement possible le "kit" permettant d'outiller une telle approche et cultiver la Tech.
 
 
 ### Fondamentaux et bonnes pratiques dans le nouveau monde logicel: parcours DevSecOps
