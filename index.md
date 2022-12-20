@@ -6,14 +6,16 @@
 
 Les tendances globales du monde contemporain sont devenues extrèmement difficiles à appréhender. C'est le concept "VUCA": Volatil (les choses changent vite) Complex (en raison de la multiplicité des crises: économique, sanitaire, climatique), Uncertain (intéractions entre toutes ces crises) et Ambiguous (du fait de la complexité et de l’incertitude).
 
-Une révolution numérique est en cours: l'expension du logiciel a redéfini des secteurs d'activités entiers (banque, assurance, hotellerie, service de voyage, taxi, réseaux sociaux, ...) et accélère les transformations du monde (Marc Andreessen "Why software is eating the world").
+La révolution numérique est en cours et accélère les transformations du monde (Marc Andreessen "Why software is eating the world". L'expension du logiciel a redéfini des secteurs d'activités entiers (information, banque, assurance, hotellerie, service de voyage, taxi, sociabilité, ...) .
 
-Un nouveau paradigme logiciel a émergé, celui des GAFA, qui permet de mettre à disposition rapidement, à l'échelle, des produits de haute qualité, de facon résiliente. Ce "nouveau monde logiciel" est défini par 3 ruptures: 
+De cette expension rapide, un nouveau paradigme logiciel a émergé, né de l'Open Source et propulsé par les GAFA. Il permet de mettre à disposition rapidement, à l'échelle, des produits de haute qualité, de facon résiliente. Ce "nouveau monde logiciel" est défini par 3 ruptures: 
 - Une rupture technologique: l'automatisation grandissante de la gestion des ressources informatiques et des réseaux ont rendu incontournable la maitrise du cloud et des technologies associés  dites "cloud native" (conteneurs, API, microservices, kubernetes...)
 - Une rupture dans les modes d'organisation et les pratiques de production: le travail des développeurs (Dev) et des opérateurs (Ops) a évolué. De leur collaboration, devenue indispensable, sont nées de nouvelles approches de production (DevOps/DevSecOps)
 - Une rupture culturelle: les attentes des consommateurs ont évolué (simplicité et ergonomie maximale, pas de mode d'emploi), les producteurs sont obsédés par le « zéro distance » avec le besoin utilisateur et le produit et placé au centre ("mode produit": feedback régulier, co-construction et évolution en continu)
 
-Afin de remettre l'usager au centre, le service public cherche à maitriser ces ruptures. L'objectif poursuivi est de définir un outillage et une voie d'accès privilégiée permettant appréhender la complexité de ce "nouveau monde"(Lean - Startup - Agile  et cultiver la Tech).
+Afin de remettre l'usager au centre, le service public cherche à maitriser ces ruptures. L'objectif poursuivi a travers la présente initiative est double:
+- Définir une voie d'accès privilégiée permettant appréhender la complexité de ce "nouveau monde" (Lean - Startup - Agile)
+- Cultiver la Tech pour construire et mettre à disposition le plus largement possible l'outillage d'une telle approche.
 
 
 ### Fondamentaux et bonnes pratiques dans le nouveau monde logicel: parcours DevSecOps
