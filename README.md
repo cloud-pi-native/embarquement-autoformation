@@ -10,7 +10,7 @@ Ce dépot contient les souche des composant de l’offre Cloud Pi Native. Celle 
 Vous trouverez ici des ressources de sensibilisation et des parcours de formation pour permettre à tout contributeur au numérique public (citoyen, agent, industriel du numérique,... ) de comprendre les enjeux d’une telle transformation, pourquoi et comment son organisation peut utiliser l'offre, quels que soit son niveau de technicité et sa fonction actuelle.
 
 
-## A qui s’adresse s'adresse t'elle? 
+## A qui s'adresse t'elle? 
 Les ressources proposées s’adressent à  4 types de profils qui différent par leur périmètre de responsabilité :
 - « Ingénierie des produits numériques » : personnes qui élaborent de nouveaux produits numériques et assurent la gestion de leur cycle de vie. Ils sont responsables de leur développement, mise en production, MCO/évolution, migration, etc. Ce sont les développeurs, les opérateurs, les architectes, … 
 - « Ingénierie système/fiabilité des sites » : personnes qui assurent l’intégrité des systèmes et services nécessaires pour opérer les produits numériques tout au long de leur cycle de vie: pipelines de livraison DevSecOps, services d’hébergement, génération d’environnements, etc. Ce sont les équipes d’ingénierie de la fiabilité des sites (SRE, Site Reliability Engineering), les forges, les opérateurs de plateformes.
