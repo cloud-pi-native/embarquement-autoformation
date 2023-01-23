@@ -17,15 +17,22 @@ Les ressources s’adressent à  4 grands type de profils distingués par leur p
  
 
 # Les ressources disponibles
-Introduction : pourquoi cette offre ? 
-Une révolution numérique est en cours et « un nouveau monde numérique » a émergé dans lequel les choix concernant une application peuvent potentiellement affecter des milliards d’individus. Dans cette section nous expliquons comment les approches DevSecOps et les technologies cloud native constituent un levier pour remettre les usagers au centre (y compris les développeurs, étant des usagers souvent oubliés !).
+
+## Introduction : pourquoi cette offre ? 
+Cette section présente les caractéristiques de la révolution numérique est en cours et du « un nouveau monde numérique » qui en a émergé. Dans cette section nous expliquons comment les approches DevSecOps et les technologies cloud native constituent des leviers privilégiés pour remettre les usagers au centre (y compris les développeurs, étant des usagers souvent oubliés !).
+
+ans lequel les choix concernant une application peuvent potentiellement affecter des milliards d’individus
  
 ## Parcours spécialisés pour les différentes populations de « clients »
 Adresser les transformations du « monde logiciel » implique la participation de chacun dans la conception et la gestion des produits numériques, quel que soit son degré de spécialisation technique (ou son absence de spécialisation technique). Dans cette section nous proposons des ressources d’autoformation permettant à chacun d’appréhender son périmètre de responsabilités pour prendre toute sa part des enjeux de transformation numérique.
  
 ## De guides de présentation: comment mettre en place cette offre et l’utiliser au sein de mon organisation ? 
 Afin d’utiliser tout ou partie de la plateforme de service proposée ici nous proposons un ensemble de guides et de ressources. Dans les section ci-dessous vous retrouverez : 
-- « Guide technique » : pour la prise en main des composantes techniques (le socle, https://github.com/dnum-mi/dso-socle) et de la partie fonctionnelle (la console, https://github.com/dnum-mi/dso-console) ;
+- [Guide technique » : pour la prise en main du socle technique] (https://github.com/dnum-mi/dso-socle) 
+- [Guide technique » : pour la prise en main de la console] (https://github.com/dnum-mi/dso-console)  
+- [Cadre de cohérence technique (CCT) ]([https://github.com/dnum-mi/CCT-Cloud-Native/blob/main/cct-cloud-native.md](https://github.com/dnum-mi/CCT-Cloud-Native)
+
+
 - « Modèle organisationnel » : le modèle de responsabilité, la distribution des rôles et les processus à mettre en place pour livrer et gérer des produits numériques tout au long de leur cycle de vie. Nous distinguons le contexte MIOM (liens le Gitlab et le catalogue https://pi.minint.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/) et autre contexte (https://github.com/dnum-mi/dso-doc).
 -	« Contribuer » : les composants de l’offre sont disponibles en open source pour favoriser l'appropriation des technologies « Cloud Native » et l’émergence de standards de compatibilité avec le numérique public. Cette section détaille comment contribuer à l'innovation et la transformation du service public à travers les communautés open source de l’offre.
 
