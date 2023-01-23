@@ -29,14 +29,13 @@ Adresser les transformations du « monde logiciel » implique la participation
 - Ingénierie des systèmes/fiabilité des sites;
 - Pilotage de projets numériques;
 - Stratégie numérique ;
+Ces différents roles s'articulent dans un « modèle organisationnel » que nous présenterons : responsabilité, distribution des rôles, processus à mettre en place pour livrer et gérer les produits numériques tout au long de leur cycle de vie. 
  
 ## De guides de présentation: comment mettre en place cette offre et l’utiliser au sein de mon organisation ? 
 Afin d’utiliser tout ou partie de la plateforme de service proposée ici nous proposons un ensemble de guides et de ressources. Dans les section ci-dessous vous retrouverez : 
 - [Guide technique » : pour la prise en main du socle technique](https://github.com/dnum-mi/dso-socle) 
 - [Guide technique » : pour la prise en main de la console](https://github.com/dnum-mi/dso-console)  
-- [Cadre de cohérence technique (CCT) ]([https://github.com/dnum-mi/CCT-Cloud-Native/blob/main/cct-cloud-native.md](https://github.com/dnum-mi/CCT-Cloud-Native)
-
-
-- « Modèle organisationnel » : le modèle de responsabilité, la distribution des rôles et les processus à mettre en place pour livrer et gérer des produits numériques tout au long de leur cycle de vie. Nous distinguons le contexte MIOM (liens le Gitlab et le catalogue https://pi.minint.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/) et autre contexte (https://github.com/dnum-mi/dso-doc).
+- [Cadre de cohérence technique (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native)
+- Contexte MIOM (liens le Gitlab et le catalogue https://pi.minint.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/) et autre contexte (https://github.com/dnum-mi/dso-doc).
 -	« Contribuer » : les composants de l’offre sont disponibles en open source pour favoriser l'appropriation des technologies « Cloud Native » et l’émergence de standards de compatibilité avec le numérique public. Cette section détaille comment contribuer à l'innovation et la transformation du service public à travers les communautés open source de l’offre.
 
