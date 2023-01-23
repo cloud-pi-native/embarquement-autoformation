@@ -5,16 +5,17 @@ Les ressources proposées ici constituent une introduction à la prise en main d
 # Parcours de formation à la prise en main de l’offre Cloud Pi Native
 
 ## Qu’est ce que propose cette offre ? 
-L’offre [Cloud Pi Native] https://github.com/dnum-mi/dso-doc vise à faciliter la transformation du numérique public, dans le contexte d’un changement de paradigme désigné ici sous le terme « nouveau monde logiciel ».
+Ce dépot contient les souche des composant de l’offre Cloud Pi Native. Celle vise à faciliter la transformation du numérique public, dans le contexte d’un changement de paradigme désigné ici sous le terme « nouveau monde logiciel ».
 
-Ce répertoire présente les ressources de sensibilisation et des parcours d'auto-formation destinés à permettre aux contributeurs du numérique public de comprendre les enjeux d’une telle transformation, pourquoi et comment leurs organisations peuvent s’en saisir, quels que soit leur niveau de technicité et  fonction.
+Vous trouverez ici des ressources de sensibilisation et des parcours de formation pour permettre à tout contributeur au numérique public (citoyen, agent, industriel du numérique,... ) de comprendre les enjeux d’une telle transformation, pourquoi et comment son organisation peut utiliser l'offre, quels que soit son niveau de technicité et sa fonction actuelle.
+
 
 ## A qui s’adresse s'adresse t'elle? 
-Les ressources proposées s’adressent à  4 grands type de profils distingués par leur périmètre de responsabilité :
-- « Ingénierie des produits numériques » : agents qui élaborent DE nouveaux produits numériqueS et/ou assurent la gestion de leur cycle de vie. Ils sont responsables de leur développement, mise en production, évolutions, migrations, MCO, etc. Ce sont les développeurs, les opérateurs, les architectes, … 
-- « Ingénierie système/fiabilité des sites » : agents qui assurent l’intégrité des systèmes et services nécessaires pour réaliser les opérations de gestion du cycle de vie des produits numériques. Ils sont responsables des pipelines de livraison DevSecOps, services d’hébergement, génération d’environnements, etc. Ce sont les équipes d’ingénierie de la fiabilité des sites (SRE, Site Reliability Engineering), les opérateurs de plateformes/forges, etc.
-- « Pilotage des projets numériques » : agents qui organisent les équipes responsables du développement ou de la gestion de produits numériques. Ils sont responsable de la meilleure utilisation des ressources engagées. Ce sont des pilotes de projets, directions de projets/programmes, maîtrises d’œuvre (MOE), Product Owners & scrum masters, etc.
-- « Stratégie numérique » : agents qui se portent garants de l’engagement des organisations pour répondre à un besoin initial lorsque la réponse revêt une dimension numérique. Ces personnes sont responsables de donner des recommandations, mandats ou arbitrages concernant les finalités, moyens alloués et modes d’organisation. Il s’agit de responsables politiques, du pilotage/gouvernance des organisations, de directions générales ou métiers, MOA, etc.
+Les ressources proposées s’adressent à  4 types de profils qui différent par leur périmètre de responsabilité :
+- « Ingénierie des produits numériques » : personnes qui élaborent de nouveaux produits numériques et assurent la gestion de leur cycle de vie. Ils sont responsables de leur développement, mise en production, MCO/évolution, migration, etc. Ce sont les développeurs, les opérateurs, les architectes, … 
+- « Ingénierie système/fiabilité des sites » : personnes qui assurent l’intégrité des systèmes et services nécessaires pour opérer les produits numériques tout au long de leur cycle de vie: pipelines de livraison DevSecOps, services d’hébergement, génération d’environnements, etc. Ce sont les équipes d’ingénierie de la fiabilité des sites (SRE, Site Reliability Engineering), les forges, les opérateurs de plateformes.
+- « Pilotage des projets numériques » : personnes qui organisent les équipes de développement ou de gestion des opérations sur les produits numériques. Ils sont responsable de la meilleure utilisation des ressources par rapport au besoin. Ce sont des pilotes de projets, des directions de projets/programmes, maîtrises d’œuvre (MOE), Product Owners & scrum masters, etc.
+- « Stratégie numérique » : agents qui se portent garants de l’engagement des organisations sur des thématiques et sujets touchant au numérique. Ces personnes sont responsables de donner des recommandations, délivrer des mandats ou réaliser des arbitrages concernant les finalités, moyens alloués et modes d’organisation. Il s’agit de décideurs, du pilotage/gouvernance des organisations, de directions générales ou métiers, MOA, etc.
  
 
 # Les ressources disponibles
