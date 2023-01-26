@@ -2,7 +2,7 @@ Les ressources proposées ici constituent une introduction à la prise en main d
 - Faisante des Pulls request sur le repository;
 - Faisante des issues.
 
-# Parcours de formation à la prise en main de l’offre Cloud Pi Native
+# Parcours de formation à Cloud Pi Native
 
 ## Qu’est ce que propose cette offre ? 
 Ce dépot contient les souche des composant de l’offre Cloud Pi Native. Celle vise à faciliter la transformation du numérique public, dans le contexte d’un changement de paradigme désigné ici sous le terme « nouveau monde logiciel ».
