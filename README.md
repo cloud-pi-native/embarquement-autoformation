@@ -1,5 +1,5 @@
 Les ressources proposées ici constituent une introduction à la prise en main de l’offre Cloud Pi Native. Dans une logique d’amélioration continue vous pouvez proposer vos commentaires en:
-- Faisante des Pulls request sur le repository;
+- Faisante des pulls request sur le repository;
 - Faisante des issues.
 
 # Parcours de formation à Cloud Pi Native
