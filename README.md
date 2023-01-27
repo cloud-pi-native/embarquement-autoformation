@@ -3,7 +3,7 @@ Les ressources proposées ici constituent une introduction à l’offre Cloud Pi
 - Faisant des issues.
 
 ## Qu’est ce que propose Cloud Pi Native ? 
-Cloud Pi Native vise à faciliter la transformation du numérique public, dans le contexte d’un changement de paradigme que nous développons dans les parcours de formation et désignons sous le terme « nouveau monde logiciel ». Cette transformation n'est pas seulement technologique: elle modifie également les organisations et les périmètres de responsabilités des acteurs impliqués.
+Cloud Pi Native vise à faciliter la transformation du numérique public, dans le contexte d’un changement de paradigme que désignons sous le terme « nouveau monde logiciel ». Ce changement que nous décrypton plus loin n'est pas seulement technologique: il modifie également les organisations et les périmètres de responsabilités des acteurs impliqués.
 
 Vous trouverez ici des ressources de sensibilisation, des composants logiciels, des parcours de formation pour permettre à toute personne désireuse de contribuer à la transformation numérique du service public (agent, citoyen, industriel du numérique,... ) de comprendre les enjeux qu'elle recouvre et les moyens dont son organisation peut se doter pour la mener à bien.
 
