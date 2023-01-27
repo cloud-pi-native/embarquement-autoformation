@@ -2,17 +2,17 @@ Les ressources proposées ici constituent une introduction à l’offre Cloud Pi
 - Faisant des pulls request sur le repository;
 - Faisant des issues.
 
-## Qu’est ce que propose Cloud Pi Native ? 
+# Qu’est ce que propose Cloud Pi Native ? 
 Cloud Pi Native vise à faciliter la transformation du numérique public, dans le contexte d’un changement de paradigme que désignons sous le terme « nouveau monde logiciel ». Ce changement que nous décrypton plus loin n'est pas seulement technologique: il modifie également les organisations et les périmètres de responsabilités des acteurs impliqués.
 
 Vous trouverez ici des ressources de sensibilisation, des composants logiciels, des parcours de formation pour permettre à toute personne désireuse de contribuer à la transformation numérique du service public (agent, citoyen, industriel du numérique,... ) de comprendre les enjeux qu'elle recouvre et les moyens dont son organisation peut se doter pour la mener à bien.
 
 
 ## A qui s'adresse t'elle? 
-Les ressources proposées s’adressent à  4 types de profils qui différent par leur périmètre de responsabilité :
-- « Ingénierie des produits numériques » : personnes qui élaborent de nouveaux produits numériques et assurent la gestion de leur cycle de vie. Ils sont responsables de leur développement, mise en production, MCO/évolution, migration, etc. Ce sont les développeurs, les opérateurs, les architectes, … 
-- « Ingénierie système/fiabilité des sites » : personnes qui assurent l’intégrité des systèmes et services nécessaires pour opérer les produits numériques tout au long de leur cycle de vie: pipelines de livraison DevSecOps, services d’hébergement, génération d’environnements, etc. Ce sont les équipes d’ingénierie de la fiabilité des sites (SRE, Site Reliability Engineering), les forges, les opérateurs de plateformes.
-- « Pilotage des projets numériques » : personnes qui organisent les équipes de développement ou de gestion des opérations sur les produits numériques. Ils sont responsable de la meilleure utilisation des ressources par rapport au besoin. Ce sont des pilotes de projets, des directions de projets/programmes, maîtrises d’œuvre (MOE), Product Owners & scrum masters, etc.
+Nous distinguons 4 grands types de responsabilité portés par les acteurs à qui cette offre s'adresse  :
+- « Responsabilité du produit numérique » : personnes qui élaborent de nouveaux produits numériques et/ou assurent la gestion de leur cycle de vie. Ils sont responsables de leur développement, mise en production, MCO/évolution, migration, etc. Ce sont les développeurs, les opérateurs, les architectes, … 
+- « Responsabilités des services numériques » : personnes qui assurent l’intégrité des services et systèmes nécessaires au développement et à l'opération des produits numériques, tout au long de leur cycle de vie: pipelines de livraison DevSecOps, services d’hébergement, génération d’environnements, etc. Ce sont les équipes d’ingénierie de la fiabilité des sites (SRE, Site Reliability Engineering), les forges, les opérateurs de plateformes (IaaS, PaaS, XaaS, ...).
+- « Responsabilité du pilotage et des ressources » : personnes qui organisent les équipes de développement ou de gestion des opérations. Ils sont responsable de la meilleure utilisation des ressources humaines et techniques pour la réalisation d'un projet ou un produit numérique. Ce sont des pilotes de projets, des directions de projets/programmes, maîtrises d’œuvre (MOE), Product Owners & scrum masters, etc.
 - « Stratégie numérique » : agents qui se portent garants de l’engagement des organisations sur des thématiques et sujets touchant au numérique. Ces personnes sont responsables de donner des recommandations, délivrer des mandats ou réaliser des arbitrages concernant les finalités, moyens alloués et modes d’organisation. Il s’agit de décideurs, du pilotage/gouvernance des organisations, de directions générales ou métiers, MOA, etc.
  
 
