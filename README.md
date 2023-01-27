@@ -1,13 +1,11 @@
-Les ressources proposées ici constituent une introduction à la prise en main de l’offre Cloud Pi Native. Dans une logique d’amélioration continue vous pouvez proposer vos commentaires en:
-- Faisante des pulls request sur le repository;
+Les ressources proposées ici constituent une introduction à l’offre Cloud Pi Native. Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
+- Faisant des pulls request sur le repository;
 - Faisant des issues.
 
-# Parcours de formation à Cloud Pi Native
+## Qu’est ce que propose Cloud Pi Native ? 
+Cloud Pi Native vise à faciliter la transformation du numérique public, dans le contexte d’un changement de paradigme que nous développons dans les parcours de formation et désignons sous le terme « nouveau monde logiciel ». Cette transformation n'est pas seulement technologique: elle modifie également les organisations et les périmètres de responsabilités des acteurs impliqués.
 
-## Qu’est ce que propose cette offre ? 
-Cloud Pi Native vise à faciliter la transformation du numérique public, dans le contexte d’un changement de paradigme que nous développons plus loins et désigné sous le terme « nouveau monde logiciel ».
-
-Vous trouverez ici des ressources de sensibilisation, des parcours de formation, des souches de composants logiciel pour permettre à toute personne désireuse de contribuer au numérique public (citoyen, agent, industriel du numérique,... ) de comprendre les enjeux d’une telle transformation, pourquoi et comment son organisation pzut se doter des moyens de la mener.
+Vous trouverez ici des ressources de sensibilisation, des composants logiciels, des parcours de formation pour permettre à toute personne désireuse de contribuer à la transformation numérique du service public (agent, citoyen, industriel du numérique,... ) de comprendre les enjeux qu'elle recouvre et les moyens dont son organisation peut se doter pour la mener à bien.
 
 
 ## A qui s'adresse t'elle? 
