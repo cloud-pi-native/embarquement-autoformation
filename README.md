@@ -11,7 +11,7 @@ L'offre Cloud Pi Native fournie ici des ressources de sensibilisation, des compo
 
 
 # A qui s'adresse t'elle? 
-Nous distinguons 4 grands types de responsabilités portés par les acteurs à qui cette offre s'adresse  :
+Cette offre s'adresse à un ensemble d'acteurs exerçant 4 types de responsabilités:
 - « Responsabilité du produit numérique » : personnes qui élaborent de nouveaux produits numériques et/ou assurent la gestion de leur cycle de vie. Ils sont responsables de leur développement, mise en production, MCO/évolution, migration, etc. Ce sont les développeurs, les opérateurs, les architectes, … 
 - « Responsabilités des services numériques » : personnes qui assurent l’intégrité des services et systèmes nécessaires au développement et à l'opération des produits numériques, tout au long de leur cycle de vie: pipelines de livraison DevSecOps, services d’hébergement, génération d’environnements, etc. Ce sont les system teams, les équipes d’ingénierie de fiabilité des sites (SRE, Site Reliability Engineering), les forges, les opérateurs de plateformes (IaaS, PaaS, XaaS, ...).
 - « Responsabilité du pilotage et des ressources » : personnes qui organisent les équipes de développement ou de gestion des opérations. Ils sont responsable de la meilleure utilisation des ressources humaines et techniques pour la réalisation d'un projet ou un produit numérique. Ce sont des pilotes de projets, des directions de projets/programmes, maîtrises d’œuvre (MOE), Product Owners & scrum masters, etc.
