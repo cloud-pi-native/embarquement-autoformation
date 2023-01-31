@@ -5,7 +5,8 @@ Les ressources proposées ici constituent une introduction à l’offre Cloud Pi
 # Pourquoi cette offre ? 
 Ces 10 dernières années, le numérique a capté par sa capacité d'intermédiation une part croissante des activités humaines: transports, banque et finance, sociabilité, hotellerie, etc. Certaines solutions s'érigent aujourd'hui en « normes de fait » et les décisions les concernant impactent parfois plusieurs millions d'utilisateurs: c'est un changement de paradigme que désignons sous le terme « nouveau monde logiciel ».
 
-Ce changement de paradigme, que nous décryptons plus loin n'est pas seulement technologique: il redéfini également les organisations et les périmètres de responsabilités. Pour continuer à assurer ses missions, le service public doit etre en mesure de réussir sa transformation du numérique au service de ses usagers et agents. 
+Ce changement de paradigme, que nous décryptons plus loin n'est pas seulement technologique: il redéfini également les organisations et les périmètres de responsabilités. Pour continuer à assurer ses missions, le service public doit etre en mesure de réussir sa transformation du numérique au service de ses usagers et agents.
+
 L'offre Cloud Pi Native fournie ici des ressources de sensibilisation, des composants logiciels, des parcours de formation pour permettre à toute personne désireuse de contribuer à la transformation numérique du service public (agent, citoyen, industriel du numérique,... ) de comprendre les enjeux qu'elle recouvre et les moyens dont son organisation peut se doter pour la mener à bien.
 
 
