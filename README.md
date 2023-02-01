@@ -26,7 +26,7 @@ Nous mettons à disposition ici des ressources de sensibilisation, des souches l
 - [Cadre de cohérence technique (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native)
 
 Nous distinguons deux types d'utilisation particuliers pour lesquels nous renvoyons à des ressources spécifiques:
-- [Utilisation en contexte ministériel](https://pi.minint.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/) pour lequel nous renvoyons au catalogue de service.
-- [Contribuer](https://github.com/Yoarmi/dso-formation/blob/patch-1/4-contribuer) les composants de l’offre sont disponibles en open source pour favoriser l'appropriation des technologies « Cloud Native » et l’émergence de standards de compatibilité avec le numérique public. Cette section détaille comment contribuer à l'innovation et la transformation du service public à travers les communautés open source de l’offre.
+- [Utilisation en contexte ministériel](https://pi.minint.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/) pour lequel nous renvoyons au catalogue de service
+- [Contribuer](https://github.com/Yoarmi/dso-formation/blob/patch-1/4-contribuer) les composants de l’offre sont disponibles en open source pour favoriser l'appropriation des technologies « Cloud Native » et l’émergence de standards de compatibilité avec le numérique public. Cette section détaille comment contribuer à l'innovation et la transformation du service public à travers les communautés open source de l’offre.
 
  
