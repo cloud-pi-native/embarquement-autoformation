@@ -3,13 +3,11 @@ Les ressources rassemblées ici constituent une introduction à l’offre que no
 - Faisant des issues.
 
 # Pourquoi cette offre ? transformation numérique du service public et ressources pour la sensibilisation
-Ces 10 dernières années la puissance d'intermédiation du numérique, a permis de capter une part croissante des activités humaines. Transports, banques, finance, sociabilité, hotellerie, sécurité, rencontres, culture, divertissement... deviennent numériques. Certains produits/services deviennent des « normes de fait »: les décisions concernant leurs caractéristiques impactent des millions d'utilisateurs.
+Ces 10 dernières années la puissance d'intermédiation du numérique, a permis de capter une part croissante des activités humaines. Transports, banques, finance, sociabilité, hotellerie, sécurité, rencontres, culture, divertissement... deviennent numériques. Certains produits/services deviennent des « normes de fait »: les décisions les concernant, leurs caractéristiques, impactent des millions d'utilisateurs.
 
-Les origines,comme les conséquences de ce changement ne sont pas uniquement technologiques : il redéfini les organisations, les périmètres de responsabilités, les normes sous-jacentes. Y compris culturelles. C'est un changement de paradigme que désignons sous le terme « nouveau monde logiciel ». 
+Les origines, comme les conséquences de ce changement ne sont pas uniquement technologiques : il redéfini les organisations, les périmètres de responsabilités, les normes sous-jacentes. Y compris culturelles. C'est un changement de paradigme que désignons sous le terme « nouveau monde logiciel » dans la section [enjeux du "nouveau monde logiciel"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1-enjeux_nouveau_monde). 
 
-Dans ce nouveau cadre, le secteur public doit etre en mesure de réussir sa transformation numérique au service de ses usagers et agents: c'est à dire en considérant l'utilisateur comme une priorité. Nous considérons que, pour etre rendu possible, ce projet de remise de "l'usager au centre" doit également inclure les développeurs, usagers trop souvent oubliés.
-
-[Enjeux du "nouveau monde logiciel"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1-enjeux_nouveau_monde): cette section présente quelques caractéristiques de la révolution numérique en cours et du « nouveau monde » numérique qui en a émergé. Nous expliquons comment l'approche DevSecOps et les technologies cloud native (conteneurisation, API, microservices, DevOps) constituent des leviers que nous promouvons pour remettre les usagers au centre;
+Dans ce nouveau cadre, le secteur public doit etre en mesure de réussir sa transformation numérique au service de ses usagers et agents: c'est à dire en considérant l'utilisateur comme une priorité. Nous considérons que, pour etre rendu possible, ce projet de remise de "l'usager au centre" doit également inclure les développeurs, usagers trop souvent oubliés. Nous expliquons comment l'approche DevSecOps et les technologies cloud native (conteneurisation, API, microservices, DevOps) constituent les leviers que nous privilégions pour remettre les usagers au centre.
 
 
 # A qui s'adresse t'elle? périmètres de responsabilités et parcours de formation
