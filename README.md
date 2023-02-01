@@ -1,4 +1,4 @@
-Les ressources proposées ici constituent une introduction à l’offre Cloud Pi Native. Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
+Les ressources rassemblées ici constituent une introduction à l’offre que nous proposons 1) quels enjeux elle adresse 2) qui est concerné et comment se former 3) comment la prendre en main. Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
 - Faisant des pulls request sur le repository;
 - Faisant des issues.
 
