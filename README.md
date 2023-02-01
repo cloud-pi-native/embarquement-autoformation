@@ -2,7 +2,7 @@ Les ressources proposées ici constituent une introduction à l’offre Cloud Pi
 - Faisant des pulls request sur le repository;
 - Faisant des issues.
 
-# Pourquoi cette offre ? Service public et transformation numérique
+# Pourquoi cette offre ? transformation numérique du service public et sensibilisation
 Depuis ces 10 dernières années le numérique, par sa puissance d'intermédiation, capte une part croissante des activités humaines: transports, banques, finance, sociabilité, hotellerie, sécurité, rencontres, culture, divertissement... deviennent numériques. Les les décisions concernant les caractéristiques de certains produits/services impactent des millions d'utilisateurs et deviennent donc des « normes de fait ».
 
 Les origines,comme les conséquences de ce changement ne sont pas uniquement technologiques : il redéfini les organisations, les périmètres de responsabilités, les normes sous-jacentes. Y compris culturelles. C'est un changement de paradigme que désignons sous le terme « nouveau monde logiciel ». 
@@ -21,7 +21,7 @@ Nous les distinguons selon 4 grands types de responsabilités pour lesquelles no
 - « Responsabilité du pilotage et des ressources » : personnes qui organisent les équipes de développement ou de gestion des opérations. Ils sont responsable de la meilleure utilisation des ressources humaines et techniques pour la réalisation d'un projet ou un produit numérique. Ce sont des pilotes de projets, des directions de projets/programmes, maîtrises d’œuvre (MOE), Product Owners & scrum masters, etc.
 - « Responsables de la décision stratégique » : agents qui se portent garants de l’engagement des organisations sur des thématiques et sujets touchant au numérique. Ces personnes sont responsables de donner des recommandations, délivrer des mandats ou réaliser des arbitrages concernant les finalités, moyens alloués et modes d’organisation. Il s’agit de décideurs, du pilotage/gouvernance des organisations, de directions générales ou métiers, MOA, de direction des achats, des RH, etc.
  
-# Que proposons nous? ressources pour la prise en main
+# Que proposons nous? acculturation et prise en main
 Nous mettons à disposition ici des ressources de sensibilisation, des souches logicielles et de la documentation, des parcours de formation pour permettre à toute personne désireuse de contribuer à la transformation numérique du service public (agent, citoyen, industriel du numérique, représentant d'institutions publiques... ) de comprendre les enjeux qu'elle recouvre et les moyens dont son organisation peut se doter pour la mener à bien. Pour tirer le plein parti des guides proposés ci dessous, vous conseillons d'être familier avec les concepts décryptés dans les ressources de sensibilisation, formation, acculturation. Ceci, afin de permettre la prise en main des composantes de l'offre avec un maximum d'autonomie: 
 - [Guide technique » : pour la prise en main du socle technique](https://github.com/dnum-mi/dso-socle) 
 - [Guide technique » : pour la prise en main de la console](https://github.com/dnum-mi/dso-console)  
