@@ -3,9 +3,12 @@ Les ressources proposées ici constituent une introduction à l’offre Cloud Pi
 - Faisant des issues.
 
 # Pourquoi cette offre ? Service public et transformation numérique
-Ces 10 dernières années le numérique s'est imposé comme une puissance d'intermédiation, captant une part croissante des activités humaines: transports, banque, finance, sociabilité, hotellerie, sécurité, rencontres, culture, etc. Par leurs caractéristiques certaines solutions s'érigent aujourd'hui en « normes de fait » et les décisions les concernant impactent parfois plusieurs millions d'utilisateurs.
+Depuis ces 10 dernières années le numérique, par sa puissance d'intermédiation, capte une part croissante des activités humaines: transports, banques, finance, sociabilité, hotellerie, sécurité, rencontres, culture, divertissement... deviennent numériques. Les les décisions concernant les caractéristiques de certains produits/services impactent des millions d'utilisateurs et deviennent donc des « normes de fait ».
 
-Ce changement n'est pas seulement technologique : il redéfini les organisations, les périmètres de responsabilités et les normes sous-jacentes. C'est un changement de paradigme que désignons sous le terme « nouveau monde logiciel ». Dans ce nouveau cadre, le service public doit etre en mesure de réussir sa transformation numérique au service de ses usagers et agents: c'est à dire en replacant l'utilisateur comme priorité (ce qui inclue les développeurs, usagers trop souvent oubliés!).
+Les origines,comme les conséquences de ce changement ne sont pas uniquement technologiques : il redéfini les organisations, les périmètres de responsabilités, les normes sous-jacentes. Y compris culturelles. C'est un changement de paradigme que désignons sous le terme « nouveau monde logiciel ». 
+
+Dans ce nouveau cadre, le secteur public doit etre en mesure de réussir sa transformation numérique au service de ses usagers et agents: c'est à dire en considérant l'utilisateur comme une priorité. Nous considérons que, pour etre rendu possible, ce projet de remise de "l'usager au centre" doit également inclure les développeurs, usagers trop souvent oubliés.
+
 
 # A qui s'adresse t'elle? Périmètres de responsabilités
 Notre offre vise à faciliter l'action de l'ensemble des acteurs désireux de contribuer à la transformation numérique du service public. Nous les distinguons selon 4 grands types de responsabilités:
