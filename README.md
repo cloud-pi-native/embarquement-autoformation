@@ -11,7 +11,7 @@ Ces 10 dernières années la puissance d'intermédiation du numérique, a permis
 ### Un "nouveau monde" logiciel a émergé
 Les origines, comme les conséquences, d'un tel changement ne sont pas seulement technologiques : il redéfini les organisations, les périmètres de responsabilités et les normes sous-jacentes (y compris culturelles). C'est un changement de paradigme que nous désignerons ici sous le terme « nouveau monde logiciel » et décryptons dans la section [enjeux du "nouveau monde logiciel"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1-enjeux_nouveau_monde). 
 
-### Transformation du numérique public: remettre "les usagers au centre"
+### Transformer le numérique public et "remettre les usagers au centre"
 Dans ce nouveau cadre, le secteur public doit réaliser une transformation numérique au service de ses usagers et agents: c'est à dire en considérant les besoins de l'utilisateur comme prioritaires. Nous considérons que, pour etre rendu possible, ce projet consistant à remttre "l'usager au centre" doit également inclure les développeurs, usagers trop souvent oubliés. La voie privilégiée que nous proposons pour cela repose sur [les approches DevSecOps](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops) et les [technologies cloud native](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.2-technologies-cloud-native) (conteneurisation, API, microservices, DevOps). L'offre proposée ici matérialise ces deux leviers.
 
 
