@@ -31,14 +31,14 @@ Pour la formation, nous distinguons les populations concernées par 4 grands typ
 # Prise en main et acculturation à l'utilisation de l'offre
 Nous mettons à disposition ici des souches logicielles, de la documentation, des formations "hands-on" (par la pratique). Nous pensons que toute personne désireuse de contribuer à la transformation numérique du service public (agent, citoyen, industriel du numérique, représentant d'institutions publiques... ) doit pouvoir expérimenter les outils mis à disposition pour la mener à bien.
 
-### Kits et documentation
+### Kits de prise en main et documentation
 Afin de tirer le meilleur parti des guides, kit, et outils proposés, nous conseillons de s'être préalablement familiarisé avec les concepts présentés dans parcours de formation. Ceci, afin de permettre la prise en main des composantes de l'offre avec un maximum d'autonomie: 
-- [Guide technique » : pour la prise en main du socle technique](https://github.com/dnum-mi/dso-socle) 
-- [Guide technique » : pour la prise en main de la console](https://github.com/dnum-mi/dso-console)  
+- [Guide technique » : pour la prise en main du socle technique](https://github.com/dnum-mi/dso-socle);
+- [Guide technique » : pour la prise en main de la console](https://github.com/dnum-mi/dso-console).
 
 ### Contextes d'utilisation particuliers
 Nous distinguons deux contextes d'utilisation particuliers de l'offre pour lesquels nous renvoyons à des ressources spécifiques:
-- Utilisation en contexte interministériel:pour lequel nous renvoyons au [catalogue de services](https://pi.minint.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/) et au [cadre de cohérence technique (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native)
+- Utilisation en contexte interministériel: nous renvoyons au [catalogue de services](https://pi.minint.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/) et au [cadre de cohérence technique (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native);
 - Utilisation communautaire: l’offre est mise à disposition en open source pour favoriser l'appropriation des technologies « Cloud Native » et l’émergence de standards du numérique public. La section ["comment contribuer?"](https://github.com/Yoarmi/dso-formation/blob/patch-1/4-contribuer) vous oriente à travers des communautés open source visant l'innovation et la transformation du service public.
 
  
