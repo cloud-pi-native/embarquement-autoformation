@@ -38,7 +38,7 @@ Afin de tirer le meilleur parti des guides, kit, et outils proposés, nous conse
 
 ### Contextes d'utilisation particuliers
 Nous distinguons deux contextes d'utilisation particuliers de l'offre pour lesquels nous renvoyons à des ressources spécifiques:
-- Utilisation en contexte interministériel: nous renvoyons au [catalogue de services](https://pi.minint.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/) et au [cadre de cohérence technique (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native);
-- Utilisation communautaire: l’offre est mise à disposition en open source pour favoriser l'appropriation des technologies « Cloud Native » et l’émergence de standards du numérique public. La section ["comment contribuer?"](https://github.com/Yoarmi/dso-formation/blob/patch-1/4-contribuer) vous oriente à travers des communautés open source visant l'innovation et la transformation du service public.
+- Contexte interministériel: pour l'utilisation au sein d'un ministère nous renvoyons au [catalogue de services](https://pi.minint.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/) et au [cadre de cohérence technique (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native);
+- Contexte communautaire: l’offre est mise à disposition en open source pour favoriser l'appropriation des technologies « Cloud Native » et l’émergence de standards du numérique public. La section ["comment contribuer?"](https://github.com/Yoarmi/dso-formation/blob/patch-1/4-contribuer) vous oriente à travers des communautés open source visant l'innovation et la transformation du service public.
 
  
