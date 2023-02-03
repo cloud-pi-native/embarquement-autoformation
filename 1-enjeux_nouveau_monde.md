@@ -13,3 +13,14 @@ De cette expension rapide, un nouveau paradigme logiciel a émergé. Né de l'Op
 
 # Remettre l'usager au centre
 Afin de remettre l'usager au centre, le service public cherche à maitriser ces ruptures. L'objectif poursuivi a travers la présente initiative est double 1) définir une voie d'accès privilégiée permettant d'appréhender la complexité de ce "nouveau monde" (Lean - Startup - Agile) 2) Construire et mettre à disposition le plus largement possible des "kits" permettant d'outiller une telle approche, tout en cultivant la Tech et ceux qui la font (tenir le rythme de l'évolution technologique).
+
+# Les origines de l'offre Cloud Pi Native
+- le numérique au coeur des politiques publique ( LOPMI )
+- Besoin de transformation majeur de la culture  « penser numérique »
+- Des cycles de production long & friction, qualités se dégradant dans le temps
+- Besoin accru de sécurité, d’élasticité et de réactivité 
+- La croissance vs coût/impact environnemental non soutenable
+- Absence d’un système de normes commun à l’innovation et au développement de grosses solutions. (impossibilité de croître)
+- Les développeurs, usagers « oubliés » de l’écosystème
+- Difficultés et perspectives des acteurs SIC dont la formation n’a pas évoluée
+
