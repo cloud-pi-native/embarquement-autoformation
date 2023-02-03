@@ -1,11 +1,13 @@
-# Une révolution numérique est en cours
+# Le "nouveau monde logiciel": un défi technologique, organisationnel et culturel
+
 Les tendances globales du monde contemporain sont devenues extrèmement difficiles à appréhender. C'est le concept "VUCA": Volatil (les choses changent vite), Complex (en raison de la multiplicité des crises: économique, sanitaire, climatique), Uncertain (intéractions entre toutes ces crises) et Ambiguous (du fait de la complexité et de l’incertitude). 
 https://en.wikipedia.org/wiki/Volatility,_uncertainty,_complexity_and_ambiguity 
 
-La révolution numérique est en cours et accélère les transformations du monde . L'expension du logiciel a redéfini des secteurs d'activités entiers (information, banque, assurance, hotellerie, service de voyage, taxi, sociabilité, ...) au point de "dévorer le monde". 
+La révolution numérique en cours accélère les transformations du monde en redéfinissant des secteurs d'activités entiers (information, banque, assurance, hotellerie, service de voyage, taxi, sociabilité, ...) au point de "dévorer le monde". 
 Marc Andreessen, 2011, "Why software is eating the world", https://www.wsj.com/articles/SB10001424053111903480904576512250915629460
 
-# Le "nouveau monde logiciel": un défi technologique, organisationnel et culturel
+
+# Emergence d'un nouveau paradigme logiciel
 De cette expension rapide, un nouveau paradigme logiciel a émergé. Né de l'Open Source et propulsé par les GAFA, il permet de mettre à disposition rapidement, à l'échelle, des produits de haute qualité, de facon résiliente. Ce "nouveau monde logiciel" est défini par 3 ruptures: 
 - Une rupture technologique: l'automatisation grandissante de la gestion des ressources informatiques et des réseaux ont rendu incontournable la maitrise du cloud et des technologies associés  dites "cloud native" (conteneurs, API, microservices, kubernetes...)
 - Une rupture dans les modes d'organisation et les pratiques de production: le travail des développeurs (Dev) et des opérateurs (Ops) a évolué. De leur collaboration, devenue indispensable, sont nées de nouvelles approches de production (DevOps/DevSecOps)
