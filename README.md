@@ -5,7 +5,7 @@ Dans une logique d’amélioration continue, vous pouvez proposer vos commentair
 - Faisant des issues.
 
 # Comprendre les enjeux de la transformation numérique
-## La révolution numérique est en cours
+### La révolution numérique est en cours
 Ces 10 dernières années la puissance d'intermédiation du numérique, a permis de capter une part croissante des activités humaines. Transports, banques, finance, sociabilité, hotellerie, sécurité, gestion des identités, rencontres, culture, divertissements... deviennent numériques. Certains produits/services deviennent des « normes de fait »: les décisions les concernant, leurs caractéristiques, impactent des millions d'utilisateurs.
 
 ## Un "nouveau monde" logiciel a émergé
