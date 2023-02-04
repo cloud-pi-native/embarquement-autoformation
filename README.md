@@ -11,7 +11,7 @@ Ces 10 dernières années la puissance d'intermédiation du numérique, a permis
 ### Serice public et "nouveau monde" logiciel
  Dans ce nouveau cadre, certains produits/services deviennent des « normes de fait »: les décisions les concernant, leurs caractéristiques, impactent des millions d'utilisateurs et posent des [défis importants aux organisations publiques](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.3-defi_service_public.md). Notamment dans ces missions régaliennes, le secteur public doit se doter des moyens de maitriser les outils et les normes de ce "nouveau monde" numérique pour rester au service de ses usagers et agents.
 
-### Transformer le numérique public et "remettre les utilisateurs au centre"
+### "Remettre les usagers au centre"
 Nous considérons que, pour etre rendu possible, ce projet de transformation numérique doit également inclure les développeurs, usagers trop souvent oubliés. La voie privilégiée que nous proposons pour cela repose sur [les approches DevSecOps](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) et les [technologies cloud native](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.2-technologies-cloud-native.md) (conteneurisation, API, microservices, DevOps).  
 
 L'offre proposée ici est la "matérialisation" de cette approche.
