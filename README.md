@@ -6,7 +6,7 @@ Dans une logique d’amélioration continue, vous pouvez proposer vos commentair
 
 # Comprendre les enjeux de la transformation numérique
 ### La révolution numérique est en cours
-Ces 10 dernières années la puissance d'intermédiation du numérique, a permis de capter une part croissante des activités humaines. Transports, banques, finance, sociabilité, hotellerie, sécurité, gestion des identités, rencontres, culture, divertissements... deviennent numériques. Certains produits/services deviennent des « normes de fait »: les décisions les concernant, leurs caractéristiques, impactent des millions d'utilisateurs.
+Ces 10 dernières années la puissance d'intermédiation du numérique, a permis de capter une part croissante des activités humaines. Transports, banques, finance, sociabilité, hotellerie, sécurité, gestion des identités, rencontres, culture, divertissements... deviennent numériques. Certains produits/services deviennent des « normes de fait »: les décisions les concernant, leurs caractéristiques, impactent des millions d'utilisateurs et posent des défis importants aux organisations publiques.
 
 ### Un "nouveau monde" logiciel a émergé
 Les origines, comme les conséquences, d'un tel changement ne sont pas seulement technologiques : il redéfini les organisations, les périmètres de responsabilités et les normes sous-jacentes (y compris culturelles). C'est un changement de paradigme que nous désignerons ici sous le terme « nouveau monde logiciel » et décryptons dans la section [enjeux du "nouveau monde logiciel"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1-enjeux_nouveau_monde.md). 
