@@ -6,15 +6,13 @@ Dans une logique d’amélioration continue, vous pouvez proposer vos commentair
 
 # Comprendre les enjeux de la transformation numérique
 ### Un "nouveau monde" logiciel a émergé
-Ces 10 dernières années la puissance d'intermédiation du numérique, a permis de capter une part croissante des activités humaines. Transports, banques, finance, sociabilité, hotellerie, sécurité, gestion des identités, rencontres, culture, divertissements... deviennent numériques.  Les origines, comme les conséquences, d'un tel changement ne sont pas seulement technologiques : il redéfini les organisations, les périmètres de responsabilités et les normes sous-jacentes (y compris culturelles). C'est un changement de paradigme, un ["nouveau monde logiciel"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1-enjeux_nouveau_monde.md). 
+Ces dernières années la puissance d'intermédiation du numérique a permis de capter une part croissante des activités humaines. Transports, banques, finance, sociabilité, hotellerie, sécurité, gestion des identités, culture, divertissements... deviennent numériques.  Les origines et les conséquences d'un tel changement ne sont pas seulement technologiques : elles touchent aux organisations, périmètres de responsabilités et normes sous-jacentes (y compris culturelles). C'est un changement de paradigme, un ["nouveau monde logiciel"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1-enjeux_nouveau_monde.md). 
 
 ### Service public et "nouveau monde" logiciel
  Dans ce nouveau cadre, certains produits/services deviennent des « normes de fait »: les décisions les concernant, leurs caractéristiques, impactent des millions d'utilisateurs et posent des [défis importants aux organisations publiques](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.3-defi_service_public.md). Notamment dans ces missions régaliennes, le secteur public doit se doter des moyens de maitriser les outils (de production, opération et maintenance) et les normes (techniques et non-techniques) de ce "nouveau monde" numérique pour rester au service de ses usagers et agents.
 
 ### "Remettre les usagers au centre"
-Nous considérons que, pour etre rendu possible, ce projet de transformation numérique doit également inclure les développeurs, usagers trop souvent oubliés. La voie privilégiée que nous proposons pour cela repose sur [les approches DevSecOps](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) et les [technologies cloud native](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.2-technologies-cloud-native.md) (conteneurisation, API, microservices, DevOps).  
-
-L'offre proposée ici est la "matérialisation" de cette approche.
+Nous considérons que, pour etre rendu possible, ce projet de transformation numérique doit également inclure les développeurs, usagers trop souvent oubliés. La voie privilégiée que nous proposons pour cela repose sur [les approches DevSecOps](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) et les [technologies cloud native](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.2-technologies-cloud-native.md) (conteneurisation, API, microservices, DevOps). L'offre proposée ici est la "matérialisation" de cette approche.
 
 
 # Parcours de formation à destination des populations concernées
