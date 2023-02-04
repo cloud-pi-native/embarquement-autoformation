@@ -8,7 +8,7 @@ Dans une logique d’amélioration continue, vous pouvez proposer vos commentair
 ### Un "nouveau monde" logiciel a émergé
 Ces dernières années la puissance d'intermédiation du numérique a permis de capter une part croissante des activités humaines. Transports, banques, finance, sociabilité, hotellerie, sécurité, gestion des identités, culture, divertissements... deviennent numériques.  Les origines et les conséquences d'un tel changement ne sont pas seulement technologiques : elles touchent aux organisations, périmètres de responsabilités et normes sous-jacentes (y compris culturelles). C'est un changement de paradigme, un ["nouveau monde logiciel"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1-enjeux_nouveau_monde.md). 
 
-### Service public et "nouveau monde" logiciel
+### Défis pour le service public 
  Dans ce nouveau cadre, certains produits/services deviennent des « normes de fait »: les décisions les concernant, leurs caractéristiques, impactent des millions d'utilisateurs et posent des [défis importants aux organisations publiques](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.3-defi_service_public.md). Notamment dans ces missions régaliennes, le secteur public doit se doter des moyens de maitriser les outils (de production, opération et maintenance) et les normes (techniques et non-techniques) de ce "nouveau monde" numérique pour rester au service de ses usagers et agents.
 
 ### "Remettre les usagers au centre"
