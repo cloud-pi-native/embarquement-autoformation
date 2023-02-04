@@ -8,7 +8,7 @@ Dans une logique d’amélioration continue, vous pouvez proposer vos commentair
 ### Un "nouveau monde" logiciel a émergé
 Ces 10 dernières années la puissance d'intermédiation du numérique, a permis de capter une part croissante des activités humaines. Transports, banques, finance, sociabilité, hotellerie, sécurité, gestion des identités, rencontres, culture, divertissements... deviennent numériques.  Les origines, comme les conséquences, d'un tel changement ne sont pas seulement technologiques : il redéfini les organisations, les périmètres de responsabilités et les normes sous-jacentes (y compris culturelles). C'est un changement de paradigme que nous tentons de décrypter et désignons sous le terme ["nouveau monde logiciel"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1-enjeux_nouveau_monde.md). 
 
-### Un "nouveau monde" logiciel a émergé
+### Serice public et "nouveau monde" logiciel
  Dans ce nouveau cadre, certains produits/services deviennent des « normes de fait »: les décisions les concernant, leurs caractéristiques, impactent des millions d'utilisateurs et posent des [défis importants aux organisations publiques](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.3-defi_service_public.md). Dans ce nouveau cadre, le secteur public doit réaliser une transformation numérique au service de ses usagers et agents: c'est à dire en se dotant des moyens de s'approprier les outis et les normes de ce "nouveau monde" numérique. 
 
 ### Transformer le numérique public et "remettre les usagers au centre"
