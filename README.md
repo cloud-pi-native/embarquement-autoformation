@@ -12,13 +12,13 @@ Ces dernières années la puissance d'intermédiation du numérique a dévoré u
 Dans ce nouveau cadre, certains produits/services deviennent des « normes de fait »: les décisions les concernant, leurs caractéristiques, impactent des millions d'utilisateurs et posent des [défis importants aux organisations publiques](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.3-defi_service_public.md). Pour rester au service de leurs usagers et agents, en particulier sur leurs missions régaliennes, ces dernières doit se doter des moyens de maitriser les outils (de production, opération et maintenance) et les normes (techniques ou non: neutralité, RGPD, accessibilité,...) du "nouveau monde" numérique.
 
 ### "Remettre les usagers au centre"
-Nous considérons que, pour etre rendu possible, ce projet de transformation numérique doit également inclure les développeurs, usagers trop souvent oubliés. La voie privilégiée que nous proposons pour cela repose sur [les approches DevSecOps](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) et les [technologies cloud native](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.2-technologies-cloud-native.md) (conteneurisation, API, microservices, DevOps). L'offre proposée ici est la "matérialisation" de cette approche.
+Nous considérons que, pour etre rendu possible, ce projet de transformation numérique doit également inclure les développeurs, usagers trop souvent oubliés. La voie privilégiée que nous proposons pour cela repose sur [les approches DevSecOps](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) et les [technologies cloud native](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.2-technologies-cloud-native.md) (conteneurisation, API, microservices, DevOps). Le socle proposé ici est la "matérialisation" de cette approche.
 
 
 # Parcours de formation à destination des populations concernées
 Nous souhaitons faciliter l'action de l'ensemble des acteurs désireux de contribuer à la transformation numérique du service public à travers deux questions 1) quels sont les principes directeurs et enjeux sous-jacents au modèle que nous proposons? 2) comment mettre en place cette offre au sein de mon organisation? 3) comment me former pour l'utiliser? 
 
-### Enjeux et principes du nouveau cadre proposé
+### Cadre d'utilisation du socle proposé
 Nous vous invitons à prendre connaissance des principes et exigences exposés dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native), découlant de la doctrine cloud au centre de l’Etat et permettant de tirer le plein bénéfice des principes du “cloud first”, du mode produit, du fonctionnement en équipe intégrée (DevSecOps) et de l’agilité.
 
 ### Modèle organisationnel
