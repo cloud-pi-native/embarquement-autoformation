@@ -16,7 +16,10 @@ Nous considérons que, pour etre rendu possible, ce projet de transformation num
 
 
 # Parcours de formation à destination des populations concernées
-Nous souhaitons faciliter l'action de l'ensemble des acteurs désireux de contribuer à la transformation numérique du service public à travers deux questions 1) comment mettre en place cette offre au sein de mon organisation ? 2) comment me former pour l'utiliser? 
+Nous souhaitons faciliter l'action de l'ensemble des acteurs désireux de contribuer à la transformation numérique du service public à travers deux questions 1) quels sont les principes directeurs et enjeux sous-jacents au modèle que nous proposons? 2) comment mettre en place cette offre au sein de mon organisation? 3) comment me former pour l'utiliser? 
+
+### Enjeux et principes du nouveau cadre proposé
+Nous vous invitons à prendre connaissance des principes et exigences exposés dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native), découlant de la doctrine cloud au centre de l’Etat et permettant de tirer le plein bénéfice des principes du “cloud first”, du mode produit, du fonctionnement en équipe intégrée (DevSecOps) et de l’agilité.
 
 ### Modèle organisationnel
 Pour la mise en place, nous proposons un « [modèle organisationnel](https://github.com/Yoarmi/dso-formation/blob/patch-1/2-modele_organisation.md) » : distribution des rôles, redéfinition des périmètres de responsabilité, nouveaux processus à mettre en place pour livrer et gérer les produits numériques tout au long de leur cycle de vie.
