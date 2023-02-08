@@ -16,13 +16,18 @@ Pour inclure au maximum les usagers, ce projet de transformation numérique impl
 
 
 # Parcours de formation à destination des populations concernées
-Nous souhaitons faciliter l'action de l'ensemble des acteurs désireux de contribuer à la transformation numérique du service public à travers deux questions 1) quels sont les principes directeurs et enjeux sous-jacents au modèle que nous proposons? 2) comment mettre en place cette offre au sein de mon organisation? 3) comment me former pour l'utiliser? 
+Nous souhaitons faciliter l'action de l'ensemble des acteurs désireux de contribuer à la transformation numérique du service public à travers deux questions 1) quels sont les principes directeurs et modèles d'organisations nécessaires à l'utilisation du socle que nous proposons? 2) quels sotn les concepts techniques sous jacents? 3) comment me former pour l'utiliser? 
 
-### Cadre d'utilisation du socle proposé
+### Cadre technique et écosystème du socle proposé
 Nous vous invitons à prendre connaissance des principes et exigences exposés dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native), découlant de la doctrine cloud au centre de l’Etat et permettant de tirer le plein bénéfice des principes du “cloud first”, du mode produit, du fonctionnement en équipe intégrée (DevSecOps) et de l’agilité.
+Pour la mise en place, nous proposons un « [modèle organisationnel](https://github.com/Yoarmi/dso-formation/blob/patch-1/2-modele_organisation.md) » à l'écosystème des parties prenantes du socle : distribution des rôles, définition des périmètres de responsabilité, processus à mettre en place pour livrer et gérer des produits numériques tout au long de leur cycle de vie.
 
-### Modèle organisationnel
-Pour la mise en place, nous proposons un « [modèle organisationnel](https://github.com/Yoarmi/dso-formation/blob/patch-1/2-modele_organisation.md) » : distribution des rôles, redéfinition des périmètres de responsabilité, nouveaux processus à mettre en place pour livrer et gérer les produits numériques tout au long de leur cycle de vie.
+### Concepts techniques sous-jacents
+-	L’écosystème
+-	Le gitops
+-	Lien agilité devops
+-	Kub
+-	Confusion devops/itil
 
 ### Parcours de formation
 Pour la formation, nous distinguons les populations concernées par 4 grands types de responsabilités:
