@@ -23,14 +23,7 @@ Nous vous invitons à prendre connaissance des principes et exigences exposés d
 
 Pour la mise en place, nous proposons un « [modèle organisationnel](https://github.com/Yoarmi/dso-formation/blob/patch-1/2-modele_organisation.md) » à l'écosystème des parties prenantes du socle : distribution des rôles, définition des périmètres de responsabilité, processus à mettre en place pour livrer et gérer des produits numériques tout au long de leur cycle de vie.
 
-### Concepts techniques sous-jacents
--	L’écosystème
--	Le gitops
--	Lien agilité devops
--	Kub
--	Confusion devops/itil
-
-### Parcours de formation
+### Parcours de formation et concepts sous-jacents
 Pour la formation, nous distinguons les populations concernées par 4 grands types de responsabilités:
 - « [Produit numérique](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.1-parcours-produit.md) » : personnes qui élaborent de nouveaux produits numériques et/ou assurent la gestion de leur cycle de vie. Ils sont responsables de leur développement, mise en production, MCO/évolution, migration, etc. Ce sont les développeurs, les opérateurs, les architectes, … 
 - « [Services & systèmes (SRE)](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.2-parcours_systeme.md) » : personnes qui assurent l’intégrité des services et systèmes nécessaires au développement et à l'opération des produits numériques, tout au long de leur cycle de vie: pipelines de livraison DevSecOps, services d’hébergement, génération d’environnements, etc. Ce sont les system teams, les équipes d’ingénierie de fiabilité des sites (SRE, Site Reliability Engineering), les forges, les opérateurs de plateformes (IaaS, PaaS, XaaS, ...).
