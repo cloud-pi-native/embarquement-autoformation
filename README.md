@@ -34,7 +34,7 @@ Pour la formation, nous distinguons les populations concernées par 4 grands pé
 Nous proposons un "diagnostic" de l'appropriation des connaissances et compétences des équipes utilisatrices. En fonction du périmètre de responsabilité et des résultats, ce diagnostic permet de définir la formation et l'accompagnement des équipes dans l'appropriation du socle et l'appréhension de son contexte (organisation et contexte).
  
  
-# Prise en main et acculturation à l'utilisation de l'offre
+# Prise en main et acculturation à l'utilisation du socle
 Nous mettons à disposition ici des souches logicielles, de la documentation, des formations "hands-on" (par la pratique). Nous pensons que toute personne désireuse de contribuer à la transformation numérique du service public (agent, citoyen, industriel du numérique, représentant d'institutions publiques... ) doit pouvoir expérimenter les outils mis à disposition pour la mener à bien.
 
 ### Kits de prise en main et documentation
