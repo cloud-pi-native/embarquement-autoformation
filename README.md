@@ -1,4 +1,4 @@
-Les ressources rassemblées ici constituent une introduction à l’offre que nous proposons 1) une sensibilisation aux enjeux adressés 2) des ressources de formation à destination des populations concernées 3) des guides et versions de démo pour prendre en main et s'acculturer. 
+Les ressources rassemblées ici constituent une introduction à l’offre que nous proposons 1) une sensibilisation aux enjeux adressés 2) des ressources de formation à destination des populations concernées 3) des kit de démarrage pour prendre en main et s'acculturer. 
 
 Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
 - Faisant des pulls request sur le repository;
