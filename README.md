@@ -24,7 +24,7 @@ Nous souhaitons faciliter l'action de l'ensemble des acteurs désireux de contri
 Nous vous invitons à prendre connaissance des principes et exigences exposés dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native), découlant de la doctrine cloud au centre de l’Etat et permettant de tirer le plein bénéfice:
 - Des principes “cloud first” (développement "from scratch" depuis le cloud) 
 - Des principes "cloud native" (évolutivité et disponibilité en "self service");
-- De l'organisation d'équipes "agiles" fonctionnant en "mode produit" (évolution continue vs. cycle en V ou mode projet avec "un début/une fin"); 
+- De l'organisation d'équipes "agiles" fonctionnant en "mode produit" (évolution continue vs. projet avec "un début/une fin"); 
 - D'une culture de responsabilités partagées (approche DevSecOps);
 - Des méthodes "lean" (intégration à un flux de production continu et optimisé).
 
