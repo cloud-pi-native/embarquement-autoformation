@@ -28,7 +28,7 @@ Nous vous invitons à prendre connaissance des principes et exigences exposés d
 - D'une culture de responsabilités partagées (approche DevSecOps);
 - Des méthodes "lean" (intégration à un flux de production continu et optimisé).
 
-Pour la mise en place, nous proposons un socle et un « [modèle organisationnel](https://github.com/Yoarmi/dso-formation/blob/patch-1/2-modele_organisation.md) » dans lequel s'insèrent les parties prenantes. Comme tout appareil industriel, son bon fonctionnement dépend d'une distribution des compétences et des périmètres de responsabilité. Le socle et le modèle permettent d'optimiser les roles et processus à mettre en place pour livrer et gérer des produits numériques tout au long de leur cycle de vie.
+Pour la mise en place, nous proposons [un socle et un « modèle organisationnel](https://github.com/Yoarmi/dso-formation/blob/patch-1/2-modele_organisation.md) » dans lequel s'insèrent les parties prenantes. Comme tout appareil industriel, son bon fonctionnement dépend d'une distribution des roles et des périmètres de responsabilité. Le socle et le modèle permettent d'optimiser les compétences et processus à mettre en place pour livrer et gérer des produits numériques tout au long de leur cycle de vie.
 
 ### Parcours de formation et concepts sous-jacents
 Pour la formation, nous distinguons les populations concernées par 4 grands périmètres de responsabilités:
