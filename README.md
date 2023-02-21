@@ -22,10 +22,11 @@ Nous souhaitons faciliter l'action de l'ensemble des acteurs désireux de contri
 
 ### Ecosystème et cadre du socle proposé
 Nous vous invitons à prendre connaissance des principes et exigences exposés dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native), découlant de la doctrine cloud au centre de l’Etat et permettant de tirer le plein bénéfice:
-- Des principes du “cloud first” (développement "from scratch" depuis le cloud) et "Cloud Native" (évolutivité et disponibilité en "self service";
-- D'une culture de responsabilités partagées (approche DevSecOps et mode produit);
-- De l'organisation en équipes agiles (évolution continue vs. cycle en V ou mode projet avec "un début/une fin"); 
-- De l'intégration à un flux de production continu et optimisé (méthodes "lean").
+- Des principes “cloud first” (développement "from scratch" depuis le cloud) 
+- Des principes "cloud native" (évolutivité et disponibilité en "self service");
+- De l'organisation d'équipes "agiles" fonctionnant en "mode produit" (évolution continue vs. cycle en V ou mode projet avec "un début/une fin"); 
+- D'une culture de responsabilités partagées (approche DevSecOps);
+- Des méthodes "lean" (intégration à un flux de production continu et optimisé).
 
 Pour la mise en place, nous proposons un « [modèle organisationnel](https://github.com/Yoarmi/dso-formation/blob/patch-1/2-modele_organisation.md) » à l'écosystème des parties prenantes du socle : distribution des rôles, définition des périmètres de responsabilité, processus à mettre en place pour livrer et gérer des produits numériques tout au long de leur cycle de vie.
 
