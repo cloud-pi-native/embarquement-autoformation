@@ -12,15 +12,8 @@ Ces dernières années la puissance d'intermédiation du numérique a dévoré u
 Dans ce nouveau cadre, certains produits/services deviennent des « normes de fait »: les décisions les concernant, leurs caractéristiques, impactent des millions d'utilisateurs ce qui pose des [défis importants aux organisations publiques](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.3-defi_service_public.md). Pour rester au service de leurs usagers et agents, en particulier sur leurs missions régaliennes, ces dernières doit se doter des moyens de maitriser les outils (de production, opération et maintenance) et les normes (techniques ou non: neutralité, RGPD, accessibilité,...) du "nouveau monde" numérique.
 
 ### Remettre "l'usager au centre"
-Pour inclure au maximum les usagers, ce projet de transformation numérique implique de travailler en [mode produit](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md). Mais Nous considérons qu'il doit également mieux inclure les développeurs, usagers trop souvent oubliés. La voie privilégiée que nous proposons pour répondre à cela repose sur [les approches DevSecOps](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) et les [technologies cloud native](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.2-technologies-cloud-native.md) (conteneurisation, API, microservices, DevOps).
-:
-- Des principes “cloud first” (développement "from scratch" depuis le cloud) 
-- Des principes "cloud native" (évolutivité et disponibilité en "self service");
-- De l'organisation d'équipes "agiles" fonctionnant en "mode produit" (évolution continue vs. projet avec "un début/une fin"); 
-- D'une culture de responsabilités partagées (approche DevSecOps);
-- Des méthodes "lean" (intégration des contributions de chacun à un flux de production continu et optimisé).
-
-Le socle proposé ici permettant de "matérialiser" cette approche.
+Pour réussir ce projet de transformation au service des usagers, le numérique public doit également inclure les développeurs, usagers trop souvent oubliés. La voie privilégiée que nous proposons emprunte aux technologies ["cloud native"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.2-technologies-cloud-native.md) (conteneurisation, API, microservices), aux méthodes lean-agiles (évolution continue dans un flux de production intégré et optimisé), aux roganisation en [mode produit](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) et aux approches [DevSecOps](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) (culture de responsabilités partagées).
+Le socle proposé ici vise à "matérialiser" cette approche.
 
 
 # Parcours de formation à destination des populations concernées
