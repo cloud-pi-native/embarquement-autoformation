@@ -12,7 +12,13 @@ Ces dernières années la puissance d'intermédiation du numérique a dévoré u
 Dans ce nouveau cadre, certains produits/services deviennent des « normes de fait »: les décisions les concernant, leurs caractéristiques, impactent des millions d'utilisateurs ce qui pose des [défis importants aux organisations publiques](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.3-defi_service_public.md). Pour rester au service de leurs usagers et agents, en particulier sur leurs missions régaliennes, ces dernières doit se doter des moyens de maitriser les outils (de production, opération et maintenance) et les normes (techniques ou non: neutralité, RGPD, accessibilité,...) du "nouveau monde" numérique.
 
 ### Remettre "l'usager au centre"
-Pour inclure au maximum les usagers, ce projet de transformation numérique implique de travailler en [mode produit](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md). Mais Nous considérons qu'il doit également mieux inclure les développeurs, usagers trop souvent oubliés. La voie privilégiée que nous proposons pour répondre à cela repose sur [les approches DevSecOps](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) et les [technologies cloud native](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.2-technologies-cloud-native.md) (conteneurisation, API, microservices, DevOps). 
+Pour inclure au maximum les usagers, ce projet de transformation numérique implique de travailler en [mode produit](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md). Mais Nous considérons qu'il doit également mieux inclure les développeurs, usagers trop souvent oubliés. La voie privilégiée que nous proposons pour répondre à cela repose sur [les approches DevSecOps](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) et les [technologies cloud native](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.2-technologies-cloud-native.md) (conteneurisation, API, microservices, DevOps).
+:
+- Des principes “cloud first” (développement "from scratch" depuis le cloud) 
+- Des principes "cloud native" (évolutivité et disponibilité en "self service");
+- De l'organisation d'équipes "agiles" fonctionnant en "mode produit" (évolution continue vs. projet avec "un début/une fin"); 
+- D'une culture de responsabilités partagées (approche DevSecOps);
+- Des méthodes "lean" (intégration des contributions de chacun à un flux de production continu et optimisé).
 
 Le socle proposé ici permettant de "matérialiser" cette approche.
 
@@ -21,14 +27,9 @@ Le socle proposé ici permettant de "matérialiser" cette approche.
 Nous souhaitons faciliter l'action de l'ensemble des acteurs désireux de contribuer à la transformation numérique du service public à travers deux questions 1) quels sont les principes directeurs et modèles d'organisations nécessaires à l'utilisation du socle que nous proposons? 2) Quels sont les concepts et les prérequis sous jacents pour l'utiliser? 3) Quel est le degré de préparation/maturité de mon équipe?
 
 ### Ecosystème et cadre du socle proposé
-Nous vous invitons à prendre connaissance des principes et exigences exposés dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native), découlant de la doctrine cloud au centre de l’Etat et permettant de tirer le plein bénéfice:
-- Des principes “cloud first” (développement "from scratch" depuis le cloud) 
-- Des principes "cloud native" (évolutivité et disponibilité en "self service");
-- De l'organisation d'équipes "agiles" fonctionnant en "mode produit" (évolution continue vs. projet avec "un début/une fin"); 
-- D'une culture de responsabilités partagées (approche DevSecOps);
-- Des méthodes "lean" (intégration des contributions de chacun à un flux de production continu et optimisé).
+Nous vous invitons à prendre connaissance des principes et exigences exposés dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native), découlant de la doctrine cloud au centre de l’Etat, qui décrit [le socle technique et le « modèle organisationnel](https://github.com/Yoarmi/dso-formation/blob/patch-1/2-modele_organisation.md) » pour les différentes parties prenantes. 
 
-Pour la mise en place, nous proposons [un socle et un « modèle organisationnel](https://github.com/Yoarmi/dso-formation/blob/patch-1/2-modele_organisation.md) » dans lequel s'insèrent les parties prenantes. Comme tout appareil industriel, son bon fonctionnement dépend d'une distribution des roles et des périmètres de responsabilité. Le socle et le modèle permettent d'optimiser les compétences et processus à mettre en place pour livrer et gérer des produits numériques tout au long de leur cycle de vie.
+Comme tout dispositif industriel, une certaines distribution des roles et des périmètres de responsabilité est nécessaire pour en tirer le plein potentiel. Le socle et le modèle permettent d'optimiser les compétences et processus à mettre en place pour livrer et gérer des produits numériques tout au long de leur cycle de vie.
 
 ### Parcours de formation et concepts sous-jacents
 Pour la formation, nous distinguons les populations concernées par 4 grands périmètres de responsabilités:
