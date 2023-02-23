@@ -23,7 +23,7 @@ Nous souhaitons faciliter l'action de l'ensemble des acteurs désireux de contri
 ### Ecosystème et cadre du socle
 Comme dans toute transformation industrielle découlant d'innovation(s) majeure(s), les périmètres de responsabilité existants sont profondément modifiés. En nous appuyant sur la doctrine "cloud au centre de l'Etat", nous tentons donc de définir un [modèle opérationnel](https://github.com/Yoarmi/dso-formation/blob/patch-1/2-modele_organisation.md) permettant de tirer le plein parti d'une socle de production à l'état de l'art. 
 
-Nous vous invitons à prendre connaissance des principes sous-jacents, exposés dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native). De ces principes découleront les exigences technologiques, organisationnelles, bonnes pratiques, processus... préconisés pour livrer des produits numériques de qualité et les gérer tout au long de leur cycle de vie.
+Nous vous invitons à prendre connaissance des principes sous-jacents, exposés dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native). De ces principes découleront les exigences technologiques, organisationnelles, bonnes pratiques, processus... préconisés pour livrer des produits numériques à l'état de l'art et les gérer tout au long de leur cycle de vie.
 
 ### Parcours, par périmètre de responsabilité
 Pour la formation, nous distinguons les populations concernées par 4 grands périmètres de responsabilités:
