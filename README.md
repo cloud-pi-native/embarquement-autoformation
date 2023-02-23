@@ -14,7 +14,7 @@ Dans ce nouveau cadre, certains produits/services deviennent des « normes de fa
 ### Un socle pour remettre "l'usager au centre"
 Pour réussir ce projet de transformation au service des usagers, le numérique public doit fonctionner ["en mode produit"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) (évolution continue) et inclure les développeurs, usagers trop souvent oubliés. La voie privilégiée que nous proposons pour cela emprunte aux technologies ["cloud native"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.2-technologies-cloud-native.md) (conteneurisation, API, microservices) et aux approches [DevSecOps](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) (culture de responsabilités partagées). 
 
-Le socle proposé ici vise à "industrialiser" cette approche pour la mettre en place au sein d'un flux de production continue, intégré et optimisé (lean), capable d'évoluer en continu (agile). Le socle est donc une "usine" lean-agile. 
+Le socle proposé ici vise à "industrialiser" cette approche pour la mettre en place au sein d'un flux de production continue, intégré et optimisé (lean), capable d'évoluer en continu (agile). Le socle est en quelques sortes une "usine" lean-agile. 
 
 
 # Parcours d'apprentissage (formation)
