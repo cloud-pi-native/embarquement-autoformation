@@ -31,7 +31,7 @@ Pour la formation, nous distinguons les populations concernées par 4 grands pé
 - « [Pertinence de la décision stratégique](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.4-parcours_strategie.md) » : personnes qui prennent des décisions, se portent garantes de l’engagement des organisations sur des sujets touchant au numérique. Cepérimètre comprend aussi les personnes chargées de les conseiller quand à la stratégie à adopter, de donner des recommandations, délivrer des mandats ou réaliser des arbitrages concernant les finalités, moyens et modes d’organisation. Il s’agit de la décision stratégique, du pilotage/gouvernance des organisations, de directions générales ou de directions de la stratégie métiers, achats, RH, etc.
 
 ### Diagnostic du degré de maturité
-Nous proposons un "diagnostic" de l'appropriation des connaissances et compétences des équipes utilisatrices. En fonction du périmètre de responsabilité et des résultats, ce diagnostic permet de définir la formation et l'accompagnement des équipes dans l'appropriation du socle et l'appréhension de son contexte (organisation et contexte).
+Nous proposons un "diagnostic" de l'appropriation des connaissances et compétences des équipes utilisatrices. En fonction du périmètre de responsabilité et des résultats, ce diagnostic permet de définir la formation et l'accompagnement des équipes dans l'appropriation du socle et l'appréhension de son contexte (organisationnel et technique).
  
  
 # Tutoriels et prise en main du socle (acculturation)
