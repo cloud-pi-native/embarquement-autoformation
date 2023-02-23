@@ -17,20 +17,20 @@ Pour réussir ce projet de transformation au service des usagers, le numérique 
 Le socle proposé ici vise à "industrialiser" cette approche pour la mettre en place au sein d'un flux de production continue, intégré et optimisé (lean), capable d'évoluer en continu (agile). Le socle est donc une "usine" lean-agile. 
 
 
-# Parcours de formation à destination des populations concernées
+# Parcours de formation
 Nous souhaitons faciliter l'action de l'ensemble des acteurs désireux de contribuer à la transformation numérique du service public à travers deux questions 1) quels sont les principes directeurs et modèles d'organisations nécessaires à l'utilisation du socle que nous proposons? 2) Quels sont les concepts et les prérequis sous jacents pour l'utiliser? 3) Quel est le degré de préparation/maturité de mon équipe?
 
 ### Ecosystème et cadre du socle proposé
 Comme dans toute transformation industrielle découlant d'innovation(s) majeure(s), les périmètres de responsabilité existants sont affectés. En nous appuyant sur la doctrine "cloud au centre de l'Etat", nous tentons donc de défnir un [modèle opérationnel](https://github.com/Yoarmi/dso-formation/blob/patch-1/2-modele_organisation.md) permettant de tirer le plein parti de notre socle technique. Nous vous invitons à prendre connaissance des principes et exigences sous-jacents, qui sont exposés dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native). De ces principes découleront les technologies, bonnes pratiques, organisations, processus... préconisés pour livrer et gérer des produits numériques tout au long de leur cycle de vie.
 
-### Parcours de formation et concepts sous-jacents
+### Parcours par périmètre de responsabilité
 Pour la formation, nous distinguons les populations concernées par 4 grands périmètres de responsabilités:
 - « [Qualité des produits numériques](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.1-parcours-produit.md) » : personnes qui élaborent de nouveaux produits numériques et/ou assurent la gestion de leur cycle de vie. Ils sont responsables de leur développement, mise en production, MCO/évolution, migration, etc. Ce sont les développeurs ou opérateurs de produits, les architectes, … 
 - « [Fiabilité des services & systèmes (SRE)](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.2-parcours_systeme.md) » : personnes qui assurent l’intégrité des services et systèmes nécessaires au développement et à l'opération des produits numériques, tout au long de leur cycle de vie: pipelines de livraison DevSecOps, services d’hébergement, génération d’environnements, etc. Ce sont les system teams, les équipes d’ingénierie de fiabilité des sites (SRE, Site Reliability Engineering), les forges, les opérateurs de plateformes (IaaS, PaaS, XaaS, ...).
 - « [Intégrité des projets](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.3-parcours_projet.md) » : personnes qui pilotent les équipes de développement ou de gestion des opérations. Elles sont responsables du cadrage des projets, de la meilleure utilisation des ressources (humaines et techniques) pour la menée d'un projet. Il s'agit du pilotage/chefferie de projets/programmes, de MOE ou d'unités de réalisation, bureau d'étude, etc.
 - « [Pertinence de la décision stratégique](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.4-parcours_strategie.md) » : personnes qui prennent des décisions, se portent garantes de l’engagement des organisations sur des sujets touchant au numérique. Cepérimètre comprend aussi les personnes chargées de les conseiller quand à la stratégie à adopter, de donner des recommandations, délivrer des mandats ou réaliser des arbitrages concernant les finalités, moyens et modes d’organisation. Il s’agit de la décision stratégique, du pilotage/gouvernance des organisations, de directions générales ou de directions de la stratégie métiers, achats, RH, etc.
 
-### Evaluation du degré de préparation de mon équipe
+### Diagnostic du degré de préparation
 Nous proposons un "diagnostic" de l'appropriation des connaissances et compétences des équipes utilisatrices. En fonction du périmètre de responsabilité et des résultats, ce diagnostic permet de définir la formation et l'accompagnement des équipes dans l'appropriation du socle et l'appréhension de son contexte (organisation et contexte).
  
  
