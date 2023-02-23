@@ -4,7 +4,7 @@ Dans une logique d’amélioration continue, vous pouvez proposer vos commentair
 - Faisant des pulls request sur le repository;
 - Faisant des issues.
 
-# Comprendre les enjeux de la transformation numérique (sensibilisation)
+# Enjeux de la transformation numérique (sensibilisation)
 ### Un "nouveau monde" logiciel a émergé
 Ces dernières années la puissance d'intermédiation du numérique a dévoré une part croissante des activités humaines. Transport, banque, finance, sociabilité, hotellerie, logistique, sécurité, identité, culture, divertissement... deviennent numériques.  Les origines et les conséquences d'un tel changement ne sont pas seulement technologiques : elles touchent aux organisations, périmètres de responsabilités et normes sous-jacentes (y compris culturelles). C'est un changement de paradigme, un ["nouveau monde logiciel"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1-enjeux_nouveau_monde.md). 
 
