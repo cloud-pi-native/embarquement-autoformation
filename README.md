@@ -46,6 +46,6 @@ Nous distinguons deux contextes d'utilisation particuliers de l'offre pour lesqu
 Afin de tirer le meilleur parti des guides, kit, et outils proposés, nous conseillons de s'être préalablement familiarisé avec les concepts présentés dans parcours de formation. Ceci afin de permettre la prise en main des composantes de l'offre avec tout l'autonomie possible: 
 - [Guide technique » : pour la prise en main du socle technique](https://github.com/dnum-mi/dso-socle);
 - [Guide technique » : pour la prise en main de la console](https://github.com/dnum-mi/dso-console).
-
+- https://github.com/dnum-mi/gitops-tutorial
 
 
