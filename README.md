@@ -4,7 +4,7 @@ Dans une logique d’amélioration continue, vous pouvez proposer vos commentair
 - Faisant des pulls request sur le repository;
 - Faisant des issues.
 
-# Comprendre les enjeux de la transformation numérique
+# Comprendre les enjeux de la transformation numérique (sensibilisation)
 ### Un "nouveau monde" logiciel a émergé
 Ces dernières années la puissance d'intermédiation du numérique a dévoré une part croissante des activités humaines. Transport, banque, finance, sociabilité, hotellerie, logistique, sécurité, identité, culture, divertissement... deviennent numériques.  Les origines et les conséquences d'un tel changement ne sont pas seulement technologiques : elles touchent aux organisations, périmètres de responsabilités et normes sous-jacentes (y compris culturelles). C'est un changement de paradigme, un ["nouveau monde logiciel"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1-enjeux_nouveau_monde.md). 
 
@@ -17,7 +17,7 @@ Pour réussir ce projet de transformation au service des usagers, le numérique 
 Le socle proposé ici vise à "industrialiser" cette approche pour la mettre en place au sein d'un flux de production continue, intégré et optimisé (lean), capable d'évoluer en continu (agile). Le socle est donc une "usine" lean-agile. 
 
 
-# Parcours d'apprentissage
+# Parcours d'apprentissage (formation)
 Nous souhaitons faciliter l'action de l'ensemble des acteurs désireux de contribuer à la transformation numérique du service public à travers deux questions 1) quels sont les principes directeurs et modèles d'organisations nécessaires à l'utilisation du socle que nous proposons? 2) Quels sont les concepts et les prérequis sous jacents pour l'utiliser? 3) Quel est le degré de préparation/maturité de mon équipe?
 
 ### Ecosystème et cadre du socle
@@ -34,10 +34,10 @@ Pour la formation, nous distinguons les populations concernées par 4 grands pé
 Nous proposons un "diagnostic" de l'appropriation des connaissances et compétences des équipes utilisatrices. En fonction du périmètre de responsabilité et des résultats, ce diagnostic permet de définir la formation et l'accompagnement des équipes dans l'appropriation du socle et l'appréhension de son contexte (organisation et contexte).
  
  
-# Prise en main et acculturation à l'utilisation du socle
+# Tutoriels et prise en main du socle (acculturation)
 Nous mettons à disposition ici des souches logicielles, de la documentation, des formations "hands-on" (par la pratique). Nous pensons que toute personne désireuse de contribuer à la transformation numérique du service public (agent, citoyen, industriel du numérique, représentant d'institutions publiques... ) doit pouvoir expérimenter les outils mis à disposition pour la mener à bien.
 
-### Kits de prise en main et documentation
+### Kits de démarrage
 Afin de tirer le meilleur parti des guides, kit, et outils proposés, nous conseillons de s'être préalablement familiarisé avec les concepts présentés dans parcours de formation. Ceci, afin de permettre la prise en main des composantes de l'offre avec un maximum d'autonomie: 
 - [Guide technique » : pour la prise en main du socle technique](https://github.com/dnum-mi/dso-socle);
 - [Guide technique » : pour la prise en main de la console](https://github.com/dnum-mi/dso-console).
