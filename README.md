@@ -12,7 +12,7 @@ Dans ce nouveau cadre, certains produits/services deviennent des « normes de fa
 ### Un socle pour remettre "l'usager au centre"
 Pour réussir un projet de transformation au service des usagers, la production du numérique public doit être organisée ["en mode produit"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) (évolutivité, disponibilité) en incluant les développeurs, usagers trop souvent oubliés. La voie que nous privilégions pour cela emprunte aux technologies ["cloud native"](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.2-technologies-cloud-native.md) (conteneurisation, API, microservices) et aux approches [DevSecOps](https://github.com/Yoarmi/dso-formation/blob/patch-1/1.1-approche_devsecops.md) (culture de responsabilités partagées). 
 
-Comme expliqué dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native), l'offre Cloud Pi Native vise à "industrialiser" une telle approche pour la mettre en place au sein d'un flux de production continue, intégré et optimisé (lean), ouvert et capable d'évoluer en continu (agile). L'offreconstitue en quelque sorte le modèle-socle, d'une usine "lean-agile". 
+Comme expliqué dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native), l'offre Cloud Pi Native vise à "industrialiser" une telle approche pour la mettre en place au sein d'un flux de production continue, intégré et optimisé (lean), suffisament ouvert pour pouvoir évoluer en continu (agile). L'offreconstitue en quelque sorte le modèle-socle, d'une usine "lean-agile". 
 
 
 # Parcours d'apprentissage (formation)
