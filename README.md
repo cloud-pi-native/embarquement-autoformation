@@ -38,17 +38,17 @@ Nous proposons un "diagnostic" de l'appropriation des connaissances et compéten
 Nous pensons que toute personne désireuse de contribuer à la transformation numérique du service public (agent, citoyen, industriel du numérique, représentant d'institutions publiques... ) doit pouvoir rapidement tester le socle et se familliariser avec son utilisation. Pour cela, nous mettons à disposition les souches logicielles et la documentation du socle, mais également des kits de démarrage: tutoriels, formations "hands-on" (par la pratique) et bacs à sable (sandbox). 
 
 ### Contextes d'utilisation de Cloud Pi Native
-- **Acteurs ministériels**: à terme, l'offre Cloud Pi Native sera consommable depuis le réseau interministériel d'Etat via le [catalogue de services](https://pi.interieur.rie.gouv.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/). Pour l'heure, l'offre Cloud Pi Native est en co-construction en agilité avec ses partenaires-clients et disponible à l'expérimentation via les guides et tutoriels ci-dessous. 
-- **Partenaires industriels et contributeurs open source**: l’offre est mise à disposition en open source pour favoriser l'appropriation des technologies « Cloud Native » et l’émergence de standards du numérique public interopérables avec la production industrielle. Une section *"comment contribuer?"* vous orientera au sein de communautés portées par une même ambition d'innovation et de transformation du service public.
-- **Pour des démarches partenariales structurées**: que vous soyez acteur du service public, industriel ou contributeur de l'Open Source, vous pouvez nous faire part de vos propositions/demandes d'expérimentation via l'adresse cloudpinative-relations@interieur.gouv.fr. Nos équipes accompagnent exclusivement des expérimentations: elles n'examineront et ne répondront à AUCUNE démarche commerciale. 
+- **Utilisation par un acteur ministériel ("interne")**: à terme, l'offre Cloud Pi Native sera consommable depuis le réseau interministériel d'Etat via le [catalogue de services](https://pi.interieur.rie.gouv.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/). Pour l'heure, l'offre Cloud Pi Native est en co-construction en agilité avec ses partenaires-clients et disponible à l'expérimentation via des guides et tutoriels. 
+- **Utilisation en expérimentation ("partenaire")**: que vous soyez acteur du service public, industriel ou contributeur de l'Open Source, vous pouvez nous faire part de vos propositions/demandes d'expérimentation via l'adresse cloudpinative-relations@interieur.gouv.fr. Nos équipes accompagnent exclusivement des expérimentations à but non-lucratif: elles n'examineront et ne répondront à AUCUNE démarche commerciale.
+- - **Autres utilisations ("externe")**: à date, l’offre est mise à disposition en open source pour favoriser l'appropriation des technologies « Cloud Native » et l’émergence de standards du numérique public interopérables avec la production externalisée. Les partenaires industriels et contributeurs open source portées par une ambition d'innovation et de transformation du service public sont libres de les consulter et proposer leurs retours.
 
 L'accompagnement est conditionné à un certains nombre de prérequis, parmi lesquels la nécessité d'avoir consulté et suivi les tutoriels mis à disposition.
 
-### Guides et tutoriels
-Afin de tirer le meilleur parti des guides, kit, et outils proposés, nous conseillons de s'être préalablement familiarisé avec les concepts présentés dans parcours de formation. Ceci afin de permettre la prise en main des composantes de l'offre avec tout l'autonomie possible: 
-- [Guide technique » : pour la prise en main du socle technique](https://github.com/dnum-mi/dso-socle);
-- [Guide technique » : pour la prise en main de la console](https://github.com/dnum-mi/dso-console).
-- https://github.com/dnum-mi/gitops-tutorial
+### Documentation et tutoriels
+Afin de tirer le meilleur parti des guides, kit, et outils proposés, nous conseillons de s'être préalablement familiarisé avec les concepts présentés dans les parcours de formation. Ceci afin de permettre la prise en main des composantes de l'offre avec tout l'autonomie possible: 
+- [Prise en main du socle technique](https://github.com/dnum-mi/dso-socle);
+- [Prise en main de la console](https://github.com/dnum-mi/dso-console);
+- [Tutoriel pour le GitOps](https://github.com/dnum-mi/gitops-tutorial).
 
 
 
