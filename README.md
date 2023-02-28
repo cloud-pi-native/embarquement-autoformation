@@ -34,7 +34,7 @@ Les parcours d'apprentissage s'adressent aux populations concernées par 4 grand
 Nous proposons un "diagnostic" de l'appropriation des connaissances et compétences des équipes utilisatrices. En fonction des informations receuillies, ce diagnostic permet de définir la formation et l'accompagnement des équipes, par périmètre de responsabilité, dans l'appropriation du socle et l'appréhension de son contexte (organisationnel et technique).
  
  
-# Premier contact avec Cloud Pi Native et prise en main (acculturation)
+# Prise en main et utilisation Cloud Pi Native  (acculturation)
 Nous pensons que toute personne désireuse de contribuer à la transformation numérique du service public (agent, citoyen, industriel du numérique, représentant d'institutions publiques... ) doit pouvoir rapidement tester le socle et se familliariser avec son utilisation. Pour cela, nous mettons à disposition les souches logicielles et la documentation du socle, mais également des kits de démarrage: tutoriels, formations "hands-on" (par la pratique) et bacs à sable (sandbox). 
 
 ### Contextes d'utilisation de Cloud Pi Native
