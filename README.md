@@ -39,7 +39,7 @@ Nous pensons que toute personne désireuse de contribuer à la transformation nu
 
 ### Contextes d'utilisation de Cloud Pi Native
 Nous distinguons deux contextes d'utilisation particuliers de l'offre pour lesquels nous renvoyons à des ressources spécifiques:
-- Contexte interministériel: pour consommer l'offre au sein de votre ministère nous renvoyons au [catalogue de services](https://pi.interieur.rie.gouv.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/) et au [cadre de cohérence technique (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native);
+- Acteurs ministériels: à terme, l'offre Cloud Pi Native sera consommable depuis le réseau interministériel d'Etat via le [catalogue de services](https://pi.interieur.rie.gouv.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/). Pour l'heure, l'offre Cloud Pi Native est en co-construction en agilité avec ses partenaires-clients. Vous pouvez l'expérimenter librement via les guides et tutoriels ci-dessous. Pour des projets d'expérimentations structurs, vous pouvez prendre contact avec nos équipes via l'adresse cloudpinative-relations@interieur.gouv.fr ;
 - Partenaires industriels et communauté open source: l’offre est mise à disposition en open source pour favoriser l'appropriation des technologies « Cloud Native » et l’émergence de standards du numérique public interopérables avec la production industrielle. La section ["comment contribuer?"](https://github.com/Yoarmi/dso-formation/blob/patch-1/4-contribuer.md) vous oriente à travers des communautés rassemblées par une ambition d'innovation et de transformation du service public.
 
 ### Guides et tutoriels
