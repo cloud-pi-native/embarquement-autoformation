@@ -1,4 +1,4 @@
-Les ressources rassemblées ici constituent la base de connaissance de l'offre "Cloud Pi Native". Nous proposons 1) une sensibilisation aux enjeux adressés 2) une formation, un apprentissage à la maitrise des ressources proposées 3) une acculturation à l'utilisation du socle via des kits de prise en main. Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
+Les ressources rassemblées ici constituent la [base de connaissances accessibles](https://dnum-mi.github.io/) de l'offre "Cloud Pi Native". Nous proposons 1) une sensibilisation aux enjeux adressés 2) une formation, un apprentissage à la maitrise des ressources proposées 3) une acculturation à l'utilisation du socle via des kits de prise en main. Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
 - Faisant des pulls request sur le repository
 - Faisant des issues
 
