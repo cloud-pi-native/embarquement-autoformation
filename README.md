@@ -41,6 +41,7 @@ Nous pensons que toute personne désireuse de contribuer à la transformation nu
 - **Acteurs ministériels**: à terme, l'offre Cloud Pi Native sera consommable depuis le réseau interministériel d'Etat via le [catalogue de services](https://pi.interieur.rie.gouv.fr/home-dnum/cloud-%cf%80/qui-sommes-nous/cloud-native/). Pour l'heure, l'offre Cloud Pi Native est en co-construction en agilité avec ses partenaires-clients et disponible à l'expérimentation via les guides et tutoriels ci-dessous. 
 - **Partenaires industriels et contributeurs open source**: l’offre est mise à disposition en open source pour favoriser l'appropriation des technologies « Cloud Native » et l’émergence de standards du numérique public interopérables avec la production industrielle. Une section *"comment contribuer?"* vous orientera au sein de communautés portées par une même ambition d'innovation et de transformation du service public.
 - **Pour des démarches partenariales structurées**: que vous soyez acteur du service public, industriel ou contributeur de l'Open Source, vous pouvez nous faire part de vos propositions/demandes d'expérimentation via l'adresse cloudpinative-relations@interieur.gouv.fr. Nos équipes accompagnent exclusivement des expérimentations: elles n'examineront et ne répondront à AUCUNE démarche commerciale. 
+
 L'accompagnement est conditionné à un certains nombre de prérequis, parmi lesquels la nécessité d'avoir consulté et suivi les tutoriels mis à disposition.
 
 ### Guides et tutoriels
