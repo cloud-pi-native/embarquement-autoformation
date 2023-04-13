@@ -25,30 +25,29 @@ Aucun prérequis technique n'est obligatoire
 - Émergence d’acteurs extrêmement concurrentiels : c’est le « monde du logiciel qui marche » (pas de Facebook 2.0, 1 minute de panne =  c’est les grands titres, etc...) 
 - Une nouvelle culture de consommation, propulsée par les GAFA et qui impose, à tous, des standards « de fait ». 
 - Pour rester souverain, pas perdre les citoyens, exercer rôle de régulateur, l’État doit se hisser au niveau pour prendre part à la définition des standards : SSI, RGPD, accessibilité, impact environnemental...
- 
+
 ### Pourquoi la doctrine « cloud au centre » est une réponse ? 
-- Le cloud consiste faire tourner ses logiciels sur « l’ordinateur de quelqu’un d’autre ». Pourquoi faire ça ? Exemple crise de la crise Covid 
- - C’est ce que la doctrine « cloud au centre » cherche vise à étende comme un « mode par défaut » pour adresser... (synthèse liste des enjeux présentations "Cloud au centre") :
-  - Enjeux de transformation : DevOps et mode produit, passage à l’échelle avec résilience et scalabilité, à coût marginal faible... 
+Le cloud c'est bien plus que "faire tourner ses logiciels sur l’ordinateur de quelqu’un d’autre ». C'est une condition nécessaire pour réaliser, à temps, une transformation numérique d'envergure (Exemple crise de la crise Covid dans la présentation "Cloud au centre").
+ 
+ C’est ce que la doctrine « cloud au centre » cherche vise à poser comme un « mode par défaut » pour répondre aux enjeux suivants :
+  - Enjeux de transformation : DevOps et mode produit, intégration et déploiement continue, passage à l’échelle avec résilience et scalabilité, à coût marginal faible... 
   - Enjeux de souveraineté: sécurité, réduction des dépendances (réversibilité) et accès facile à l’innovation (service HPC, IA, bigdata..) ...
   - Enjeux d’accélération: élargir le catalogue UE, soutient aux industriels UE, gains d’autonomie 
-- Nouveaux projets de l’État doivent adopter la posture cloud pour l’acquisition, les développements internes, la sous traitance du numérique à travers : 
-- Nouvelle organisation/modèle opérationnel cible
-- Pratiques mode produit, intégration et déploiement continue
 
-- Nouvelle culture de co-construction: évolution en continue, itération implication client/usager, UX/UI, culture « pas de manuel »-> mode produit
+
+- Nouveaux projets de l’État doivent adopter la posture cloud pour l’acquisition, les développements internes, la sous traitance du numérique
 
 ### Qu’est ce que le cloud native ? 
 Concrétiser les promesse du Cloud "nécessite bien plus qu’un Cloud provider [...] il est bénéfique de prendre du recul sur les processus de delivery et de s’intéresser aux leviers techniques, méthodologiques et culturels associés à la mise en place d’une démarche d’accompagnement de votre parc applicatif dans le Cloud" https://blog.octo.com/cloud-enjeux-2023/
+- Le "Cloud native" c'est la conjonction d'un ensemble de leviers technologiques, méthodologiques et cutlurels qui permet de tirer le plein potentiel du cloud. C'est un "paradigme" car cela a permis aux acteurs qui s'en sont emparé de totalement remettre en question leurs secteurs d’activité. 
 
-le numérique publique doit intégrer lune capacité de production à l’État de l’art : 
-- Leviers technologiques (micro services, conteneurisation, orchestration): pour consommer le cloud, la modularité, la résilience...
-- Levier liés aux approches de productions : pour la réutilisation/intégration de briques, open source, standardisation/automatisation, dev +tests/sec + ops, usines logicielles, ...
-C’est ça, que l’on appelle « cloud native », qui a permis à des acteurs petits, agiles, …de totalement remettre en question leurs secteurs d’activité en tirant parti des avantage « du cloud »
-
+pour en réaliser le potentiel https://www.redhat.com/fr/topics/cloud-native-apps: 
+- Leviers technologiques (micro services, conteneurisation, orchestration): pour consommer le cloud, la modularité, la résilience, le déploiement en continu grace à des usines logicielles...
+- Leviers liés aux approches de productions : réutilisation/intégration de briques (souvent open source), standardisation/automatisation, intégration des tests de sécurité dans la chaine de production ...
+-  Leviers culturels: responsabilitiés partagées, de co-construction, évolution en continue, implication client/usager, capitalisation sur l'UX/UI acquise par ses utilisateurs
  
 ### Qu’est-ce que l’offre Cloud Pi Native ?
-C’est l’offre « Cloud native » du MIOM, à visée interministérielle, qui comprend :
+"Cloud Pi Native" c’est l’offre « Cloud native » du MIOM, à visée interministérielle, qui comprend :
 - Le Cloud souverain "Pi" basée sur kubernetes;
 - Un cadre de norme qui se base sur les principes du cloud native et qui s'impose à tous;
 -	Un socle de production DevSecOps pour réduire les frictions et assurer une continuité; de la mise en production à la gestion du cycle de vie;
