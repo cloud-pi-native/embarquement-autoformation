@@ -2,7 +2,7 @@ Les ressources rassemblées ici constituent la base de connaissances accessibles
 - Faisant des pulls request sur le repository
 - Faisant des issues
 
-# Enjeux de transformations du numérique public
+# Pourquoi Cloud Pi Nativ? enjeux de transformation du numérique public
 ### Un "nouveau monde" logiciel a émergé
 Ces 10 dernières années la puissance d'intermédiation du numérique a capté/dévoré une part croissante des activités humaines. Transport, banque, finance, sociabilité, hotellerie, logistique, sécurité, identité, culture, divertissement... deviennent numériques.  Les causes d'un tel changement ne sont pas seulement technologiques: elles ont trait aux organisations, responsabilités, normes (y compris culturelles) de la production numérique. C'est un changement de paradigme complet, un ["nouveau monde logiciel"](https://pi.interieur.rie.gouv.fr/nouveau-monde-logiciel/).
 
@@ -15,7 +15,7 @@ Pour réussir un projet de transformation au service des usagers, la production 
 Comme expliqué dans le [cadre de cohérence technique Cloud Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native), l'offre Cloud Pi Native vise à "industrialiser" cette approche et l'implémenter dans un flux de production continue, intégré et optimisé (lean), suffisament ouvert pour pouvoir évoluer en continu (agile). Cloud Pi Native constitue donc un modèle-socle d'usine logicielle "lean-agile". 
 
 
-# Comprehension de Cloud Pi Native
+# Compréhension de Cloud Pi Native
 Nous souhaitons faciliter l'action de l'ensemble des acteurs désireux de contribuer à la transformation numérique du service public. Pour cela, nous répondons aux questions 1) quels sont les principes directeurs et modèles d'organisations nécessaires à l'utilisation du socle ? 2) Quels sont les prérequis théoriques (concepts) et pratiques pour l'utiliser? 3) Quel est le degré de préparation de mon équipe?
 
 ### Présentation de l'écosystème et socle technique "Cloud Native"
