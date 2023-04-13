@@ -2,10 +2,7 @@
 # Sensiblisation
 
 ## Questions
-Pourquoi me parle t-on de "Cloud Pi Native" et quels en sont les enjeux :
-- En général?
-- Pour ma stratégie?
-- Pour mes projets?
+Pourquoi me parle t-on de "Cloud Pi Native"? Qquels en sont les enjeux 1) en général 2) pour ma stratégie numérique 3) pour mes projets?
  
 ## Objectifs et structure
 A l'issue de cette section, vous serez en mesure de comprendre : 
@@ -21,14 +18,14 @@ Vous serez en mesure de solliciter votre sponsor ou argumenter avec vos équipes
 Aucun prérequis technique n'est obligatoire
  
  
-Plan/trame : 
+## Plan/trame 
  
-Quel est l’enjeu à transformer la production du numérique public?
+### Quel est l’enjeu à transformer la production du numérique public?
 Tous les domaines d’activités se font « disrupter » par le numérique +  énorme complexité
 Émergence d’acteurs extrêmement concurrentiels : c’est le « monde du logiciel qui marche » (pas de Facebook 2.0, 1 minute de panne =  c’est les grands titres, etc...) et imposent, à tous, leurs standards « de fait ». 
 Pour rester souverain, pas perdre les citoyens, exercer rôle de régulateur, l’État doit se hisser au niveau pour prendre part à la définition des standards : SSI, RGPD, accessibilité, impact environnemental...
  
-Pourquoi la doctrine « cloud au centre » est une réponse ? 
+### Pourquoi la doctrine « cloud au centre » est une réponse ? 
 	Le cloud c’est faire tourner ses logiciels sur « l’ordinateur de quelqu’un d’autre ». Pourquoi faire ça ? Exemple crise Covid 
 	C’est ce que la doctrine « cloud au centre » cherche vise à étende comme un « mode par défaut » pour adresser... (synthèse liste des enjeux présentations Vincent Coudrin) :
 	En jeux de transformation : DevOps et mode produit, passage à l’échelle avec résilience et scalabilité, à coût marginal faible... 
@@ -42,7 +39,7 @@ Pourquoi la doctrine « cloud au centre » est une réponse ?
 	Culture de consommation gafam
  
  
-Qu’est ce que le cloud native ? 
+### Qu’est ce que le cloud native ? 
 	Pour concrétiser les promesse du « cloud », le numérique publique doit intégrer lune capacité de production à l’État de l’art : 
 	Nouvelles technos pour consommer le cloud : automatisation, déploiement, modularité, résilience-> conteneurisation + orchestration (kubernetes) ,
 	Nouveaux modes de productions : réutilisation/intégration de briques, open source, standardisation/automatisation, dev +tests/sec + ops « intégré en dur »- > Usines logicielles, chaînes DevSecOps
@@ -53,7 +50,7 @@ Qu’est ce que le cloud native ?
 	Cloud Native est une offre souveraine qui se base sur PI Native et particulièrement k8s
 
  
-Qu’est-ce que l’offre Cloud Pi Native ?
+### Qu’est-ce que l’offre Cloud Pi Native ?
 	C’est l’offre « Cloud native » du MIOM :
 	Cadre de norme qui se base sur les principes du cloud native
 	C'est une offre de service et un cadre de norme qui s'impose à tous
