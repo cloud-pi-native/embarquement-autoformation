@@ -2,7 +2,7 @@ Les ressources rassemblées ici constituent la base de connaissances accessibles
 - Faisant des pulls request sur le repository
 - Faisant des issues
 
-# Pourquoi Cloud Pi Nativ? enjeux de transformation du numérique public
+# Pourquoi Cloud Pi Native? enjeux de transformation du numérique public
 ### Un "nouveau monde" logiciel a émergé
 Ces 10 dernières années la puissance d'intermédiation du numérique a capté/dévoré une part croissante des activités humaines. Transport, banque, finance, sociabilité, hotellerie, logistique, sécurité, identité, culture, divertissement... deviennent numériques.  Les causes d'un tel changement ne sont pas seulement technologiques: elles ont trait aux organisations, responsabilités, normes (y compris culturelles) de la production numérique. C'est un changement de paradigme complet, un ["nouveau monde logiciel"](https://pi.interieur.rie.gouv.fr/nouveau-monde-logiciel/).
 
