@@ -2,7 +2,9 @@
 # Sensiblisation
 
 ## Questions
-Pourquoi me parle t-on de "Cloud Pi Native"? Qquels en sont les enjeux 1) en général 2) pour ma stratégie numérique 3) pour mes projets?
+- Pourquoi me parle t-on de "Cloud Pi Native"? 
+- Quels en sont les enjeux 1) en général 2) pour ma stratégie numérique 3) pour mes projets?
+- Le cas échéants, comment puis-je aller plus loin? 
  
 ## Objectifs et structure
 A l'issue de cette section, vous serez en mesure de comprendre : 
@@ -16,8 +18,7 @@ Vous serez en mesure de solliciter votre sponsor ou argumenter avec vos équipes
 - Supports de la formation (30 minutes)
 - Parcours de formation (ci-dessous)
 Aucun prérequis technique n'est obligatoire
- 
- 
+
 ## Plan/trame 
  
 ### Quel est l’enjeu à transformer la production du numérique public?
@@ -27,24 +28,27 @@ Aucun prérequis technique n'est obligatoire
 - Pour rester souverain, pas perdre les citoyens, exercer rôle de régulateur, l’État doit se hisser au niveau pour prendre part à la définition des standards : SSI, RGPD, accessibilité, impact environnemental...
 
 ### Pourquoi la doctrine « cloud au centre » est une réponse ? 
-Le cloud c'est bien plus que "faire tourner ses logiciels sur l’ordinateur de quelqu’un d’autre ». C'est une condition nécessaire pour réaliser, à temps, une transformation numérique d'envergure (Exemple crise de la crise Covid dans la présentation "Cloud au centre").
+Le cloud c'est bien plus que "faire tourner ses logiciels sur l’ordinateur de quelqu’un d’autre ». C'est une condition nécessaire pour réaliser, à temps, une transformation numérique d'envergure :
+- Exemple crise de la crise Covid dans la présentation "Cloud au centre").
  
  C’est ce que la doctrine « cloud au centre » cherche vise à poser comme un « mode par défaut » pour répondre aux enjeux suivants :
   - Enjeux de transformation : DevOps et mode produit, intégration et déploiement continue, passage à l’échelle avec résilience et scalabilité, à coût marginal faible... 
   - Enjeux de souveraineté: sécurité, réduction des dépendances (réversibilité) et accès facile à l’innovation (service HPC, IA, bigdata..) ...
   - Enjeux d’accélération: élargir le catalogue UE, soutient aux industriels UE, gains d’autonomie 
 
-
-- Nouveaux projets de l’État doivent adopter la posture cloud pour l’acquisition, les développements internes, la sous traitance du numérique
+Nouveaux projets de l’État doivent adopter la "posture cloud" dans:
+- L’acquisition et la consommation de service
+- Les développements internes
+- La sous traitance 
 
 ### Qu’est ce que le cloud native ? 
 Concrétiser les promesse du Cloud "nécessite bien plus qu’un Cloud provider [...] il est bénéfique de prendre du recul sur les processus de delivery et de s’intéresser aux leviers techniques, méthodologiques et culturels associés à la mise en place d’une démarche d’accompagnement de votre parc applicatif dans le Cloud" https://blog.octo.com/cloud-enjeux-2023/
 - Le "Cloud native" c'est la conjonction d'un ensemble de leviers technologiques, méthodologiques et cutlurels qui permet de tirer le plein potentiel du cloud. C'est un "paradigme" car cela a permis aux acteurs qui s'en sont emparé de totalement remettre en question leurs secteurs d’activité. 
 
-pour en réaliser le potentiel https://www.redhat.com/fr/topics/cloud-native-apps: 
+Pour réaliser le potentiel du cloud dans les marché en rapid évolution dans un monde de plus en plus complexe le "Cloud native" formalise les leviers suivants https://www.redhat.com/fr/topics/cloud-native-apps: 
 - Leviers technologiques (micro services, conteneurisation, orchestration): pour consommer le cloud, la modularité, la résilience, le déploiement en continu grace à des usines logicielles...
 - Leviers liés aux approches de productions : réutilisation/intégration de briques (souvent open source), standardisation/automatisation, intégration des tests de sécurité dans la chaine de production ...
--  Leviers culturels: responsabilitiés partagées, de co-construction, évolution en continue, implication client/usager, capitalisation sur l'UX/UI acquise par ses utilisateurs
+-  Leviers culturels: responsabilitiés partagées, de co-construction, évolution en continue, implication client/usager, capitalisation sur l'UX/UI acquise par les utilisateurs;
  
 ### Qu’est-ce que l’offre Cloud Pi Native ?
 "Cloud Pi Native" c’est l’offre « Cloud native » du MIOM, à visée interministérielle, qui comprend :
@@ -68,12 +72,11 @@ l'offre est en développement en méthode agile : nos utilisateurs sont des par
 
 # A définir
 - Format de la présentation : 1) intro :  2) sondage sur les connaissances actuelles 3) présentation 4) quizz et collecte des retours (comment avez-vous trouvé... ? qu’est ce qui a manqué pour vous convaincre ? )
-- S’appuyer sur le témoignage d'un prescripteur (ministères ayant basculé sur l’offre et que l’on peut montrer : MTE, MJ, MinArm, Educ. Nat., …?)
-- Aller chercher un impact non-intellectuel
--	Donner envie d’aller chercher le « pour aller plus loin »
+- S’appuyer sur le témoignage d'un prescripteur (voir ministères ayant basculé sur l’offre et que l’on peut montrer : MTE, MJ, MinArm, Educ. Nat., …?)
+- Aller chercher les arguments impactant y compris sur le plan non-intellectuel
 -	Moyen de mesurer la réussite (ou non) de la session (OKR) ou le NPS (recommanderiez-vous cette offre-> NPR)
 -	Alimenter en exemple du quotidien, qui marche, reposant sur le paradigme "Cloud Native" : Google (Borg), Netflix, ... vs. des exemples de ce qui marche moins bien (banque ou assurance traditionnelles, ...)
--	Démystifier la sécurité (argument développés dans els présentations de "Cloud au centre")
+-	Démystifier la sécurité (argument développés dans les présentations de "Cloud au centre")
 -	Ré-ordonnance et travail sur la forme : une forme adaptée à des administrateurs cibles
 
  
