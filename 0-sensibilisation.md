@@ -1,16 +1,21 @@
-Acculturation
+
+# Sensiblisation
+
+## Questions
+Pourquoi me parle t-on de "Cloud Pi Native" et quels en sont les enjeux: en général, pour ma stratégie, pour mes projets?
  
-Objectif et structure en 4 parties :
-En tant que personne ayant le pouvoir d’orienter un projet/portefeuille vers une offre donnée, Pourquoi me parle t-on de Cloud Pi Native ? qu’est ce que c’est (sans rentrer dans les détails) et qu’est ce que ça apporte ?
-1.	Qu’est ce que le nouveau monde numérique ? (VUCA, le logiciel a dévoré le monde, ..)
-2.	Pourquoi le cloud ? (Cloud au centre, approche produit, devops, ....)
-3.	Pourquoi cloud native ? ( c’est « plus » que le Cloud)
-4.	Pourquoi Cloud Pi Native ? (valeur portées par l’offre)
- 
- 
-Format :
-30 minutes de présentation
-Public : On est sur des huiles non techniques, des personnes littéraires
+## Objectifs et structure
+A l'issue de cette section, vous serez en mesure de comprendre : 
+1.	Qu’est ce que l'on appelle "nouveau monde numérique" ? Qu'est ce qui a changé ?
+2.	Qu'est ce que la doctrine « cloud au centre » ? Quelles réponses apporte t-elle pour ma stratégie numérique ? 
+3.	Qu'est ce que le paradigme "cloud native" ? A quels défis technologiques, de méthodes, culturels, se pose t-il en réponse?
+4.	Qu'est ce que recouvre l'offre "Cloud Pi Native"? Quels sont les gains attendus pour mes projets ?
+Vous serez en mesure de solliciter votre sponsor ou argumenter avec vos équipes des cas ou il est interessant de débuter ou basculer des projets dans ce nouveau cadre.
+
+## Format et destinataires
+- Supports de la formation (30 minutes)
+- Parcours de formation (ci-dessous)
+Aucun prérequis technique n'est obligatoire
  
  
 Plan/trame : 
@@ -82,7 +87,7 @@ Suggestion :
 ·	Ce qui marche : Google, netflix, ... Et qui tourne sur kubernetes
 ·	En qui marche moins bien : le site de votre banque à l’ancienne, le site de votre assurance, ...
 ·	Démystifier sur la sécurité : finalement le clodu c’est plsu sur que beaucoup d’hébergement maison 
-·	Les 3 messages Cloud au centre, la conformité au cloud c’est bien, cloud pi native les yeux fermés
+·	
  
 Next Steps : 
 ·	Ré-ordonnance et travail sur la forme : une forme adaptée à des administrateurs cibles
