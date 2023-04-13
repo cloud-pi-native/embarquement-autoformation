@@ -7,8 +7,8 @@ Pourquoi me parle t-on de "Cloud Pi Native"? Qquels en sont les enjeux 1) en gé
 ## Objectifs et structure
 A l'issue de cette section, vous serez en mesure de comprendre : 
 1.	Qu’est ce que l'on appelle "nouveau monde numérique" ? Qu'est ce qui a changé ?
-2.	Qu'est ce que la doctrine « cloud au centre » ? Quelles réponses apporte t-elle pour ma stratégie numérique ? 
-3.	Qu'est ce que le paradigme "cloud native" ? A quels défis technologiques, de méthodes, culturels, se pose t-il en réponse?
+2.	Qu'est ce que la doctrine « cloud au centre » ? Quelles réponses apporte t-elle pour la stratégie numérique des acteurs étatiques ? 
+3.	Qu'est ce que le paradigme "cloud native" ? Quels leviers technologiques, méthodologiques, culturels apporte t-il?
 4.	Qu'est ce que recouvre l'offre "Cloud Pi Native"? Quels sont les gains attendus pour mes projets ?
 Vous serez en mesure de solliciter votre sponsor ou argumenter avec vos équipes des cas ou il est interessant de débuter ou basculer des projets dans ce nouveau cadre.
 
@@ -21,17 +21,17 @@ Aucun prérequis technique n'est obligatoire
 ## Plan/trame 
  
 ### Quel est l’enjeu à transformer la production du numérique public?
-Tous les domaines d’activités se font « disrupter » par le numérique +  énorme complexité
-Émergence d’acteurs extrêmement concurrentiels : c’est le « monde du logiciel qui marche » (pas de Facebook 2.0, 1 minute de panne =  c’est les grands titres, etc...) et imposent, à tous, leurs standards « de fait ». 
-Pour rester souverain, pas perdre les citoyens, exercer rôle de régulateur, l’État doit se hisser au niveau pour prendre part à la définition des standards : SSI, RGPD, accessibilité, impact environnemental...
+- Tous les domaines d’activités se font « disrupter » par le numérique +  énorme complexité
+- Émergence d’acteurs extrêmement concurrentiels : c’est le « monde du logiciel qui marche » (pas de Facebook 2.0, 1 minute de panne =  c’est les grands titres, etc...) et imposent, à tous, leurs standards « de fait ». 
+- Pour rester souverain, pas perdre les citoyens, exercer rôle de régulateur, l’État doit se hisser au niveau pour prendre part à la définition des standards : SSI, RGPD, accessibilité, impact environnemental...
  
 ### Pourquoi la doctrine « cloud au centre » est une réponse ? 
-	Le cloud c’est faire tourner ses logiciels sur « l’ordinateur de quelqu’un d’autre ». Pourquoi faire ça ? Exemple crise Covid 
-	C’est ce que la doctrine « cloud au centre » cherche vise à étende comme un « mode par défaut » pour adresser... (synthèse liste des enjeux présentations Vincent Coudrin) :
-	En jeux de transformation : DevOps et mode produit, passage à l’échelle avec résilience et scalabilité, à coût marginal faible... 
-	Enjeux de souveraineté: sécurité, réduction des dépendances (réversibilité) et accès facile à l’innovation (service HPC, IA, bigdata..) ...
-	Enjeux d’accélération: élargir le catalogue UE, soutient aux industriels UE, gains d’autonomie 
-	Nouveaux projets de l’État doivent adopter la posture cloud pour l’acquisition, les développements internes, la sous traitance du numérique à travers : 
+- Le cloud consiste faire tourner ses logiciels sur « l’ordinateur de quelqu’un d’autre ». Pourquoi faire ça ? Exemple crise de la crise Covid 
+ - C’est ce que la doctrine « cloud au centre » cherche vise à étende comme un « mode par défaut » pour adresser... (synthèse liste des enjeux présentations "Cloud au centre") :
+  - Enjeux de transformation : DevOps et mode produit, passage à l’échelle avec résilience et scalabilité, à coût marginal faible... 
+  - Enjeux de souveraineté: sécurité, réduction des dépendances (réversibilité) et accès facile à l’innovation (service HPC, IA, bigdata..) ...
+  - Enjeux d’accélération: élargir le catalogue UE, soutient aux industriels UE, gains d’autonomie 
+- Nouveaux projets de l’État doivent adopter la posture cloud pour l’acquisition, les développements internes, la sous traitance du numérique à travers : 
 	Nouvelle organisation/modèle opérationnel cible
 	Pratiques mode produit, intégration et déploiement continue
 	Formation, compétences, accompagnement
