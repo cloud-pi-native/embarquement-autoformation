@@ -2,7 +2,10 @@
 # Sensiblisation
 
 ## Questions
-Pourquoi me parle t-on de "Cloud Pi Native" et quels en sont les enjeux: en général, pour ma stratégie, pour mes projets?
+Pourquoi me parle t-on de "Cloud Pi Native" et quels en sont les enjeux :
+- En général?
+- Pour ma stratégie?
+- Pour mes projets?
  
 ## Objectifs et structure
 A l'issue de cette section, vous serez en mesure de comprendre : 
