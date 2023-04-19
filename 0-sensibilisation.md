@@ -1,10 +1,10 @@
 
-# Sensiblisation
+# Sensibilisation
 
 ## Questions
 - Pourquoi me parle t-on de "Cloud Pi Native"? 
 - Quels en sont les enjeux 1) en général 2) pour ma stratégie numérique 3) pour mes projets?
-- Le cas échéants, comment puis-je aller plus loin? 
+- Le cas échéant, comment puis-je aller plus loin? 
  
 ## Objectifs et structure
 A l'issue de cette section, vous serez en mesure de comprendre : 
