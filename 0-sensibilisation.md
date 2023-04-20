@@ -2,9 +2,9 @@
 # Sensibilisation
 
 ## Questions
-- Pourquoi me parle t-on de "Cloud Pi Native"? 
-- Quels en sont les enjeux 1) en général 2) pour ma stratégie numérique 3) pour mes projets?
-- Le cas échéant, comment puis-je aller plus loin? 
+- Pourquoi me parle t-on de "Cloud Pi Native"?
+- Quels sont les concepts sous-jacents? et les enjeux 1) en général 2) pour ma stratégie numérique 3) pour mes projets?
+- Si je pense que ça a de la valeur pour mes projets, comment puis-je aller plus loin? 
  
 ## Objectifs et structure
 A l'issue de cette section, vous serez en mesure de comprendre : 
@@ -15,17 +15,17 @@ A l'issue de cette section, vous serez en mesure de comprendre :
 Vous serez en mesure de solliciter votre sponsor ou argumenter avec vos équipes des cas ou il est interessant de débuter ou basculer des projets dans ce nouveau cadre.
 
 ## Format et destinataires
-- Supports de la formation (30 minutes)
-- Parcours de formation (ci-dessous)
+- 30 minutes de présentation
+- 15 minutes de questions
 Aucun prérequis technique n'est obligatoire
 
 ## Plan/trame 
  
 ### Quel est l’enjeu à transformer la production du numérique public?
-- Tous les domaines d’activités se font « disrupter » par le numérique +  énorme complexité
-- Émergence d’acteurs extrêmement concurrentiels : c’est le « monde du logiciel qui marche » (pas de Facebook 2.0, 1 minute de panne =  c’est les grands titres, etc...) 
-- Une nouvelle culture de consommation, propulsée par les GAFA et qui impose, à tous, des standards « de fait ». 
-- Pour rester souverain, pas perdre les citoyens, exercer rôle de régulateur, l’État doit se hisser au niveau pour prendre part à la définition des standards : SSI, RGPD, accessibilité, impact environnemental...
+- Tous les domaines d’activités se font « disrupter » par le numérique qui par son évolution rapide engendre une énorme complexité (banque, transport, sociabilité, assurance, ...). C'est un "nouveau monde numérique";
+- Émergence d’acteurs extrêmement concurrentiels : les clients utilisateurs de facebook, googlesheets, Netflix, etc. ont l'habitude de la simplicité, de la fiabilité, de la continuité de l’expérience (pas de facebook 2.0)… 
+- Les agents et les usagers ne comprennent pas pourquoi les produits proposés par l'Etat ne sont pas au niveau de ce qu’ils utilisent comme consommateurs. C'est ce qui explique que les acteurs du "nouveau monde numérique" imposent leur standards "de fait" y compris sur les données, l'identité, ...
+- Tout cela il l'ont faite en développant 1) de nouvelles technologies de passage à l'échelle 2) des nouveaux modes de production plus efficaces 3) une nouvelle culture de consommation. "Cloud Pi Native" c'est une tentative de s'approprier ces leviers pour en maitriser les standards et exercer sa souveraineté dans el sens des valeurs...
 
 ### Pourquoi la doctrine « cloud au centre » est une réponse ? 
 Le cloud c'est bien plus que "faire tourner ses logiciels sur l’ordinateur de quelqu’un d’autre ». C'est une condition nécessaire pour réaliser, à temps, une transformation numérique d'envergure :
