@@ -1,20 +1,21 @@
 # Sensibilisation
 
 ## Destinataires et format
-A destination des décideurs/de la gouvernance, pour leur permettre de juger de l'opportunité de basculer des projets vers l'offre "Cloud Pi native"?
+A destination des décideurs/de la gouvernance, pour les sensibiliser aux opportunités de l'offre "Cloud Pi native" pour leur organisation et leur permettre de pouvoir l'argumenter.
+
 Pas prérequis techniques
 - 30 minutes de présentation
 - 15 minutes de questions
 
 ## A quelles questions est ce que ça répond?
 - Pourquoi me parle t-on de "cloud native"?
-- Quels sont les concepts sous-jacents? et les enjeux 1) en général 2) pour la stratégie numérique de l'Etat 3) pour mes projets?
+- Quels sont les concepts et les enjeux sous-jacents 1) en général 2) pour la stratégie numérique de l'Etat 3) pour mon organisation/mon portefeuille projet?
 - En quoi l'offre "Cloud Pi Native" est interessante pour mes projets? Le cas échéant, sur la base de quels arguments initier une démarche auprès d'un sponsor ou de mes équipes?
 
 ## Quels sont les sujets dont il est question ?
-1.	Qu’est ce que l'on appelle "nouveau monde numérique" ? Qu'est ce qui a changé ?
+1.	Qu’est ce que l'on appelle "nouveau monde numérique" ? Qu'est ce que ca change pour le numérique public ?
 2.	Qu'est ce que la doctrine « cloud au centre » ? Quelles réponses apporte t-elle pour la stratégie numérique des acteurs étatiques ? 
-3.	Qu'est ce que le paradigme "cloud native" ? Quels leviers technologiques, méthodologiques, culturels recouvre t-il? pour quels gains? 
+3.	Qu'est ce qu'on appelle "cloud native" ? Quels leviers technologiques, méthodologiques, culturels recouvre t-il? pour quels gains? 
 4.	Qu'est ce que recouvre l'offre "Cloud Pi Native"? Que peut-elle apporter à mes projets ?
 
 ### Quel est l’enjeu à transformer la production du numérique public?
@@ -22,7 +23,7 @@ Pas prérequis techniques
 
 - Émergence d’acteurs extrêmement concurrentiels : les clients utilisateurs de facebook, googlesheets, Netflix, etc. ont l'habitude de la simplicité (pas besoin de mode d'emploi), de la fiabilité (pas d'interruption de service), de la continuité de l’expérience (pas de facebook 2.0)… 
 
-- Les agents et les usagers ne comprennent pas pourquoi les produits proposés par l'Etat ne sont pas au niveau de ce qu’ils utilisent comme consommateurs. C'est ce qui explique que les acteurs du "nouveau monde numérique" imposent leur standards "de fait" y compris sur les données, l'identité, ...
+- Les agents et les usagers ne comprennent pas pourquoi les produits proposés par l'Etat ne sont pas au niveau de ce qu’ils utilisent comme consommateurs. C'est ce qui explique que les acteurs du "nouveau monde numérique" ont imposé leurs standards "de fait" y compris sur des caractéristiques touchant en principe à des domaines régaliens (données, l'identité, ...)
 
 - Tout cela il l'ont faite en fournissant uen qualité de service supérieure en s'appuyant sur: 
 1) de nouvelles technologies de passage à l'échelle 
@@ -30,38 +31,42 @@ Pas prérequis techniques
 3) une nouvelle culture de consommation 
 -"Cloud Pi Native" c'est la tentative de mettre ces leviers à disposition de l'écosystème interministériel. Pour être souverain, c'est à dire produire et diffuser un numérique public au niveau de qualité dont les standards (SSI, RGPD, accessibilité, impact environnemental... ) sont conformes à nos lois et nos valeurs. 
 
-### Pourquoi la doctrine « cloud au centre » est une réponse ? 
-- La crise de la crise Covid a été l'occasion d'un basculement massif vers le numérique et le cloud a été un levier essentiel pour cela 
+### Pourquoi mettre le « cloud au centre », comme le préconise la doctrine ? 
+- Sans la puissance du cloud, l'utilisation massive d'outils numériques lors de la crise Covid n'aurait pas été possible.
 
-- La doctrine « cloud au centre » c'est un cadre pour tirer parti du cloud qui est une opportunité puissante afin de moderniser l'action publique en répondant à :
-1) Enjeux de transformation : pour pouvoir réaliser un passage à l’échelle fiable à coût marginal faible, mettre en place de nouvelles approches focalisées sur l'usager et l'évolutivité (DevOps et mode produit), la sobriété numérique, l'innovation (IA et big data)... 
-2) Enjeux de souveraineté: pour atteindre la sécurité et l'immunité au droit extra-UE, réducire les dépendances aux fournisseurs (réversibilité) tout en facilitant l'accès aux technologies les plus récentes ...
-3) Enjeux d’accélération: pour alimenter un catalogue de solutions UE, soutenir les industriels UE et renforcer notre autonomie
+- La doctrine « cloud au centre » c'est un cadre qui vise à tirer parti du cloud afin de moderniser l'action publique en répondant à :
+1) Des enjeux de transformation : pour pouvoir réaliser un passage à l’échelle fiable des services numériques à un coût marginal faible, mettre en place de nouvelles approches focalisées sur l'usager et permettant l'évolutivité (DevOps et mode produit), rationnaliser les ressoruces pour la sobriété numérique, innover en mettant en oeuvre l'IA et le big data ... 
+2) Enjeux de souveraineté: pour atteindre la sécurité et l'immunité au droit extra-UE en choisissant ses fournisseurs, réduire les dépendances et les verrouillages en facilitant le fait d'en changer (réversibilité), faciliter l'accès aux technologies les plus récentes (services cloud innovants)...
+3) Enjeux d’accélération: pour alimenter le catalogue de solutions UE, soutenir les industriels UE et renforcer l'autonomie de nos filières
 
-- La doctrine cloud au centre vise à étendre la "posture cloud" comme un « mode par défaut » et chaque ministère la décline dans sa stratégie:
+- Pour étendre les avantages de la "posture cloud" la doctrine doit être déclinée comme un "mode par défaut" par les ministères dans leurs stratégies:
 1) D’acquisition et de consommation de services/produits numériques
 2) De développements internes
 3) De sous-traitance 
 
+- Nous verrons plus loin comment l'offre Cloud Pi Native répond à cela
 
-### Qu’est ce que le cloud native ? 
-- Comme dit en introduction, ce n'est pas simplement en s'appuyant sur un fournisseur de cloud que les gafa et les nouveaux acteurs du numérique ont remis en question leurs secteurs d’activité. Pour concretiser les promesses du cloud, leurs infrastructures et leurs applications ont été pensées pour dès leur conception, leur construction pour présenter des caractéristiques clefs (5 caractéristiques du Cloud définies par le NIST).
+### Mais d'abord, qu’est ce que le cloud native ? 
+- Comme dit en introduction, ce n'est pas seulement en prennant sur un fournisseur de cloud que les acteurs du "nouveau monde numérique" ont pris des positions dominantes dans leurs secteurs d’activité. 
 
-- Ca, ca nécessite la conjonction de leviers techniques, méthodologiques et culturels https://blog.octo.com/cloud-enjeux-2023/ intriqués dans un "paradigme"  qu'on appelle "cloud native" et qui recouvre les technologies https://www.redhat.com/fr/topics/cloud-native-apps:
-- Permettant de consommer du cloud de facon très automatisée avec un maximum d'autonomie: c'est "kubernetes"; 
-- Permettant d'interconnecter les applications entre elles pour en augmenter la valeur: les API;
-- Permettant de rendre les applications plus modulaires et indépendantes: les microservices;
-- Permettant d'automatiser les approches de co-construction (clients/métier, Dev, Ops, Sec, ...) et de promouvoir une culture de responsabilitées partagées/l'autonomie: les usines logicielles DevOps (ou devsecops);
+- Pour concretiser les promesses du cloud, leurs infrastructures et leurs applications ont été pensées pour le cloud dès leur conception, puis tout au long de leur construction et le leur cycle de vie (cf. les 5 caractéristiques du Cloud définies par le NIST).
 
-- Le Cloud native c'est ce qui permet de concrétiser le fait de tirer le plein potentiel du cloud et pour produire et évoluer en continue, ce que l'on appelle le mode produit. 
-- Qu'est ce qu'on peut gagner avec le cloud native? ... 
+- Il leur a fallu la conjonction de nombreux leviers techniques, méthodologiques et culturels https://blog.octo.com/cloud-enjeux-2023/ ... tellements intriqués qu'ils constituent un "paradigme"  qu'on appelle "cloud native".
+
+- Techniquement, le "cloud Native" recouvre les technologies permettant: https://www.redhat.com/fr/topics/cloud-native-apps:
+1) De consommer du cloud de facon très automatisée avec un maximum d'autonomie et de fiabilité: "kubernetes" et les conteneurs; 
+2) D'interconnecter les applications entre elles pour en augmenter la valeur: les API;
+3) De rendre les applications plus modulaires et indépendantes pour l'évolutivité, la résilience: les microservices;
+4) De standardiser et d'automatiser des approches de co-construction (clients/métier, Dev, Ops, Sec, ...) pour mettre en place un meilleur partage des responsabilités  et l'autonomie d'utilisation: les usines logicielles DevOps (ou DevSecOps);
+
+- Qu'est ce que le Cloud native a permis de gagner au acteurs du nouveau monde logiciel?
 
 ### Qu’est-ce que l’offre Cloud Pi Native ?
 "Cloud Pi Native" c’est l’offre « Cloud native » du MIOM, à visée interministérielle, qui comprend :
 - Le Cloud "Pi" basée sur kubernetes: souverain, maitrisé par l'Etat;
-- Un cadre de norme qui se base sur les principes du cloud native et qui s'impose à tous et guide la conception;
--	Un socle de production DevSecOps pour réduire les frictions et assurer une continuité; de la construction à la mise en production à la gestion du cycle de vie;
--	Un accompagnement pour la montée en compétence des équipes afin d'atteindre l’autonomie ;
+- Un cadre de norme qui se base sur les principes du cloud native et qui s'impose à tous pour guider la conception et la gestion des produits numériques ;
+-	Un socle de production DevSecOps pour réduire les frictions et assurer une continuité tout au long du cycle de vie des produits: de la construction, à la mise en production, à la maintenance/évolution, au décommisionnement...
+-	Un accompagnement pour la montée en compétence des équipes jusqu'à atteindre un degré d'autonomie suffisant;
 
 Ce schéma un peu compliqué permet de voir ou sont les gains: 
 -	Un Cloud Pi souverain vs cloud public : protection données sensibles (NP et DR), infrastructures opérées par l’État, ... ; 
