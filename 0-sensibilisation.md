@@ -29,7 +29,8 @@ Pas prérequis techniques
 1) de nouvelles technologies de passage à l'échelle 
 2) des nouveaux modes de production plus efficaces 
 3) une nouvelle culture de consommation 
--"Cloud Pi Native" c'est la tentative de mettre ces leviers à disposition de l'écosystème interministériel. Pour être souverain, c'est à dire produire et diffuser un numérique public au niveau de qualité dont les standards (SSI, RGPD, accessibilité, impact environnemental... ) sont conformes à nos lois et nos valeurs. 
+
+- "Cloud Pi Native" c'est la tentative de mettre ces leviers à disposition de l'écosystème interministériel. Pour être souverain, c'est à dire produire et diffuser un numérique public au niveau de qualité dont les standards (SSI, RGPD, accessibilité, impact environnemental... ) sont conformes à nos lois et nos valeurs. 
 
 ### Pourquoi mettre le « cloud au centre », comme le préconise la doctrine ? 
 - Sans la puissance du cloud, l'utilisation massive d'outils numériques lors de la crise Covid n'aurait pas été possible.
