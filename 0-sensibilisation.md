@@ -74,7 +74,7 @@ Ce schéma un peu compliqué permet de voir ou sont les gains:
 ce que ca permet de faire (la promesse) 
 
 
-# si on devait retenir une chose
+# Conclusion ("si on devait retenir une chose...")
 l'offre existe déja (certains clioents en bénéfecie) est en développement en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution pour :
 - Gagner en vitesse de livraison et de déploiement en itération... (métriques pds)
 - D’acquérir les moyens de fonctionner en mode produit : gain d’agilité, proximité entre métiers et les « techs » , évolution et montée en performances
