@@ -52,25 +52,30 @@ Aucun prérequis technique n'est obligatoire
 - Permettant de consommer du cloud de facon très automatisée avec un maximum d'autonomie: c'est "kubernetes"; 
 - Permettant d'interconnecter les applications entre elles pour en augmenter la valeur: les API;
 - Permettant de rendre les applications plus modulaires et indépendantes: les microservices;
-- Permettant d'automatiser les approches de co-construction (clients/métier, Dev, Ops, Sec, ...) et de promouvoir une culture de responsabilitées partagées: les usines logicielles DevOps (ou devsecops);
+- Permettant d'automatiser les approches de co-construction (clients/métier, Dev, Ops, Sec, ...) et de promouvoir une culture de responsabilitées partagées/l'autonomie: les usines logicielles DevOps (ou devsecops);
 
-Le Cloud native c'est ce qui permet de concrétiser le fait de tirer le plein potentiel du cloud et pour produire et évoluer en continue, ce que l'on appelle le mode produit. 
+- Le Cloud native c'est ce qui permet de concrétiser le fait de tirer le plein potentiel du cloud et pour produire et évoluer en continue, ce que l'on appelle le mode produit. 
+- Et réaliser les gains suivants
 
 ### Qu’est-ce que l’offre Cloud Pi Native ?
 "Cloud Pi Native" c’est l’offre « Cloud native » du MIOM, à visée interministérielle, qui comprend :
-- Le Cloud "Pi" basée sur kubernetes: souverain, maitrisé;
-- Un cadre de norme qui se base sur les principes du cloud native et qui s'impose à tous;
--	Un socle de production DevSecOps pour réduire les frictions et assurer une continuité; de la mise en production à la gestion du cycle de vie;
+- Le Cloud "Pi" basée sur kubernetes: souverain, maitrisé par l'Etat;
+- Un cadre de norme qui se base sur les principes du cloud native et qui s'impose à tous et guide la conception;
+-	Un socle de production DevSecOps pour réduire les frictions et assurer une continuité; de la construction à la mise en production à la gestion du cycle de vie;
 -	Un accompagnement pour la montée en compétence des équipes afin d'atteindre l’autonomie ;
 
-Ce schéma un peu compliqué permet de vori ou sont les gains: 
+Ce schéma un peu compliqué permet de voir ou sont les gains: 
 -	Un Cloud Pi souverain vs cloud public : protection données sensibles (NP et DR), infrastructures opérées par l’État, ... ; 
 - Kubernetes vs. « VM à l’ancienne » : continuité de service, modularité, plus de résilience, scalabilité, ... 
 - Chaîne DSO en 2 parties vs. CI/CD 
 - 1ère partie : maîtriser ce qui est sous-traité depuis d’extérieur (80% du numérique public) avec : tests que l’on peut rejouer automatiquement et centralisation du code ...;
 - 2ième partie : maîtriser la confiance au sein de mon organisation en fournissant toutes les garanties automatiquement (homologation continue, conformité SSI/certification ..), 
 
-l'offre est en développement en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution pour :
+ce que ca permet de faire (la promesse) 
+
+
+# si on devait retenir une chose
+l'offre existe déja (certains clioents en bénéfecie) est en développement en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution pour :
 - Gagner en vitesse de livraison et de déploiement en itération... (métriques pds)
 - D’acquérir les moyens de fonctionner en mode produit : gain d’agilité, proximité entre métiers et les « techs » , évolution et montée en performances
 - Mieux maîtriser mes coûts : qualité maîtrisée (forte automatisation/standardisation), concentration sur mon périmètre de responsabilité (cf. schéma), 
