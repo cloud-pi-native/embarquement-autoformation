@@ -22,10 +22,13 @@ Aucun prérequis technique n'est obligatoire
 ## Plan/trame 
  
 ### Quel est l’enjeu à transformer la production du numérique public?
-- Tous les domaines d’activités se font « disrupter » par le numérique (banque, hotellerie, transports, sociabilité, ...). C'est un "nouveau monde numérique" caractérisé une évolution rapide et une énorme complexité (bcp d’effort pour dev operer etc);
-- Émergence d’acteurs extrêmement concurrentiels : les clients utilisateurs de facebook, googlesheets, Netflix, etc. ont l'habitude de la simplicité, de la fiabilité, de la continuité de l’expérience (pas de facebook 2.0)… 
+- Tous les domaines d’activités se font « disrupter » par le numérique (banque, hotellerie, transports, sociabilité, ...). C'est un "nouveau monde numérique" caractérisé une évolution rapide et une énorme complexité (interdépendances, ...);
+- Émergence d’acteurs extrêmement concurrentiels : les clients utilisateurs de facebook, googlesheets, Netflix, etc. ont l'habitude de la simplicité (pas besoin de mode d'emploi), de la fiabilité (pas d'interruption de service), de la continuité de l’expérience (pas de facebook 2.0)… 
 - Les agents et les usagers ne comprennent pas pourquoi les produits proposés par l'Etat ne sont pas au niveau de ce qu’ils utilisent comme consommateurs. C'est ce qui explique que les acteurs du "nouveau monde numérique" imposent leur standards "de fait" y compris sur les données, l'identité, ...
-- Tout cela il l'ont faite en développant 1) de nouvelles technologies de passage à l'échelle 2) des nouveaux modes de production plus efficaces 3) une nouvelle culture de consommation. "Cloud Pi Native" c'est une tentative de s'approprier ces leviers pour en maitriser les standards et exercer sa souveraineté dans el sens des valeurs...
+- Tout cela il l'ont faite en développant 
+1) de nouvelles technologies de passage à l'échelle 
+2) des nouveaux modes de production plus efficaces 
+3) une nouvelle culture de consommation. "Cloud Pi Native" c'est une tentative de s'approprier ces leviers pour en maitriser les standards et exercer sa souveraineté dans el sens des valeurs...
 
 ### Pourquoi la doctrine « cloud au centre » est une réponse ? 
 Le cloud c'est bien plus que "faire tourner ses logiciels sur l’ordinateur de quelqu’un d’autre ». C'est une condition nécessaire pour réaliser, à temps, une transformation numérique d'envergure :
