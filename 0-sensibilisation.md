@@ -1,31 +1,30 @@
-
 # Sensibilisation
 
-## Questions
-- Pourquoi me parle t-on de "Cloud Pi Native"?
-- Quels sont les concepts sous-jacents? et les enjeux 1) en général 2) pour ma stratégie numérique 3) pour mes projets?
-- Si je pense que ça a de la valeur pour mes projets, comment puis-je aller plus loin? 
- 
-## Objectifs et structure
-A l'issue de cette section, vous serez en mesure de comprendre : 
-1.	Qu’est ce que l'on appelle "nouveau monde numérique" ? Qu'est ce qui a changé ?
-2.	Qu'est ce que la doctrine « cloud au centre » ? Quelles réponses apporte t-elle pour la stratégie numérique des acteurs étatiques ? 
-3.	Qu'est ce que le paradigme "cloud native" ? Quels leviers technologiques, méthodologiques, culturels apporte t-il?
-4.	Qu'est ce que recouvre l'offre "Cloud Pi Native"? Quels sont les gains attendus pour mes projets ?
-Vous serez en mesure de solliciter votre sponsor ou argumenter avec vos équipes des cas ou il est interessant de débuter ou basculer des projets dans ce nouveau cadre.
-
-## Format et destinataires
+## Destinataires et format
+A destination des décideurs/de la gouvernance, pour leur permettre de juger de l'opportunité de basculer des projets vers l'offre "Cloud Pi native"?
+Pas prérequis techniques
 - 30 minutes de présentation
 - 15 minutes de questions
-Aucun prérequis technique n'est obligatoire
 
-## Plan/trame 
- 
+## A quels questions est ce que ça répond?
+- Pourquoi me parle t-on de "cloud native"?
+- Quels sont les concepts sous-jacents? et les enjeux 1) en général 2) pour ma stratégie numérique 3) pour mes projets?
+- En quoi l'offre "Cloud Pi Native" est interessante pour mes projets? Le cas échéant, sur la base de quels arguments initier une démarche auprès d'un sponsor ou de mes équipes?
+
+## Quels sont les sujets dont il est question ?
+1.	Qu’est ce que l'on appelle "nouveau monde numérique" ? Qu'est ce qui a changé ?
+2.	Qu'est ce que la doctrine « cloud au centre » ? Quelles réponses apporte t-elle pour la stratégie numérique des acteurs étatiques ? 
+3.	Qu'est ce que le paradigme "cloud native" ? Quels leviers technologiques, méthodologiques, culturels recouvre t-il? pour quels gains? 
+4.	Qu'est ce que recouvre l'offre "Cloud Pi Native"? Que peut-elle apporter à mes projets ?
+
 ### Quel est l’enjeu à transformer la production du numérique public?
 - Tous les domaines d’activités se font « disrupter » par le numérique (banque, hotellerie, transports, sociabilité, ...). C'est un "nouveau monde numérique" caractérisé une évolution rapide et une énorme complexité (interdépendances, ...);
+
 - Émergence d’acteurs extrêmement concurrentiels : les clients utilisateurs de facebook, googlesheets, Netflix, etc. ont l'habitude de la simplicité (pas besoin de mode d'emploi), de la fiabilité (pas d'interruption de service), de la continuité de l’expérience (pas de facebook 2.0)… 
+
 - Les agents et les usagers ne comprennent pas pourquoi les produits proposés par l'Etat ne sont pas au niveau de ce qu’ils utilisent comme consommateurs. C'est ce qui explique que les acteurs du "nouveau monde numérique" imposent leur standards "de fait" y compris sur les données, l'identité, ...
-- Tout cela il l'ont faite en s'appuyant sur: 
+
+- Tout cela il l'ont faite en fournissant uen qualité de service supérieure en s'appuyant sur: 
 1) de nouvelles technologies de passage à l'échelle 
 2) des nouveaux modes de production plus efficaces 
 3) une nouvelle culture de consommation 
@@ -34,10 +33,10 @@ Aucun prérequis technique n'est obligatoire
 ### Pourquoi la doctrine « cloud au centre » est une réponse ? 
 - La crise de la crise Covid a été l'occasion d'un basculement massif vers le numérique et le cloud a été un levier essentiel pour cela 
 
-- La doctrine « cloud au centre » c'est un cadre pour tirer parti du cloud afin de moderniser l'action publique en répondant à :
-1) Enjeux de transformation : passage à l’échelle fiable à coût marginal faible, nouvelles approches focalisées sur l'usager (DevOps et mode produit), la sobriété numérique, l'innovation (IA et big data)... 
-2) Enjeux de souveraineté: sécurité et l'immunité au droit extra-UE, réduction des dépendances (réversibilité) tout en facilitant l'accès aux technologies les plus récentes ...
-3) Enjeux d’accélération: élargir le catalogue des solutions UE, le soutien aux industriels UE
+- La doctrine « cloud au centre » c'est un cadre pour tirer parti du cloud qui est une opportunité puissante afin de moderniser l'action publique en répondant à :
+1) Enjeux de transformation : pour pouvoir réaliser un passage à l’échelle fiable à coût marginal faible, nouvelles approches focalisées sur l'usager (DevOps et mode produit), la sobriété numérique, l'innovation (IA et big data)... 
+2) Enjeux de souveraineté: pour atteindre la sécurité et l'immunité au droit extra-UE, réduction des dépendances (réversibilité) tout en facilitant l'accès aux technologies les plus récentes ...
+3) Enjeux d’accélération: pour élargir le catalogue des solutions UE, le soutien aux industriels UE et renforcer notre autonomie
 
 - La doctrine cloud au centre vise à étendre la "posture cloud" comme un « mode par défaut » et chaque ministère la décline dans sa stratégie:
 1) D’acquisition et de consommation de services/produits numériques
@@ -55,7 +54,7 @@ Aucun prérequis technique n'est obligatoire
 - Permettant d'automatiser les approches de co-construction (clients/métier, Dev, Ops, Sec, ...) et de promouvoir une culture de responsabilitées partagées/l'autonomie: les usines logicielles DevOps (ou devsecops);
 
 - Le Cloud native c'est ce qui permet de concrétiser le fait de tirer le plein potentiel du cloud et pour produire et évoluer en continue, ce que l'on appelle le mode produit. 
-- Et réaliser les gains suivants
+- Qu'est ce qu'on peut gagner avec le cloud native? ... 
 
 ### Qu’est-ce que l’offre Cloud Pi Native ?
 "Cloud Pi Native" c’est l’offre « Cloud native » du MIOM, à visée interministérielle, qui comprend :
