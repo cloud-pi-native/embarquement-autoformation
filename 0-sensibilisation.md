@@ -28,13 +28,13 @@ Aucun prérequis technique n'est obligatoire
 - Tout cela il l'ont faite en s'appuyant sur: 
 1) de nouvelles technologies de passage à l'échelle 
 2) des nouveaux modes de production plus efficaces 
-3) une nouvelle culture de consommation. 
+3) une nouvelle culture de consommation 
 -"Cloud Pi Native" c'est la tentative de mettre ces leviers à disposition de l'écosystème interministériel. Pour être souverain, c'est à dire produire et diffuser un numérique public au niveau de qualité dont les standards (SSI, RGPD, accessibilité, impact environnemental... ) sont conformes à nos lois et nos valeurs. 
 
 ### Pourquoi la doctrine « cloud au centre » est une réponse ? 
-- La crise de la crise Covid a été l'occasion d'un basculement massif vers le numérique. Le cloud a été un levier essentiel pour cela (les 5 caractéristiques définies par le NIST)
+- La crise de la crise Covid a été l'occasion d'un basculement massif vers le numérique et le cloud a été un levier essentiel pour cela 
 
--			La doctrine « cloud au centre » c'est le cadre qui doit permettre de moderniser l'action publique grace aux technologies cloud pour répondre à :
+- La doctrine « cloud au centre » c'est un cadre pour tirer parti du cloud afin de moderniser l'action publique en répondant à :
 1) Enjeux de transformation : passage à l’échelle fiable à coût marginal faible, nouvelles approches focalisées sur l'usager (DevOps et mode produit), la sobriété numérique, l'innovation (IA et big data)... 
 2) Enjeux de souveraineté: sécurité et l'immunité au droit extra-UE, réduction des dépendances (réversibilité) tout en facilitant l'accès aux technologies les plus récentes ...
 3) Enjeux d’accélération: élargir le catalogue des solutions UE, le soutien aux industriels UE
@@ -46,30 +46,25 @@ Aucun prérequis technique n'est obligatoire
 
 
 ### Qu’est ce que le cloud native ? 
-- Comme dit en introduction, ce n'est pas simplement en s'appuyant sur le cloud que les gafam ont réalisé leur transformation et sont devenus hyperconcurrentiels. 
+- Comme dit en introduction, ce n'est pas simplement en s'appuyant sur un fournisseur de cloud que les gafa et les nouveaux acteurs du numérique ont remis en question leurs secteurs d’activité. Pour concretiser les promesses du cloud, leurs infrastructures et leurs applications ont été pensées pour dès leur conception, leur construction pour présenter des caractéristiques clefs (5 caractéristiques du Cloud définies par le NIST).
 
+- Ca, ca nécessite la conjonction de leviers techniques, méthodologiques et culturels https://blog.octo.com/cloud-enjeux-2023/ intriqués dans un "paradigme"  qu'on appelle "cloud native" et qui recouvre les technologies https://www.redhat.com/fr/topics/cloud-native-apps:
+- Permettant de consommer du cloud de facon très automatisée avec un maximum d'autonomie: c'est "kubernetes"; 
+- Permettant d'interconnecter les applications entre elles pour en augmenter la valeur: les API;
+- Permettant de rendre les applications plus modulaires et indépendantes: les microservices;
+- Permettant d'automatiser les approches de co-construction (clients/métier, Dev, Ops, Sec, ...) et de promouvoir une culture de responsabilitées partagées: les usines logicielles DevOps (ou devsecops);
 
-Le cloud c'est bien plus que "faire tourner ses logiciels sur l’ordinateur de quelqu’un d’autre ». C'est une condition nécessaire pour réaliser, à temps, une transformation numérique d'envergure :
+Le Cloud native c'est ce qui permet de concrétiser le fait de tirer le plein potentiel du cloud et pour produire et évoluer en continue, ce que l'on appelle le mode produit. 
 
-
-
-Concrétiser les promesse du Cloud "nécessite bien plus qu’un Cloud provider [...] il est bénéfique de prendre du recul sur les processus de delivery et de s’intéresser aux leviers techniques, méthodologiques et culturels associés à la mise en place d’une démarche d’accompagnement de votre parc applicatif dans le Cloud" https://blog.octo.com/cloud-enjeux-2023/
-- Le "Cloud native" c'est la conjonction d'un ensemble de leviers technologiques, méthodologiques et cutlurels qui permet de tirer le plein potentiel du cloud. C'est un "paradigme" car cela a permis aux acteurs qui s'en sont emparé de totalement remettre en question leurs secteurs d’activité. 
-
-Pour réaliser le potentiel du cloud dans les marché en rapid évolution dans un monde de plus en plus complexe le "Cloud native" formalise les leviers suivants https://www.redhat.com/fr/topics/cloud-native-apps: 
-- Leviers technologiques (micro services, conteneurisation, orchestration): pour consommer le cloud, la modularité, la résilience, le déploiement en continu grace à des usines logicielles...
-- Leviers liés aux approches de productions : réutilisation/intégration de briques (souvent open source), standardisation/automatisation, intégration des tests de sécurité dans la chaine de production ...
--  Leviers culturels: responsabilitiés partagées, de co-construction, évolution en continue, implication client/usager, capitalisation sur l'UX/UI acquise par les utilisateurs;
- 
 ### Qu’est-ce que l’offre Cloud Pi Native ?
 "Cloud Pi Native" c’est l’offre « Cloud native » du MIOM, à visée interministérielle, qui comprend :
-- Le Cloud souverain "Pi" basée sur kubernetes;
+- Le Cloud "Pi" basée sur kubernetes: souverain, maitrisé;
 - Un cadre de norme qui se base sur les principes du cloud native et qui s'impose à tous;
 -	Un socle de production DevSecOps pour réduire les frictions et assurer une continuité; de la mise en production à la gestion du cycle de vie;
 -	Un accompagnement pour la montée en compétence des équipes afin d'atteindre l’autonomie ;
 
-L'offre permet de nombreux gains: 
--	Cloud Pi souverain vs cloud public : protection données sensibles (NP et DR), infrastructures opérées par l’État, ... ; 
+Ce schéma un peu compliqué permet de vori ou sont les gains: 
+-	Un Cloud Pi souverain vs cloud public : protection données sensibles (NP et DR), infrastructures opérées par l’État, ... ; 
 - Kubernetes vs. « VM à l’ancienne » : continuité de service, modularité, plus de résilience, scalabilité, ... 
 - Chaîne DSO en 2 parties vs. CI/CD 
 - 1ère partie : maîtriser ce qui est sous-traité depuis d’extérieur (80% du numérique public) avec : tests que l’on peut rejouer automatiquement et centralisation du code ...;
@@ -89,6 +84,18 @@ l'offre est en développement en méthode agile : nos utilisateurs sont des par
 -	Alimenter en exemple du quotidien, qui marche, reposant sur le paradigme "Cloud Native" : Google (Borg), Netflix, ... vs. des exemples de ce qui marche moins bien (banque ou assurance traditionnelles, ...)
 -	Démystifier la sécurité (argument développés dans les présentations de "Cloud au centre")
 -	Ré-ordonnance et travail sur la forme : une forme adaptée à des administrateurs cibles
+
+
+
+technique et opérationnel: cloud + kubernetes + chaines devsecops
+
+Pour réaliser le potentiel du cloud dans les marché en rapid évolution dans un monde de plus en plus complexe le "Cloud native" formalise les leviers suivants : 
+- Leviers technologiques (micro services, conteneurisation, orchestration): pour consommer le cloud, la modularité, la résilience, le déploiement en continu grace à des usines logicielles...
+- Leviers liés aux approches de productions : réutilisation/intégration de briques (souvent open source), standardisation/automatisation, intégration des tests de sécurité dans la chaine de production ...
+-  Leviers culturels: responsabilitiés partagées, de co-construction, évolution en continue, implication client/usager, capitalisation sur l'UX/UI acquise par les utilisateurs;
+ 
+ 
+ Le cloud c'est bien plus que "faire tourner ses logiciels sur l’ordinateur de quelqu’un d’autre ». C'est une condition nécessaire pour réaliser, à temps, une transformation numérique d'envergure :
 
  
 
