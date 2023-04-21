@@ -6,7 +6,7 @@ Pas prérequis techniques
 - 30 minutes de présentation
 - 15 minutes de questions
 
-## A quels questions est ce que ça répond?
+## A quelles questions est ce que ça répond?
 - Pourquoi me parle t-on de "cloud native"?
 - Quels sont les concepts sous-jacents? et les enjeux 1) en général 2) pour ma stratégie numérique 3) pour mes projets?
 - En quoi l'offre "Cloud Pi Native" est interessante pour mes projets? Le cas échéant, sur la base de quels arguments initier une démarche auprès d'un sponsor ou de mes équipes?
