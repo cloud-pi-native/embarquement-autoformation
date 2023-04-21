@@ -25,26 +25,34 @@ Aucun prérequis technique n'est obligatoire
 - Tous les domaines d’activités se font « disrupter » par le numérique (banque, hotellerie, transports, sociabilité, ...). C'est un "nouveau monde numérique" caractérisé une évolution rapide et une énorme complexité (interdépendances, ...);
 - Émergence d’acteurs extrêmement concurrentiels : les clients utilisateurs de facebook, googlesheets, Netflix, etc. ont l'habitude de la simplicité (pas besoin de mode d'emploi), de la fiabilité (pas d'interruption de service), de la continuité de l’expérience (pas de facebook 2.0)… 
 - Les agents et les usagers ne comprennent pas pourquoi les produits proposés par l'Etat ne sont pas au niveau de ce qu’ils utilisent comme consommateurs. C'est ce qui explique que les acteurs du "nouveau monde numérique" imposent leur standards "de fait" y compris sur les données, l'identité, ...
-- Tout cela il l'ont faite en développant 
+- Tout cela il l'ont faite en s'appuyant sur: 
 1) de nouvelles technologies de passage à l'échelle 
 2) des nouveaux modes de production plus efficaces 
-3) une nouvelle culture de consommation. "Cloud Pi Native" c'est une tentative de s'approprier ces leviers pour en maitriser les standards et exercer sa souveraineté dans el sens des valeurs...
+3) une nouvelle culture de consommation. 
+-"Cloud Pi Native" c'est la tentative de mettre ces leviers à disposition de l'écosystème interministériel. Pour être souverain, c'est à dire produire et diffuser un numérique public au niveau de qualité dont les standards (SSI, RGPD, accessibilité, impact environnemental... ) sont conformes à nos lois et nos valeurs. 
 
 ### Pourquoi la doctrine « cloud au centre » est une réponse ? 
-Le cloud c'est bien plus que "faire tourner ses logiciels sur l’ordinateur de quelqu’un d’autre ». C'est une condition nécessaire pour réaliser, à temps, une transformation numérique d'envergure :
-- Exemple crise de la crise Covid dans la présentation "Cloud au centre").
- 
- C’est ce que la doctrine « cloud au centre » cherche vise à poser comme un « mode par défaut » pour répondre aux enjeux suivants :
-  - Enjeux de transformation : DevOps et mode produit, intégration et déploiement continue, passage à l’échelle avec résilience et scalabilité, à coût marginal faible... 
-  - Enjeux de souveraineté: sécurité, réduction des dépendances (réversibilité) et accès facile à l’innovation (service HPC, IA, bigdata..) ...
-  - Enjeux d’accélération: élargir le catalogue UE, soutient aux industriels UE, gains d’autonomie 
+- La crise de la crise Covid a été l'occasion d'un basculement massif vers le numérique. Le cloud a été un levier essentiel pour cela (les 5 caractéristiques définies par le NIST)
 
-Nouveaux projets de l’État doivent adopter la "posture cloud" dans:
-- L’acquisition et la consommation de service
-- Les développements internes
-- La sous traitance 
+-			La doctrine « cloud au centre » c'est le cadre qui doit permettre de moderniser l'action publique grace aux technologies cloud pour répondre à :
+1) Enjeux de transformation : passage à l’échelle fiable à coût marginal faible, nouvelles approches focalisées sur l'usager (DevOps et mode produit), la sobriété numérique, l'innovation (IA et big data)... 
+2) Enjeux de souveraineté: sécurité et l'immunité au droit extra-UE, réduction des dépendances (réversibilité) tout en facilitant l'accès aux technologies les plus récentes ...
+3) Enjeux d’accélération: élargir le catalogue des solutions UE, le soutien aux industriels UE
+
+- La doctrine cloud au centre vise à étendre la "posture cloud" comme un « mode par défaut » et chaque ministère la décline dans sa stratégie:
+1) D’acquisition et de consommation de services/produits numériques
+2) De développements internes
+3) De sous-traitance 
+
 
 ### Qu’est ce que le cloud native ? 
+- Comme dit en introduction, ce n'est pas simplement en s'appuyant sur le cloud que les gafam ont réalisé leur transformation et sont devenus hyperconcurrentiels. 
+
+
+Le cloud c'est bien plus que "faire tourner ses logiciels sur l’ordinateur de quelqu’un d’autre ». C'est une condition nécessaire pour réaliser, à temps, une transformation numérique d'envergure :
+
+
+
 Concrétiser les promesse du Cloud "nécessite bien plus qu’un Cloud provider [...] il est bénéfique de prendre du recul sur les processus de delivery et de s’intéresser aux leviers techniques, méthodologiques et culturels associés à la mise en place d’une démarche d’accompagnement de votre parc applicatif dans le Cloud" https://blog.octo.com/cloud-enjeux-2023/
 - Le "Cloud native" c'est la conjonction d'un ensemble de leviers technologiques, méthodologiques et cutlurels qui permet de tirer le plein potentiel du cloud. C'est un "paradigme" car cela a permis aux acteurs qui s'en sont emparé de totalement remettre en question leurs secteurs d’activité. 
 
