@@ -8,7 +8,7 @@ Pas prérequis techniques
 
 ## A quelles questions est ce que ça répond?
 - Pourquoi me parle t-on de "cloud native"?
-- Quels sont les concepts sous-jacents? et les enjeux 1) en général 2) pour ma stratégie numérique 3) pour mes projets?
+- Quels sont les concepts sous-jacents? et les enjeux 1) en général 2) pour la stratégie numérique de l'Etat 3) pour mes projets?
 - En quoi l'offre "Cloud Pi Native" est interessante pour mes projets? Le cas échéant, sur la base de quels arguments initier une démarche auprès d'un sponsor ou de mes équipes?
 
 ## Quels sont les sujets dont il est question ?
@@ -34,9 +34,9 @@ Pas prérequis techniques
 - La crise de la crise Covid a été l'occasion d'un basculement massif vers le numérique et le cloud a été un levier essentiel pour cela 
 
 - La doctrine « cloud au centre » c'est un cadre pour tirer parti du cloud qui est une opportunité puissante afin de moderniser l'action publique en répondant à :
-1) Enjeux de transformation : pour pouvoir réaliser un passage à l’échelle fiable à coût marginal faible, nouvelles approches focalisées sur l'usager (DevOps et mode produit), la sobriété numérique, l'innovation (IA et big data)... 
-2) Enjeux de souveraineté: pour atteindre la sécurité et l'immunité au droit extra-UE, réduction des dépendances (réversibilité) tout en facilitant l'accès aux technologies les plus récentes ...
-3) Enjeux d’accélération: pour élargir le catalogue des solutions UE, le soutien aux industriels UE et renforcer notre autonomie
+1) Enjeux de transformation : pour pouvoir réaliser un passage à l’échelle fiable à coût marginal faible, mettre en place de nouvelles approches focalisées sur l'usager et l'évolutivité (DevOps et mode produit), la sobriété numérique, l'innovation (IA et big data)... 
+2) Enjeux de souveraineté: pour atteindre la sécurité et l'immunité au droit extra-UE, réducire les dépendances aux fournisseurs (réversibilité) tout en facilitant l'accès aux technologies les plus récentes ...
+3) Enjeux d’accélération: pour alimenter un catalogue de solutions UE, soutenir les industriels UE et renforcer notre autonomie
 
 - La doctrine cloud au centre vise à étendre la "posture cloud" comme un « mode par défaut » et chaque ministère la décline dans sa stratégie:
 1) D’acquisition et de consommation de services/produits numériques
