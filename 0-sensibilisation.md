@@ -25,7 +25,7 @@ Pas prérequis techniques
 
 - Les agents et les usagers ne comprennent pas pourquoi les produits proposés par l'Etat ne sont pas au niveau de ce qu’ils utilisent comme consommateurs. C'est ce qui explique que les acteurs du "nouveau monde numérique" ont imposé leurs standards "de fait" y compris sur des caractéristiques touchant en principe à des domaines régaliens (données, l'identité, ...)
 
-- Tout cela il l'ont faite en fournissant uen qualité de service supérieure en s'appuyant sur: 
+- Tout cela il l'ont fait en fournissant uen qualité de service supérieure en s'appuyant sur: 
 1) de nouvelles technologies de passage à l'échelle 
 2) des nouveaux modes de production plus efficaces 
 3) une nouvelle culture de consommation 
@@ -44,7 +44,7 @@ Pas prérequis techniques
 2) De développements internes
 3) De sous-traitance 
 
-- Nous verrons plus loin comment l'offre Cloud Pi Native répond à cela
+- Nous verrons plus loin comment l'offre Cloud Pi Native répond à cela.
 
 ### Mais d'abord, qu’est ce que le cloud native ? 
 - Comme dit en introduction, ce n'est pas seulement en prennant sur un fournisseur de cloud que les acteurs du "nouveau monde numérique" ont pris des positions dominantes dans leurs secteurs d’activité. 
@@ -62,28 +62,21 @@ Pas prérequis techniques
 - Qu'est ce que le Cloud native a permis de gagner au acteurs du nouveau monde logiciel?
 
 ### Qu’est-ce que l’offre Cloud Pi Native ?
-"Cloud Pi Native" c’est l’offre « Cloud native » du MIOM, à visée interministérielle, qui comprend :
+On en vient à la question de départ: "Cloud Pi Native" c’est l’offre « Cloud native » du MIOM, à visée interministérielle, qui comprend :
 - Le Cloud "Pi" basée sur kubernetes: souverain, maitrisé par l'Etat;
 - Un cadre de norme qui se base sur les principes du cloud native et qui s'impose à tous pour guider la conception et la gestion des produits numériques ;
 -	Un socle de production DevSecOps pour réduire les frictions et assurer une continuité tout au long du cycle de vie des produits: de la construction, à la mise en production, à la maintenance/évolution, au décommisionnement...
 -	Un accompagnement pour la montée en compétence des équipes jusqu'à atteindre un degré d'autonomie suffisant;
+ 
+Levons un peu le capot, pour voir les principaux composants qui portent la promesses, ce qui permettra de pouvoir parler de l'offre avec les techniques (savoir ce qu'il en pense par exemple). L'offre peut etre vue comme une chaine qui va permettre de déployer le code d'une application sur le Cloud pour le "faire tourner":
+- 1ère partie de la chaine DevSecOps: maîtriser les développement sous-traités depuis d’extérieur (80% du numérique public) avec une centralisation des dépots de code, le suivi de projet (backlog), des tests que l’on peut rejouer automatiquement... QUALITE;
+- 2ième partie : maîtriser la confiance au sein de mon organisation en fournissant les garanties automatiquement AVANT de déployer sur le cloud (homologation continue, vérification, certification ..) et observabilité... GESTION SECURISEE, 
+- Un Cloud Pi souverain : assurer LA protection données sensibles (NP et DR) grace à des infrastructures opérées par l’État, mais aussi plus souple et independante (kubernetes logo bleu) ... ; 
 
-Ce schéma un peu compliqué permet de voir ou sont les gains: 
--	Un Cloud Pi souverain vs cloud public : protection données sensibles (NP et DR), infrastructures opérées par l’État, ... ; 
-- Kubernetes vs. « VM à l’ancienne » : continuité de service, modularité, plus de résilience, scalabilité, ... 
-- Chaîne DSO en 2 parties vs. CI/CD 
-- 1ère partie : maîtriser ce qui est sous-traité depuis d’extérieur (80% du numérique public) avec : tests que l’on peut rejouer automatiquement et centralisation du code ...;
-- 2ième partie : maîtriser la confiance au sein de mon organisation en fournissant toutes les garanties automatiquement (homologation continue, conformité SSI/certification ..), 
-
-ce que ca permet de faire (la promesse) 
-
+- Et si on veut l'utiliser, comment ça se passe? l'offre existe déja (certains clients en bénéfecient) est en développement en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution. Voici la séquence d'utilisation.
 
 # Conclusion ("si on devait retenir une chose...")
-l'offre existe déja (certains clioents en bénéfecie) est en développement en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution pour :
-- Gagner en vitesse de livraison et de déploiement en itération... (métriques pds)
-- D’acquérir les moyens de fonctionner en mode produit : gain d’agilité, proximité entre métiers et les « techs » , évolution et montée en performances
-- Mieux maîtriser mes coûts : qualité maîtrisée (forte automatisation/standardisation), concentration sur mon périmètre de responsabilité (cf. schéma), 
-- Simplifier la gouvernance grâce à l’observabilité et la supervision des applications
+
 
 # A définir
 - Format de la présentation : 1) intro :  2) sondage sur les connaissances actuelles 3) présentation 4) quizz et collecte des retours (comment avez-vous trouvé... ? qu’est ce qui a manqué pour vous convaincre ? )
