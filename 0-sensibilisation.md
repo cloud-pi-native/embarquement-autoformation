@@ -5,33 +5,33 @@ A destination des décideurs/de la gouvernance, pour les sensibiliser aux opport
 - L'interet du "cloud" pour le numérique public
 - Prendre connaissance des concepts et les enjeux sous-jacents
 - Comprendre ce qu'est l'offre "Cloud Pi Native" et ce qu'elle peut apporter à une organisation/un portefeuille projet
-L'interet avéré, cette sensibilisation fourni les arguments permettant d'initier une démarche de sollicitation de l'offre auprès d'un sponsor ou d'une équipe projet.
+Le cas échéant, cette sensibilisation permet d'argumenter l'interet de l'offre auprès d'un sponsor ou d'une équipe projet.
+
 
 ## Format de la présentation
-Pas prérequis techniques
+Pas de prérequis techniques
 - 30 minutes de présentation
 - 15 minutes de questions
 
+
 ## A quelles questions est-ce que la présentation répond?
-1.	Qu’est ce que l'on appelle "nouveau monde numérique" ? Pourquoi parle t-on de "cloud native"? Quel est l'enjeu pour le numérique public ?
-2.	Qu'est ce que la doctrine « cloud au centre » ? A quelles enjeux répond-elle et avec quels leviers ? quels aspects de la stratégie numérique ministérielle ? 
-3.	Qu'est ce qu'on appelle les technologies "cloud native" ? Quel lien avec "le cloud"? Qe peremttent ces technologies ? 
-4.	Qu'est ce que contient l'offre "Cloud Pi Native" du MIOM ? Que peut-elle apporter à mes projets ? Comment peut-on en bénéficier?
+1.	Qu’est ce que l'on appelle "nouveau monde numérique"? Pourquoi parle t-on de "cloud native"? Quel est l'enjeu pour le numérique public?
+2.	Qu'est ce que la doctrine « cloud au centre »? A quelles enjeux répond-elle et avec quels leviers? quels aspects de la stratégie numérique ministérielle? 
+3.	Qu'est ce qu'on appelle les technologies "cloud native"? Quel lien avec "le cloud"? Qe peremttent ces technologies? 
+4.	Qu'est ce que contient l'offre "Cloud Pi Native" du MIOM? Que peut-elle apporter à mes projets? Comment peut-on en bénéficier?
 
 
 ### Quel est l’enjeu à transformer la production du numérique public?
-- Tous les domaines d’activités se font « disrupter » par le numérique (banque, hotellerie, transports, sociabilité, ...). C'est un "nouveau monde numérique" caractérisé une évolution rapide et une énorme complexité (interdépendances, ...);
+Les domaines d’activités se font « disrupter » un à un par des nouveaux acteurs du numérique: banques, information, transports, sociabilité, hotellerie/tourisme... Un "nouveau monde numérique" a émergé, en évolution rapide et complexité croissante.
 
-- Émergence d’acteurs extrêmement concurrentiels : les clients utilisateurs de facebook, googlesheets, Netflix, etc. ont l'habitude de la simplicité (pas besoin de mode d'emploi), de la fiabilité (pas d'interruption de service), de la continuité de l’expérience (pas de facebook 2.0)… 
+Paradoxalement, cette complexité technique s'accompagne d'une grande simplicité d'accès et d'une qualité technique qui les rendent extrèmement concurentiels. Les utilisateurs de Facebook, Google Docs, Netflix, ... ont pris l'habitude de la simplicité d'utilisation (outils sans mode d'emploi), de la fiabilité (pas d'interruption de service) et de la continuité de l’expérience (pas de "Facebook 2.0").
 
-- Les agents et les usagers ne comprennent pas pourquoi les produits proposés par l'Etat ne sont pas au niveau de ce qu’ils utilisent comme consommateurs. C'est ce qui explique que les acteurs du "nouveau monde numérique" ont imposé leurs standards "de fait" y compris sur des caractéristiques touchant en principe à des domaines régaliens (données, l'identité, ...)
-
-- Tout cela il l'ont fait en fournissant uen qualité de service supérieure en s'appuyant sur: 
+Les usagers, dont les agents publics, ne comprennent pas pourquoi les produits proposés par l'Etat ne sont pas au niveau de ce qu’ils utilisent en tant que consommateurs. C'est ce qui explique que les acteurs du "nouveau monde numérique" ont peu à peu imposé des standards "de fait" y compris sur des points relevant en principe de domaines régaliens (statut des données personnelles, certification de l'identité, émission de monnaie...). Pour cela les acteurs du "nouveau monde numérique" se sont appuyé sur: 
 1) de nouvelles technologies de passage à l'échelle 
-2) des nouveaux modes de production plus efficaces 
-3) une nouvelle culture de consommation 
+2) de nouveaux modes de production plus efficaces 
+3) de nouvelles normes culturelles portées par leur modèle commercial et les caractéristiques techniques
 
-- "Cloud Pi Native" c'est la tentative de mettre ces leviers à disposition de l'écosystème interministériel. Pour être souverain, c'est à dire produire et diffuser un numérique public au niveau de qualité dont les standards (SSI, RGPD, accessibilité, impact environnemental... ) sont conformes à nos lois et nos valeurs. 
+Tout cela est porté par le cloud: s'en approprier les leviers c'est se donner les moyens pour produire et diffuser un numérique public souverain. C'est à dire au niveau de qualité et selon des standards (SSI, RGPD, accessibilité, impact environnemental... ) sont conformes à nos lois et à nos valeurs. C'est passer de la régulation DU numérique à la régulation PAR le numérique. De passer de l'aval (encadrement des activités générées) à l'amont (maitrise des outils par lesquels sont génèrées ces activités).
 
 ### Pourquoi mettre le « cloud au centre », comme le préconise la doctrine ? 
 - Sans la puissance du cloud, l'utilisation massive d'outils numériques lors de la crise Covid n'aurait pas été possible.
