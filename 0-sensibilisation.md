@@ -31,7 +31,7 @@ Les usagers, dont les agents publics, ne comprennent pas pourquoi les produits p
 2) de nouveaux modes de production plus efficaces 
 3) de nouvelles normes culturelles portées par le modèle commercial (ex: donnée) et les caractéristiques techniques(ex: ubiquité)
 
-Tout cela est porté par des technologies qui s'appuient sur le cloud: les maitriser c'est se donner les moyens de produire et diffuser un numérique public souverain. C'est à dire au niveau de qualité technique et selon des standards (SSI, RGPD, accessibilité, impact environnemental... ) conformes à nos lois et à nos valeurs. C'est passer de la régulation DU numérique à la régulation PAR le numérique. De l'aval, l'encadrement des activités générées (ex: Airbnb) à l'amont, la maitrise des outils par lesquels sont générées ces activités.
+Tout cela est porté par des technologies qui s'appuient sur le cloud: les maitriser c'est se donner les moyens de produire et diffuser un numérique public souverain pour  passer de la régulation DU numérique à la régulation PAR le numérique. Grace à un niveau de qualité technique et des standards (SSI, RGPD, accessibilité, impact environnemental... ) conformes à ses lois et valeurs, l'Etat ne régule pas seulement l'aval (les activités générées par le numérique) mais l'amont (les outils par lesquels sont générées ces activités).
 
 ### Pourquoi mettre le « cloud au centre », comme le préconise la doctrine ? 
 La crise covid l'a montré: sans la puissance du cloud, la bascule massive vers les outils numériques ayant permis l'essor du télétravail aurait été impossible. Dans le même temps, qu'ils bénéficaient de la robustesse de services essentiels à leur activité, des millions d'utilisateurs se sont posé des questions sur le devenir de leur données personnelles. Il y a donc des opportunités, mais aussi des enjeux très forts autour du cloud. 
@@ -65,19 +65,22 @@ Mais ce n'est pas seulement avec un fournisseur de cloud que les acteurs du "nou
 Par extension, les leviers méthodologiques et culturels https://blog.octo.com/cloud-enjeux-2023/ ... mobilisés autour de ces technologies sont qualifés de "cloud native". C'est pourqui on l'utilise aussi comme un nom: "LE cloud native", pour désigner le paradigme de ces technologies.
 
 ### Qu’est-ce que l’offre Cloud Pi Native ?
-"Cloud Pi Native" c’est une offre du MIOM qui vise à mettre les leviers technologiques, méthodologiques et culturels du « cloud native » à portée des acteurs interministériels. Celle-ci comprend :
+Par le numrique, le monde est en transformation et il est nécessaire de remettre le "cloud au centre" pour mitriser la complexité générée. "Cloud Pi Native" c’est une offre du MIOM qui vise à mettre les leviers technologiques, méthodologiques et culturels du « cloud native » pour le faire, à portée des acteurs interministériels. 
+
+Celle-ci comprend :
 - **Le Cloud souverain "Pi"**, adaptée à l’hébergement de données sensibles (NP et DR) jusqu’au niveau Diffusion restreinte grace à des infrastructures opérées par le ministère de l’Intérieur. Il est aussi plus souple et résilient dans son utilisation grace à kubernetes. 
 - **Un cadre de normes** qui s'impose à tous pour guider la mise en place des principes du "cloud native" tout au long du cycle de vie des produits numériques. Il vise à mettre en cohérence l'ensemble des principes, normes et exigences applicables aux produits numériques, dès la conception .
-- **Un accompagnement** pour la montée en compétence des équipes afin atteindre un degré le plus d'autonomie possible dans la maitrise de ses responsabilités. L'offre est construite selon un principe de transparence et d'ouverture: contrairement à l'approche de certaines gros acteurs du numériques, nous pensons que la complexité doit être dévoilée de facon adaptée pour libérer l'utilisateur et faciliter son appropriation ;
+- **Un accompagnement** pour la montée en compétence des équipes afin atteindre un degré le plus d'autonomie possible dans la maitrise de ses responsabilités;
 -	**Un socle de production DevSecOps**, chaine qui va permettre de déployer le code d'une application sur le cloud pour la faire "tourner". Celle ci permet de réduire les frictions et assurer une continuité tout au long du cycle de vie des produits: de la construction, à la mise en production, à la maintenance/évolution, au décommisionnement.
 
 
 Toute les produits numériques sortent de la même usine et sont gérés selon un flux standardisée ce qui permet: 
 - **de vérifier la confomité des développements** (notamment sous-traités, 80% du numérique public) grace à la centralisation des dépots de code et du suivi du projet (backlog) ainsi qu'à l'automatisation des tests que l’on peut rejouer;
-- **de maîtriser la confiance au sein de mon organisation** en fournissant les garanties automatiquement AVANT de déployer sur le cloud (vérification des certificats, homologation continue,...)
-- **Une tour de controle**: via l'observabilité et le cadre de norme, une meilleure intégration et vision sur l'urbanisation du patrimoine applicatif et son activité;
+- **de maîtriser la confiance au sein de mon organisation** en fournissant les garanties automatiquement AVANT de déployer sur le cloud (vérification des certificats, homologation continue,...) et en sectorisant une fois sur le cloud.
+- **Une gouvernance**: via l'observabilité et le cadre de norme, une meilleure intégration et vision "tour de controle" sur l'urbanisation du patrimoine applicatif et son activité;
 - **Une proximité** entre l'ensemble des parties prenantes des produits numériques, d'un bout à l'autre de la chaine via des cycle beaucoup plus courts et la possibilité d'expérimenter rapidement pour réajuster (sur les plans technique ET métier);
 - **La rationalisation des couts**: à termel apossibilité de choisir ses hébergements en focntion de ses contraintes. "Inutile de prendre du cloud souverain pour des données ouvertes".
+- **transparence et ouverture**: contrairement à l'approche de certaines gros acteurs du numériques, nous pensons que la complexité doit être dévoilée de facon adaptée pour émanciper les utilisateurs et faciliter l'appropriation des produits nuémriques publics.
 
 
 ## Comment l'utiliser? 
@@ -98,20 +101,8 @@ L'offre existe déja (certains clients en bénéfecient) est en développement e
 - Aller chercher les arguments impactant y compris sur le plan non-intellectuel
 -	Moyen de mesurer la réussite (ou non) de la session (OKR) ou le NPS (recommanderiez-vous cette offre-> NPR)
 -	Alimenter en exemple du quotidien, qui marche, reposant sur le paradigme "Cloud Native" : Google (Borg), Netflix, ... vs. des exemples de ce qui marche moins bien (banque ou assurance traditionnelles, ...)
--	Démystifier la sécurité (argument développés dans les présentations de "Cloud au centre")
--	Ré-ordonnance et travail sur la forme : une forme adaptée à des administrateurs cibles
-
-
-
-technique et opérationnel: cloud + kubernetes + chaines devsecops
-
-Pour réaliser le potentiel du cloud dans les marché en rapid évolution dans un monde de plus en plus complexe le "Cloud native" formalise les leviers suivants : 
-- Leviers technologiques (micro services, conteneurisation, orchestration): pour consommer le cloud, la modularité, la résilience, le déploiement en continu grace à des usines logicielles...
-- Leviers liés aux approches de productions : réutilisation/intégration de briques (souvent open source), standardisation/automatisation, intégration des tests de sécurité dans la chaine de production ...
--  Leviers culturels: responsabilitiés partagées, de co-construction, évolution en continue, implication client/usager, capitalisation sur l'UX/UI acquise par les utilisateurs;
- 
-  
- Le cloud c'est bien plus que "faire tourner ses logiciels sur l’ordinateur de quelqu’un d’autre ». C'est une condition nécessaire pour réaliser, à temps, une transformation numérique d'envergure :
+-	Démystifier la sécurité (argument développés dans les présentations de "Cloud au centre"): elle est différente pur un individu et un acteur d'échelle "géostratégique";
+- Formaliser un élévator pitch
 
  
 
