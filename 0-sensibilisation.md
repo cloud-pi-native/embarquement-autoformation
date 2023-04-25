@@ -52,7 +52,9 @@ Pour concrétiser ces enjeux, le cloud (ou "cloud computing") designe l'ensemble
 - **Redimensionnement rapide (élasticité)**: La mise en ligne d’une nouvelle instance d’un serveur est réalisée en quelques minutes, l’arrêt et le redémarrage en quelques secondes. Toutes ces opérations peuvent s’effectuer automatiquement par des scripts. Ces mécanismes de gestion permettent de bénéficier pleinement de la facturation à l’usage en adaptant la puissance de calcul au trafic instantané.
 - **Facturation à l’usage**: Il n’y a généralement pas de coût de mise en service (c’est l’utilisateur qui réalise les opérations). La facturation est calculée en fonction de la durée et de la quantité de ressources utilisées. Une unité de traitement stoppée n’est pas facturée
 
-Mais ce n'est pas seulement avec un fournisseur de cloud que les acteurs du "nouveau monde numérique" ont acquis des positions dominantes sur leurs secteurs d’activité. Pour concretiser les promesses du cloud, leurs infrastructures et leurs applications ont du être pensées pour le cloud dès leur conception, puis tout au long de leur construction et le leur cycle de vie. D'ou le terme de technologies "cloud native".  Schématiquement on met essentuellement d'accent sur celles qui permettent de: https://www.redhat.com/fr/topics/cloud-native-apps:
+trouver une image simple de ce qu'est le cloud, la mettre ici.
+
+Mais ce n'est pas seulement avec un fournisseur de cloud que les acteurs du "nouveau monde numérique" ont acquis des positions dominantes sur leurs secteurs d’activité. Pour concretiser les promesses du cloud, leurs infrastructures et leurs applications ont du être pensées pour le cloud dès leur conception. D'ou le terme de technologies "cloud native" (née du cloud).  Schématiquement on met essentuellement d'accent sur celles qui permettent de: https://www.redhat.com/fr/topics/cloud-native-apps:
 1) Consommer du cloud de facon très automatisée avec un maximum d'autonomie et de fiabilité: **"kubernetes" et les conteneurs**; 
 2) Interconnecter les applications entre elles pour augmenter la valeur des données et fonctionnalités: **les API**;
 3) Rendre les applications plus modulaires et indépendantes pour l'évolutivité, la résilience: **les microservices**;
@@ -65,10 +67,20 @@ Par extension, les leviers méthodologiques et culturels https://blog.octo.com/c
 - **Le Cloud souverain "Pi"**, adaptée à l’hébergement de données sensibles (NP et DR) jusqu’au niveau Diffusion restreinte grace à des infrastructures opérées par le ministère de l’Intérieur. Il est aussi plus souple et résilient dans son utilisation grace à kubernetes. 
 - **Un cadre de normes** qui s'impose à tous pour guider la mise en place des principes du "cloud native" tout au long du cycle de vie des produits numériques. Il vise à mettre en cohérence l'ensemble des principes, normes et exigences applicables aux produits numériques, dès la conception .
 - **Un accompagnement** pour la montée en compétence des équipes afin atteindre un degré le plus d'autonomie possible dans la maitrise de ses responsabilités. L'offre est construite selon un principe de transparence et d'ouverture: contrairement à l'approche de certaines gros acteurs du numériques, nous pensons que la complexité doit être dévoilée de facon adaptée pour libérer l'utilisateur et faciliter son appropriation ;
--	**Un socle de production DevSecOps**, chaine de production permttant de réduire les frictions et assurer une continuité tout au long du cycle de vie des produits: de la construction, à la mise en production, à la maintenance/évolution, au décommisionnement... L'offre peut etre vue comme une chaine qui va permettre de déployer le code d'une application sur le Cloud pour le "faire tourner":
--				1ère partie de la chaine DevSecOps: maîtriser les développement sous-traités depuis d’extérieur (80% du numérique public) avec une centralisation des dépots de code, le suivi de projet (backlog), des tests que l’on peut rejouer automatiquement... QUALITE;
--- 2ième partie : maîtriser la confiance au sein de mon organisation en fournissant les garanties automatiquement AVANT de déployer sur le cloud (homologation continue, vérification, certification ..) et observabilité... GESTION SECURISEE, 
+-	**Un socle de production DevSecOps**, chaine qui va permettre de déployer le code d'une application sur le cloud pour la faire "tourner". Celle ci permet de réduire les frictions et assurer une continuité tout au long du cycle de vie des produits: de la construction, à la mise en production, à la maintenance/évolution, au décommisionnement.
 
+
+Toute les produits numériques sortent de la même usine et sont gérés selon un flux standardisée ce qui permet: 
+- **de vérifier la confomité des développements** (notamment sous-traités, 80% du numérique public) grace à la centralisation des dépots de code et du suivi du projet (backlog) ainsi qu'à l'automatisation des tests que l’on peut rejouer;
+- **de maîtriser la confiance au sein de mon organisation** en fournissant les garanties automatiquement AVANT de déployer sur le cloud (vérification des certificats, homologation continue,...)
+- **Une tour de controle**: via l'observabilité et le cadre de norme, une meilleure intégration et vision sur l'urbanisation du patrimoine applicatif et son activité;
+- **Une proximité** entre l'ensemble des parties prenantes des produits numériques, d'un bout à l'autre de la chaine; 
+
+
+## Comment l'utiliser? 
+- Préciser le périmètre : quelles appli ont vocation à passer dessus?
+- Combien ca coute? 
+- 
 - Et si on veut l'utiliser, comment ça se passe? l'offre existe déja (certains clients en bénéfecient) est en développement en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution. Voici la séquence d'utilisation.
 
 # Conclusion ("si on devait retenir une chose...")
