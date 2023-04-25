@@ -31,7 +31,7 @@ Les usagers, dont les agents publics, ne comprennent pas pourquoi les produits p
 2) de nouveaux modes de production plus efficaces 
 3) de nouvelles normes culturelles portées par le modèle commercial (ex: donnée) et les caractéristiques techniques(ex: ubiquité)
 
-Tout cela est porté par le cloud: s'en approprier les leviers c'est se donner les moyens de produire et diffuser un numérique public souverain. C'est à dire au niveau de qualité technique et selon des standards (SSI, RGPD, accessibilité, impact environnemental... ) conformes à nos lois et à nos valeurs. C'est passer de la régulation DU numérique à la régulation PAR le numérique. De l'aval, l'encadrement des activités générées (ex: Airbnb) à l'amont, la maitrise des outils par lesquels sont génèrées ces activités.
+Tout cela est porté par des technologies qui s'appuient sur le cloud: les maitriser c'est se donner les moyens de produire et diffuser un numérique public souverain. C'est à dire au niveau de qualité technique et selon des standards (SSI, RGPD, accessibilité, impact environnemental... ) conformes à nos lois et à nos valeurs. C'est passer de la régulation DU numérique à la régulation PAR le numérique. De l'aval, l'encadrement des activités générées (ex: Airbnb) à l'amont, la maitrise des outils par lesquels sont générées ces activités.
 
 ### Pourquoi mettre le « cloud au centre », comme le préconise la doctrine ? 
 La crise covid l'a montré: sans la puissance du cloud, la bascule massive vers les outils numériques ayant permis l'essor du télétravail aurait été impossible. La doctrine « cloud au centre » vise à fournir un cadre pour moderniser l'action publique par une nouvelle génération de services numérique répondant aux enjeux de :
@@ -44,21 +44,23 @@ Pour répondre aux enjeux, cette "posture cloud" doit être déclinée comme un 
 2) Développements internes
 3) Sous-traitance 
 
+### Mais d'abord, qu’est ce que le cloud? et le "cloud native" ? 
+Pour concrétiser ces enjeux, le cloud (ou "cloud computing") est une technologie qui doit présentées 5 caractéristiques https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf consolidées par le NIST (à vulgariser):
+- **Accès aux services par l’utilisateur à la demande**: La mise en œuvre des systèmes est entièrement automatisée et c’est l’utilisateur, au moyen d’une console de commande, qui met en place et gère la configuration à distance.
+- **Accès réseau large bande**: ces centres de traitement sont généralement raccordés directement sur le backbone Internet pour bénéficier d’une excellente connectivité. Les grands fournisseurs répartissent les centres de traitement sur la planète pour fournir un accès aux systèmes en moins de 50 ms de n’importe quel endroit.
+- **Réservoir de ressources (non localisées)**: La plupart de ces centres comportent des dizaines de milliers voire millions de serveurs et de moyens de stockage pour permettre des montées en charge rapides. Il est souvent possible de choisir une zone géographique pour mettre les données “près” des utilisateurs.
+- **Redimensionnement rapide (élasticité)**: La mise en ligne d’une nouvelle instance d’un serveur est réalisée en quelques minutes, l’arrêt et le redémarrage en quelques secondes. Toutes ces opérations peuvent s’effectuer automatiquement par des scripts. Ces mécanismes de gestion permettent de bénéficier pleinement de la facturation à l’usage en adaptant la puissance de calcul au trafic instantané.
+- **Facturation à l’usage**: Il n’y a généralement pas de coût de mise en service (c’est l’utilisateur qui réalise les opérations). La facturation est calculée en fonction de la durée et de la quantité de ressources utilisées. Une unité de traitement stoppée n’est pas facturée
 
-### Mais d'abord, qu’est ce que le cloud native ? 
-- Comme dit en introduction, ce n'est pas seulement en prennant sur un fournisseur de cloud que les acteurs du "nouveau monde numérique" ont pris des positions dominantes dans leurs secteurs d’activité. 
+Mais ce n'est pas seulement avec un fournisseur de cloud que les acteurs du "nouveau monde numérique" ont acquis des positions dominantes sur leurs secteurs d’activité. Pour concretiser les promesses du cloud, leurs infrastructures et leurs applications ont du être pensées pour le cloud dès leur conception, puis tout au long de leur construction et le leur cycle de vie. D'ou le terme de technologies "cloud native".
 
-- Pour concretiser les promesses du cloud, leurs infrastructures et leurs applications ont été pensées pour le cloud dès leur conception, puis tout au long de leur construction et le leur cycle de vie (cf. les 5 caractéristiques du Cloud définies par le NIST).
+Schématiquement on met essentuellement d'accent sur celles qui permettent de: https://www.redhat.com/fr/topics/cloud-native-apps:
+1) Consommer du cloud de facon très automatisée avec un maximum d'autonomie et de fiabilité: "kubernetes" et les conteneurs; 
+2) Interconnecter les applications entre elles pour augmenter la valeur des données et fonctionnalités: les API;
+3) Rendre les applications plus modulaires et indépendantes pour l'évolutivité, la résilience: les microservices;
+4) Standardiser et automatiser des approches de co-construction entre clients/métiers, Dev, Ops, Sec, ... pour mettre en place un meilleur partage des responsabilités et une meilleure autonomie d'utilisation: les usines logicielles DevOps (ou DevSecOps);
 
-- Il leur a fallu la conjonction de nombreux leviers techniques, méthodologiques et culturels https://blog.octo.com/cloud-enjeux-2023/ ... tellements intriqués qu'ils constituent un "paradigme"  qu'on appelle "cloud native".
-
-- Techniquement, le "cloud Native" recouvre les technologies permettant: https://www.redhat.com/fr/topics/cloud-native-apps:
-1) De consommer du cloud de facon très automatisée avec un maximum d'autonomie et de fiabilité: "kubernetes" et les conteneurs; 
-2) D'interconnecter les applications entre elles pour en augmenter la valeur: les API;
-3) De rendre les applications plus modulaires et indépendantes pour l'évolutivité, la résilience: les microservices;
-4) De standardiser et d'automatiser des approches de co-construction (clients/métier, Dev, Ops, Sec, ...) pour mettre en place un meilleur partage des responsabilités  et l'autonomie d'utilisation: les usines logicielles DevOps (ou DevSecOps);
-
-- Qu'est ce que le Cloud native a permis de gagner au acteurs du nouveau monde logiciel?
+Par extension, les leviers méthodologiques et culturels https://blog.octo.com/cloud-enjeux-2023/ ... mobilisés autour de ces technologies sont qualifés de "cloud native". C'est pourqui on l'utilise aussi comme un nom: "LE cloud native", pour désigner le paradigme de ces technologies.
 
 ### Qu’est-ce que l’offre Cloud Pi Native ?
 On en vient à la question de départ: "Cloud Pi Native" c’est l’offre « Cloud native » du MIOM, à visée interministérielle, qui comprend :
