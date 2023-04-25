@@ -74,14 +74,18 @@ Toute les produits numériques sortent de la même usine et sont gérés selon u
 - **de vérifier la confomité des développements** (notamment sous-traités, 80% du numérique public) grace à la centralisation des dépots de code et du suivi du projet (backlog) ainsi qu'à l'automatisation des tests que l’on peut rejouer;
 - **de maîtriser la confiance au sein de mon organisation** en fournissant les garanties automatiquement AVANT de déployer sur le cloud (vérification des certificats, homologation continue,...)
 - **Une tour de controle**: via l'observabilité et le cadre de norme, une meilleure intégration et vision sur l'urbanisation du patrimoine applicatif et son activité;
-- **Une proximité** entre l'ensemble des parties prenantes des produits numériques, d'un bout à l'autre de la chaine; 
+- **Une proximité** entre l'ensemble des parties prenantes des produits numériques, d'un bout à l'autre de la chaine via des cycle beaucoup plus courts et la possibilité d'expérimenter rapidement pour réajuster (sur les plans technique ET métier);
+- **La rationalisation des couts**: à termel apossibilité de choisir ses hébergements en focntion de ses contraintes. "Inutile de prendre du cloud souverain pour des données ouvertes".
 
 
 ## Comment l'utiliser? 
-- Préciser le périmètre : quelles appli ont vocation à passer dessus?
-- Combien ca coute? 
-- 
-- Et si on veut l'utiliser, comment ça se passe? l'offre existe déja (certains clients en bénéfecient) est en développement en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution. Voici la séquence d'utilisation.
+L'offre existe déja (certains clients en bénéfecient) est en développement en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution:
+- Préciser le périmètre : quelles appli ont vocation à passer dessus? On a la répnse pour les nouvelles, quid des anciennes? cf. l'expérience de Nubo, Clidu centre, Commission Européenne
+- Combien ca coute/qu'est ce que ca permet de gagner? Notamment dans le cadre de la LOPMI, beaucoup de développements= beaucoup de MCO à prévoir demain. Penser au cout du "montage de l'usine".
+- Demander les hypothèse de modèle économique à Julien
+- Quelle contractualisation? Accords de service
+
+
 
 # Conclusion ("si on devait retenir une chose...")
 
