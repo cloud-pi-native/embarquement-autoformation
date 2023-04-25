@@ -95,7 +95,7 @@ Pour réaliser le potentiel du cloud dans les marché en rapid évolution dans u
 - Leviers liés aux approches de productions : réutilisation/intégration de briques (souvent open source), standardisation/automatisation, intégration des tests de sécurité dans la chaine de production ...
 -  Leviers culturels: responsabilitiés partagées, de co-construction, évolution en continue, implication client/usager, capitalisation sur l'UX/UI acquise par les utilisateurs;
  
- 
+  
  Le cloud c'est bien plus que "faire tourner ses logiciels sur l’ordinateur de quelqu’un d’autre ». C'est une condition nécessaire pour réaliser, à temps, une transformation numérique d'envergure :
 
  
