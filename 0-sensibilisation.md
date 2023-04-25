@@ -61,16 +61,13 @@ Mais ce n'est pas seulement avec un fournisseur de cloud que les acteurs du "nou
 Par extension, les leviers méthodologiques et culturels https://blog.octo.com/cloud-enjeux-2023/ ... mobilisés autour de ces technologies sont qualifés de "cloud native". C'est pourqui on l'utilise aussi comme un nom: "LE cloud native", pour désigner le paradigme de ces technologies.
 
 ### Qu’est-ce que l’offre Cloud Pi Native ?
-On en vient à la question de départ: "Cloud Pi Native" c’est l’offre « Cloud native » du MIOM, à visée interministérielle, qui comprend :
-- Le Cloud "Pi" basée sur kubernetes: souverain, maitrisé par l'Etat;
-- Un cadre de norme qui se base sur les principes du cloud native et qui s'impose à tous pour guider la conception et la gestion des produits numériques ;
--	Un socle de production DevSecOps pour réduire les frictions et assurer une continuité tout au long du cycle de vie des produits: de la construction, à la mise en production, à la maintenance/évolution, au décommisionnement...
--	Un accompagnement pour la montée en compétence des équipes jusqu'à atteindre un degré d'autonomie suffisant. Car le fait de masquer la complexité rend passif;
- 
-Levons un peu le capot, pour voir les principaux composants qui portent la promesses, ce qui permettra de pouvoir parler de l'offre avec les techniques (savoir ce qu'il en pense par exemple). L'offre peut etre vue comme une chaine qui va permettre de déployer le code d'une application sur le Cloud pour le "faire tourner":
-- 1ère partie de la chaine DevSecOps: maîtriser les développement sous-traités depuis d’extérieur (80% du numérique public) avec une centralisation des dépots de code, le suivi de projet (backlog), des tests que l’on peut rejouer automatiquement... QUALITE;
-- 2ième partie : maîtriser la confiance au sein de mon organisation en fournissant les garanties automatiquement AVANT de déployer sur le cloud (homologation continue, vérification, certification ..) et observabilité... GESTION SECURISEE, 
-- Un Cloud Pi souverain : assurer LA protection données sensibles (NP et DR) grace à des infrastructures opérées par l’État, mais aussi plus souple et independante (kubernetes logo bleu) ... ; 
+"Cloud Pi Native" c’est une offre du MIOM qui vise à mettre les leviers technologiques, méthodologiques et culturels du « cloud native » à portée des acteurs interministériels. Celle-ci comprend :
+- **Le Cloud souverain "Pi"**, adaptée à l’hébergement de données sensibles (NP et DR) jusqu’au niveau Diffusion restreinte grace à des infrastructures opérées par le ministère de l’Intérieur. Il est aussi plus souple et résilient dans son utilisation grace à kubernetes. 
+- **Un cadre de normes** qui s'impose à tous pour guider la mise en place des principes du "cloud native" tout au long du cycle de vie des produits numériques. Il vise à mettre en cohérence l'ensemble des principes, normes et exigences applicables aux produits numériques, dès la conception .
+- **Un accompagnement** pour la montée en compétence des équipes afin atteindre un degré le plus d'autonomie possible dans la maitrise de ses responsabilités. L'offre est construite selon un principe de transparence et d'ouverture: contrairement à l'approche de certaines gros acteurs du numériques, nous pensons que la complexité doit être dévoilée de facon adaptée pour libérer l'utilisateur et faciliter son appropriation ;
+-	**Un socle de production DevSecOps**, chaine de production permttant de réduire les frictions et assurer une continuité tout au long du cycle de vie des produits: de la construction, à la mise en production, à la maintenance/évolution, au décommisionnement... L'offre peut etre vue comme une chaine qui va permettre de déployer le code d'une application sur le Cloud pour le "faire tourner":
+  - 1ère partie de la chaine DevSecOps: maîtriser les développement sous-traités depuis d’extérieur (80% du numérique public) avec une centralisation des dépots de code, le suivi de projet (backlog), des tests que l’on peut rejouer automatiquement... QUALITE;
+  - 2ième partie : maîtriser la confiance au sein de mon organisation en fournissant les garanties automatiquement AVANT de déployer sur le cloud (homologation continue, vérification, certification ..) et observabilité... GESTION SECURISEE, 
 
 - Et si on veut l'utiliser, comment ça se passe? l'offre existe déja (certains clients en bénéfecient) est en développement en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution. Voici la séquence d'utilisation.
 
