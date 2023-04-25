@@ -1,22 +1,23 @@
 # Sensibilisation
 
-## Destinataires et format
-A destination des décideurs/de la gouvernance, pour les sensibiliser aux opportunités de l'offre "Cloud Pi native" pour leur organisation et leur permettre de pouvoir l'argumenter.
+## Destinataires et argumentaire court ("elevator pitch")
+A destination des décideurs/de la gouvernance, pour les sensibiliser aux opportunités de l'offre "Cloud Pi native" et leur permettre d'argumenter:
+- L'interet du "cloud" pour le numérique public
+- Prendre connaissance des concepts et les enjeux sous-jacents
+- Comprendre ce qu'est l'offre "Cloud Pi Native" et ce qu'elle peut apporter à une organisation/un portefeuille projet
+L'interet avéré, cette sensibilisation fourni les arguments permettant d'initier une démarche de sollicitation de l'offre auprès d'un sponsor ou d'une équipe projet.
 
+## Format de la présentation
 Pas prérequis techniques
 - 30 minutes de présentation
 - 15 minutes de questions
 
-## A quelles questions est ce que ça répond?
-- Pourquoi me parle t-on de "cloud native"?
-- Quels sont les concepts et les enjeux sous-jacents 1) en général 2) pour la stratégie numérique de l'Etat 3) pour mon organisation/mon portefeuille projet?
-- En quoi l'offre "Cloud Pi Native" est interessante pour mes projets? Le cas échéant, sur la base de quels arguments initier une démarche auprès d'un sponsor ou de mes équipes?
+## A quelles questions est-ce que la présentation répond?
+1.	Qu’est ce que l'on appelle "nouveau monde numérique" ? Pourquoi parle t-on de "cloud native"? Quel est l'enjeu pour le numérique public ?
+2.	Qu'est ce que la doctrine « cloud au centre » ? A quelles enjeux répond-elle et avec quels leviers ? quels aspects de la stratégie numérique ministérielle ? 
+3.	Qu'est ce qu'on appelle les technologies "cloud native" ? Quel lien avec "le cloud"? Qe peremttent ces technologies ? 
+4.	Qu'est ce que contient l'offre "Cloud Pi Native" du MIOM ? Que peut-elle apporter à mes projets ? Comment peut-on en bénéficier?
 
-## Quels sont les sujets dont il est question ?
-1.	Qu’est ce que l'on appelle "nouveau monde numérique" ? Qu'est ce que ca change pour le numérique public ?
-2.	Qu'est ce que la doctrine « cloud au centre » ? Quelles réponses apporte t-elle pour la stratégie numérique des acteurs étatiques ? 
-3.	Qu'est ce qu'on appelle "cloud native" ? Quels leviers technologiques, méthodologiques, culturels recouvre t-il? pour quels gains? 
-4.	Qu'est ce que recouvre l'offre "Cloud Pi Native"? Que peut-elle apporter à mes projets ?
 
 ### Quel est l’enjeu à transformer la production du numérique public?
 - Tous les domaines d’activités se font « disrupter » par le numérique (banque, hotellerie, transports, sociabilité, ...). C'est un "nouveau monde numérique" caractérisé une évolution rapide et une énorme complexité (interdépendances, ...);
