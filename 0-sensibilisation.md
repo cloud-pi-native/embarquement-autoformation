@@ -45,7 +45,7 @@ Pour répondre aux enjeux, cette "posture cloud" doit être déclinée comme un 
 3) Sous-traitance 
 
 ### Mais d'abord, qu’est ce que le cloud? et le "cloud native" ? 
-Pour concrétiser ces enjeux, le cloud (ou "cloud computing") designe l'ensemble des technologies permettant 5 caractéristiques https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf consolidées par le NIST (à vulgariser):
+Pour concrétiser ces enjeux, le cloud (ou "cloud computing") designe l'ensemble des technologies permettant l'accès à distance à des ressources informatiques tout à fait "matérielles" avec [5 caractéristiques](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf) :
 - **Accès aux services par l’utilisateur à la demande**: La mise en œuvre des systèmes est entièrement automatisée et c’est l’utilisateur, au moyen d’une console de commande, qui met en place et gère la configuration à distance.
 - **Accès réseau large bande**: ces centres de traitement sont généralement raccordés directement sur le backbone Internet pour bénéficier d’une excellente connectivité. Les grands fournisseurs répartissent les centres de traitement sur la planète pour fournir un accès aux systèmes en moins de 50 ms de n’importe quel endroit.
 - **Réservoir de ressources (non localisées)**: La plupart de ces centres comportent des dizaines de milliers voire millions de serveurs et de moyens de stockage pour permettre des montées en charge rapides. Il est souvent possible de choisir une zone géographique pour mettre les données “près” des utilisateurs.
