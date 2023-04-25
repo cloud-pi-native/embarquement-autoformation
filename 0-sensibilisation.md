@@ -29,24 +29,21 @@ Paradoxalement, cette complexité technique s'accompagne d'une grande simplicit�
 Les usagers, dont les agents publics, ne comprennent pas pourquoi les produits proposés par l'Etat ne sont pas au niveau de ce qu’ils utilisent en tant que consommateurs. C'est ce qui explique que les acteurs du "nouveau monde numérique" ont peu à peu imposé des standards "de fait" y compris sur des points relevant en principe de domaines régaliens (statut des données personnelles, certification de l'identité, émission de monnaie...). Pour cela les acteurs du "nouveau monde numérique" se sont appuyé sur: 
 1) de nouvelles technologies de passage à l'échelle 
 2) de nouveaux modes de production plus efficaces 
-3) de nouvelles normes culturelles portées par leur modèle commercial et les caractéristiques techniques
+3) de nouvelles normes culturelles portées par le modèle commercial (ex: donnée) et les caractéristiques techniques(ex: ubiquité)
 
-Tout cela est porté par le cloud: s'en approprier les leviers c'est se donner les moyens pour produire et diffuser un numérique public souverain. C'est à dire au niveau de qualité et selon des standards (SSI, RGPD, accessibilité, impact environnemental... ) sont conformes à nos lois et à nos valeurs. C'est passer de la régulation DU numérique à la régulation PAR le numérique. De passer de l'aval (encadrement des activités générées) à l'amont (maitrise des outils par lesquels sont génèrées ces activités).
+Tout cela est porté par le cloud: s'en approprier les leviers c'est se donner les moyens de produire et diffuser un numérique public souverain. C'est à dire au niveau de qualité technique et selon des standards (SSI, RGPD, accessibilité, impact environnemental... ) conformes à nos lois et à nos valeurs. C'est passer de la régulation DU numérique à la régulation PAR le numérique. De l'aval, l'encadrement des activités générées (ex: Airbnb) à l'amont, la maitrise des outils par lesquels sont génèrées ces activités.
 
 ### Pourquoi mettre le « cloud au centre », comme le préconise la doctrine ? 
-- Sans la puissance du cloud, l'utilisation massive d'outils numériques lors de la crise Covid n'aurait pas été possible.
+La crise covid l'a montré: sans la puissance du cloud, la bascule massive vers les outils numériques ayant permis l'essor du télétravail aurait été impossible. La doctrine « cloud au centre » vise à fournir un cadre pour moderniser l'action publique par une nouvelle génération de services numérique répondant aux enjeux de :
+1) Transformation : pour pouvoir réaliser un passage à l’échelle fiable des services numériques à un coût marginal faible, mettre en place de nouvelles approches focalisées sur l'usager et permettant l'évolutivité (DevOps et mode produit) en facilitant l'accès/expérimentation, rationnaliser les ressources pour la sobriété numérique, innover en mettant en intégrant l'IA et le big data dans les services numériques... 
+2) Souveraineté: pour atteindre la sécurité et l'immunité aux droits extra-UE en augmentant la marge de négociation avec ses fournisseurs, réduire les dépendances et les verrouillages en facilitant le fait d'en changer (réversibilité), faciliter l'accès aux technologies les plus récentes en resant ouverts (services cloud innovants)...
+3) Accélération: pour alimenter le catalogue de solutions UE en facilitant le regroupement de clients aux interets partagées, soutenir les industriels et renforcer l'autonomie des filières UE en choisissant les meilleurs normes et standards...
 
-- La doctrine « cloud au centre » c'est un cadre qui vise à tirer parti du cloud afin de moderniser l'action publique en répondant à :
-1) Des enjeux de transformation : pour pouvoir réaliser un passage à l’échelle fiable des services numériques à un coût marginal faible, mettre en place de nouvelles approches focalisées sur l'usager et permettant l'évolutivité (DevOps et mode produit), rationnaliser les ressoruces pour la sobriété numérique, innover en mettant en oeuvre l'IA et le big data ... 
-2) Enjeux de souveraineté: pour atteindre la sécurité et l'immunité au droit extra-UE en choisissant ses fournisseurs, réduire les dépendances et les verrouillages en facilitant le fait d'en changer (réversibilité), faciliter l'accès aux technologies les plus récentes (services cloud innovants)...
-3) Enjeux d’accélération: pour alimenter le catalogue de solutions UE, soutenir les industriels UE et renforcer l'autonomie de nos filières
+Pour répondre aux enjeux, cette "posture cloud" doit être déclinée comme un "mode par défaut" dans la stratégie numérique des ministères. C'est à dire  l'ensemble des opérations touchant aux services/produits numériques:
+1) D’acquisition et consommation
+2) Développements internes
+3) Sous-traitance 
 
-- Pour étendre les avantages de la "posture cloud" la doctrine doit être déclinée comme un "mode par défaut" par les ministères dans leurs stratégies:
-1) D’acquisition et de consommation de services/produits numériques
-2) De développements internes
-3) De sous-traitance 
-
-- Nous verrons plus loin comment l'offre Cloud Pi Native répond à cela.
 
 ### Mais d'abord, qu’est ce que le cloud native ? 
 - Comme dit en introduction, ce n'est pas seulement en prennant sur un fournisseur de cloud que les acteurs du "nouveau monde numérique" ont pris des positions dominantes dans leurs secteurs d’activité. 
@@ -68,7 +65,7 @@ On en vient à la question de départ: "Cloud Pi Native" c’est l’offre « C
 - Le Cloud "Pi" basée sur kubernetes: souverain, maitrisé par l'Etat;
 - Un cadre de norme qui se base sur les principes du cloud native et qui s'impose à tous pour guider la conception et la gestion des produits numériques ;
 -	Un socle de production DevSecOps pour réduire les frictions et assurer une continuité tout au long du cycle de vie des produits: de la construction, à la mise en production, à la maintenance/évolution, au décommisionnement...
--	Un accompagnement pour la montée en compétence des équipes jusqu'à atteindre un degré d'autonomie suffisant;
+-	Un accompagnement pour la montée en compétence des équipes jusqu'à atteindre un degré d'autonomie suffisant. Car le fait de masquer la complexité rend passif;
  
 Levons un peu le capot, pour voir les principaux composants qui portent la promesses, ce qui permettra de pouvoir parler de l'offre avec les techniques (savoir ce qu'il en pense par exemple). L'offre peut etre vue comme une chaine qui va permettre de déployer le code d'une application sur le Cloud pour le "faire tourner":
 - 1ère partie de la chaine DevSecOps: maîtriser les développement sous-traités depuis d’extérieur (80% du numérique public) avec une centralisation des dépots de code, le suivi de projet (backlog), des tests que l’on peut rejouer automatiquement... QUALITE;
