@@ -52,13 +52,11 @@ Pour concrétiser ces enjeux, le cloud (ou "cloud computing") designe l'ensemble
 - **Redimensionnement rapide (élasticité)**: La mise en ligne d’une nouvelle instance d’un serveur est réalisée en quelques minutes, l’arrêt et le redémarrage en quelques secondes. Toutes ces opérations peuvent s’effectuer automatiquement par des scripts. Ces mécanismes de gestion permettent de bénéficier pleinement de la facturation à l’usage en adaptant la puissance de calcul au trafic instantané.
 - **Facturation à l’usage**: Il n’y a généralement pas de coût de mise en service (c’est l’utilisateur qui réalise les opérations). La facturation est calculée en fonction de la durée et de la quantité de ressources utilisées. Une unité de traitement stoppée n’est pas facturée
 
-Mais ce n'est pas seulement avec un fournisseur de cloud que les acteurs du "nouveau monde numérique" ont acquis des positions dominantes sur leurs secteurs d’activité. Pour concretiser les promesses du cloud, leurs infrastructures et leurs applications ont du être pensées pour le cloud dès leur conception, puis tout au long de leur construction et le leur cycle de vie. D'ou le terme de technologies "cloud native".
-
-Schématiquement on met essentuellement d'accent sur celles qui permettent de: https://www.redhat.com/fr/topics/cloud-native-apps:
-1) Consommer du cloud de facon très automatisée avec un maximum d'autonomie et de fiabilité: "kubernetes" et les conteneurs; 
-2) Interconnecter les applications entre elles pour augmenter la valeur des données et fonctionnalités: les API;
-3) Rendre les applications plus modulaires et indépendantes pour l'évolutivité, la résilience: les microservices;
-4) Standardiser et automatiser des approches de co-construction entre clients/métiers, Dev, Ops, Sec, ... pour mettre en place un meilleur partage des responsabilités et une meilleure autonomie d'utilisation: les usines logicielles DevOps (ou DevSecOps);
+Mais ce n'est pas seulement avec un fournisseur de cloud que les acteurs du "nouveau monde numérique" ont acquis des positions dominantes sur leurs secteurs d’activité. Pour concretiser les promesses du cloud, leurs infrastructures et leurs applications ont du être pensées pour le cloud dès leur conception, puis tout au long de leur construction et le leur cycle de vie. D'ou le terme de technologies "cloud native".  Schématiquement on met essentuellement d'accent sur celles qui permettent de: https://www.redhat.com/fr/topics/cloud-native-apps:
+1) Consommer du cloud de facon très automatisée avec un maximum d'autonomie et de fiabilité: **"kubernetes" et les conteneurs**; 
+2) Interconnecter les applications entre elles pour augmenter la valeur des données et fonctionnalités: **les API**;
+3) Rendre les applications plus modulaires et indépendantes pour l'évolutivité, la résilience: **les microservices**;
+4) Standardiser et automatiser des approches de co-construction entre clients/métiers, Dev, Ops, Sec, ... pour mettre en place un meilleur partage des responsabilités et une meilleure autonomie d'utilisation: **les usines logicielles DevOps (ou DevSecOps)**;
 
 Par extension, les leviers méthodologiques et culturels https://blog.octo.com/cloud-enjeux-2023/ ... mobilisés autour de ces technologies sont qualifés de "cloud native". C'est pourqui on l'utilise aussi comme un nom: "LE cloud native", pour désigner le paradigme de ces technologies.
 
