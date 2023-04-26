@@ -1,11 +1,12 @@
 # Sensibilisation
 
 ## "Cloud Pi Native" en 3 minutes ("elevator pitch")
-Usager, citoyen, agent, responsable politique, chacun peut mesurer l'écart entre les services numériques publics et ceux que proposent (souvent "gratuitement") les grands acteurs privés du numérique: plus simples d'accès et d'utilisation, plus fiables, plus évolutifs... "Cloud Pi Native" c'est l'offre de services du MIOM, permettant de fournir à l'interministériel les moyens de produire des applications à l'état de l'art en qualité, en sécurisée et en souveraineté (maitrise des dépendances).
+Usager, citoyen, agent, responsable politique, chacun peut mesurer l'écart entre les services numériques publics et ceux que proposent (souvent "gratuitement") les grands acteurs privés du numérique: plus simples d'accès et d'utilisation, plus fiables, plus évolutifs, etc. "Cloud Pi Native" c'est l'offre de services du MIOM, ouverte à l'interministériel, pour fournir les moyens de produire des applications de qualité, sécurisées et souveraines (maitrise des dépendances).
 
-Conforme à la doctrine "cloud au centre", l'offre vise à tirer le plein parti du Cloud pour transformer le numérique public. Pour permettre la maitrise des standards en amont (sécurité des données, RGPD, accessibilité, impact environnemental... ), en plus de légiférer sur les conséquences en aval, cette offre s'appuie sur un socle technologique à l'état de l'art, conçu pour le cloud ("cloud native").
+Conforme à la doctrine "cloud au centre", cette offre vise à tirer la pleine puissance du Cloud pour transformer le numérique public. Elle s'appuie sur un socle technologique à l'état de l'art, conçu pour le cloud ("cloud native") permettant la maitrise des standards des produits numériques "en amont" (sécurité des données, RGPD, accessibilité, impact environnemental... ), en plus de légiférer sur les conséquences/activités "en aval".
 
-Les produits numériques existants, ou en cours de conception, pourront bénéficier **au sein d'une meme offre**: de l'hébergement sécurisé du Cloud Pi souverain, d'un cadre normalisant la gestion des produits cycle de vie, d'une usine logicielle permettant de gérer les produits de facon fluide. Les équipes utilisatrices de l'offre bénéficieront d'un accompagnement adapté, jusqu'à l'autonomie. L'offre participe ainsi de la maitrise du patrimoine numérique en gagnant en intégration, en visibilité, en rationnalité.
+A travers un parcours unique, les produits numériques existants ou en cours de conception, pourront bénéficier: de l'hébergement sécurisé sur le Cloud Pi souverain, d'une usine logicielle permettant de déployer et gérer les produits de facon fluide et d'un cadre normalisant la gestion des produits tout au long du cycle de vie. Les équipes utilisatrices de l'offre bénéficieront d'un accompagnement adapté, jusqu'à l'autonomie. L'offre participe ainsi de la maitrise du patrimoine numérique en gagnant en intégration, en visibilité, en rationnalité.
+
 
 ## Format de la présentation
 Pas de prérequis techniques
