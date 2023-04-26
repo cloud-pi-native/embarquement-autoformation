@@ -1,12 +1,11 @@
 # Sensibilisation
 
-## Destinataires et argumentaire court ("elevator pitch")
-A destination des décideurs/de la gouvernance, pour les sensibiliser aux opportunités de l'offre "Cloud Pi native" et leur permettre d'argumenter:
-- L'interet du "cloud" pour le numérique public
-- Prendre connaissance des concepts et les enjeux sous-jacents
-- Comprendre ce qu'est l'offre "Cloud Pi Native" et ce qu'elle peut apporter à une organisation/un portefeuille projet
-Le cas échéant, cette sensibilisation permet d'argumenter l'interet de l'offre auprès d'un sponsor ou d'une équipe projet.
+## "Cloud Pi Native" en 3 minutes ("elevator pitch")
+Usager, citoyen, agent, responsable politique, chacun peut mesurer l'écart entre les services numériques publics et ceux que proposent (souvent "gratuitement") les grands acteurs privés du numérique: plus simples d'accès et d'utilisation, plus fiables, plus évolutifs... "Cloud Pi Native" c'est l'offre de services du MIOM, permettant de fournir à l'interministériel les moyens de produire des applications à l'état de l'art en qualité, en sécurisée et en souveraineté (maitrise des dépendances).
 
+Conforme à la doctrine "cloud au centre", l'offre vise à tirer le plein parti du Cloud pour transformer le numérique public. Pour permettre la maitrise des standards des produits numériques en amont (sécurité des données, RGPD, accessibilité, impact environnemental... ), en plus de légiférer sur les conséquences en aval, cette offre s'appuie sur un socle technologique à l'état de l'art, conçu pour le cloud ("cloud native").
+
+Les produits numériques existants, ou en cours de conception, pourront bénéficier **au sein d'une meme offre**: de l'hébergement sécurisé du Cloud Pi souverain, d'un cadre normalisant la gestion des produits cycle de vie, d'une usine logicielle permettant de gérer les produits de facon fluide. Pour un maximum d'autonomie équipes bénéficieront d'un accompagnement. L'offre participe ainsi de la maitrise d'un patrimoine applicatif en gagnant en unité, en visibilité, en rationnalité.
 
 ## Format de la présentation
 Pas de prérequis techniques
