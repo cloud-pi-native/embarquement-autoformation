@@ -5,7 +5,7 @@ Usager, citoyen, agent, responsable politique, chacun peut mesurer l'écart entr
 
 Conforme à la doctrine "cloud au centre", l'offre vise à tirer le plein parti du Cloud pour transformer le numérique public. Pour permettre la maitrise des standards en amont (sécurité des données, RGPD, accessibilité, impact environnemental... ), en plus de légiférer sur les conséquences en aval, cette offre s'appuie sur un socle technologique à l'état de l'art, conçu pour le cloud ("cloud native").
 
-Les produits numériques existants, ou en cours de conception, pourront bénéficier **au sein d'une meme offre**: de l'hébergement sécurisé du Cloud Pi souverain, d'un cadre normalisant la gestion des produits cycle de vie, d'une usine logicielle permettant de gérer les produits de facon fluide. Pour un maximum d'autonomie équipes bénéficieront d'un accompagnement. L'offre participe ainsi de la maitrise d'un patrimoine applicatif en gagnant en unité, en visibilité, en rationnalité.
+Les produits numériques existants, ou en cours de conception, pourront bénéficier **au sein d'une meme offre**: de l'hébergement sécurisé du Cloud Pi souverain, d'un cadre normalisant la gestion des produits cycle de vie, d'une usine logicielle permettant de gérer les produits de facon fluide. Les équipes utilisatrices de l'offre bénéficieront d'un accompagnement adapté, jusqu'à l'autonomie. L'offre participe ainsi de la maitrise du patrimoine numérique en gagnant en intégration, en visibilité, en rationnalité.
 
 ## Format de la présentation
 Pas de prérequis techniques
