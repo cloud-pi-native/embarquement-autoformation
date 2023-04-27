@@ -77,10 +77,10 @@ Celle-ci comprend :
 Toute les produits numériques sortent de la même usine et sont gérés selon un flux standardisée ce qui permet: 
 - **de vérifier la confomité des développements** (notamment sous-traités, 80% du numérique public) grace à la centralisation des dépots de code et du suivi du projet (backlog) ainsi qu'à l'automatisation des tests que l’on peut rejouer;
 - **de maîtriser la confiance au sein de mon organisation** en fournissant les garanties automatiquement AVANT de déployer sur le cloud (vérification des certificats, homologation continue,...) et en sectorisant une fois sur le cloud.
-- **Une gouvernance**: via l'observabilité et le cadre de norme, une meilleure intégration et vision "tour de controle" sur l'urbanisation du patrimoine applicatif et son activité;
-- **Une proximité** entre l'ensemble des parties prenantes des produits numériques, d'un bout à l'autre de la chaine via des cycle beaucoup plus courts et la possibilité d'expérimenter rapidement pour réajuster (sur les plans technique ET métier);
-- **La rationalisation des couts**: à termel apossibilité de choisir ses hébergements en focntion de ses contraintes. "Inutile de prendre du cloud souverain pour des données ouvertes".
-- **transparence et ouverture**: contrairement à l'approche de certaines gros acteurs du numériques, nous pensons que la complexité doit être dévoilée de facon adaptée pour émanciper les utilisateurs et faciliter l'appropriation des produits nuémriques publics.
+- **de faciliter la gouvernance**: via l'observabilité et le cadre de norme, une meilleure intégration et vision "tour de controle" sur l'urbanisation du patrimoine applicatif et son activité;
+- **d'augmenter la proximité** entre l'ensemble des parties prenantes des produits numériques, d'un bout à l'autre de la chaine via des cycle beaucoup plus courts et la possibilité d'expérimenter rapidement pour réajuster (sur les plans technique ET métier);
+- **de rationaliser les couts**: à termel apossibilité de choisir ses hébergements en focntion de ses contraintes. "Inutile de prendre du cloud souverain pour des données ouvertes".
+- **de favoriser la transparence et l'ouverture**: contrairement à l'approche de certaines gros acteurs du numériques, nous pensons que la complexité doit être dévoilée de facon adaptée pour leur permettre de monter en compétenced, faciliter l'appropriation par les producteurs du numérique public et d'émanciper les utilisateurs.
 
 
 ## Comment l'utiliser? 
