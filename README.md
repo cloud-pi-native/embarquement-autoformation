@@ -5,7 +5,17 @@ Les ressources rassemblées ici constituent la base de connaissances accessibles
 
 ![alt_text](images/schema-accompagnement-formation.png)
 
-Les équipes souhaitant consommer l’offre cloud pi native sont bénéficie d'un [accompagnement](https://github.com/dnum-mi/dso-formation/blob/a5c2755f51999042e0a14c06c7536ba067745ba3/2.5-accompagnement_projet.md) et de [ressources](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.6-plan_formation.md) tout au long de leur parcours (lien vers tableau « accompagnement ») et bénéficient de la formation nécessaire, afin d’acquérir l’autonomie suffisante.
+
+Un équipe projet souhaitant consommer l’offre cloud pi native peut bénéficier d'un [accompagnement](https://github.com/dnum-mi/dso-formation/blob/a5c2755f51999042e0a14c06c7536ba067745ba3/2.5-accompagnement_projet.md) et de [ressources de formation](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.6-plan_formation.md):
+- L'accompagnement: regroupe les activités assurées par les équipes du programme Cloud Pi Native, pour atteindre l'autonomie;
+- Les ressources de formations permettent aux équipes d'acquérir les connaissances et les pratiques nécessaires à un niveau de réalisation donné;
+
+L'accompagnement est conditionné à certains pré-requis, nécessaires pour s'engager dans l'étape suivante du projet. **Sur la vérification de ces pré-requis, les équipes du programme Cloud Pi Native se réservent le droit d'accompagner ou d'orienter vers les ressources de formation adaptées**. Ces ressources de formation sont de 3 types:
+- Culture générale;
+-	Culture « cloud native »
+-	Spécifiques à cloud pi native
+Selon le profil des personnes impliquées, le dégré d'autonomie de l'équipe et l'étape d'avancement du projet, ces ressources seront organisées en parcours formation et intégrées dans l'accompagnement projet (voir exemple ci-dessous).
+
 
 
 # Pourquoi Cloud Pi Native? enjeux de transformation du numérique public
