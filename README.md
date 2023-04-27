@@ -16,7 +16,7 @@ Si les ressources de formation sont consultables librement, **l'accompagnement e
 - [D'accompagner](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.5-accompagnement_projet.md): voir les activités d'accompagnement et le point de contact, en fonction de l'étape du projet et des besoins; 
 - [De proposer des ressources de formation adaptées](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.6-plan_formation.md): voir les contenus 1) de culture générale 2) de culture « cloud native" 3) spécifiques à cloud pi native en fonction du type de questions posées par l'équipe projet;
 
-Selon le profil des personnes impliquées et l'avancement du projet, des **parcours de formation spécifiques** pourront être proposés.
+Selon le profil des personnes impliquées et l'avancement du projet, des **parcours de formation spécifiques** pourront être proposés. En préalable à toute demande d'accompagnement, il est conseiller de consulter le [support de sensibilisation](https://github.com/dnum-mi/dso-formation/blob/2a0a4836804fc00fde436035559c7ca07cb9a47e/0-sensibilisation.md)
 
 
 
