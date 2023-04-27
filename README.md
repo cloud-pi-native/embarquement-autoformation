@@ -13,16 +13,10 @@ Un équipe projet souhaitant consommer l’offre cloud pi native peut bénéfici
 
 ## Accompagnement et prérequis 
 Si les ressources de formation sont consultables librement, **l'accompagnement est conditionné à certains pré-requis**, nécessaires pour garantir l'atteinte de l'étape suivante du projet. Ces prérequis sont constatables sur la base de réalisations("avez vous déja....?"). En fonction, les équipes du programme Cloud Pi Native se réservent le droit:
-- D'accompagner (voir ["Activités du programme Cloud Pi Native"](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.5-accompagnement_projet.md)
-- D'orienter vers les [ressources de formation adaptées](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.6-plan_formation.md).
+- [D'accompagner](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.5-accompagnement_projet.md): voir les activités d'accompagnement et le point de contact, en fonction de l'étape du projet et des besoins; 
+- [De proposer des ressources de formation adaptées](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.6-plan_formation.md): voir les contenus 1) de culture générale 2) de culture « cloud native" 3) spécifiques à cloud pi native en fonction du type de questions posées par l'équipe projet;
 
-
-## Ressources de formation et parcours:
-Les ressources de formations permettent à l'équipe projet d'acquérir les connaissances et les pratiques nécessaires au niveau de réalisation requis par l'avancement de son projet. Celles-ci sont de 3 types:
-- Culture générale;
--	Culture « cloud native »
--	Spécifiques à cloud pi native
-Selon le profil des personnes impliquées, le dégré d'autonomie de l'équipe et l'étape d'avancement du projet, ces ressources seront organisées en parcours formation et intégrées dans l'accompagnement projet (voir exemple ci-dessous).
+Selon le profil des personnes impliquées et l'avancement du projet, des **parcours de formation spécifiques** pourront être proposés.
 
 
 
