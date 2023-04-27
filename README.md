@@ -10,16 +10,13 @@ Un équipe projet souhaitant consommer l’offre cloud pi native pourra bénéfi
 ![alt_text](images/schema-accompagnement-formation.png)
 
 
-## Accompagnement et prérequis 
-Si les ressources de formation sont consultables librement, **l'accompagnement est conditionné à certains pré-requis**, nécessaires pour garantir l'atteinte de l'étape suivante du projet. Ces prérequis sont constatables sur la base de réalisations("avez vous déja....?"). En fonction, les équipes du programme Cloud Pi Native se réservent le droit:
-- [D'accompagner](./2.5-accompagnement_projet.md): voir les activités d'accompagnement et le point de contact, en fonction de l'étape du projet et des besoins; 
-- [De proposer des ressources de formation adaptées](./2.6-plan_formation.md): voir les contenus 1) de culture générale 2) de culture « cloud native" 3) spécifiques à cloud pi native en fonction du type de questions posées par l'équipe projet;
+## Accompagnement
+Si les ressources de formation sont consultables librement, **l'accompagnement est conditionné à certains pré-requis**, nécessaires pour garantir l'atteinte de l'étape suivante du projet. Ces prérequis sont constatables sur la base de réalisations("avez vous déja....?"). En fonction, les équipes du programme proposent :
+- [Un accompagnement](./2.5-accompagnement_projet.md): voir les activités et le point de contact en fonction de l'étape du projet et des besoins; 
+- [Des ressources de formation adaptées](./2.6-plan_formation.md): voir les contenus 1) de culture générale 2) de culture « cloud native" 3) spécifiques à cloud pi native en fonction du type de questions posées par l'équipe projet;
 
-Selon le profil des personnes impliquées et l'avancement du projet, des **parcours de formation spécifiques** pourront être proposés. En préalable à toute demande d'accompagnement, il est conseiller de consulter le [support de sensibilisation](./0-sensibilisation.md)
-
-
-
-
+## Sensibilisation et parcours de formation
+Selon le profil des personnes impliquées et l'avancement du projet, des **parcours de formation spécifiques** pourront être proposés. En préalable à toute demande d'accompagnement, il est nécessaire de consulter le [support de sensibilisation](./0-sensibilisation.md)
 
 
 # Pourquoi Cloud Pi Native? enjeux de transformation du numérique public
