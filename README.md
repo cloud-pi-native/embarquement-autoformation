@@ -5,7 +5,7 @@ Les ressources rassemblées ici constituent la base de connaissances accessibles
 # Accompagnement et formation à l'utilisation de l'offre
 Un équipe projet souhaitant consommer l’offre cloud pi native peut bénéficier d'un [accompagnement](https://github.com/dnum-mi/dso-formation/blob/a5c2755f51999042e0a14c06c7536ba067745ba3/2.5-accompagnement_projet.md) et de [ressources de formation](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.6-plan_formation.md):
 - L'accompagnement: regroupe les activités assurées par les équipes du programme Cloud Pi Native, à chaque étape du projet, pour atteindre l'autonomie de l'équipe projet;
-- Les ressources de formations permettent à l'équipe projet d'acquérir les connaissances et les pratiques nécessaires au niveau de réalisation requis dans l'avancement de son projet;
+- Les ressources de formations permettent à l'équipe projet d'acquérir les connaissances et les pratiques nécessaires au niveau de réalisation requis par l'avancement de son projet;
 
 
 ![alt_text](images/schema-accompagnement-formation.png)
