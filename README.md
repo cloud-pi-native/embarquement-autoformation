@@ -2,27 +2,30 @@ Les ressources rassemblées ici constituent la base de connaissances accessibles
 - Faisant des pulls request sur le repository
 - Faisant des issues
 
-# Ressources de formation et accompagnement à l'utilisation de l'offre
+# Acompagnement et formation à l'utilisation de l'offre
 Un équipe projet souhaitant consommer l’offre cloud pi native peut bénéficier d'un accompagnement. Celui-ci regroupe les activités assurées par les équipes du programme Cloud Pi Native, à chaque étape du projet, en vue d'atteindre l'autonomie de l'équipe projet. Celui-ci est adapté à:
 - [Au degré de maturité de l'équipe](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.6-plan_formation.md): structuré par le type de questions qu'elle se pose en l'état d'avancement actuel de son projet.
 - [L'avancement du projet](https://github.com/dnum-mi/dso-formation/blob/a5c2755f51999042e0a14c06c7536ba067745ba3/2.5-accompagnement_projet.md):  structuré en niveau de réalisation atteint avec Cloud Pi Native ;
 
 
-Le degré de maturité requis 
-
-- Les ressources de formations permettent à l'équipe projet d'acquérir les connaissances et les pratiques nécessaires au niveau de réalisation requis par l'avancement de son projet;
-
-
 ![alt_text](images/schema-accompagnement-formation.png)
 
 
+L'accompagnement est conditionné à certains pré-requis, nécessaires pour s'engager dans l'étape suivante du projet. **Sur la vérification de ces pré-requis, les équipes du programme Cloud Pi Native se réservent le droit**:
+- D'accompagner 
+- D'orienter vers les ressources de formation adaptées. 
 
 ## Parcours d'accompagnement et prérequis 
-L'accompagnement est conditionné à certains pré-requis, nécessaires pour s'engager dans l'étape suivante du projet. **Sur la vérification de ces pré-requis, les équipes du programme Cloud Pi Native se réservent le droit d'accompagner ou d'orienter vers les ressources de formation adaptées**. Ces ressources de formation sont de 3 types:
+Les ressources de formations permettent à l'équipe projet d'acquérir les connaissances et les pratiques nécessaires au niveau de réalisation requis par l'avancement de son projet;
+
+## Ressources de formation sont de 3 types:
 - Culture générale;
 -	Culture « cloud native »
 -	Spécifiques à cloud pi native
 Selon le profil des personnes impliquées, le dégré d'autonomie de l'équipe et l'étape d'avancement du projet, ces ressources seront organisées en parcours formation et intégrées dans l'accompagnement projet (voir exemple ci-dessous).
+
+
+
 
 
 
