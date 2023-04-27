@@ -5,7 +5,7 @@ Les ressources rassemblées ici constituent la base de connaissances accessibles
 
 ![alt_text](images/schema-accompagnement-formation.png)
 
-Les équipes souhaitant consommer l’offre cloud pi native sont bénéficie d'un [accompagnement](https://github.com/Yoarmi/dso-formation/blob/main/2.6-plan_formation.md) et de ressources tout au long de leur parcours (lien vers tableau « accompagnement ») et bénéficient de la formation nécessaire, afin d’acquérir l’autonomie suffisante.
+Les équipes souhaitant consommer l’offre cloud pi native sont bénéficie d'un [accompagnement](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.5-accompagnement_projet.md) et de [ressources](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.6-plan_formation.md) tout au long de leur parcours (lien vers tableau « accompagnement ») et bénéficient de la formation nécessaire, afin d’acquérir l’autonomie suffisante.
 
 
 # Pourquoi Cloud Pi Native? enjeux de transformation du numérique public
