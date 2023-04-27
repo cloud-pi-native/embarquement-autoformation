@@ -16,7 +16,7 @@ Si les ressources de formation sont consultables librement, **l'accompagnement e
 - [Des ressources de formation adaptées](./2.6-plan_formation.md): voir les contenus 1) de culture générale 2) de culture « cloud native" 3) spécifiques à cloud pi native en fonction du type de questions posées par l'équipe projet;
 
 ## Sensibilisation et parcours de formation
-Selon le profil des personnes impliquées et l'avancement du projet, des **parcours de formation spécifiques** pourront être proposés. En préalable à toute demande d'accompagnement, il est nécessaire de consulter le [support de sensibilisation](./0-sensibilisation.md)
+En préalable à toute demande d'accompagnement, il est nécessaire de consulter le [support de sensibilisation](./0-sensibilisation.md). Par la suite, la maturité nécessaire à l'étape actuelle est évaluée au niveau de l'équipe projet. Selon le profil des personnes impliquées et l'avancement du projet, des **parcours de formation spécifiques** pourront être recommandés. 
 
 
 # Pourquoi Cloud Pi Native? enjeux de transformation du numérique public
