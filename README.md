@@ -3,7 +3,7 @@ Les ressources rassemblées ici constituent la base de connaissances accessibles
 - Faisant des issues
 
 # Utilisation de l'offre
-Un équipe projet souhaitant consommer l’offre cloud pi native peut bénéficier d'un accompagnement. Celui-ci regroupe les activités assurées par les équipes du programme Cloud Pi Native, à chaque étape du projet, en vue d'atteindre l'autonomie de l'équipe projet. Celui-ci est adapté à:
+Un équipe projet souhaitant consommer l’offre cloud pi native pourra **bénéficier d'un accompagnement**. Celui-ci regroupe des activités assurées par les équipes du programme Cloud Pi Native et des ressources de formation, en vue d'atteindre l'autonomie de l'équipe projet. Celui-ci est adapté à:
 - [Au degré de maturité de l'équipe](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.6-plan_formation.md): structuré par le type de questions qu'elle se pose en l'état d'avancement actuel de son projet.
 - [L'avancement du projet](https://github.com/dnum-mi/dso-formation/blob/a5c2755f51999042e0a14c06c7536ba067745ba3/2.5-accompagnement_projet.md):  structuré en niveau de réalisation atteint avec Cloud Pi Native ;
 
