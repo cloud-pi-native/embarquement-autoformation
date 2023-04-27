@@ -3,7 +3,6 @@ Les ressources rassemblées ici constituent la base de connaissances accessibles
 - Faisant des issues
 
 
-![alt_text](images/schema-accompagnement-formation.png  "image_tooltip")
 
 
 # Pourquoi Cloud Pi Native? enjeux de transformation du numérique public
