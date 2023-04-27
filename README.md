@@ -13,8 +13,8 @@ Un équipe projet souhaitant consommer l’offre cloud pi native peut bénéfici
 
 ## Accompagnement et prérequis 
 Si les ressources de formation sont consultables librement, **l'accompagnement est conditionné à certains pré-requis**, nécessaires pour garantir l'atteinte de l'étape suivante du projet. Ces prérequis sont constatables sur la base de réalisations("avez vous déja....?"). En fonction, les équipes du programme Cloud Pi Native se réservent le droit:
-- D'accompagner (voir ["Activités du programme Cloud Pi Native"](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.6-plan_formation.md)
-- D'orienter vers les ressources de formation adaptées.
+- D'accompagner (voir ["Activités du programme Cloud Pi Native"](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.5-accompagnement_projet.md)
+- D'orienter vers les [ressources de formation adaptées](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.6-plan_formation.md).
 
 
 ## Ressources de formation et parcours:
