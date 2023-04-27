@@ -4,8 +4,10 @@ Les ressources rassemblées ici constituent la base de connaissances accessibles
 
 # Ressources de formation et accompagnement à l'utilisation de l'offre
 Un équipe projet souhaitant consommer l’offre cloud pi native peut bénéficier d'un accompagnement. Celui-ci regroupe les activités assurées par les équipes du programme Cloud Pi Native, à chaque étape du projet, en vue d'atteindre l'autonomie de l'équipe projet. Celui-ci est adapté à:
-- [L'avancement du projet](https://github.com/dnum-mi/dso-formation/blob/a5c2755f51999042e0a14c06c7536ba067745ba3/2.5-accompagnement_projet.md) avec Cloud Pi Native. Ces niveaux se retrouvent aux différentes étapes d'avancement d'un projet ;
-- [Au degré de maturité de l'équipe](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.6-plan_formation.md) par rapport aux questions que se pose l'équipe en l'état d'avancement actuel de son projet.
+- [Au degré de maturité de l'équipe](https://github.com/dnum-mi/dso-formation/blob/5560e4cbb7928c19cac3955be0569f15304cd367/2.6-plan_formation.md): structuré par le type de questions qu'elle se pose en l'état d'avancement actuel de son projet.
+- [L'avancement du projet](https://github.com/dnum-mi/dso-formation/blob/a5c2755f51999042e0a14c06c7536ba067745ba3/2.5-accompagnement_projet.md):  structuré en niveau de réalisation atteint avec Cloud Pi Native ;
+
+
 Le degré de maturité requis 
 
 - Les ressources de formations permettent à l'équipe projet d'acquérir les connaissances et les pratiques nécessaires au niveau de réalisation requis par l'avancement de son projet;
