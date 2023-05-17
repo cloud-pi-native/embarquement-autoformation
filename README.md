@@ -3,22 +3,33 @@ Les ressources rassemblées ici constituent la base de connaissances accessibles
 - Faisant des issues
 
 # Utilisation de l'offre
-Un équipe projet souhaitant consommer l’offre cloud pi native pourra bénéficier d'accélérateurs regroupant un accompagnement assuré par les équipes du programme Cloud Pi Native et des ressources de formation. Le but est de donner le maximum d'autonomie à l'équipe projet en fonction:
-- [De l'avancement du projet](./2.5-accompagnement_projet.md): le niveau de réalisation atteint, en vue de ou par l'utilisation de Cloud Pi Native ;
-- [Du degré de maturité de l'équipe](./2.6-plan_formation.md): le type de questions qu'elle se pose en l'état d'avancement actuel de son projet.
+Un équipe "cliente" souhaitant consommer l’offre cloud pi native pourra bénéficier d'accélérateurs regroupant un accompagnement assuré par les équipes du programme Cloud Pi Native et des ressources de formation adaptées:
+- [Au degré de maturité de l'équipe](./2.6-plan_formation.md): c'est à dire le type de questions qu'elle se pose ; 
+- [De l'avancement du projet](./2.5-accompagnement_projet.md): c'est à dire le type d'objectif visé ;
+
+L'objectif est que les équipes clientes acquierent à un maximum d'autonomie. Aussi, le niveau de maturité requis augmente: pour atteindre des réalisations de complexité technique croissante (connaissances et pratiques spécifiquesà Cloud Pi Native), mais également en termes de culture générale et de culture "Cloud native".
 
 ![alt_text](images/schema-accompagnement-formation.png)
 
 
-## Accompagnement et prérequis
-Si les ressources de formation sont consultables librement, **l'accompagnement est conditionné à certains pré-requis**, nécessaires pour garantir l'atteinte de l'étape suivante du projet. Ces prérequis sont constatables sur la base de réalisations("avez vous déja....?"). En fonction, les équipes du programme proposent :
-- [Un accompagnement](./2.5-accompagnement_projet.md): voir les activités et le point de contact en fonction de l'étape du projet et des besoins; 
-- [Des ressources de formation adaptées](./2.6-plan_formation.md): voir les contenus 1) de culture générale 2) de culture « cloud native" 3) spécifiques à cloud pi native en fonction du type de questions posées par l'équipe projet;
+# Accompagnement et périmètre de responsabilité
+Le programme Cloud Pi Native met en place un accompagnement progressif à l'autonomie dans la consommation de l'offre. En fonction de l'avancement, les interlocuteurs en responsabilité ont des besoins différents et sont donc accompagnés par des équipes différentes. A l'étape 3, un basculement intervient: **l'accompagnement par la "service team" est de nature technique,  il est donc conditionné à certains pré-requis**, nécessaires à la réussite du projet. 
 
 ![alt_text](images/accompagnement.jpg)
 
-## Sensibilisation et parcours de formation
-En préalable à toute demande d'accompagnement, il est nécessaire de consulter le [support de sensibilisation](./0-sensibilisation.md). Par la suite, la maturité nécessaire à l'étape actuelle est évaluée au niveau de l'équipe projet. Selon le profil des personnes impliquées et l'avancement du projet, des **parcours de formation spécifiques** pourront être recommandés. 
+- « **Décisionnaire: pertinence de la décision stratégique** » : personnes qui prennent des décisions, se portent garantes de l’engagement des organisations sur des sujets touchant au numérique. Ce périmètre comprend également les personnes chargées de les conseiller quand à la stratégie à adopter, de fournir des recommandations, de délivrer des mandats ou de réaliser des arbitrages concernant les finalités, moyens et modes d’organisation. Il s’agit de la décision stratégique, du pilotage et de la gouvernance des organisations, des directions générales ou des directions de stratégie métiers, achats, RH, etc.
+- « **Pilote MOE: intégrité des projets** » : personnes qui pilotent les équipes de développement ou de gestion des opérations. Elles sont responsables du cadrage des projets, de la bonne utilisation et du suivi des ressources (humaines et techniques), des orientations à prendre pour la menée d'un projet. Il s'agit des équipes de pilotage/chefferie de projets ou de programmes, de MOE ou d'unités de conception, de bureaux d'étude, etc.
+- «**Equipe produit: qualité des produits numériques** » : personnes qui élaborent de nouveaux produits numériques et/ou assurent la gestion de leur cycle de vie. Ils sont responsables de leur développement, mise en production, MCO/évolution, migration, etc. Ce sont les développeurs, opérateurs de produits, les architectes solution, etc. Ces équipes peuvent aussi recouvrir des personnes repsonsables de **la  fiabilité des services & systèmes** qui assurent l’intégrité des services et systèmes nécessaires aux équipes de développement et d'opération des produits numériques, tout au long de leur cycle de vie: pipelines de livraison DevSecOps, services d’hébergement, génération d’environnements, etc. Ce sont les system teams, les équipes d’ingénierie de fiabilité des sites (SRE, Site Reliability Engineering), les forges, les opérateurs de plateformes (IaaS, PaaS, XaaS, ...)...
+
+# Parcours de formation 
+ En fonction, les équipes du programme proposent différents parcours génériques:  
+ 1) "Culture générale": adressé à tous, en particulier aux personnes responsables d'orienter des projets numériques vers une offre  de service donnée; 
+ 2) "Culture cloud native": notamment destinée aux personnes responsables de la structuration du projet, des équipes/compétences, des choix technologiques... 
+ 3) "Spécifiques Cloud pi native": notamment destinés aux équipes techniques qui utilisent l'offre pour construire et opérer des produits;
+ 
+En préalable à toute demande d'accompagnement, il est nécessaire de consulter le [support de sensibilisation](./0-sensibilisation.md). Par la suite, la maturité sera évaluée au niveau de l'équipe projet, par les équipes d'accompagnement du programme Cloud Pi Native qui pourront . Selon le profil des personnes impliquées et l'avancement du projet, des **parcours de formation spécifiques** pourront être recommandés. 
+
+
 
 
 # Pourquoi Cloud Pi Native? enjeux de transformation du numérique public
@@ -43,12 +54,7 @@ Comme dans toute transformation industrielle découlant d'innovation(s) majeure(
 
 Nous vous invitons à prendre connaissance des principes sous-jacents exposés dans le [cadre de cohérence technique Cloud Pi Native (CCT)](https://github.com/dnum-mi/CCT-Cloud-Native) et à y contribuer. De ces principes découleront les exigences technologiques, organisationnelles, bonnes pratiques, processus... préconisés pour livrer des produits numériques à l'état de l'art et les gérer tout au long de leur cycle de vie.
 
-### Périmètres de responsabilité
-Les parcours d'apprentissage s'adressent aux populations concernées par 4 grands périmètres de responsabilités:
-- « [Qualité des produits numériques](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.1-parcours-produit.md) » : personnes qui élaborent de nouveaux produits numériques et/ou assurent la gestion de leur cycle de vie. Ils sont responsables de leur développement, mise en production, MCO/évolution, migration, etc. Ce sont les développeurs, opérateurs de produits, les architectes solution, … 
-- « [Fiabilité des services & systèmes (SRE)](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.2-parcours_systeme.md) » : personnes qui assurent l’intégrité des services et systèmes nécessaires aux équipes de développement et d'opération des produits numériques, tout au long de leur cycle de vie: pipelines de livraison DevSecOps, services d’hébergement, génération d’environnements, etc. Ce sont les system teams, les équipes d’ingénierie de fiabilité des sites (SRE, Site Reliability Engineering), les forges, les opérateurs de plateformes (IaaS, PaaS, XaaS, ...)...
-- « [Intégrité des projets](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.3-parcours_projet.md) » : personnes qui pilotent les équipes de développement ou de gestion des opérations. Elles sont responsables du cadrage des projets, de la bonne utilisation et du suivi des ressources (humaines et techniques), des orientations à prendre pour la menée d'un projet. Il s'agit des équipes de pilotage/chefferie de projets ou de programmes, de MOE ou d'unités de conception, de bureaux d'étude, etc.
-- « [Pertinence de la décision stratégique](https://github.com/Yoarmi/dso-formation/blob/patch-1/2.4-parcours_strategie.md) » : personnes qui prennent des décisions, se portent garantes de l’engagement des organisations sur des sujets touchant au numérique. Ce périmètre comprend également les personnes chargées de les conseiller quand à la stratégie à adopter, de fournir des recommandations, de délivrer des mandats ou de réaliser des arbitrages concernant les finalités, moyens et modes d’organisation. Il s’agit de la décision stratégique, du pilotage et de la gouvernance des organisations, des directions générales ou des directions de stratégie métiers, achats, RH, etc.
+
 
 ### Apprentissage tout au long du cyle de vie du projet  
 Avant de se lancer, un "diagnostic" est nécessaire pour définir les formations et l'accompagnement approprié. Nous proposons des outils pour permettre à l'équipe utilisatrice de se situer en termes de connaissances, de compétences et d'appropriation des outils pour tendre vers le plus d'autonomie possible. Cela passe par un dispositif d'accompagnement tout au long du cycle de vie du projet et à la mise en place d'un plan de formation.
@@ -69,7 +75,4 @@ Afin de tirer le meilleur parti des guides, kit, et outils proposés, nous conse
 - [Prise en main du socle technique](https://github.com/dnum-mi/dso-socle);
 - [Prise en main de la console](https://github.com/dnum-mi/dso-console);
 - [Tutoriel pour le GitOps](https://github.com/dnum-mi/gitops-tutorial).
-
-
-
 
