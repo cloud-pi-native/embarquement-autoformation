@@ -13,9 +13,12 @@ L'objectif est de permettre aux équipes clientes d'acquérir rapidement un maxi
 
 
 # Accompagnement et périmètre de responsabilité
-Le programme Cloud Pi Native met en place un dispositif d'accompagnement comprenant la formation nécessaire à une bonne utilisation de l'offre en autonomie. En fonction de l'avancement, les besoins de l'équipe client et les interlocuteurs en responsabilité sont différents. A l'étape 3, un basculement intervient: **le projet est accompagné de facon resserée sur un plan technique par une "service team": il est donc conditionné des prérequis techniques stricts**, nécessaires à la réussite du projet. 
+Le programme Cloud Pi Native met en place un dispositif d'accompagnement comprenant la formation nécessaire à une bonne utilisation de l'offre en autonomie. 
 
 ![alt_text](images/accompagnement.jpg)
+
+En fonction de l'avancement, les besoins de l'équipe client et les interlocuteurs en responsabilité sont différents. 
+- A l'étape 3, un basculement intervient: **le projet est accompagné de facon resserée sur un plan technique par une "service team": il est donc conditionné des prérequis techniques stricts**, nécessaires à la réussite du projet. 
 
 On distingue de facon schématique les interlocuteurs et leur périmètre de responsabilité : 
 - **Décisionnaires: "pertinence de la décision stratégique"** : personnes qui prennent des décisions, se portent garantes de l’engagement des organisations sur des sujets touchant au numérique. Ce périmètre comprend également les personnes chargées de les conseiller quand à la stratégie à adopter, de fournir des recommandations, de délivrer des mandats ou de réaliser des arbitrages concernant les finalités, moyens et modes d’organisation. Il s’agit de la décision stratégique, du pilotage et de la gouvernance des organisations, des directions générales ou des directions de stratégie métiers, achats, RH, etc.
