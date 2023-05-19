@@ -26,7 +26,7 @@ Les interlocuteurs en responsabilité coté client peuvent différer selon l'ava
 - **Pilote MOE** : personnes qui pilotent des équipes chargées du développement ou des opérations. Elles sont responsables de l'intégrité des projets (cadrage, bonne utilisation et suivi des ressources, orientations techniques...): pilotage/chefferie de projets/programmes, responsables d'unités de conception, de bureaux d'étude, etc.
 - **Equipe produit** : personnes qui élaborent de nouveaux produits numériques et/ou en assurent la gestion tout au long du cycle de vie. Ils sont responsables de la qualité des produits. Selon la taille et l'organisation ce périmètre peut recouvrir des personnes responsables de la **fiabilité des services & systèmes** (pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.).
  
-# Parcours de formation 
+# Plan de formation 
 En préalable, il est conseillé à toute personne désireuse de se former de consulter le [support de sensibilisation](./0-sensibilisation.md). 
 
 Les ressources mises à disposition sont organisées en **3 parcours génériques**:
