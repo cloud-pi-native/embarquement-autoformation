@@ -1,24 +1,30 @@
-Les ressources rassemblées ici constituent la base de connaissances de [l'offre "Cloud Pi Native"](https://dnum-mi.github.io/). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
+Les ressources rassemblées ici constituent une base de connaissances permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur [l'offre "Cloud Pi Native"](https://dnum-mi.github.io/). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
 - Faisant des pulls request sur le repository
 - Faisant des issues
 
-# Utilisation de l'offre
-Un équipe "cliente" souhaitant consommer l’offre cloud pi native pourra bénéficier d'accélérateurs tels que des ressources de formation et un accompagnement adaptés:
-- **Au degré de maturité de l'équipe**: c'est à dire au type de questions qu'elle se pose (voir [degré de maturité](./2.6-plan_formation.md)); 
-- **A l'avancement du projet**: c'est à dire au type d'objectif/réalisation visé (voir [stades d'avancement](./2.5-accompagnement_projet.md)) ;
-
-L'objectif est de permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur des réalisations de complexité croissante. Le niveau de maturité requis augmente avec l'avancement du projet et recouvre la maitrise de connaissances et de pratiques: générales sur le numérique, relatives aux technologies "cloud native" et spécifiques à Cloud Pi Native.
+# Par où commencer? plan de formation et accompagnement
+Un équipe "cliente" souhaitant comprendre et utiliser l’offre Cloud Pi Native pourra bénéficier d'accélérateurs tels que des ressources de formation et un accompagnement adaptés:
+- **A son degré de maturité**: c'est à dire au type de questions qu'elle se pose (voir [plan de formation](./2.6-plan_formation.md) pour les questions et les contenus correspondants); 
+- **A l'avancement de son/ses projet(s)**: c'est à dire au type d'objectifs/réalisations visés (voir les besoins, interlocuteurs et réalisations aux différents [stades d'avancement](./2.5-accompagnement_projet.md)) ;
 
 ![alt_text](images/schema-accompagnement-formation.png)
 
+L'objectif est de permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur des réalisations de complexité croissante. Le niveau de maturité requis augmente avec l'avancement du projet et recouvre la maitrise de connaissances et de pratiques 1) générales (sur le numérique) 2) relatives aux technologies "cloud native" et 3) spécifiques à Cloud Pi Native.
 
-# Accompagnement et périmètre de responsabilité
-Le programme Cloud Pi Native met en place un dispositif d'accompagnement comprenant la formation nécessaire à une bonne utilisation de l'offre en autonomie. 
+
+# Les interlocuteurs et leur périmètre de responsabilité
+Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes qui seront les interlocutrices de l'équipe client:
+- L'équipe "adoption": qui oriente sur les ressources d'autoformation mise à disposition; 
+- La "service team": qui accompagne à la prise en main et l'embarquement des projets sur un plan technique;  
+A l'étape de lancement du projet, un basculement intervient: l'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet. Ceux-ci sont détaillés dans la [documentation](https://github.com/dnum-mi/dso-documentation/README.md
+
+
+)  et vérifiés dans le cadre d'un échange avec la service team, organisé par l'équipe "adoption".
 
 ![alt_text](images/accompagnement.jpg)
 
 En fonction de l'avancement, les besoins de l'équipe client et les interlocuteurs en responsabilité sont différents. 
-- A l'étape 3, un basculement intervient: **le projet est accompagné de facon resserée sur un plan technique par une "service team": il est donc conditionné des prérequis techniques stricts**, nécessaires à la réussite du projet. 
+
 
 On distingue de facon schématique les interlocuteurs et leur périmètre de responsabilité : 
 - **Décisionnaires: "pertinence de la décision stratégique"** : personnes qui prennent des décisions, se portent garantes de l’engagement des organisations sur des sujets touchant au numérique. Ce périmètre comprend également les personnes chargées de les conseiller quand à la stratégie à adopter, de fournir des recommandations, de délivrer des mandats ou de réaliser des arbitrages concernant les finalités, moyens et modes d’organisation. Il s’agit de la décision stratégique, du pilotage et de la gouvernance des organisations, des directions générales ou des directions de stratégie métiers, achats, RH, etc.
