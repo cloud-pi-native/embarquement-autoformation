@@ -14,7 +14,7 @@ L'objectif est de permettre aux équipes clientes d'acquérir rapidement un maxi
 
 # Pour quels interlocuteurs/responsabilités? 
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
-- L'équipe "adoption": qui oriente vers les ressources d'autoformation mise à disposition; 
+- L'équipe "adoption": qui oriente sur les ressources d'autoformation mise à disposition; 
 - La "service team": qui accompagne à la prise en main et à l'embarquement des projets sur un plan technique.
 
 Au lancement du projet, un basculement intervient: l'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet. Une liste des prérequis est disponible dans la [documentation](https://github.com/dnum-mi/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)
