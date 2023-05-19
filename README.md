@@ -12,7 +12,7 @@ Un équipe "cliente" souhaitant comprendre et utiliser l’offre Cloud Pi Native
 L'objectif est de permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur des réalisations de complexité croissante. Le niveau de maturité requis augmente avec l'avancement du projet et recouvre la maitrise de connaissances et de pratiques 1) générales (sur le numérique) 2) relatives aux technologies "cloud native" et 3) spécifiques à Cloud Pi Native.
 
 
-# Pour interlocuteurs/responsabilités? 
+# Pour quels interlocuteurs/responsabilités? 
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
 - L'équipe "adoption": qui oriente vers les ressources d'autoformation mise à disposition; 
 - La "service team": qui accompagne à la prise en main et à l'embarquement des projets sur un plan technique.
