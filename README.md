@@ -2,7 +2,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - Faisant des pulls request sur le repository
 - Faisant des issues
 
-# Par où commencer? plan de formation et accompagnement
+# Par où commencer? accélérateurs
 Un équipe "cliente" souhaitant comprendre et utiliser l’offre Cloud Pi Native pourra bénéficier d'accélérateurs tels que des ressources de formation et un accompagnement adaptés:
 - **A son degré de maturité**: c'est à dire au type de questions qu'elle se pose (voir [plan de formation](./2.6-plan_formation.md) pour les questions et les contenus correspondants); 
 - **A l'avancement de son/ses projet(s)**: c'est à dire au type d'objectifs/réalisations visés (voir les besoins, interlocuteurs et réalisations aux différents [stades d'avancement](./2.5-accompagnement_projet.md)) ;
