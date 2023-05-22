@@ -32,9 +32,9 @@ Les interlocuteurs en responsabilité coté client différent selon l'étape du 
 En préalable, il est conseillé à toute personne désireuse de se former de consulter le [support de sensibilisation](./0-sensibilisation.md) qui constitue le point de départ du plan de formation. 
 
 Les ressources mises à disposition sont organisées en [**3 parcours génériques**](./2.6-plan_formation.md):
-1) **"Culture générale"**: ressources adressées à tous, en particulier aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel"; 
+1) **"Culture générale"**: ressources adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel"; 
 2) **"Culture cloud native"**: ressources notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native".
-3) **"Spécifiques Cloud pi native"**: [documentation](https://github.com/dnum-mi/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md) notamment destinés aux équipes techniques qui utilisent l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie.
+3) **"Spécifiques Cloud pi native"**: [documentation](https://github.com/dnum-mi/dso-documentation/blob/master/README.md) notamment destinés aux équipes techniques qui utilisent l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie.
 
 Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent conseiller des **parcours de formation spécifiques** en fonction des besoins et de la maturité de l'équipe projet.
 
