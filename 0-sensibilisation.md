@@ -9,9 +9,7 @@ A travers un parcours unique, les produits numériques existants ou en cours de 
 
 
 ## Format de la présentation
-Pas de prérequis techniques
-- 30 minutes de présentation
-- 15 minutes de questions
+Pas de prérequis techniques, 30 minutes de présentation/15 minutes de questions
 
 
 ## A quelles questions est-ce que la présentation répond?
@@ -90,19 +88,14 @@ L'offre existe déja (certains clients en bénéfecient) est en développement e
 - Demander les hypothèse de modèle économique à Julien
 - Quelle contractualisation? Accords de service
 
-
-
-# Conclusion ("si on devait retenir une chose...")
-
-
-# A définir
-- Format de la présentation : 1) intro :  2) sondage sur les connaissances actuelles 3) présentation 4) quizz et collecte des retours (comment avez-vous trouvé... ? qu’est ce qui a manqué pour vous convaincre ? )
+# Reste à faire/à définir
+- Format de l'évènement de présentation : 1) intro :  2) sondage sur les connaissances actuelles 3) présentation 4) "s'il ne fallait retenir qu'une chose" 5) quizz et collecte des retours (comment avez-vous trouvé... ? qu’est ce qui a manqué pour vous convaincre ? )
 - S’appuyer sur le témoignage d'un prescripteur (voir ministères ayant basculé sur l’offre et que l’on peut montrer : MTE, MJ, MinArm, Educ. Nat., …?)
-- Aller chercher les arguments impactant y compris sur le plan non-intellectuel
+- Aller chercher les arguments impactants
 -	Moyen de mesurer la réussite (ou non) de la session (OKR) ou le NPS (recommanderiez-vous cette offre-> NPR)
 -	Alimenter en exemple du quotidien, qui marche, reposant sur le paradigme "Cloud Native" : Google (Borg), Netflix, ... vs. des exemples de ce qui marche moins bien (banque ou assurance traditionnelles, ...)
--	Démystifier la sécurité (argument développés dans les présentations de "Cloud au centre"): elle est différente pur un individu et un acteur d'échelle "géostratégique";
-- Formaliser un élévator pitch
+-	Démystifier la sécurité (argument développés dans les présentations de "Cloud au centre"): elle est différente pur un individu et à l'échelle d'un acteur "géostratégique";
+
 
  
 
