@@ -29,9 +29,9 @@ Les interlocuteurs en responsabilité coté client différent selon l'étape du 
 - **Equipe produit** : personnes qui élaborent de nouveaux produits numériques et en assurent la gestion tout au long du cycle de vie. Elles sont responsables de la qualité des produits. Selon la taille et le d'organisation, ce périmètre peut recouvrir des personnes responsables de la **fiabilité des services & systèmes** (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.).
  
 # Selon quels parcours/plan de formation ?
-En préalable, il est conseillé à toute personne désireuse de se former de consulter le [support de sensibilisation](./0-sensibilisation.md) qui constitue le point de départ du plan de formation. 
+Toute personne désireuse est priée de prendre connaissance du [support de sensibilisation au enjeux](./0-sensibilisation.md), point de départ du plan de formation, communs aux différents parcours. 
 
-Les ressources mises à disposition sont organisées en [**3 parcours génériques**](./2.6-plan_formation.md):
+Par la suite, les ressources mises à disposition sont organisées en [**3 parcours génériques**](./2.6-plan_formation.md):
 1) [**"Culture générale"**](https://github.com/dnum-mi/dso-formation/blob/main/parcours-culture-generale.md) : ressources adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel"; 
 2) [**"Culture cloud native"**](https://github.com/dnum-mi/dso-formation/blob/main/parcours-culture-cloudnative.md): ressources notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native".
 3) [**"Spécifiques Cloud pi native"**](https://github.com/dnum-mi/dso-documentation/blob/master/README.md): documentation notamment destinés aux équipes techniques qui utilisent l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie.
