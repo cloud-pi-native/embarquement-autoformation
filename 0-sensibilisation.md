@@ -91,6 +91,7 @@ L'offre existe déja (certains clients en bénéfecient) est en développement e
 # Reste à faire/à définir
 - Format de l'évènement de présentation : 1) intro :  2) sondage sur les connaissances actuelles 3) présentation 4) "s'il ne fallait retenir qu'une chose" 5) quizz et collecte des retours (comment avez-vous trouvé... ? qu’est ce qui a manqué pour vous convaincre ? )
 - S’appuyer sur le témoignage d'un prescripteur (voir ministères ayant basculé sur l’offre et que l’on peut montrer : MTE, MJ, MinArm, Educ. Nat., …?)
+- Petite intro: qu'est ce que le cloud? (figure?)
 - Aller chercher les arguments impactants
 -	Moyen de mesurer la réussite (ou non) de la session (OKR) ou le NPS (recommanderiez-vous cette offre-> NPR)
 -	Alimenter en exemple du quotidien, qui marche, reposant sur le paradigme "Cloud Native" : Google (Borg), Netflix, ... vs. des exemples de ce qui marche moins bien (banque ou assurance traditionnelles, ...)
