@@ -4,18 +4,10 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 # Quels accélérateurs sont mis à disposition? 
 Un équipe "cliente" souhaitant comprendre et utiliser l’offre Cloud Pi Native pourra bénéficier d'accélérateurs:
-- Des ressources de formation adpatées à son degré de maturité: c'est à dire au type de questions qu'elle se pose. Ces ressources sont organisées en un [plan de formation](./2.6-plan_formation.md); 
 - Un accompagnement facilitant l'embarquement, adapté à l'avancement de son/ses projet(s): c'est à dire au type d'objectifs/réalisations visés (voir les besoins, interlocuteurs et réalisations aux différents [stades d'avancement](./2.5-accompagnement_projet.md)) ;
+- Des ressources de formation adpatées à son degré de maturité: c'est à dire au type de questions qu'elle se pose. Ces ressources sont organisées en un [plan de formation](./2.6-plan_formation.md) et sont de 3 types 1) Générales, sur le numérique et les enjeux de transformation 2) Relatives aux technologies "cloud native" 3) Spécifiques à l'offre Cloud Pi Native;
 
-![alt_text](images/schema-accompagnement-formation.png)
-
-L'objectif est de permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur des réalisations de complexité croissante. Le niveau de maturité requis augmente avec l'avancement du projet et recouvre la maitrise de connaissances et de pratiques 
-1) Générales, sur le numérique et les enjeux de transformation;
-2) Relatives aux technologies "cloud native";
-3) Spécifiques à l'offre Cloud Pi Native.
-
-
-# Comment se lancer? Interlocuteurs et étapes 
+# Comment se lancer? Interlocuteurs et étapes d'accompagnement
 
 ## Coté programme Cloud Pi Native
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
@@ -31,24 +23,23 @@ Les interlocuteurs en responsabilité coté client différent selon l'étape du 
 - **Equipe produit** : personnes qui élaborent de nouveaux produits numériques et en assurent la gestion tout au long du cycle de vie. Elles sont responsables de la qualité des produits. Selon la taille et le d'organisation, ce périmètre peut recouvrir des personnes responsables de la **fiabilité des services & systèmes** (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.).
 
 
-
-# Comment ca se passe? pas à pas 
+## Comment ca se passe? pas à pas 
 
 ![alt_text](images/accompagnement.jpg)
 
-## Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
+### Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
 **Objectif**: L'équipe sait évaluer et, le cas échéant, argumenter la pertinence (ou non) à orienter son projet vers l"offre Cloud Pi Native
 
-## Etape 2: structurer un plan projet, se préparer pour consommer l'offre
+### Etape 2: structurer un plan projet, se préparer pour consommer l'offre
 **Objectif**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
 
-## Etape3: lancer son projet, construire dans un environnement "bac à sable"
+### Etape3: lancer son projet, construire dans un environnement "bac à sable"
 **Objectif**: L'équipe s'est organisée et exercée aux technologies cloud native, elle a montée son usine logicielle, réalisé un "Hello world" puis construit son produit dans l'environnement bac à sable.
 
-## Etape 4: passer en production, appréhender le Cloud souverain "Pi"
+### Etape 4: passer en production, appréhender le Cloud souverain "Pi"
 **Objectif**: L'équipe construit son projet dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes qu'il impose.
 
-## Etape 5: atteindre les meilleurs standards, évoluer en production 
+### Etape 5: atteindre les meilleurs standards, évoluer en production 
 **Objectif**: L'équipe a atteint les standards de qualité et de sécurité en production et mis en place des bonnes pratiques lui permettant de contribuer à leur évolution
 
 
@@ -57,11 +48,14 @@ Les interlocuteurs en responsabilité coté client différent selon l'étape du 
 # Comment se former? parcours et plan de formation
 Toute personne désireuse est priée de prendre connaissance du [support de sensibilisation au enjeux](./0-sensibilisation.md), point de départ du plan de formation, communs aux différents parcours. 
 
-Par la suite, les ressources mises à disposition sont organisées en [**3 parcours génériques**](./2.6-plan_formation.md):
+Par la suite, les ressources mises à disposition sont organisées en [**3 parcours génériques**](./2.6-plan_formation.md). L'objectif est de permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur des réalisations de complexité croissante. Le niveau de maturité requis augmente avec l'avancement du projet et recouvre la maitrise de connaissances et de pratiques: 
+
 1) [**"Culture générale"**](https://github.com/dnum-mi/dso-formation/blob/main/parcours-culture-generale.md) : ressources adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel"; 
 2) [**"Culture cloud native"**](https://github.com/dnum-mi/dso-formation/blob/main/parcours-culture-cloudnative.md): ressources notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native".
 3) [**"Spécifiques Cloud pi native"**](https://github.com/dnum-mi/dso-documentation/blob/master/README.md): documentation notamment destinés aux équipes techniques qui utilisent l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie.
 
+
+![alt_text](images/schema-accompagnement-formation.png)
 Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent conseiller des **parcours de formation spécifiques** en fonction des besoins et de la maturité de l'équipe projet.
 
 
