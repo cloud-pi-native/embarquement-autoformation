@@ -30,11 +30,11 @@ Les interlocuteurs en responsabilité coté client différent selon l'étape du 
 - **Pilote MOE** : personnes qui pilotent des équipes assurant le développement ou les opérations sur les produits. Elles sont responsables de l'intégrité des projets (cadrage, bonne utilisation et suivi des ressources, orientations techniques...): pilotage/chefferie de projets/programmes, responsables d'unités de conception, de bureaux d'étude, etc.
 - **Equipe produit** : personnes qui élaborent de nouveaux produits numériques et en assurent la gestion tout au long du cycle de vie. Elles sont responsables de la qualité des produits. Selon la taille et le d'organisation, ce périmètre peut recouvrir des personnes responsables de la **fiabilité des services & systèmes** (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.).
 
-![alt_text](images/accompagnement.jpg)
-
 
 
 # Comment ca se passe? pas à pas 
+
+![alt_text](images/accompagnement.jpg)
 
 ## Etape 1: juger de l'opportunité de l'offre Cloud Pi Native pour son besoin
 **Objectif**: L'équipe sait évaluer et, le cas échéant, argumenter la pertinence (ou non) à orienter son projet vers l"offre Cloud Pi Native
