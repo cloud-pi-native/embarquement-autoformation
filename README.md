@@ -36,19 +36,19 @@ Les interlocuteurs en responsabilité coté client différent selon l'étape du 
 
 ![alt_text](images/accompagnement.jpg)
 
-## Etape 1: juger de l'opportunité de l'offre Cloud Pi Native pour son besoin
+## Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
 **Objectif**: L'équipe sait évaluer et, le cas échéant, argumenter la pertinence (ou non) à orienter son projet vers l"offre Cloud Pi Native
 
 ## Etape 2: structurer un plan projet, se préparer pour consommer l'offre
 **Objectif**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
 
-## Etape3: lancer son projet dans un environnement "bac à sable"
+## Etape3: lancer son projet, construire dans un environnement "bac à sable"
 **Objectif**: L'équipe s'est organisée et exercée aux technologies cloud native, elle a montée son usine logicielle, réalisé un "Hello world" puis construit son produit dans l'environnement bac à sable.
 
-## Etape 4: construire son produit sur le Cloud souverain "Pi"
+## Etape 4: passer en production, appréhender le Cloud souverain "Pi"
 **Objectif**: L'équipe construit son projet dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes qu'il impose.
 
-## Etape 5: atteindre les meilleurs standards et évoluer en production 
+## Etape 5: atteindre les meilleurs standards, évoluer en production 
 **Objectif**: L'équipe a atteint les standards de qualité et de sécurité en production et mis en place des bonnes pratiques lui permettant de contribuer à leur évolution
 
 
