@@ -7,23 +7,23 @@ Un équipe "cliente" souhaitant comprendre et utiliser l’offre Cloud Pi Native
 - Un accompagnement facilitant l'embarquement, adapté à l'avancement de son/ses projet(s): c'est à dire au type d'objectifs/réalisations visés (voir les besoins, interlocuteurs et réalisations aux différents [stades d'avancement](./2.5-accompagnement_projet.md)) ;
 - Des ressources de formation adpatées à son degré de maturité: c'est à dire au type de questions qu'elle se pose. Ces ressources sont organisées en un [plan de formation](./2.6-plan_formation.md) et sont de 3 types 1) Générales, sur le numérique et les enjeux de transformation 2) Relatives aux technologies "cloud native" 3) Spécifiques à l'offre Cloud Pi Native;
 
-# Comment se lancer? Interlocuteurs et étapes d'accompagnement
+# A qui s'adresser ?
 
-## Coté programme Cloud Pi Native
+## Interlocuteurs coté programme Cloud Pi Native
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
-- **L'équipe "adoption"** qui oriente sur les ressources d'autoformation mise à disposition; 
-- **La "service team"** qui accompagne à la prise en main et à l'embarquement des projets sur un plan technique.
+- **L'équipe "adoption"** qui renseigne sur l'offre et oriente sur les ressources de formation disponibles; 
+- **La "service team"** qui accompagne à la prise en main et à l'embarquement des projets sur le plan technique.
 
 Au lancement du projet, un basculement intervient: l'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [documentation](https://github.com/dnum-mi/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
 
-## Coté client
-Les interlocuteurs en responsabilité coté client différent selon l'étape du projet : 
-- **Gouvernance/décisionnaire** : personnes se portant garantes de l’engagement d'une organisation à orienter un projet/produit ou un portefeuille vers une offre de service. Elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller: pilotage et  gouvernance des organisations, directions générales ou métiers, achats, RH, etc.
+## Interlocuteurs coté équipe cliente
+Les interlocuteurs en responsabilité coté client peuvent être différents selon l'étape du projet : 
+- **Gouvernance/décisionnaire** : personnes se portant garantes de l’engagement d'une organisation à orienter un projet/produit ou un portefeuille vers une offre de service. Elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller: pilotage et  gouvernance des organisations, directions générales ou métiers, stratégie d'achat, RH, etc.
 - **Pilote MOE** : personnes qui pilotent des équipes assurant le développement ou les opérations sur les produits. Elles sont responsables de l'intégrité des projets (cadrage, bonne utilisation et suivi des ressources, orientations techniques...): pilotage/chefferie de projets/programmes, responsables d'unités de conception, de bureaux d'étude, etc.
 - **Equipe produit** : personnes qui élaborent de nouveaux produits numériques et en assurent la gestion tout au long du cycle de vie. Elles sont responsables de la qualité des produits. Selon la taille et le d'organisation, ce périmètre peut recouvrir des personnes responsables de la **fiabilité des services & systèmes** (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.).
 
 
-## Comment ca se passe? pas à pas 
+# Comment ca se passe? embarquement pas à pas 
 
 ![alt_text](images/accompagnement.jpg)
 
