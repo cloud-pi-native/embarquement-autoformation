@@ -82,13 +82,14 @@ Toute les produits numériques sortent de la même usine et sont gérés selon u
 
 
 ## Comment l'utiliser? 
-L'offre existe déja (certains clients en bénéfecient) est en développement en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution:
-- Préciser le périmètre : quelles appli ont vocation à passer dessus? On a la répnse pour les nouvelles, quid des anciennes? cf. l'expérience de Nubo, Clidu centre, Commission Européenne
-- Combien ca coute/qu'est ce que ca permet de gagner? Notamment dans le cadre de la LOPMI, beaucoup de développements= beaucoup de MCO à prévoir demain. Penser au cout du "montage de l'usine".
-- Demander les hypothèse de modèle économique à Julien
-- Quelle contractualisation? Accords de service
+L'offre existe, elle est disponible et se développe en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution.
+
 
 # Reste à faire/à définir
+- Préciser le périmètre : quelles appli ont vocation à passer dessus? On a la répnse pour les nouvelles, quid des anciennes? cf. l'expérience de Nubo, Clidu centre, Commission Européenne
+- Combien ca coute/qu'est ce que ca permet de gagner? Notamment dans le cadre de la LOPMI, beaucoup de développements= beaucoup de MCO à prévoir demain. Penser au cout du "montage de l'usine".
+- Demander les hypothèse de modèle économique
+- Quelle contractualisation? Accords de service
 - Format de l'évènement de présentation : 1) intro :  2) sondage sur les connaissances actuelles 3) présentation 4) "s'il ne fallait retenir qu'une chose" 5) quizz et collecte des retours (comment avez-vous trouvé... ? qu’est ce qui a manqué pour vous convaincre ? )
 - S’appuyer sur le témoignage d'un prescripteur (voir ministères ayant basculé sur l’offre et que l’on peut montrer : MTE, MJ, MinArm, Educ. Nat., …?)
 - Petite intro: qu'est ce que le cloud? (figure?)
