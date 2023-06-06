@@ -28,19 +28,37 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 ![alt_text](images/accompagnement.jpg)
 
 ### Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
-**Objectif**: L'équipe sait évaluer et, le cas échéant, argumenter la pertinence (ou non) à orienter son projet vers l"offre Cloud Pi Native
+**Objectif**: L'équipe sait évaluer et argumenter la pertinence (ou non) à orienter son projet vers l'offre Cloud Pi Native
+
+** Etapes clefs**:
+- Solliciter le programme Cloud Pi Native
+- Prendre connaissance des éléments nécessaires à la compréhension de l'offre
+- Compléter le "diagnostic flash" (mettre le lien) permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien)
+
+** go/no go:
+- L'offre de service portée par Cloud Pi Native répond au besoin exprimé (à reformuler)
 
 ### Etape 2: structurer un plan projet, se préparer pour consommer l'offre
 **Objectif**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
 
+** Etapes clefs**
+- "Maturity check" pour évaluer le degré de préparation et préparation d'un draft de plan projet (vérification des prerequis techniques et organisationnels, compréhension du cadre de normes, complexité/faisabilité, évaluation des éventuels besoins de formation...) 
+- Le cas écéhant, orientation vers des ressources d'autoformation;
+- Remplissage du formulaire de demande d'accès à la console (valant engagement à respecter le cadre de normes)
+
+** go/no go:
+- Les informations sont suffisantes pour programmer un entretien avec les équipes d'accompagnement technique 
+
+
 ### Etape3: lancer son projet, construire dans un environnement "bac à sable"
-**Objectif**: L'équipe s'est organisée et exercée aux technologies cloud native, elle a montée son usine logicielle, réalisé un "Hello world" puis construit son produit dans l'environnement bac à sable.
+**Objectif**: L'équipe s'est organisée et exercée à prendre en main des technologies cloud native, elle a réalisé un "Hello world", puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (pris en main de la chaine primaire).
 
 ### Etape 4: passer en production, appréhender le Cloud souverain "Pi"
-**Objectif**: L'équipe construit son projet dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes qu'il impose.
+**Objectif**: L'équipe construit son projet et le déploie dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes imposé (prise en main de la chaine secondaire).
 
 ### Etape 5: atteindre les meilleurs standards, évoluer en production 
-**Objectif**: L'équipe a atteint les standards de qualité et de sécurité en production et mis en place des bonnes pratiques lui permettant de contribuer à leur évolution
+**Objectif**: L'équipe construit, opére et fait évoluer, en production, des produits conformes aux meilleurs standards de qualité et de sécurité. Elle a mis en place des bonnes pratiques et les monitore pour s'assurer de leur continuité.
+
 
 
 
