@@ -35,7 +35,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 
 >**Etapes clefs**:
 >- Solliciter le programme Cloud Pi Native
->- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation au enjeux](./0-sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), CCT Cloud Native (https://github.com/dnum-mi/CCT-Cloud-Native)...)
+>- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation au enjeux](./0-sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), [CCT Cloud Native](https://github.com/dnum-mi/CCT-Cloud-Native)...)
 >- Compléter le ["diagnostic flash"](./Diagnostic_flash-prequalification.md)  permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien)
 
 >**Livrable->go/no go?**: Support de préqualification/"Diagnostic flash"-> L'offre de service est pertinente pour le besoin exprimé
