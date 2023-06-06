@@ -138,7 +138,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 
 
  
-# Comment se former? parcours et plan de formation
+# Comment et quand me former? parcours génériques
 Toute personne désireuse est priée de prendre connaissance du [support de sensibilisation au enjeux](./0-sensibilisation.md), point de départ du plan de formation, communs aux différents parcours. 
 
 Par la suite, les ressources mises à disposition sont organisées en [**3 parcours génériques**](./2.6-plan_formation.md). L'objectif est de permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur des réalisations de complexité croissante. Le niveau de maturité requis augmente avec l'avancement du projet et recouvre la maitrise de connaissances et de pratiques: 
