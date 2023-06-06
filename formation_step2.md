@@ -13,4 +13,5 @@
 
 # Contenus spécifiques Cloud Pi Native (pointer des contenus spécifiques de la documentation) 
 - Comprendre l'écosystème et l'offre Cloud Pi Native sur l'ensemble du cycle de vie du produit
+- Décripter les exigences sur lesquelles s'appuient le CCT Cloud Native
 
