@@ -101,7 +101,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 
 >**Livrable** Produit dans l'environnement de production
 
->**Go/no go?** Les tests réalisés sur le produit dans l'environnement de production attestent de sa conformité au cadre de normes
+>**Go/no go?** Les métriques d'observabilité et les rapports sur le produit dans attestent de sa conformité au cadre de normes, en production 
 <details>
  <summary> Compétences requises </summary>
   
