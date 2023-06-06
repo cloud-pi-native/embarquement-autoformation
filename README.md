@@ -35,8 +35,8 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 
 >**Etapes clefs**:
 >- Solliciter le programme Cloud Pi Native
->- Prendre connaissance des éléments nécessaires à la compréhension de l'offre (support de sensibilisation, page de présentation, ...)
->- Compléter le "diagnostic flash" (mettre le lien) permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien)
+>- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation au enjeux](./0-sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), CCT Cloud Native (https://github.com/dnum-mi/CCT-Cloud-Native)...)
+>- Compléter le ["diagnostic flash"](./Diagnostic_flash-prequalification.md)  permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien)
 
 >**Livrable->go/no go?**: Support de préqualification/"Diagnostic flash"-> L'offre de service est pertinente pour le besoin exprimé
 
@@ -45,8 +45,8 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >**Objectif**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
 
 >**Etapes clefs**
->- Procéder au "maturity check" pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
->- Consulter les ressources d'autoformation mise à disposition
+>- Procéder au "maturity check" (voir section crrespondante dans le [modèle de plan projet](./modele_plan_projet.md)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
+>- Consulter les ressources d'autoformation mise à disposition (voir section correspondantes dans le [plan de formation](./2.6-plan_formation.md))
 >- Completer, autant que possible, le draft de plan projet et le formulaire de demande d'accès à la console (valant engagement à respecter le cadre de normes)
 </details>
  
@@ -58,7 +58,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 
 >**Etapes clefs**:
 >- Entretien avec l'équipe d'accompagnement technique: passage en revue des prerequis, prise de connaissance des contexte métier et technique, évaluation des ressources à provisionner,... détermination d'une roadmap d'accompagnement
->- Ouverture des canaux d'aides et des accès à la console Cloud Pi Native
+>- Ouverture des canaux d'aides et des accès à la console Cloud Pi Native ([formulaire Démarches Simplifiées](https://www.demarches-simplifiees.fr/commencer/cloud-pi-native))
 >- Prise en main de l'offre: réalisation d'un "hello world", construction de son usine logicielle, déploiement d'un POC déployé dans l'environnement "bac à sable", construction d'un MVP du produit
 
 >**Livrable->go/no go?** MVP dans l'environnement bac à sable-> les tests réalisés sur une version suffisemment représentative du produit attestent que le cadre de normes est respecté
@@ -67,9 +67,9 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >**Objectif**: L'équipe construit son projet et le déploie dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes imposé (prise en main de la chaine secondaire).
 
 >**Etapes clefs**
->- Réaliser une demande d'hébergement sur le Cloud Pi
->- Provisionner ses ressrouces, déployer l'usine logicielle sur le Cloud Pi
->- Déployer son produit (code infra et applicatif) sur l'environnement de production
+>- Réaliser une [demande d'hébergement sur le Cloud Pi](https://resana.numerique.gouv.fr/public/document/consulter/7054535)
+>- Provisionner ses ressources, déployer l'usine logicielle sur le Cloud Pi
+>- Déployer son produit (codes infra et applicatif) sur l'environnement de production
 
 >**Livrable-> go/no go?** Produit dans l'environnement de production-> les tests réalisés sur le produit dans l'environnement de production attestent de sa conformité au cadre de normes
 
