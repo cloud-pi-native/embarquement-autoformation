@@ -45,7 +45,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >**Objectif**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
 
 >**Etapes clefs**
->- Procéder au "maturity check" (voir section crrespondante dans le [modèle de plan projet](./modele_plan_projet.md)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
+>- Procéder au "maturity check" (voir section correspondante dans le [modèle de plan projet](./modele_plan_projet.md)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
 >- Consulter les ressources d'autoformation mise à disposition (voir section correspondantes dans le [plan de formation](./2.6-plan_formation.md))
 >- Completer, autant que possible, le draft de plan projet et le formulaire de demande d'accès à la console (valant engagement à respecter le cadre de normes)
 </details>
