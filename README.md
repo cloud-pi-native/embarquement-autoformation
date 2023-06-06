@@ -54,12 +54,33 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 ### Etape3: lancer son projet, construire dans un environnement "bac à sable"
 **Objectif**: L'équipe s'est organisée et exercée à prendre en main des technologies cloud native, elle a réalisé un "Hello world", puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (pris en main de la chaine primaire).
 
+**Etapes clefs**:
+- Programmation d'un entreiten avec l'équipe d'accompagnement technique
+- Passage en revue des prerequis, prise de connaissance des contexte métier et technique, évaluaton des ressources à provisionner...
+- Détermination d'une roadmap d'accompagnement, ouverture des canaux d'aides...
+- Réalisation d'un "hello world" et construction d'une usine logicielle et d'un POC déployé dans l'environnement "bac à sable"
+
+**go/no go**
+- Complétion des tests sur le MVP du produit dans l'environnement bac à sable
+
 ### Etape 4: passer en production, appréhender le Cloud souverain "Pi"
 **Objectif**: L'équipe construit son projet et le déploie dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes imposé (prise en main de la chaine secondaire).
+
+**Etapes clefs**
+- Demande d'hébergement 
+- Déploiement de la chaine de service sur le Cloud Pi
+- Déploiement de l'usine logicielle et du produit (code infra et applicatif) sur l'environnement de production
+
+**go/no go**
+- Complétion des tests sur le produit dans l'environnement de production-> conformité aux exigences du cadre de normes
+
 
 ### Etape 5: atteindre les meilleurs standards, évoluer en production 
 **Objectif**: L'équipe construit, opére et fait évoluer, en production, des produits conformes aux meilleurs standards de qualité et de sécurité. Elle a mis en place des bonnes pratiques et les monitore pour s'assurer de leur continuité.
 
+**Etapes clefs**
+- Mise en place des bonnes pratiques et de leur suivi
+- Suivi des évolutions du produit et atteinte de l'autonomie en production
 
 
 
