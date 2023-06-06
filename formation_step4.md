@@ -1,4 +1,9 @@
 
+# Compétences à acquérir
+- Culture générale: Assurer la sécurité et la qualité dans "le nouveau monde logiciel" (zéro-trust)
+- Culture Cloud Native: Concevoir un produit Clodu Native et gérer son cycle de vie de A à Z (sécurité k8s)
+- Spécifique Cloud Pi Native: Contruire un projet avec Cloud Pi Native: exigences/CCT, sécurité, ... jusqu'à la production (chaine secondaire)
+
 # Culture générale
 - Comprendre la sécurité à l’ère du cloud (zero-trust...)
 - La sécurité à l’ère  kubernetes
