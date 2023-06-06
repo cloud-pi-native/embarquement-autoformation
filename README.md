@@ -39,7 +39,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation au enjeux](./0-sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), [CCT Cloud Native](https://github.com/dnum-mi/CCT-Cloud-Native)...)
 >- Compléter le ["diagnostic flash"](./Diagnostic_flash-prequalification.md)  permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien)
 
->**Livrable**: Support de préqualification/"Diagnostic flash"-
+>**Livrable**: Support de [préqualification/"diagnostic flash"](./Diagnostic_flash-prequalification.md)
 
 >**Go/no go?**: L'offre de service est pertinente pour le besoin exprimé
 <details>
@@ -61,7 +61,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >- Completer, autant que possible, le draft de plan projet et le formulaire de demande d'accès à la console (valant engagement à respecter le cadre de normes)
 </details>
  
->**Livrable**:Draft de plan projet
+>**Livrable**: draft de [plan projet](./modele_plan_projet.md)
 
 >**Go/no go?**: Le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
 <details>
@@ -74,7 +74,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 </details>
 
 ### Etape3: lancer son projet, construire dans un environnement "Cloud native"
->**Objectif et étapes clefs**: L'équipe s'est organisée et exercée à prendre en main des technologies cloud native. Elle a ensuite réalisé un "Hello world" avec les éléments de l'offre, puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (prise en main de la chaine primaire).
+>**Objectif et étapes clefs**: L'équipe s'est organisée et exercée à prendre en main des technologies cloud native. Elle a ensuite réalisé un "Hello world" avec les éléments de l'offre, puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (découverte et mise en place de la chaine primaire).
 
 >- Entretien avec l'équipe d'accompagnement technique: passage en revue des prerequis, prise de connaissance des contexte métier et technique, évaluation des ressources à provisionner,... détermination d'une roadmap d'accompagnement
 >- Ouverture des canaux d'aides et des accès à la console Cloud Pi Native ([formulaire Démarches Simplifiées](https://www.demarches-simplifiees.fr/commencer/cloud-pi-native))
@@ -93,7 +93,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 </details>
 
 ### Etape 4: passer en production, appréhender le Cloud souverain "Pi"
->**Objectif et étapes clefs**: L'équipe construit son projet et le déploie dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes imposé (prise en main de la chaine secondaire).
+>**Objectif et étapes clefs**: L'équipe construit son projet et le déploie dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes imposé (découverte et mise en place de la chaine secondaire).
 
 >- Réaliser une [demande d'hébergement sur le Cloud Pi](https://resana.numerique.gouv.fr/public/document/consulter/7054535)
 >- Provisionner ses ressources, déployer l'usine logicielle sur le Cloud Pi
