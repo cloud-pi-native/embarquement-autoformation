@@ -41,10 +41,11 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >**Go/no go?**: L'offre de service est pertinente pour le besoin exprimé
 <details>
  
- <summary> Compétences requise pour juger de l'opportunité de Cloud Pi Native </summary>
+ <summary> Compétences requises </summary>
   
-- Bla 1
-- bla 2
+- Culture générale: enjeux du "nouveau monde logiciel" (Cloud, DevOps, mode produit,...) pour la transformations du numérique public
+- Culture Cloud Native: l'impact du Cloud Native: technologies, méthodes, mode d'organisation...
+- Spécifique Cloud Pi Native: comprendre la valeur apportée par l'offre Cloud Pi Native
   
 </details>
 
@@ -60,7 +61,14 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >**Livrable**:Draft de plan projet
 
 >**Go/no go?**: Le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
-
+<details>
+ <summary> Compétences requises </summary>
+  
+- Culture générale: Comprendre comment les grands acteurs du numériques ont tirés parti des nouvelles opportunités (cloud, kubernetes, DevSecOps,...)
+- Culture Cloud Native: Comprendre les concepts technologiques de conteneurisation et d'orchestration (kubernetes)
+- Spécifique Cloud Pi Native: Comprendre les différents services de l'offre Cloud Pi Native et leur interet à chaque étape du cycle de vie d'un produit
+  
+</details>
 
 ### Etape3: lancer son projet, construire dans un environnement "Cloud native"
 >**Objectif et étapes clefs**: L'équipe s'est organisée et exercée à prendre en main des technologies cloud native. Elle a ensuite réalisé un "Hello world" avec les éléments de l'offre, puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (prise en main de la chaine primaire).
@@ -72,6 +80,14 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >**Livrable** MVP dans l'environnement bac à sable
 
 >**Go/no go?** les tests réalisés sur une version suffisemment représentative du produit attestent que le cadre de normes est respecté
+<details>
+ <summary> Compétences requises </summary>
+  
+- Culture générale: Mesurer l'impact de ces nouvelles opportunités sur la production logicielle: usines logicielles, organisations agiles, périmètres de responsabilités...
+- Culture Cloud Native: Monter une équipe produit et élaborer un plan de formation pour utiliser les outils Cloud Native
+- Spécifique Cloud Pi Native: Lancer un projet dans Cloud Pi Native, du "hello world" (chaine primaire) jusqu'au MVP
+  
+</details>
 
 ### Etape 4: passer en production, appréhender le Cloud souverain "Pi"
 >**Objectif et étapes clefs**: L'équipe construit son projet et le déploie dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes imposé (prise en main de la chaine secondaire).
@@ -83,6 +99,14 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >**Livrable** Produit dans l'environnement de production
 
 >**Go/no go?** Les tests réalisés sur le produit dans l'environnement de production attestent de sa conformité au cadre de normes
+<details>
+ <summary> Compétences requises </summary>
+  
+- Culture générale: Assurer la sécurité et la qualité dans "le nouveau monde logiciel" (zéro-trust)
+- Culture Cloud Native: Concevoir un produit Clodu Native et gérer son cycle de vie de A à Z (sécurité k8s)
+- Spécifique Cloud Pi Native: Contruire un projet avec Cloud Pi Native: exigences/CCT, sécurité, ... jusqu'à la production (chaine secondaire)
+  
+</details>
 
 
 ### Etape 5: atteindre les meilleurs standards, évoluer en production 
@@ -90,7 +114,14 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 
 >- Mettre en place les bonnes pratiques et les moyens de leur suivi
 >- Assurer la continuité de service et des bonnes pratiques lors des évolutions du produit 
-
+<details>
+ <summary> Compétences requises </summary>
+  
+- Culture générale: Manager pour rester autonome et performant sur la durée (anti-patterns, mode produit, cloud-agile...)
+- Culture Cloud Native: Utiliser les technologies du CNCF Landscape et les charts Helms / Operators
+- Spécifique Cloud Pi Native: Assurer la disponibilité et la continuité en production, garder les options ouvertes sur les transitions futures
+  
+</details>
 
 
  
