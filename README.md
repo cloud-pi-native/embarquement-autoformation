@@ -28,25 +28,26 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 ![alt_text](images/accompagnement.jpg)
 
 ### Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
+
 **Objectif**: L'équipe sait évaluer et argumenter la pertinence (ou non) à orienter son projet vers l'offre Cloud Pi Native
 
-** Etapes clefs**:
+**Etapes clefs**:
 - Solliciter le programme Cloud Pi Native
 - Prendre connaissance des éléments nécessaires à la compréhension de l'offre
 - Compléter le "diagnostic flash" (mettre le lien) permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien)
 
-** go/no go:
+**go/no go**:
 - L'offre de service portée par Cloud Pi Native répond au besoin exprimé (à reformuler)
 
 ### Etape 2: structurer un plan projet, se préparer pour consommer l'offre
 **Objectif**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
 
-** Etapes clefs**
+**Etapes clefs**
 - "Maturity check" pour évaluer le degré de préparation et préparation d'un draft de plan projet (vérification des prerequis techniques et organisationnels, compréhension du cadre de normes, complexité/faisabilité, évaluation des éventuels besoins de formation...) 
 - Le cas écéhant, orientation vers des ressources d'autoformation;
 - Remplissage du formulaire de demande d'accès à la console (valant engagement à respecter le cadre de normes)
 
-** go/no go:
+**go/no go**:
 - Les informations sont suffisantes pour programmer un entretien avec les équipes d'accompagnement technique 
 
 
