@@ -14,7 +14,7 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 - **L'équipe "adoption"** qui renseigne sur l'offre et oriente sur les ressources de formation disponibles; 
 - **La "service team"** qui accompagne à la prise en main et à l'embarquement des projets sur le plan technique.
 
-Au lancement du projet, un basculement intervient: l'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [documentation](https://github.com/dnum-mi/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
+A l'étape "lancer mon projet", un basculement intervient: l'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [documentation](https://github.com/dnum-mi/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
 
 ## Interlocuteurs coté équipe cliente
 Les interlocuteurs en responsabilité coté client peuvent être différents selon l'étape du projet : 
