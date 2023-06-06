@@ -8,9 +8,9 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 Un équipe "cliente" souhaitant comprendre et utiliser l’offre Cloud Pi Native pourra bénéficier d'accélérateurs:
 - Un accompagnement facilitant l'embarquement, adapté à l'avancement de son/ses projet(s): c'est à dire au type d'objectifs/réalisations visés (voir les besoins, interlocuteurs et réalisations aux différents [stades d'avancement](./2.5-accompagnement_projet.md)) ;
 - Des ressources de formation adpatées à son degré de maturité: c'est à dire au type de questions qu'elle se pose. Ces ressources sont organisées en un [plan de formation](./2.6-plan_formation.md) et sont de 3 types:
-1) Générales, sur le numérique et les enjeux de transformation 
-2) Relatives aux technologies "cloud native" 
-3) Spécifiques à l'offre Cloud Pi Native;
+> 1) Générales, sur le numérique et les enjeux de transformation 
+> 2) Relatives aux technologies "cloud native" 
+> 3) Spécifiques à l'offre Cloud Pi Native;
 
 # A qui s'adresser ?
 
