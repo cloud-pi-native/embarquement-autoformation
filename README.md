@@ -49,7 +49,9 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture générale: enjeux du "nouveau monde logiciel" (Cloud, DevOps, mode produit,...) pour la transformations du numérique public
 - Culture Cloud Native: l'impact du Cloud Native: technologies, méthodes, mode d'organisation...
 - Spécifique Cloud Pi Native: comprendre la valeur apportée par l'offre Cloud Pi Native
-  
+ 
+[Voir les contenus de formation correspondants](./0-sensibilisation.md)
+ 
 </details>
 
 
@@ -70,7 +72,9 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture générale: Comprendre comment les grands acteurs du numériques ont tirés parti des nouvelles opportunités (cloud, kubernetes, DevSecOps,...)
 - Culture Cloud Native: Comprendre les concepts technologiques de conteneurisation et d'orchestration (kubernetes)
 - Spécifique Cloud Pi Native: Comprendre les différents services de l'offre Cloud Pi Native et leur interet à chaque étape du cycle de vie d'un produit
-  
+ 
+[Voir les contenus de formation correspondants](./0-formation_step2.md)
+ 
 </details>
 
 ### Etape3: lancer son projet, construire dans un environnement "Cloud native"
@@ -89,6 +93,8 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture générale: Mesurer l'impact de ces nouvelles opportunités sur la production logicielle: usines logicielles, organisations agiles, périmètres de responsabilités...
 - Culture Cloud Native: Monter une équipe produit et élaborer un plan de formation pour utiliser les outils Cloud Native
 - Spécifique Cloud Pi Native: Lancer un projet dans Cloud Pi Native, du "hello world" (chaine primaire) jusqu'au MVP
+
+ [Voir les contenus de formation correspondants](./0-formation_step3.md)
   
 </details>
 
@@ -108,7 +114,9 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture générale: Assurer la sécurité et la qualité dans "le nouveau monde logiciel" (zéro-trust)
 - Culture Cloud Native: Concevoir un produit Clodu Native et gérer son cycle de vie de A à Z (sécurité k8s)
 - Spécifique Cloud Pi Native: Contruire un projet avec Cloud Pi Native: exigences/CCT, sécurité, ... jusqu'à la production (chaine secondaire)
-  
+
+ [Voir les contenus de formation correspondants](./0-formation_step4.md)
+ 
 </details>
 
 
@@ -123,6 +131,8 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture générale: Manager pour rester autonome et performant sur la durée (anti-patterns, mode produit, cloud-agile...)
 - Culture Cloud Native: Utiliser les technologies du CNCF Landscape et les charts Helms / Operators
 - Spécifique Cloud Pi Native: Assurer la disponibilité et la continuité en production, garder les options ouvertes sur les transitions futures
+  
+[Voir les contenus de formation correspondants](./0-formation_step5.md)
   
 </details>
 
