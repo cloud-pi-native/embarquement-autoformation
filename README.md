@@ -36,51 +36,50 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Prendre connaissance des éléments nécessaires à la compréhension de l'offre
 - Compléter le "diagnostic flash" (mettre le lien) permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien)
 
-**go/no go**:
-- L'offre de service portée par Cloud Pi Native répond au besoin exprimé (à reformuler)
+**Livrable et go/no go**:
+- Support de préqualification/"Diagnostic flash"-> L'offre de service est pertinente pour le besoin exprimé
 
 ### Etape 2: structurer un plan projet, se préparer pour consommer l'offre
 **Objectif**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
 
 **Etapes clefs**
-- "Maturity check" pour évaluer le degré de préparation et préparation d'un draft de plan projet (vérification des prerequis techniques et organisationnels, compréhension du cadre de normes, complexité/faisabilité, évaluation des éventuels besoins de formation...) 
-- Le cas écéhant, orientation vers des ressources d'autoformation;
-- Remplissage du formulaire de demande d'accès à la console (valant engagement à respecter le cadre de normes)
+- Procéder au "maturity check" pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
+- Consulter les ressources d'autoformation mise à disposition
+- Completer, autant que possible, le draft de plan projet et le formulaire de demande d'accès à la console (valant engagement à respecter le cadre de normes)
 
-**go/no go**:
-- Les informations sont suffisantes pour programmer un entretien avec les équipes d'accompagnement technique 
+**Livrable et go/no go**:
+- Draft de plan projet-> Le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
 
 
-### Etape3: lancer son projet, construire dans un environnement "bac à sable"
-**Objectif**: L'équipe s'est organisée et exercée à prendre en main des technologies cloud native, elle a réalisé un "Hello world", puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (pris en main de la chaine primaire).
+### Etape3: lancer son projet, construire dans un environnement "Cloud native"
+**Objectif**: L'équipe s'est organisée et exercée à prendre en main des technologies cloud native. Elle a ensuite réalisé un "Hello world" avec les éléments de l'offre, puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (prise en main de la chaine primaire).
 
 **Etapes clefs**:
-- Programmation d'un entreiten avec l'équipe d'accompagnement technique
-- Passage en revue des prerequis, prise de connaissance des contexte métier et technique, évaluaton des ressources à provisionner...
-- Détermination d'une roadmap d'accompagnement, ouverture des canaux d'aides...
-- Réalisation d'un "hello world" et construction d'une usine logicielle et d'un POC déployé dans l'environnement "bac à sable"
+- Entretien avec l'équipe d'accompagnement technique: passage en revue des prerequis, prise de connaissance des contexte métier et technique, évaluation des ressources à provisionner,... détermination d'une roadmap d'accompagnement
+- Ouverture des canaux d'aides et des accès à la console Cloud Pi Native
+- Prise en main de l'offre: réalisation d'un "hello world", construction de son usine logicielle, déploiement d'un POC déployé dans l'environnement "bac à sable", construction d'un MVP du produit
 
-**go/no go**
-- Complétion des tests sur le MVP du produit dans l'environnement bac à sable
+**Livrable et go/no go**
+- MVP dans l'environnement bac à sable-> les tests réalisés sur une version suffisemment représentative du produit attestent que le cadre de normes est respecté
 
 ### Etape 4: passer en production, appréhender le Cloud souverain "Pi"
 **Objectif**: L'équipe construit son projet et le déploie dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes imposé (prise en main de la chaine secondaire).
 
 **Etapes clefs**
-- Demande d'hébergement 
-- Déploiement de la chaine de service sur le Cloud Pi
-- Déploiement de l'usine logicielle et du produit (code infra et applicatif) sur l'environnement de production
+- Réaliser une demande d'hébergement sur le Cloud Pi
+- Provisionner ses ressrouces, déployer l'usine logicielle sur le Cloud Pi
+- Déployer son produit (code infra et applicatif) sur l'environnement de production
 
-**go/no go**
-- Complétion des tests sur le produit dans l'environnement de production-> conformité aux exigences du cadre de normes
+**Livrable et go/no go**
+- Produit dans l'environnement de production-> les tests réalisés sur le produit dans l'environnement de production attestent de sa conformité au cadre de normes
 
 
 ### Etape 5: atteindre les meilleurs standards, évoluer en production 
-**Objectif**: L'équipe construit, opére et fait évoluer, en production, des produits conformes aux meilleurs standards de qualité et de sécurité. Elle a mis en place des bonnes pratiques et les monitore pour s'assurer de leur continuité.
+**Objectif**: L'équipe construit, opére et fait évoluer ses produits en autonomie. Les produits livrés en production sont conformes aux meilleurs standards de qualité et de sécurité. Elle a mis en place des bonnes pratiques et les monitore pour s'assurer de leur continuité.
 
 **Etapes clefs**
-- Mise en place des bonnes pratiques et de leur suivi
-- Suivi des évolutions du produit et atteinte de l'autonomie en production
+- Mettre en place les bonnes pratiques et les moyens de leur suivi
+- Assurer la continuité de service et des bonnes pratiques lors des évolutions du produit 
 
 
 
