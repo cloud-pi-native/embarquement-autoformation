@@ -56,7 +56,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 ### Etape 2: structurer un plan projet, se préparer pour consommer l'offre
 
 >**Objectif et étapes clefs**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
->- Procéder au "maturity check" (voir section correspondante dans le [modèle de plan projet](./modele_plan_projet.md)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
+>- Procéder au "maturity check" (voir section correspondante dans le [modèle de plan projet](./modele_plan_projet.md) et les [exemples existants](https://software.af.mil/wp-content/uploads/2019/12/DoD-Enterprise-DevSecOps-Maturity-Review-v1.6.docx)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
 >- Consulter les ressources d'autoformation mise à disposition (voir section correspondantes dans le [plan de formation](./2.6-plan_formation.md))
 >- Completer, autant que possible, le draft de plan projet et le formulaire de demande d'accès à la console (valant engagement à respecter le cadre de normes)
 </details>
@@ -96,7 +96,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >**Objectif et étapes clefs**: L'équipe construit son projet et le déploie dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes imposé (découverte et mise en place de la chaine secondaire).
 
 >- Réaliser une [demande d'hébergement sur le Cloud Pi](https://resana.numerique.gouv.fr/public/document/consulter/7054535)
->- Provisionner ses ressources, déployer l'usine logicielle sur le Cloud Pi
+>- Provisionner ses ressources, accéder à l'usine logicielle et les déployer sur le Cloud Pi
 >- Déployer son produit (codes infra et applicatif) sur l'environnement de production
 
 >**Livrable** Produit dans l'environnement de production
