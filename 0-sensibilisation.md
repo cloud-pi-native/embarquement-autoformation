@@ -73,25 +73,24 @@ Celle-ci comprend :
 
 
 Toute les produits numériques sortent de la même usine et sont gérés selon un flux standardisée ce qui permet: 
-- **de vérifier la confomité des développements** (notamment sous-traités, 80% du numérique public) grace à la centralisation des dépots de code et du suivi du projet (backlog) ainsi qu'à l'automatisation des tests que l’on peut rejouer;
+- **de s'assurer de la confomité des développements**, notamment sous-traités (80% du numérique public) grace à la centralisation des dépots de code et du suivi du projet (backlog) ainsi qu'à l'automatisation des tests que l’on peut rejouer;
 - **de maîtriser la confiance au sein de mon organisation** en fournissant les garanties automatiquement AVANT de déployer sur le cloud (vérification des certificats, homologation continue,...) et en sectorisant une fois sur le cloud.
-- **de faciliter la gouvernance**: via l'observabilité et le cadre de norme, une meilleure intégration et vision "tour de controle" sur l'urbanisation du patrimoine applicatif et son activité;
-- **d'augmenter la proximité** entre l'ensemble des parties prenantes des produits numériques, d'un bout à l'autre de la chaine via des cycle beaucoup plus courts et la possibilité d'expérimenter rapidement pour réajuster (sur les plans technique ET métier);
-- **de rationaliser les couts**: à termel apossibilité de choisir ses hébergements en focntion de ses contraintes. "Inutile de prendre du cloud souverain pour des données ouvertes".
-- **de favoriser la transparence et l'ouverture**: contrairement à l'approche de certaines gros acteurs du numériques, nous pensons que la complexité doit être dévoilée de facon adaptée pour leur permettre de monter en compétenced, faciliter l'appropriation par les producteurs du numérique public et d'émanciper les utilisateurs.
+- **de faciliter la gouvernance**: via l'offre d'observabilité et la garantie du cadre de norme, on bénéficie d'une meilleure intégration et d'une vision "tour de controle" sur le patrimoine applicatif et son activité;
+- **d'augmenter la proximité** entre l'ensemble des parties prenantes des produits numériques, d'un bout à l'autre sur une chaine unique, aprouvé et automatisée. Cela permet des cycle de développement beaucoup plus courts et la possibilité d'expérimenter rapidement pour réajuster (sur les plans technique ET métier);
+- **de rationaliser les couts**: via le choix des hébergements en fonction des contraintes, la mutualisation des couts à un niveau interministériel, "Inutile de prendre du cloud souverain pour des données ouvertes".
+- **de favoriser la transparence et l'ouverture**: contrairement à l'approche de certaines gros acteurs du numériques, nous avons opté pour une approche open soource car nous pensons que la complexité doit être dévoilée de facon adaptée à la montée en compétences de toutes les parties prenantes et faciliter l'appropriation des outils par les producteurs du numérique public.
 
 
 ## Comment l'utiliser? 
-L'offre existe, elle est disponible et se développe en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution.
+L'offre existe, elle est disponible et est développée en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution.
 
 
-# Reste à faire/à définir
-- Préciser le périmètre : quelles appli ont vocation à passer dessus? On a la répnse pour les nouvelles, quid des anciennes? cf. l'expérience de Nubo, Clidu centre, Commission Européenne
+# Reste à faire, pistes d'amélioration
+- Préciser le périmètre pour lequel l'offre est pertinente: quelles systèmes/applications ont vocation à l'utiliser? Les nouvelles pour des questions de mise à l'état de l'art, mais quid des anciennes? Retex: Nubo, Cloud centre, Commission Européenne
 - Combien ca coute/qu'est ce que ca permet de gagner? Notamment dans le cadre de la LOPMI, beaucoup de développements= beaucoup de MCO à prévoir demain. Penser au cout du "montage de l'usine".
-- Demander les hypothèse de modèle économique
-- Quelle contractualisation? Accords de service
+- Modèle économique: quels sont les modèles économiques et modes de contractualisation (accords de service) possibles?
+- Est-il possible de s’appuyer sur le témoignage d'un prescripteur? Retex: ministères ayant basculé sur ce type d'offre: MTE, MJ, MinArm, Educ. Nat.
 - Format de l'évènement de présentation : 1) intro :  2) sondage sur les connaissances actuelles 3) présentation 4) "s'il ne fallait retenir qu'une chose" 5) quizz et collecte des retours (comment avez-vous trouvé... ? qu’est ce qui a manqué pour vous convaincre ? )
-- S’appuyer sur le témoignage d'un prescripteur (voir ministères ayant basculé sur l’offre et que l’on peut montrer : MTE, MJ, MinArm, Educ. Nat., …?)
 - Petite intro: qu'est ce que le cloud? (figure?)
 - Aller chercher les arguments impactants
 -	Moyen de mesurer la réussite (ou non) de la session (OKR) ou le NPS (recommanderiez-vous cette offre-> NPR)
