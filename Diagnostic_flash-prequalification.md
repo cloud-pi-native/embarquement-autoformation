@@ -2,6 +2,6 @@
 
 Intégrer les questions d'orientation du BRM
 
-Comment distinguer uen demande relevant de Cloud Pi Native d'une autre demande?
+Comment distinguer une demande pertinente pour Cloud Pi Native d'une demande qui ne l'est pas ?
 
 
