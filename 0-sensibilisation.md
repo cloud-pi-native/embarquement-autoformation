@@ -57,9 +57,11 @@ Les services proposés doivent répondre à [5 caractéristiques](https://nvlpub
 - Redimensionnement rapide (élasticité) en adaptant "instentanément la puissance de calcul au trafic
 - Facturation à l’usage: l'utilisateur paie le cout "marginal" d'utilisation des ressrouces (pas la mise en service)
 
-Image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bgs-associes.com%2Fles-differentes-solutions-de-cloud%2F&psig=AOvVaw3o9qGp7Va-obYodO4iYYPj&ust=1686317899854000&source=images&cd=vfe&ved=0CBQQ3YkBahcKEwjIjo_u5bP_AhUAAAAAHQAAAAAQBQ
+![alt_text](images/cloud_public_prive.jpg)
 
-Pour réaliser ces caractéristiques, il existe différents [modèles de partage reponsabilités entre le fournisseur Cloud et l'utilisateur](https://www.redhat.com/fr/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud#questions-fr%C3%A9quentes): ce sont les types IaaS, PaaS, Saas (ex: en IaaS, c'est un fournisseur qui toute l'infrastructure. En Saas, il gère tout de A à Z). C'est en proposant un haut niveau de qualité et de fiabilité de ces services que les acteurs du "nouveau monde numérique" dominent le monde numérique.
+Pour réaliser ces caractéristiques, il existe différents [modèles de partage reponsabilités entre le fournisseur Cloud et l'utilisateur](https://www.redhat.com/fr/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud#questions-fr%C3%A9quentes): ce sont les types IaaS, PaaS, Saas (ex: en IaaS, c'est un fournisseur qui toute l'infrastructure. En Saas, il gère tout de A à Z). C'est en proposant un haut niveau de qualité et de fiabilité de ces services que les acteurs du "nouveau monde numérique" dominent le monde numérique et ont imposé leur sandards (ex: sécurité, régime juridique, protection des données, ...)
+
+![alt_text](images/types_de_cloud.jpg)
 
 Pour concretiser ces promesses, leurs infrastructures et leurs applications ont du être pensées pour le cloud dès leur conception. D'ou le terme de technologies "cloud native" (née du cloud).  Schématiquement on met essentuellement d'accent sur celles qui permettent de: https://www.redhat.com/fr/topics/cloud-native-apps:
 1) Consommer du cloud de facon très automatisée avec un maximum d'autonomie et de fiabilité: **"kubernetes" et les conteneurs**; 
