@@ -138,14 +138,14 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 
 
  
-# Comment me former? parcours personalisés
-Toute personne désireuse de se former est priée de prendre connaissance du [support de sensibilisation aux enjeux](./0-sensibilisation.md), point de départ du plan de formation, communs aux différents parcours. 
+# Quelle formation pour quelles responsabilités ? parcours de formation
+Toute personne désireuse de se former est priée de prendre connaissance du [support de sensibilisation aux enjeux](./0-sensibilisation.md), point de départ du plan de formation, communs aux différents parcours. Passée l'étape de sensibilisation (commune à tous), des parcours de formation ont été structurés pour les différents domaines de responsabilité des consommateurs de l'offre. 
 
-Par la suite, les ressources mises à disposition sont organisées en [**3 parcours génériques**](./2.6-plan_formation.md) par complexité croissante: le niveau de maturité correspond avec la complexité des réalisations jalonnant l'embarquement d'un projet. Cette "maturité" et recouvre la maitrise de connaissances et de pratiques: 
+Les ressources de formation sont structurée en [**niveau de "maturité"**](./2.6-plan_formation.md), cette notion recouvrant la maitrise de connaissances et de pratiques: 
 
-1) [**"De culture générale"**](https://github.com/dnum-mi/dso-formation/blob/main/parcours-culture-generale.md) : ressources adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel"; 
-2) [**"De culture cloud native"**](https://github.com/dnum-mi/dso-formation/blob/main/parcours-culture-cloudnative.md): ressources notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native".
-3) [**"Spécifiques à Cloud pi native"**](https://github.com/dnum-mi/dso-documentation/blob/master/README.md): documentation notamment destinés aux équipes techniques qui utilisent l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie.
+1) [**"De culture générale"**](https://github.com/dnum-mi/dso-formation/blob/main/parcours-culture-generale.md) : adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel"; 
+2) [**"De culture cloud native"**](https://github.com/dnum-mi/dso-formation/blob/main/parcours-culture-cloudnative.md): notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native".
+3) [**"Spécifiques à Cloud pi native"**](https://github.com/dnum-mi/dso-documentation/blob/master/README.md): documentation notamment destinés aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie.
 
 
 ![alt_text](images/schema-accompagnement-formation.png)
