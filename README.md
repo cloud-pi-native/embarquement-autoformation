@@ -63,9 +63,9 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >- Completer, autant que possible, le draft de plan projet
 </details>
  
->**Livrable**: draft de [plan projet](./modele_plan_projet.md)
+>**Livrable:** draft de [plan projet](./modele_plan_projet.md)
 
->**Go/no go?**: Le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
+>**Critères go/no go:** le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
 <details>
  <summary> Compétences requises </summary>
   
@@ -84,9 +84,9 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >- Demandes d'ouverture des accès à la console Cloud Pi Native ([formulaire Démarches Simplifiées](https://www.demarches-simplifiees.fr/commencer/cloud-pi-native)) (valant engagement à respecter le cadre de normes) et des canaux d'aides
 >- Prise en main de l'offre: réalisation d'un "hello world", construction de son usine logicielle, déploiement d'un POC déployé dans l'environnement "bac à sable", construction d'un MVP du produit
 
->**Livrable** MVP dans l'environnement bac à sable
+>**Livrable:** MVP dans l'environnement bac à sable
 
->**Go/no go?** les tests réalisés sur une version suffisemment représentative du produit attestent que le cadre de normes est respecté
+>**Critères go/no go:** les tests réalisés sur une version suffisemment représentative du produit attestent que le cadre de normes est respecté
 <details>
  <summary> Compétences requises </summary>
   
@@ -105,9 +105,9 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >- Provisionner ses ressources, accéder à l'usine logicielle et les déployer sur le Cloud Pi
 >- Déployer son produit (codes infra et applicatif) sur l'environnement de production
 
->**Livrable** Produit dans l'environnement de production
+>**Livrable:** produit dans l'environnement de production
 
->**Go/no go?** Les métriques d'observabilité et les rapports sur le produit attestent de sa conformité aux standards de qualité et de sécurité
+>**Critères go/no go:** les métriques d'observabilité et les rapports sur le produit attestent de sa conformité aux standards de qualité et de sécurité
 <details>
  <summary> Compétences requises </summary>
   
