@@ -45,16 +45,21 @@ Pour répondre aux enjeux, cette "posture cloud" doit être déclinée comme un 
 3) Sous-traitance 
 
 ### Mais d'abord, qu’est ce que le cloud? et le "cloud native" ? 
-Pour concrétiser ces enjeux, le cloud (ou "cloud computing") designe l'ensemble des technologies permettant l'accès à distance à des ressources informatiques tout à fait "matérielles" avec [5 caractéristiques](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf) :
-- **Accès aux services par l’utilisateur à la demande**: La mise en œuvre des systèmes est entièrement automatisée et c’est l’utilisateur, au moyen d’une console de commande, qui met en place et gère la configuration à distance.
-- **Accès réseau large bande**: ces centres de traitement sont généralement raccordés directement sur le backbone Internet pour bénéficier d’une excellente connectivité. Les grands fournisseurs répartissent les centres de traitement sur la planète pour fournir un accès aux systèmes en moins de 50 ms de n’importe quel endroit.
-- **Réservoir de ressources (non localisées)**: La plupart de ces centres comportent des dizaines de milliers voire millions de serveurs et de moyens de stockage pour permettre des montées en charge rapides. Il est souvent possible de choisir une zone géographique pour mettre les données “près” des utilisateurs.
-- **Redimensionnement rapide (élasticité)**: La mise en ligne d’une nouvelle instance d’un serveur est réalisée en quelques minutes, l’arrêt et le redémarrage en quelques secondes. Toutes ces opérations peuvent s’effectuer automatiquement par des scripts. Ces mécanismes de gestion permettent de bénéficier pleinement de la facturation à l’usage en adaptant la puissance de calcul au trafic instantané.
-- **Facturation à l’usage**: Il n’y a généralement pas de coût de mise en service (c’est l’utilisateur qui réalise les opérations). La facturation est calculée en fonction de la durée et de la quantité de ressources utilisées. Une unité de traitement stoppée n’est pas facturée
+Pour concrétiser ces enjeux, le cloud (ou "cloud computing") designe l'ensemble des technologies permettant à un utilisateur d'utiliser à distance des ressources informatiques/machines partagées (qui sont tout à fait "matérielles"). Le "Cloud" peut: 
+- Etre public: c'est à dire partagé avec des utilisateurs qui ne sont pas propriétaires des machines;
+- Etre privé: c'est à dire partagé au sein de l'organisation propriétéaire des machines;
+- Etre hybride: utilisant des ressources publiques et privés;
 
-trouver une image simple de ce qu'est le cloud, la mettre ici.
+Les services proposés doivent répondre à [5 caractéristiques](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf) pour être à proprement parler "du cloud":
+- Accès aux services à la demande, ergonomiquement facile par l’utilisateur
+- Accès techniquement performant via un réseau large bande
+- Disposer d'un large réservoir de ressources (géogrpahiquement)
+- Redimensionnement rapide (élasticité) en adaptant "instentanément la puissance de calcul au trafic
+- Facturation à l’usage: l'utilisateur paie le cout "marginal" d'utilisation des ressrouces (pas la mise en service)
 
-Mais ce n'est pas seulement avec un fournisseur de cloud que les acteurs du "nouveau monde numérique" ont acquis des positions dominantes sur leurs secteurs d’activité. Pour concretiser les promesses du cloud, leurs infrastructures et leurs applications ont du être pensées pour le cloud dès leur conception. D'ou le terme de technologies "cloud native" (née du cloud).  Schématiquement on met essentuellement d'accent sur celles qui permettent de: https://www.redhat.com/fr/topics/cloud-native-apps:
+Pour réaliser ces caractéristiques, il existe différents [modèles de partage reponsabilités entre le fournisseur Cloud et l'utilisateur](https://www.redhat.com/fr/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud#questions-fr%C3%A9quentes): ce sont les types IaaS, PaaS, Saas (ex: en IaaS, c'est un fournisseur qui toute l'infrastructure. En Saas, il gère tout de A à Z). C'est en proposant un haut niveau de qualité et de fiabilité de ces services que les acteurs du "nouveau monde numérique" dominent le monde numérique.
+
+Pour concretiser ces promesses, leurs infrastructures et leurs applications ont du être pensées pour le cloud dès leur conception. D'ou le terme de technologies "cloud native" (née du cloud).  Schématiquement on met essentuellement d'accent sur celles qui permettent de: https://www.redhat.com/fr/topics/cloud-native-apps:
 1) Consommer du cloud de facon très automatisée avec un maximum d'autonomie et de fiabilité: **"kubernetes" et les conteneurs**; 
 2) Interconnecter les applications entre elles pour augmenter la valeur des données et fonctionnalités: **les API**;
 3) Rendre les applications plus modulaires et indépendantes pour l'évolutivité, la résilience: **les microservices**;
@@ -86,16 +91,13 @@ L'offre existe, elle est disponible et est développée en méthode agile : nos
 
 
 # Reste à faire, pistes d'amélioration
-- Préciser le périmètre pour lequel l'offre est pertinente: quelles systèmes/applications ont vocation à l'utiliser? Les nouvelles pour des questions de mise à l'état de l'art, mais quid des anciennes? Retex: Nubo, Cloud centre, Commission Européenne
-- Combien ca coute/qu'est ce que ca permet de gagner? Notamment dans le cadre de la LOPMI, beaucoup de développements= beaucoup de MCO à prévoir demain. Penser au cout du "montage de l'usine".
-- Modèle économique: quels sont les modèles économiques et modes de contractualisation (accords de service) possibles?
-- Est-il possible de s’appuyer sur le témoignage d'un prescripteur? Retex: ministères ayant basculé sur ce type d'offre: MTE, MJ, MinArm, Educ. Nat.
-- Format de l'évènement de présentation : 1) intro :  2) sondage sur les connaissances actuelles 3) présentation 4) "s'il ne fallait retenir qu'une chose" 5) quizz et collecte des retours (comment avez-vous trouvé... ? qu’est ce qui a manqué pour vous convaincre ? )
+- Préciser le périmètre pour lequel l'offre est pertinente: quelles systèmes/applications ont vocation à l'utiliser? Les nouvelles pour des questions de mise à l'état de l'art, mais quid des anciennes? Retex: Nubo, Cloud centre, Commission Européenne, CRiP
+- Combien ça coute/qu'est ce que ca permet de gagner? Notamment dans le cadre de la LOPMI, beaucoup de développements= beaucoup de MCO à prévoir demain. Penser au cout du "montage de l'usine".Modèle économique: quels sont les modèles économiques et modes de contractualisation (accords de service) possibles?
+- Est-il possible de s’appuyer sur le témoignage d'un prescripteur? Retex: ministères ayant basculé sur ce type d'offre: MTE, MJ, MinArm, Educ. Nat. Aller chercher les arguments rationnels et impactants
 - Petite intro: qu'est ce que le cloud? (figure?)
-- Aller chercher les arguments impactants
--	Moyen de mesurer la réussite (ou non) de la session (OKR) ou le NPS (recommanderiez-vous cette offre-> NPR)
+-	Moyen de mesurer la réussite (ou non) de la session (OKR) ou le NPS (recommanderiez-vous cette offre-> NPR) 1) intro :  2) sondage sur les connaissances actuelles 3) présentation 4) "s'il ne fallait retenir qu'une chose" 5) quizz et collecte des retours (comment avez-vous trouvé... ? qu’est ce qui a manqué pour vous convaincre ? )
 -	Alimenter en exemple du quotidien, qui marche, reposant sur le paradigme "Cloud Native" : Google (Borg), Netflix, ... vs. des exemples de ce qui marche moins bien (banque ou assurance traditionnelles, ...)
--	Démystifier la sécurité (argument développés dans les présentations de "Cloud au centre"): elle est différente pur un individu et à l'échelle d'un acteur "géostratégique";
+-	Démystifier la sécurité (argument développés dans les présentations de "Cloud au centre"): elle est différente pur un individu et à l'échelle d'un acteur "géostratégique" https://medium.com/@ismaelbouarfa/s%C3%A9curit%C3%A9-cloud-vs-s%C3%A9curit%C3%A9-on-premise-b6e742bf7b7b
 
 
  
