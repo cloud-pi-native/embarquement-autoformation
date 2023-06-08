@@ -21,14 +21,14 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 
 A l'étape "lancer mon projet", un basculement intervient: l'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [documentation](https://github.com/dnum-mi/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
 
-## Interlocuteurs coté équipe cliente
+## Responsbilités et interlocuteurs coté équipe client
 Les interlocuteurs en responsabilité coté client peuvent être différents selon l'étape du projet : 
 - `Gouvernance/décisionnaire` : personnes se portant garantes de l’engagement d'une organisation à orienter un projet/produit ou un portefeuille vers une offre de service. Elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller: pilotage et  gouvernance des organisations, directions générales ou métiers, stratégie d'achat, RH, etc.
 - `Pilote MOE` : personnes qui pilotent des équipes assurant le développement ou les opérations sur les produits. Elles sont responsables de l'intégrité des projets (cadrage, bonne utilisation et suivi des ressources, orientations techniques...): pilotage/chefferie de projets/programmes, responsables d'unités de conception, de bureaux d'étude, etc.
 - `Equipe produit` : personnes qui élaborent de nouveaux produits numériques et en assurent la gestion tout au long du cycle de vie. Elles sont responsables de la qualité des produits. Selon la taille et le d'organisation, ce périmètre peut recouvrir des personnes responsables de la `fiabilité des services & systèmes` (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.).
 
 
-# Comment ca se passe? embarquement pas à pas 
+# Comment ca se déroule l'onbaording ? étapes
 
 ![alt_text](images/accompagnement.jpg)
 
