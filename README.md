@@ -73,7 +73,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture Cloud Native: Comprendre les concepts technologiques de conteneurisation et d'orchestration (kubernetes)
 - Spécifique Cloud Pi Native: Comprendre les différents services de l'offre Cloud Pi Native et leur interet à chaque étape du cycle de vie d'un produit
  
-[Voir les contenus de formation correspondants](./0-formation_step2.md)
+[Voir les contenus de formation correspondants](./formation_step2.md)
  
 </details>
 
@@ -94,7 +94,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture Cloud Native: Monter une équipe produit et élaborer un plan de formation pour utiliser les outils Cloud Native
 - Spécifique Cloud Pi Native: Lancer un projet dans Cloud Pi Native, du "hello world" (chaine primaire) jusqu'au MVP
 
- [Voir les contenus de formation correspondants](./0-formation_step3.md)
+ [Voir les contenus de formation correspondants](./formation_step3.md)
   
 </details>
 
@@ -115,7 +115,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture Cloud Native: Concevoir un produit Clodu Native et gérer son cycle de vie de A à Z (sécurité k8s)
 - Spécifique Cloud Pi Native: Contruire un projet avec Cloud Pi Native: exigences/CCT, sécurité, ... jusqu'à la production (chaine secondaire)
 
- [Voir les contenus de formation correspondants](./0-formation_step4.md)
+ [Voir les contenus de formation correspondants](./formation_step4.md)
  
 </details>
 
@@ -132,7 +132,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture Cloud Native: Utiliser les technologies du CNCF Landscape et les charts Helms / Operators
 - Spécifique Cloud Pi Native: Assurer la disponibilité et la continuité en production, garder les options ouvertes sur les transitions futures
   
-[Voir les contenus de formation correspondants](./0-formation_step5.md)
+[Voir les contenus de formation correspondants](./formation_step5.md)
   
 </details>
 
