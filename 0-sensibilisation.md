@@ -23,7 +23,7 @@ Paradoxalement, cette complexité technique s'accompagne d'une grande simplicit�
 Les usagers, dont les agents publics, ne comprennent pas pourquoi les produits proposés par l'Etat ne sont pas au niveau de ce qu’ils utilisent en tant que consommateurs. C'est ce qui explique que les acteurs du "nouveau monde numérique" ont peu à peu imposé des standards "de fait" y compris sur des points relevant en principe de domaines régaliens (statut des données personnelles, certification de l'identité, émission de monnaie...). Pour cela les acteurs du "nouveau monde numérique" se sont appuyé sur: 
 1) de nouvelles technologies de passage à l'échelle 
 2) de nouveaux modes de production plus efficaces 
-3) de nouvelles normes culturelles portées par le modèle commercial (ex: marché des données personnelles) autant que les caractéristiques techniques (ex: informatique ubiquitaire)
+3) de nouvelles normes autant culturelles portées par le modèle commercial (ex: marché des données personnelles) que techniques (ex: informatique ubiquitaire)
 
 # Qu'est ce que "le Cloud", quelle place joue t-il dans la trasnformation du paysage numérique?
 Tout cela est porté par les technologies du cloud (ou "cloud computing") qui designe l'ensemble des technologies permettant à des utilisateurs d'utiliser à distance des ressources informatiques/machines partagées (qui sont tout à fait "matérielles"). Le "Cloud" peut: 
