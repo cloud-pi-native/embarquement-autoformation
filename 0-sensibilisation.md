@@ -67,16 +67,18 @@ Pour concretiser ces promesses, leurs infrastructures et leurs applications ont 
 
 Par extension, les leviers méthodologiques et culturels https://blog.octo.com/cloud-enjeux-2023/ ... mobilisés autour de ces technologies sont qualifés de "cloud native". C'est pourqui on l'utilise aussi comme un nom: "LE cloud native", pour désigner le paradigme de ces technologies.
 
-# Qu’est-ce que propose l’offre Cloud Pi Native du Ministère de l'Intérieur?
+# Qu’est-ce que propose l’offre Cloud Pi Native du Ministère de l'Intérieur? comment se présente t-elle?
 Par le numrique, le monde est en transformation et il est nécessaire de remettre le "cloud au centre" pour mitriser la complexité générée. "Cloud Pi Native" c’est une offre du MIOM qui vise à mettre les leviers technologiques, méthodologiques et culturels du « cloud native » pour le faire, à portée des acteurs interministériels. 
 
 Celle-ci comprend :
 - **Le Cloud souverain "Pi"**, adaptée à l’hébergement de données sensibles (NP et DR) jusqu’au niveau Diffusion restreinte grace à des infrastructures opérées par le ministère de l’Intérieur. Il est aussi plus souple et résilient dans son utilisation grace à kubernetes. 
 - **Un cadre de normes** qui s'impose à tous pour guider la mise en place des principes du "cloud native" tout au long du cycle de vie des produits numériques. Il vise à mettre en cohérence l'ensemble des principes, normes et exigences applicables aux produits numériques, dès la conception .
-- **Un accompagnement** pour la montée en compétence des équipes afin atteindre un degré le plus d'autonomie possible dans la maitrise de ses responsabilités;
 -	**Un socle de production DevSecOps**, chaine qui va permettre de déployer le code d'une application sur le cloud pour la faire "tourner". Celle ci permet de réduire les frictions et assurer une continuité tout au long du cycle de vie des produits: de la construction, à la mise en production, à la maintenance/évolution, au décommisionnement.
+- **Un accompagnement** pour l'embarquement et la montée en compétence des équipes afin atteindre un degré le plus d'autonomie possible dans la maitrise de ses responsabilités;
 
 
+# Qu'est ce que l'offre Cloud Pi Native peut apporter à mon organisation/mon portefeuille projet ? 
+L'offre existe, elle est disponible et est développée en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution.
 Toute les produits numériques sortent de la même usine et sont gérés selon un flux standardisée ce qui permet: 
 - **de s'assurer de la confomité des développements**, notamment sous-traités (80% du numérique public) grace à la centralisation des dépots de code et du suivi du projet (backlog) ainsi qu'à l'automatisation des tests que l’on peut rejouer;
 - **de maîtriser la confiance au sein de mon organisation** en fournissant les garanties automatiquement AVANT de déployer sur le cloud (vérification des certificats, homologation continue,...) et en sectorisant une fois sur le cloud.
@@ -84,10 +86,6 @@ Toute les produits numériques sortent de la même usine et sont gérés selon u
 - **d'augmenter la proximité** entre l'ensemble des parties prenantes des produits numériques, d'un bout à l'autre sur une chaine unique, aprouvé et automatisée. Cela permet des cycle de développement beaucoup plus courts et la possibilité d'expérimenter rapidement pour réajuster (sur les plans technique ET métier);
 - **de rationaliser les couts**: via le choix des hébergements en fonction des contraintes, la mutualisation des couts à un niveau interministériel, "Inutile de prendre du cloud souverain pour des données ouvertes".
 - **de favoriser la transparence et l'ouverture**: contrairement à l'approche de certaines gros acteurs du numériques, nous avons opté pour une approche open soource car nous pensons que la complexité doit être dévoilée de facon adaptée à la montée en compétences de toutes les parties prenantes et faciliter l'appropriation des outils par les producteurs du numérique public.
-
-
-# Comment l'utiliser? 
-L'offre existe, elle est disponible et est développée en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution.
 
 
 # Reste à faire, pistes d'amélioration
