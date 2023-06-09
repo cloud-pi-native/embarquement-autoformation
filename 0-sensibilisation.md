@@ -25,7 +25,7 @@ Les usagers, dont les agents publics, ne comprennent pas pourquoi les produits p
 2) de nouveaux modes de production plus efficaces 
 3) de nouvelles normes culturelles portées par le modèle commercial (ex: marché des données personnelles) autant que les caractéristiques techniques (ex: informatique ubiquitaire)
 
-# Qu'est ce que "le Cloud" et quelle est la place "du cloud" dans le nouveau paysage numérique?
+# Qu'est ce que "le Cloud", quelle place joue t-il dans la trasnformation du paysage numérique?
 Tout cela est porté par les technologies du cloud (ou "cloud computing") qui designe l'ensemble des technologies permettant à des utilisateurs d'utiliser à distance des ressources informatiques/machines partagées (qui sont tout à fait "matérielles"). Le "Cloud" peut: 
 - Etre public: c'est à dire partagé avec des utilisateurs qui ne sont pas propriétaires des machines;
 - Etre privé: c'est à dire partagé au sein de l'organisation propriétéaire des machines;
