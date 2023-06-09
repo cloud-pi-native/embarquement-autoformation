@@ -8,7 +8,7 @@ Conforme à la doctrine "cloud au centre", cette offre vise à tirer la pleine p
 A travers un parcours unique, les produits numériques existants ou en cours de conception, pourront bénéficier: de l'hébergement sécurisé sur le Cloud Pi souverain, d'une usine logicielle permettant de déployer et gérer les produits de facon fluide et d'un cadre normalisant la gestion des produits tout au long du cycle de vie. Les équipes utilisatrices de l'offre bénéficieront d'un accompagnement adapté, jusqu'à l'autonomie. L'offre participe ainsi de la maitrise du patrimoine numérique en gagnant en intégration, en visibilité, en rationnalité.
 
 
-## A quelles questions est-ce que cette présentation répond?
+## A quelles questions cette présentation répond-elle?
 1.	Pourquoi parle t-on d'un "nouveau monde numérique" et quelle place y tient "le Cloud" ? Quel sont les enjeux pour le numérique public?
 2.	Qu'est ce que la doctrine « cloud au centre »? A quelles problèmes répond-elle et avec quels leviers? 
 3.	Qu'est ce qu'on appelle les technologies "cloud native"? Quel lien avec "le cloud"? Qu'est ce que ces technologies font de nouveau? 
