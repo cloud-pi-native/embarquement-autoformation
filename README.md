@@ -39,7 +39,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation aux enjeux](./0-sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), [CCT Cloud Native](https://github.com/dnum-mi/CCT-Cloud-Native)...)
 >- Compléter le diagnostic flash permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien)
 
->**Livrable**: Support de [préqualification/"diagnostic flash"](./Diagnostic_flash-prequalification.md) complété
+>**Livrable**: ["diagnostic flash" (préqualification)](./Diagnostic_flash-prequalification.md) complété
 
 >**Critères go/no go:** l'offre de service est pertinente pour le besoin exprimé
 <details>
@@ -63,7 +63,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >- Completer, autant que possible, le draft de plan projet
 </details>
  
->**Livrable:** draft de [plan projet](./modele_plan_projet.md)
+>**Livrable:** [plan projet](./modele_plan_projet.md)
 
 >**Critères go/no go:** le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
 <details>
