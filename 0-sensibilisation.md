@@ -25,24 +25,8 @@ Les usagers, dont les agents publics, ne comprennent pas pourquoi les produits p
 2) de nouveaux modes de production plus efficaces 
 3) de nouvelles normes culturelles portées par le modèle commercial (ex: marché des données personnelles) autant que les caractéristiques techniques (ex: informatique ubiquitaire)
 
-# Quel est la place "du cloud" dans le nouveau paysage numérique?
-Tout cela est porté par des technologies qui s'appuient sur le cloud: les maitriser c'est se donner les moyens de produire et diffuser un numérique public souverain pour  passer de la régulation DU numérique à la régulation PAR le numérique. Grace à un niveau de qualité technique et des standards (SSI, RGPD, accessibilité, impact environnemental... ) conformes à ses lois et valeurs, l'Etat ne régule pas seulement l'aval (les activités générées par le numérique) mais l'amont (les outils par lesquels sont générées ces activités).
-
-# Qu'est ce qu'apporte le fait de mettre le « cloud au centre », comme le préconise la doctrine? 
-La crise covid l'a montré: sans la puissance du cloud, la bascule massive vers les outils numériques ayant permis l'essor du télétravail aurait été impossible. Dans le même temps, qu'ils bénéficaient de la robustesse de services essentiels à leur activité, des millions d'utilisateurs se sont posé des questions sur le devenir de leur données personnelles. Il y a donc des opportunités, mais aussi des enjeux très forts autour du cloud. 
-
-La doctrine « cloud au centre » vise à fournir un cadre pour moderniser l'action publique par une nouvelle génération de services numérique répondant aux enjeux de :
-1) Transformation : pour pouvoir réaliser un passage à l’échelle fiable des services numériques à un coût marginal faible, mettre en place de nouvelles approches focalisées sur l'usager et permettant l'évolutivité (DevOps et mode produit) en facilitant l'accès/expérimentation, rationnaliser les ressources pour la sobriété numérique, innover en mettant en intégrant l'IA et le big data dans les services numériques... 
-2) Souveraineté: pour atteindre la sécurité et l'immunité aux droits extra-UE en augmentant la marge de négociation avec ses fournisseurs, réduire les dépendances et les verrouillages en facilitant le fait d'en changer (réversibilité), faciliter l'accès aux technologies les plus récentes en resant ouverts (services cloud innovants)...
-3) Accélération: pour alimenter le catalogue de solutions UE en facilitant le regroupement de clients aux interets partagées, soutenir les industriels et renforcer l'autonomie des filières UE en choisissant les meilleurs normes et standards...
-
-Pour répondre aux enjeux, cette "posture cloud" doit être déclinée comme un "mode par défaut" dans la stratégie numérique des ministères. C'est à dire  l'ensemble des opérations touchant aux services/produits numériques:
-1) D’acquisition et consommation
-2) Développements internes
-3) Sous-traitance 
-
-# Mais d'abord, qu’est ce que le cloud? et le "cloud native"? 
-Pour concrétiser ces enjeux, le cloud (ou "cloud computing") designe l'ensemble des technologies permettant à un utilisateur d'utiliser à distance des ressources informatiques/machines partagées (qui sont tout à fait "matérielles"). Le "Cloud" peut: 
+# Qu'est ce que "le Cloud" et quelle est la place "du cloud" dans le nouveau paysage numérique?
+Tout cela est porté par les technologies du cloud (ou "cloud computing") qui designe l'ensemble des technologies permettant à des utilisateurs d'utiliser à distance des ressources informatiques/machines partagées (qui sont tout à fait "matérielles"). Le "Cloud" peut: 
 - Etre public: c'est à dire partagé avec des utilisateurs qui ne sont pas propriétaires des machines;
 - Etre privé: c'est à dire partagé au sein de l'organisation propriétéaire des machines;
 - Etre hybride: utilisant des ressources publiques et privés;
@@ -60,7 +44,24 @@ Pour réaliser ces caractéristiques, il existe différents [modèles de partage
 
 ![alt_text](images/types_de_cloud.jpg)
 
-Pour concretiser ces promesses, leurs infrastructures et leurs applications ont du être pensées pour le cloud dès leur conception. D'ou le terme de technologies "cloud native" (née du cloud).  Schématiquement on met essentuellement d'accent sur celles qui permettent de: https://www.redhat.com/fr/topics/cloud-native-apps:
+Maitriser les technologies du cloud computing c'est se donner les moyens de produire et diffuser un numérique public souverain pour  passer de la régulation DU numérique à la régulation PAR le numérique. Grace à un niveau de qualité technique et des standards (SSI, RGPD, accessibilité, impact environnemental... ) conformes à ses lois et valeurs, l'Etat ne régule pas seulement l'aval (les activités générées par le numérique) mais l'amont (les outils par lesquels sont générées ces activités).
+
+# Qu'est ce qu'apporte le fait de mettre le « cloud au centre », comme le préconise la doctrine? 
+La crise covid l'a montré: sans la puissance du cloud, la bascule massive vers les outils numériques ayant permis l'essor du télétravail aurait été impossible. Dans le même temps, qu'ils bénéficaient de la robustesse de services essentiels à leur activité, des millions d'utilisateurs se sont posé des questions sur le devenir de leur données personnelles. Il y a donc des opportunités, mais aussi des enjeux très forts autour du cloud. 
+
+La doctrine « cloud au centre » vise à fournir un cadre pour moderniser l'action publique par une nouvelle génération de services numérique répondant aux enjeux de :
+1) Transformation : pour pouvoir réaliser un passage à l’échelle fiable des services numériques à un coût marginal faible, mettre en place de nouvelles approches focalisées sur l'usager et permettant l'évolutivité (DevOps et mode produit) en facilitant l'accès/expérimentation, rationnaliser les ressources pour la sobriété numérique, innover en mettant en intégrant l'IA et le big data dans les services numériques... 
+2) Souveraineté: pour atteindre la sécurité et l'immunité aux droits extra-UE en augmentant la marge de négociation avec ses fournisseurs, réduire les dépendances et les verrouillages en facilitant le fait d'en changer (réversibilité), faciliter l'accès aux technologies les plus récentes en resant ouverts (services cloud innovants)...
+3) Accélération: pour alimenter le catalogue de solutions UE en facilitant le regroupement de clients aux interets partagées, soutenir les industriels et renforcer l'autonomie des filières UE en choisissant les meilleurs normes et standards...
+
+Pour répondre aux enjeux, cette "posture cloud" doit être déclinée comme un "mode par défaut" dans la stratégie numérique des ministères. C'est à dire  l'ensemble des opérations touchant aux services/produits numériques:
+1) D’acquisition et consommation
+2) Développements internes
+3) Sous-traitance 
+
+# Qu’est ce que le "cloud native"? 
+
+Pour concretiser DANS LES FAITS les promesses portées par le Cloud, leurs infrastructures et leurs applications ont du être pensées pour le cloud dès leur conception. D'ou le terme de technologies "cloud native" (née du cloud).  Schématiquement on met essentuellement d'accent sur celles qui permettent de: https://www.redhat.com/fr/topics/cloud-native-apps:
 1) Consommer du cloud de facon très automatisée avec un maximum d'autonomie et de fiabilité: **"kubernetes" et les conteneurs**; 
 2) Interconnecter les applications entre elles pour augmenter la valeur des données et fonctionnalités: **les API**;
 3) Rendre les applications plus modulaires et indépendantes pour l'évolutivité, la résilience: **les microservices**;
