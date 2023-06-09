@@ -41,7 +41,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 
 >**Livrable**: Support de [préqualification/"diagnostic flash"](./Diagnostic_flash-prequalification.md) complété
 
->**Go/no go?**: L'offre de service est pertinente pour le besoin exprimé
+>**Critères go/no go:** l'offre de service est pertinente pour le besoin exprimé
 <details>
  
  <summary> Compétences requises </summary>
