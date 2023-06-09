@@ -102,5 +102,6 @@ Toute les produits numériques sortent de la même usine et sont gérés selon u
 # Pour aller plus loin
 - Les Leviers du numérique pour la transformation des politiques publiques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=492
 - Mythes et réalités autour du cloud: https://blog.octo.com/legendes-cloud/?utm_campaign=Cloud&utm_medium=email&_hsmi=253444812&_hsenc=p2ANqtz-8lQizxUNx6C9MpKpDS58Mx7TqQmWO_h_cR54jZcwTq9j45JAyvAx_U9t7UMap1h3wav-CYrIhkaUAwljFYRc2FP41E8OhTYabo3torpacBkaDiWEQ&utm_content=253444812&utm_source=hs_automationhttps://blog.octo.com/cloud-enjeux-2023/?hsCtaTracking=dcae8808-b3c6-4fda-9d0d-5003828cfba7%7C69b4dd1f-f50a-4e84-866a-54506db51d8c
+- La doctrine "Cloud au centre" de l'État  https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=496	
  
 
