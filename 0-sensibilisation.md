@@ -99,6 +99,8 @@ Toute les produits numériques sortent de la même usine et sont gérés selon u
 -	Alimenter en exemple du quotidien, qui marche, reposant sur le paradigme "Cloud Native" : Google (Borg), Netflix, ... vs. des exemples de ce qui marche moins bien (banque ou assurance traditionnelles, ...)
 -	Démystifier la sécurité (argument développés dans les présentations de "Cloud au centre"): elle est différente pur un individu et à l'échelle d'un acteur "géostratégique" https://medium.com/@ismaelbouarfa/s%C3%A9curit%C3%A9-cloud-vs-s%C3%A9curit%C3%A9-on-premise-b6e742bf7b7b
 
+# Pour aller plus loin
+- Les Leviers du numérique pour la transformation des politiques publiques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=492
 
  
 
