@@ -8,11 +8,11 @@ Conforme à la doctrine "cloud au centre", cette offre vise à tirer la pleine p
 A travers un parcours unique, les produits numériques existants ou en cours de conception, pourront bénéficier: de l'hébergement sécurisé sur le Cloud Pi souverain, d'une usine logicielle permettant de déployer et gérer les produits de facon fluide et d'un cadre normalisant la gestion des produits tout au long du cycle de vie. Les équipes utilisatrices de l'offre bénéficieront d'un accompagnement adapté, jusqu'à l'autonomie. L'offre participe ainsi de la maitrise du patrimoine numérique en gagnant en intégration, en visibilité, en rationnalité.
 
 
-# A quelles questions est-ce que la présentation répond?
-1.	Qu’est ce que l'on appelle "nouveau monde numérique"? Pourquoi parle t-on de "cloud native"? Quel est l'enjeu pour le numérique public?
-2.	Qu'est ce que la doctrine « cloud au centre »? A quelles enjeux répond-elle et avec quels leviers? quels aspects de la stratégie numérique ministérielle? 
-3.	Qu'est ce qu'on appelle les technologies "cloud native"? Quel lien avec "le cloud"? Qe peremttent ces technologies? 
-4.	Qu'est ce que contient l'offre "Cloud Pi Native" du MIOM? Que peut-elle apporter à mes projets? Comment peut-on en bénéficier?
+## A quelles questions est-ce que cette présentation répond?
+1.	Pourquoi parle t-on d'un "nouveau monde numérique" et quelle place y tient "le Cloud" ? Quel sont les enjeux pour le numérique public?
+2.	Qu'est ce que la doctrine « cloud au centre »? A quelles problèmes répond-elle et avec quels leviers? 
+3.	Qu'est ce qu'on appelle les technologies "cloud native"? Quel lien avec "le cloud"? Qu'est ce que ces technologies font de nouveau? 
+4.	Qu'est ce que contient l'offre "Cloud Pi Native" du MIOM? Que peut-elle apporter à mon organisation/mon portefeuille de produits numériques? 
 
 
 # Quel est l’enjeu à transformer la production du numérique public?
@@ -23,11 +23,12 @@ Paradoxalement, cette complexité technique s'accompagne d'une grande simplicit�
 Les usagers, dont les agents publics, ne comprennent pas pourquoi les produits proposés par l'Etat ne sont pas au niveau de ce qu’ils utilisent en tant que consommateurs. C'est ce qui explique que les acteurs du "nouveau monde numérique" ont peu à peu imposé des standards "de fait" y compris sur des points relevant en principe de domaines régaliens (statut des données personnelles, certification de l'identité, émission de monnaie...). Pour cela les acteurs du "nouveau monde numérique" se sont appuyé sur: 
 1) de nouvelles technologies de passage à l'échelle 
 2) de nouveaux modes de production plus efficaces 
-3) de nouvelles normes culturelles portées par le modèle commercial (ex: donnée) et les caractéristiques techniques(ex: ubiquité)
+3) de nouvelles normes culturelles portées par le modèle commercial (ex: marché des données personnelles) autant que les caractéristiques techniques (ex: informatique ubiquitaire)
 
+# Quel est la place "du cloud" dans le nouveau paysage numérique?
 Tout cela est porté par des technologies qui s'appuient sur le cloud: les maitriser c'est se donner les moyens de produire et diffuser un numérique public souverain pour  passer de la régulation DU numérique à la régulation PAR le numérique. Grace à un niveau de qualité technique et des standards (SSI, RGPD, accessibilité, impact environnemental... ) conformes à ses lois et valeurs, l'Etat ne régule pas seulement l'aval (les activités générées par le numérique) mais l'amont (les outils par lesquels sont générées ces activités).
 
-# Qu'est ce qu'apporte le fait de mettre le « cloud au centre », comme le préconise la doctrine ? 
+# Qu'est ce qu'apporte le fait de mettre le « cloud au centre », comme le préconise la doctrine? 
 La crise covid l'a montré: sans la puissance du cloud, la bascule massive vers les outils numériques ayant permis l'essor du télétravail aurait été impossible. Dans le même temps, qu'ils bénéficaient de la robustesse de services essentiels à leur activité, des millions d'utilisateurs se sont posé des questions sur le devenir de leur données personnelles. Il y a donc des opportunités, mais aussi des enjeux très forts autour du cloud. 
 
 La doctrine « cloud au centre » vise à fournir un cadre pour moderniser l'action publique par une nouvelle génération de services numérique répondant aux enjeux de :
@@ -40,7 +41,7 @@ Pour répondre aux enjeux, cette "posture cloud" doit être déclinée comme un 
 2) Développements internes
 3) Sous-traitance 
 
-# Mais d'abord, qu’est ce que le cloud? et le "cloud native" ? 
+# Mais d'abord, qu’est ce que le cloud? et le "cloud native"? 
 Pour concrétiser ces enjeux, le cloud (ou "cloud computing") designe l'ensemble des technologies permettant à un utilisateur d'utiliser à distance des ressources informatiques/machines partagées (qui sont tout à fait "matérielles"). Le "Cloud" peut: 
 - Etre public: c'est à dire partagé avec des utilisateurs qui ne sont pas propriétaires des machines;
 - Etre privé: c'est à dire partagé au sein de l'organisation propriétéaire des machines;
