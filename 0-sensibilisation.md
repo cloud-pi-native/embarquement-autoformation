@@ -15,7 +15,7 @@ A travers un parcours unique, les produits numériques existants ou en cours de 
 4.	Qu'est ce que contient l'offre "Cloud Pi Native" du MIOM? Que peut-elle apporter à mon organisation/mon portefeuille de produits numériques? 
 
 
-# Quel est l’enjeu à transformer la production du numérique public?
+# Pourquoi transformer la production du numérique public?
 Les domaines d’activités se font « disrupter » un à un par des nouveaux acteurs du numérique: banques, information, transports, sociabilité, hotellerie/tourisme... Un "nouveau monde numérique" a émergé, en évolution rapide et complexité croissante.
 
 Paradoxalement, cette complexité technique s'accompagne d'une grande simplicité d'accès et d'une qualité technique qui les rendent extrèmement concurentiels. Les utilisateurs de Facebook, Google Docs, Netflix, ... ont pris l'habitude de la simplicité d'utilisation (outils sans mode d'emploi), de la fiabilité (pas d'interruption de service) et de la continuité de l’expérience (pas de "Facebook 2.0").
