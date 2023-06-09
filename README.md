@@ -77,7 +77,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
  
 </details>
 
-### Etape3: lancer son projet, construire dans un environnement "Cloud native"
+### Etape3: lancer son projet, construire dans un environnement sandbox "Cloud native"
 >**Objectif et étapes clefs**: L'équipe s'est organisée et exercée à prendre en main des technologies cloud native. Elle a ensuite réalisé un "Hello world" avec les éléments de l'offre, puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (découverte et mise en place de la chaine primaire).
 
 >- Entretien avec l'équipe d'accompagnement technique: passage en revue des prerequis, prise de connaissance des contexte métier et technique, évaluation des ressources à provisionner,... détermination d'une roadmap d'accompagnement
