@@ -59,7 +59,7 @@ Pour répondre aux enjeux, cette "posture cloud" doit être déclinée comme un 
 2) Développements internes
 3) Sous-traitance 
 
-# Qu’est ce que le "cloud native"? 
+# Qu’est ce que l'on appelle "cloud native"? 
 
 Pour concretiser DANS LES FAITS les promesses portées par le Cloud, leurs infrastructures et leurs applications ont du être pensées pour le cloud dès leur conception. D'ou le terme de technologies "cloud native" (née du cloud).  Schématiquement on met essentuellement d'accent sur celles qui permettent de: https://www.redhat.com/fr/topics/cloud-native-apps:
 1) Consommer du cloud de facon très automatisée avec un maximum d'autonomie et de fiabilité: **"kubernetes" et les conteneurs**; 
