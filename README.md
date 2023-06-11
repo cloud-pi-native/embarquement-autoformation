@@ -1,4 +1,4 @@
-Les ressources rassemblées ici constituent une base de connaissances permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur [l'offre "Cloud Pi Native"](https://dnum-mi.github.io/). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
+Les ressources rassemblées ici constituent une base de connaissances permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur [l'offre "Cloud Pi Native"](https://cloud-pi-native.github.io/). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
 - Faisant des pulls request sur le repository
 - Faisant des issues
 
@@ -19,7 +19,7 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 - `L'équipe "adoption"` qui renseigne sur l'offre et oriente sur les ressources de formation disponibles; 
 - `La "service team"` qui accompagne à la prise en main et à l'embarquement des projets sur le plan technique.
 
-A l'étape "lancer mon projet", un basculement intervient: l'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [documentation](https://github.com/dnum-mi/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
+A l'étape "lancer mon projet", un basculement intervient: l'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [documentation](https://github.com/cloud-pi-native/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
 
 ## Responsbilités et interlocuteurs coté équipe client
 Les interlocuteurs en responsabilité coté client peuvent être différents selon l'étape du projet : 
@@ -36,7 +36,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 
 >**Objectif et étapes clefs**: L'équipe sait évaluer et argumenter la pertinence (ou non) à orienter son projet vers l'offre Cloud Pi Native
 >- Solliciter le programme Cloud Pi Native
->- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation aux enjeux](./0-sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), [CCT Cloud Native](https://github.com/dnum-mi/CCT-Cloud-Native)...)
+>- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation aux enjeux](./0-sensibilisation.md), [page de présentation](https://cloud-pi-native.github.io/), [CCT Cloud Native](https://github.com/cloud-pi-native/CCT-Cloud-Native)...)
 >- Compléter le diagnostic flash permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien)
 
 >**Livrable**: ["diagnostic flash" (préqualification)](./Diagnostic_flash-prequalification.md)
@@ -143,9 +143,9 @@ Toute personne désireuse de se former est priée de prendre connaissance du [su
 
 Les ressources de formation sont structurée en [**niveau de "maturité"**](./2.6-plan_formation.md), cette notion recouvrant la maitrise de connaissances et de pratiques: 
 
-1) [**"De culture générale"**](https://github.com/dnum-mi/dso-formation/blob/main/parcours-culture-generale.md) : adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel"; 
-2) [**"De culture cloud native"**](https://github.com/dnum-mi/dso-formation/blob/main/parcours-culture-cloudnative.md): notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native".
-3) [**"Spécifiques à Cloud pi native"**](https://github.com/dnum-mi/dso-documentation/blob/master/README.md): documentation notamment destinés aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie.
+1) [**"De culture générale"**](https://github.com/cloud-pi-native/dso-formation/blob/main/parcours-culture-generale.md) : adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel"; 
+2) [**"De culture cloud native"**](https://github.com/cloud-pi-native/dso-formation/blob/main/parcours-culture-cloudnative.md): notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native".
+3) [**"Spécifiques à Cloud pi native"**](https://github.com/cloud-pi-native/dso-documentation/blob/master/README.md): documentation notamment destinés aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie.
 
 
 ![alt_text](images/schema-accompagnement-formation.png)
