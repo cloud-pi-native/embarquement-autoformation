@@ -41,7 +41,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 >**Critères go/no go:** l'offre de service est pertinente pour le besoin exprimé
 <details>
  
- <summary> Compétences requises </summary>
+ <summary> Compétences requises [ressources essentielles]()(./sensibilisation.md) </summary>
   
 - Culture générale: enjeux du "nouveau monde logiciel" (Cloud, DevOps, mode produit,...) pour la transformations du numérique public
 - Culture Cloud Native: l'impact du Cloud Native: technologies, méthodes, mode d'organisation...
