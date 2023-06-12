@@ -1,12 +1,10 @@
-Les ressources rassemblées ici constituent une base de connaissances permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur [l'offre "Cloud Pi Native"](https://cloud-pi-native.github.io/). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
+Les ressources rassemblées ici constituent une base de connaissances permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur [l'offre "Cloud Pi Native"](https://dnum-mi.github.io/). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
 - Faisant des pulls request sur le repository
 - Faisant des issues
 
-
-
 # Quels accélérateurs sont mis à disposition? 
 Un équipe "cliente" souhaitant comprendre et utiliser l’offre Cloud Pi Native pourra bénéficier d'accélérateurs:
-- Un accompagnement facilitant l'embarquement, adapté à l'avancement de son/ses projet(s): c'est à dire au type d'objectifs/réalisations visés (voir les besoins, interlocuteurs et réalisations aux différents [stades d'avancement](./2.5-accompagnement_projet.md)) ;
+- Un accompagnement facilitant l'embarquement, adapté à l'avancement de son/ses projet(s): c'est à dire au type d'objectifs/réalisations visés (voir les besoins, interlocuteurs et réalisations aux différentes [étapes d'embarquement](./accompagnement.md)) ;
 - Des ressources de formation adpatées à son degré de maturité: c'est à dire au type de questions qu'elle se pose. Ces ressources sont organisées en un [plan de formation](./2.6-plan_formation.md) et sont de 3 types:
 > 1) Générales, sur le numérique et les enjeux de transformation 
 > 2) Relatives aux technologies "cloud native" 
@@ -19,7 +17,7 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 - `L'équipe "adoption"` qui renseigne sur l'offre et oriente sur les ressources de formation disponibles; 
 - `La "service team"` qui accompagne à la prise en main et à l'embarquement des projets sur le plan technique.
 
-A l'étape "lancer mon projet", un basculement intervient: l'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [documentation](https://github.com/cloud-pi-native/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
+A l'étape "lancer mon projet", un basculement intervient: l'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [A CHANGER!!!!! documentation](https://github.com/cloud-pi-native/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
 
 ## Responsbilités et interlocuteurs coté équipe client
 Les interlocuteurs en responsabilité coté client peuvent être différents selon l'étape du projet : 
@@ -36,10 +34,10 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 
 >**Objectif et étapes clefs**: L'équipe sait évaluer et argumenter la pertinence (ou non) à orienter son projet vers l'offre Cloud Pi Native
 >- Solliciter le programme Cloud Pi Native
->- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation aux enjeux](./0-sensibilisation.md), [page de présentation](https://cloud-pi-native.github.io/), [CCT Cloud Native](https://github.com/cloud-pi-native/CCT-Cloud-Native)...)
+>- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation aux enjeux](./sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), [CCT Cloud Native](./cloud-pi-native/CCT-Cloud-Native)...)
 >- Compléter le diagnostic flash permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien)
 
->**Livrable**: ["diagnostic flash" (préqualification)](./Diagnostic_flash-prequalification.md)
+>**Livrable**: ["diagnostic flash" (préqualification)](./diagnostic-prequalification.md)
 
 >**Critères go/no go:** l'offre de service est pertinente pour le besoin exprimé
 <details>
@@ -50,7 +48,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture Cloud Native: l'impact du Cloud Native: technologies, méthodes, mode d'organisation...
 - Spécifique Cloud Pi Native: comprendre la valeur apportée par l'offre Cloud Pi Native
  
-[Voir les contenus de formation correspondants](./0-sensibilisation.md)
+[Voir les contenus d'autoformation pour l'étape 1](./sensibilisation.md)
  
 </details>
 
@@ -59,7 +57,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 
 >**Objectif et étapes clefs**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
 >- Procéder au "maturity check" (voir section correspondante dans le [modèle de plan projet](./modele_plan_projet.md) et les [exemples existants](https://software.af.mil/wp-content/uploads/2019/12/DoD-Enterprise-DevSecOps-Maturity-Review-v1.6.docx)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
->- Consulter les ressources d'autoformation mise à disposition (voir sections correspondantes dans le [plan de formation](./2.6-plan_formation.md))
+>- Consulter les ressources d'autoformation mise à disposition (voir sections correspondantes dans le [plan de formation](./plan_formation.md))
 >- Completer, autant que possible, le draft de plan projet
 </details>
  
@@ -73,7 +71,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture Cloud Native: Comprendre les concepts technologiques de conteneurisation et d'orchestration (kubernetes)
 - Spécifique Cloud Pi Native: Comprendre les différents services de l'offre Cloud Pi Native et leur interet à chaque étape du cycle de vie d'un produit
  
-[Voir les contenus de formation correspondants](./formation_step2.md)
+[Voir les contenus d'autoformation pour l'étape 2](./formation_step2.md)
  
 </details>
 
@@ -94,7 +92,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture Cloud Native: Monter une équipe produit et élaborer un plan de formation pour utiliser les outils Cloud Native
 - Spécifique Cloud Pi Native: Lancer un projet dans Cloud Pi Native, du "hello world" (chaine primaire) jusqu'au MVP
 
- [Voir les contenus de formation correspondants](./formation_step3.md)
+ [Voir les contenus d'autoformation pour l'étape3](./formation_step3.md)
   
 </details>
 
@@ -115,7 +113,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture Cloud Native: Concevoir un produit Clodu Native et gérer son cycle de vie de A à Z (sécurité k8s)
 - Spécifique Cloud Pi Native: Contruire un projet avec Cloud Pi Native: exigences/CCT, sécurité, ... jusqu'à la production (chaine secondaire)
 
- [Voir les contenus de formation correspondants](./formation_step4.md)
+ [Voir les contenus d'autoformation pour l'étape 4](./formation_step4.md)
  
 </details>
 
@@ -132,7 +130,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - Culture Cloud Native: Utiliser les technologies du CNCF Landscape et les charts Helms / Operators
 - Spécifique Cloud Pi Native: Assurer la disponibilité et la continuité en production, garder les options ouvertes sur les transitions futures
   
-[Voir les contenus de formation correspondants](./formation_step5.md)
+[Voir les contenus d'autoformation pour l'étape 5](./formation_step5.md)
   
 </details>
 
@@ -141,11 +139,11 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 # Quelle formation pour quelles responsabilités ? parcours de formation
 Toute personne désireuse de se former est priée de prendre connaissance du [support de sensibilisation aux enjeux](./0-sensibilisation.md), point de départ du plan de formation, communs aux différents parcours. Passée l'étape de sensibilisation (commune à tous), des parcours de formation ont été structurés pour les différents domaines de responsabilité des consommateurs de l'offre. 
 
-Les ressources de formation sont structurée en [**niveau de "maturité"**](./2.6-plan_formation.md), cette notion recouvrant la maitrise de connaissances et de pratiques: 
+Les ressources de formation sont structurée en [**niveau de "maturité"**](./plan-formation.md), cette notion recouvrant la maitrise de connaissances et de pratiques: 
 
-1) [**"De culture générale"**](https://github.com/cloud-pi-native/dso-formation/blob/main/parcours-culture-generale.md) : adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel"; 
-2) [**"De culture cloud native"**](https://github.com/cloud-pi-native/dso-formation/blob/main/parcours-culture-cloudnative.md): notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native".
-3) [**"Spécifiques à Cloud pi native"**](https://github.com/cloud-pi-native/dso-documentation/blob/master/README.md): documentation notamment destinés aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie.
+1) [**"De culture générale"**](./parcours-culture-generale.md) : adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel"; 
+2) [**"De culture cloud native"**](./parcours-culture-cloudnative.md): notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native".
+3) [**"A MODIFIER Spécifiques à Cloud pi native"**](https://github.com/cloud-pi-native/dso-documentation/blob/master/README.md): documentation notamment destinés aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie.
 
 
 ![alt_text](images/schema-accompagnement-formation.png)
