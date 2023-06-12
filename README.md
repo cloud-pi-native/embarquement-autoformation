@@ -9,7 +9,7 @@ Les "clients" souhaitant comprendre et utiliser l’offre Cloud Pi Native pourro
 > 1) Générales, sur le numérique et les enjeux de transformation;
 > 2) Relatives aux technologies "cloud native";
 > 3) Spécifiques à l'offre Cloud Pi Native (documentation).
-- Une selection des ressources ouvertes, essentielles au lancement d'un projet;
+- Une selection de ressources ouvertes, essentielles au lancement d'un projet;
 
 # A qui s'adresser ?
 
