@@ -29,6 +29,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 
 ![alt_text](images/accompagnement.jpg)
 
+
 ### Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
 
 >**Objectif et étapes clefs**: L'équipe sait évaluer et argumenter la pertinence (ou non) à orienter son projet vers l'offre Cloud Pi Native
