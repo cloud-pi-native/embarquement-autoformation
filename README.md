@@ -3,21 +3,20 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - Faisant des issues
 
 # Quels accélérateurs sont mis à disposition? 
-Un équipe "cliente" souhaitant comprendre et utiliser l’offre Cloud Pi Native pourra bénéficier d'accélérateurs:
-- Un accompagnement facilitant l'embarquement, adapté à l'avancement de son/ses projet(s): c'est à dire au type d'objectifs/réalisations visés (voir les besoins, interlocuteurs et réalisations aux différentes [étapes d'embarquement](./accompagnement.md)) ;
-- Des ressources de formation adpatées à son degré de maturité: c'est à dire au type de questions qu'elle se pose. Ces ressources sont organisées en un [plan de formation](./2.6-plan_formation.md) et sont de 3 types:
-> 1) Générales, sur le numérique et les enjeux de transformation 
-> 2) Relatives aux technologies "cloud native" 
-> 3) Spécifiques à l'offre Cloud Pi Native;
+Les "clients" souhaitant comprendre et utiliser l’offre Cloud Pi Native pourront bénéficier d'accélérateurs:
+- Pour les clients ministériels, un accompagnement adapté aux besoins, interlocuteurs et objectifs visés (voir les [étapes d'embarquement](./accompagnement.md)) ;
+- Pour tous, des ressources d'autoformation adpatées au type de questions que l'équipe se pose. Ces ressources sont organisées en un [plan de formation](./plan-formation.md) et sont de 3 types:
+> 1) Générales, sur le numérique et les enjeux de transformation;
+> 2) Relatives aux technologies "cloud native";
+> 3) Spécifiques à l'offre Cloud Pi Native (documentation).
+- Une selection des ressources ouvertes, essentielles au lancement d'un projet;
 
 # A qui s'adresser ?
 
 ## Interlocuteurs coté programme Cloud Pi Native
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
-- `L'équipe "adoption"` qui renseigne sur l'offre et oriente sur les ressources de formation disponibles; 
-- `La "service team"` qui accompagne à la prise en main et à l'embarquement des projets sur le plan technique.
-
-A l'étape "lancer mon projet", un basculement intervient: l'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [A CHANGER!!!!! documentation](https://github.com/cloud-pi-native/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
+- `L'équipe "adoption"` qui renseigne sur l'offre et oriente sur les ressources d'autoformation disponibles; 
+- `La "service team"` qui accompagne les équipes clientes à réaliser le lancement de leur projet (étape 3) un basculement intervient: l'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [A CHANGER!!!!! documentation](https://github.com/cloud-pi-native/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
 
 ## Responsbilités et interlocuteurs coté équipe client
 Les interlocuteurs en responsabilité coté client peuvent être différents selon l'étape du projet : 
@@ -26,7 +25,7 @@ Les interlocuteurs en responsabilité coté client peuvent être différents sel
 - `Equipe produit` : personnes qui élaborent de nouveaux produits numériques et en assurent la gestion tout au long du cycle de vie. Elles sont responsables de la qualité des produits. Selon la taille et le d'organisation, ce périmètre peut recouvrir des personnes responsables de la `fiabilité des services & systèmes` (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.).
 
 
-# Comment ca se déroule l'onbaording ? étapes
+# Comment se déroule l'embarquement/onbaording ? étapes
 
 ![alt_text](images/accompagnement.jpg)
 
