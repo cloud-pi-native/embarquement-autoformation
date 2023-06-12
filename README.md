@@ -3,9 +3,34 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - Faisant des issues
 
 # Quels accélérateurs sont mis à disposition? 
-Les "clients" souhaitant comprendre et utiliser l’offre Cloud Pi Native pourront bénéficier d'accélérateurs:
-- Pour les clients ministériels, un accompagnement adapté aux besoins, interlocuteurs et objectifs visés (voir les [étapes d'embarquement](./accompagnement.md)) ;
-- Pour tous, des ressources d'autoformation adpatées au type de questions que l'équipe se pose. Ces ressources sont organisées en un [plan de formation](./plan-formation.md) et sont de 3 types:
+Les "clients" souhaitant comprendre et utiliser l’offre Cloud Pi Native, pourront bénéficier d'accélérateurs:
+- Des ressources d'autoformation organisés par maturité croissante, répondant aux questions qui se pose aux [différentes étapes d'un projet](./plan-formation); 
+- Pour les clients ministériels, un accompagnement adapté aux besoins à chaque étape de l'[embarquement d'un projet](./accompagnement.md)) ;
+
+![alt_text](images/accompagnement.jpg)
+
+
+Les ressources peuvent etre consultés:
+- En équipe: les ressources minimales nécessaires pour mener à bien les étapes de l'embarquement;
+- Individuellement: les ressources correspondant à son périmètre de responsabilité sur les projets numériques; 
+
+Pour cela, les ressources sont de 3 types:
+1) [**"Culture générale"**](./parcours-culture-generale.md) : adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel". On les regroupe sous le titre `gouvernance/décisionnaire`: elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller: pilotage et  gouvernance des organisations, directions générales ou métiers, stratégie d'achat, RH, etc.
+
+2) [**"Culture cloud native"**](./parcours-culture-cloudnative.md): notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native". On les regroupe sous le titre de `Pilotage MOE` : personnes qui pilotent des équipes assurant le développement ou les opérations sur les produits. Elles sont responsables de l'intégrité des projets (cadrage, bonne utilisation et suivi des ressources, orientations techniques...): pilotage/chefferie de projets/programmes, responsables d'unités de conception, de bureaux d'étude, etc.
+
+3) [**"A MODIFIER Spécifiques à Cloud pi native"**](https://github.com/cloud-pi-native/dso-documentation/blob/master/README.md): destinés aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie. C'est la documentation, notamment destiné aux `équipes produit` qui élaborent de nouveaux produits numériques et/ou en assurent la gestion tout au long du cycle de vie. Elles sont responsables de la qualité des produits. Selon la taille et le d'organisation, ce périmètre peut recouvrir des personnes responsables de la `fiabilité des services & systèmes` (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.).
+
+
+
+
+
+
+
+
+
+
+Les ressources sont organisées en parcours et sont de 3 types:
 > 1) Générales, sur le numérique et les enjeux de transformation;
 > 2) Relatives aux technologies "cloud native";
 > 3) Spécifiques à l'offre Cloud Pi Native (documentation).
@@ -20,9 +45,6 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 
 ## Responsbilités et interlocuteurs coté équipe client
 Les interlocuteurs en responsabilité coté client peuvent être différents selon l'étape du projet : 
-- `Gouvernance/décisionnaire` : personnes se portant garantes de l’engagement d'une organisation à orienter un projet/produit ou un portefeuille vers une offre de service. Elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller: pilotage et  gouvernance des organisations, directions générales ou métiers, stratégie d'achat, RH, etc.
-- `Pilote MOE` : personnes qui pilotent des équipes assurant le développement ou les opérations sur les produits. Elles sont responsables de l'intégrité des projets (cadrage, bonne utilisation et suivi des ressources, orientations techniques...): pilotage/chefferie de projets/programmes, responsables d'unités de conception, de bureaux d'étude, etc.
-- `Equipe produit` : personnes qui élaborent de nouveaux produits numériques et en assurent la gestion tout au long du cycle de vie. Elles sont responsables de la qualité des produits. Selon la taille et le d'organisation, ce périmètre peut recouvrir des personnes responsables de la `fiabilité des services & systèmes` (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.).
 
 
 # Comment se déroule l'embarquement/onbaording ? étapes
