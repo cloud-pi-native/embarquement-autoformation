@@ -11,7 +11,7 @@ Les "clients" souhaitant comprendre et utiliser l’offre Cloud Pi Native, pourr
 
 
 Les ressources peuvent etre consultés:
-- En équipe: les ressources minimales nécessaires pour mener à bien les étapes de l'embarquement;
+- En équipe: les ressources minimales nécessaires pour mener à bien les 5 étapes de l'embarquement;
 - Individuellement: les ressources correspondant à son périmètre de responsabilité sur les projets numériques; 
 
 Pour cela, les ressources sont de 3 types:
