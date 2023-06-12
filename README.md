@@ -10,9 +10,17 @@ Les "clients" souhaitant comprendre et utiliser l’offre Cloud Pi Native, pourr
 ![alt_text](images/accompagnement.jpg)
 
 
+Les ressources sont organisées en parcours et sont de 3 types:
+> 1) Générales, sur le numérique et les enjeux de transformation;
+> 2) Relatives aux technologies "cloud native";
+> 3) Spécifiques à l'offre Cloud Pi Native (documentation).
+- Une selection de ressources ouvertes, essentielles au lancement d'un projet;
+
+
 Les ressources peuvent etre consultés:
-- En équipe: les ressources minimales nécessaires pour mener à bien les 5 étapes de l'embarquement;
-- Individuellement: les ressources correspondant à son périmètre de responsabilité sur les projets numériques; 
+- Pour se former indivudellement: 3 parcours pour des ressources correspondant à son périmètre de responsabilité sur les projets numériques; 
+- Si une équipe veut embarquer rapidement un projet sur l'offre;
+
 
 Pour cela, les ressources sont de 3 types:
 1) [**"Culture générale"**](./parcours-culture-generale.md) : adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel". On les regroupe sous le titre `gouvernance/décisionnaire`: elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller: pilotage et  gouvernance des organisations, directions générales ou métiers, stratégie d'achat, RH, etc.
@@ -30,11 +38,6 @@ Pour cela, les ressources sont de 3 types:
 
 
 
-Les ressources sont organisées en parcours et sont de 3 types:
-> 1) Générales, sur le numérique et les enjeux de transformation;
-> 2) Relatives aux technologies "cloud native";
-> 3) Spécifiques à l'offre Cloud Pi Native (documentation).
-- Une selection de ressources ouvertes, essentielles au lancement d'un projet;
 
 # A qui s'adresser ?
 
