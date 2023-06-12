@@ -4,7 +4,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 # Quels accélérateurs sont mis à disposition? 
 Les "clients" souhaitant comprendre et utiliser l’offre Cloud Pi Native, pourront bénéficier d'accélérateurs:
-- Des ressources d'autoformation organisés par maturité croissante, répondant aux questions qui se pose aux [différentes étapes d'un projet](./plan-formation); 
+- Des ressources d'autoformation organisés par maturité croissante, répondant aux questions qui se posent aux [différentes étapes d'un projet](./plan-formation); 
 - Pour les clients ministériels, un accompagnement adapté aux besoins à chaque étape de l'[embarquement d'un projet](./accompagnement.md)) ;
 
 ![alt_text](images/accompagnement.jpg)
