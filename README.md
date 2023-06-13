@@ -4,7 +4,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 # Ressources mises à disposition dans cette section
 
-## Quels accélérateurs pour la prise en main de l'offre?
+## Quels accélérateurs?
 Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pourront bénéficier d'accélérateurs:
 - **Des ressources d'autoformation** organisées selon un [plan de formation](./plan-formation); 
 - **De l'accompagnement (réservé aux clients ministériels)** organisé en [étapes](./accompagnement.md) pour faciliter l'embarquement d'une équipe;
@@ -13,8 +13,8 @@ Notre hypothèse: les niveaux de maturité (i.e. le type de questions que se pos
 
 ## Comment utiliser ces ressources?
 Cloud Pi Native est en développement agile avec les clients-partenaires qui la consomment: la priorité est donc de faciliter sa prise en main. Pour cela, les ressources peuvent etre utilisées de deux manières:
-1) **Pour embarquer rapidement une équipe:** une selection des contenus essentiels à chaque étape est mise à disposition (voir la section relative à l'embarquement ci-après);
-2) **Pour se former individuellement:** des ressources sont proposées selon la maturité et le périmètre de responsabilité (voir la section relative aux parcours au bas de cette page). Elles sont de trois types:
+1) **Pour embarquer rapidement une équipe:** une selection des ressources essentielles à chaque étape (voir la section relative à l'embarquement ci-après);
+2) **Pour se former individuellement:** des ressources adaptée aux différentes maturité et périmètres de responsabilité (voir la section relative aux parcours au bas de cette page). Elles sont de trois types:
 > - Générales sur le numérique et les enjeux de transformation;
 > - Relatives aux technologies "cloud native";
 > - Spécifiques à l'offre Cloud Pi Native (documentation d'utilisation).
@@ -26,7 +26,7 @@ Cloud Pi Native est en développement agile avec les clients-partenaires qui la 
 
 
 
-# Se former rapidement pour embarquer: les ressources essentielles
+# Se former rapidement pour embarquer: ressources essentielles
 
 ## A qui s'adresser? interlocuteurs du programme Cloud Pi Native
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
