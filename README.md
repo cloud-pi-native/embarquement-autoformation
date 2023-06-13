@@ -11,7 +11,7 @@ Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pour
 
 Notre hypothèse: les niveaux de maturité (i.e. le type de questions que se posent les clients) sont calqués sur les étapes d'embarquement (i.e. les besoins d'une équipe souhaitant consommer l'offre). 
 
-## Comment utiliser ces ressources
+## Comment utiliser ces ressources?
 Cloud Pi Natuve est en développement agile avec les clients-partenaires qui la consomment: la priorité est donc de faciliter sa prise en main. Pour cela, les ressources peuvent etre utilisées de deux manières:
 1) **Pour embarquer rapidement une équipe:** une selection des contenus essentiels à chaque étape est mise à disposition (voir la section relative à l'embarquement ci-après);
 2) **Pour se former individuellement:** des ressources sont proposées selon la maturité et le périmètre de responsabilité (voir la section relative aux parcours au bas de cette page). Elles sont de trois types:
@@ -139,7 +139,7 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 </details>
 
 
-# Se former individuellement: parcours et périmètres de responsabilité
+# Se former individuellement: périmètres de responsabilité et parcours
 
 Toute personne désireuse de se former à titre individuel est priée de prendre connaissance du [support de sensibilisation aux enjeux](./0-sensibilisation.md), point de départ du plan de formation, communs aux différents parcours. Passée l'étape de sensibilisation (commune à tous), des parcours de formation ont été structurés pour les différents domaines de responsabilité des consommateurs de l'offre. 
 
