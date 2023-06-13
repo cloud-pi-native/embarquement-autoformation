@@ -2,19 +2,22 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - Faisant des pulls request sur le repository
 - Faisant des issues
 
-# Quels accélérateurs sont mis à disposition? 
+# Ressources mises à disposition dans cette section
+
+## Quels accélérateurs pour la prise en main de l'offre?
 Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pourront bénéficier d'accélérateurs:
 - **Des ressources d'autoformation** organisées selon un [plan de formation](./plan-formation); 
 - **De l'accompagnement (réservé aux clients ministériels)** organisé en [étapes](./accompagnement.md) pour faciliter l'embarquement d'une équipe;
 
 Notre hypothèse: les niveaux de maturité (i.e. le type de questions que se posent les clients) sont calqués sur les étapes d'embarquement (i.e. les besoins d'une équipe souhaitant consommer l'offre). 
 
+## Comment utiliser ces ressources
 Cloud Pi Natuve est en développement agile avec les clients-partenaires qui la consomment: la priorité est donc de faciliter sa prise en main. Pour cela, les ressources peuvent etre utilisées de deux manières:
 1) Pour embarquer rapidement une équipe: une selection des contenus essentiels est mise à disposition (voir la section relative à l'embarquement ci-après);
 2) Pour se former individuellement: des ressources de différents types sont proposées selon le périmètres de responsabilité (voir la section relative aux parcours au bas de cette page);
-> Générales sur le numérique et les enjeux de transformation;
-> Relatives aux technologies "cloud native";
-> Spécifiques à l'offre Cloud Pi Native (documentation d'utilisation).
+> - Générales sur le numérique et les enjeux de transformation;
+> - Relatives aux technologies "cloud native";
+> - Spécifiques à l'offre Cloud Pi Native (documentation d'utilisation).
 
 
 
