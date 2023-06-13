@@ -5,7 +5,6 @@
 - Lancer un projet dans Cloud Pi Native, du "hello world" (chaine primaire) jusqu'au MVP
 
 # Culture générale
-- Comprendre une usine logicielle DevSecOps et l'organisation qui va autour
 - Comprendre une usine logicielle DevSecOps et l'organisation autour: https://www.youtube.com/watch?v=wSBqoueGLTQ
 
 # Culture des technologies Cloud Native
