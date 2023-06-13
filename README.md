@@ -13,8 +13,8 @@ Notre hypothèse: les niveaux de maturité (i.e. le type de questions que se pos
 
 ## Comment utiliser ces ressources
 Cloud Pi Natuve est en développement agile avec les clients-partenaires qui la consomment: la priorité est donc de faciliter sa prise en main. Pour cela, les ressources peuvent etre utilisées de deux manières:
-1) Pour embarquer rapidement une équipe: une selection des contenus essentiels est mise à disposition (voir la section relative à l'embarquement ci-après);
-2) Pour se former individuellement: des ressources de différents types sont proposées selon le périmètres de responsabilité (voir la section relative aux parcours au bas de cette page);
+1) Pour embarquer rapidement une équipe: une selection des contenus essentiels à chaque étape est mise à disposition (voir la section relative à l'embarquement ci-après);
+2) Pour se former individuellement: des ressources sont proposées selon la maturité et le périmètres de responsabilité (voir la section relative aux parcours au bas de cette page). Elles sont de trois types:
 > - Générales sur le numérique et les enjeux de transformation;
 > - Relatives aux technologies "cloud native";
 > - Spécifiques à l'offre Cloud Pi Native (documentation d'utilisation).
