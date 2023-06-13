@@ -29,7 +29,7 @@ Les ressources peuvent etre utilisées de deux manières:
 
 
 
-# Embarquer rapidement une équipe: ressources essentielles et étapes clefs
+# Embarquer rapidement une équipe: ressources essentielles et étapes
 
 ## A qui s'adresser?
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
