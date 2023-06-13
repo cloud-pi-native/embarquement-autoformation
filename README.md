@@ -46,11 +46,11 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 >**Critères go/no go:** l'offre de service est pertinente pour le besoin exprimé
 <details>
  
- <summary> Compétences requises [ressources essentielles]()(./sensibilisation.md) </summary>
+ <summary> Ressources essentielles </summary>
   
-- Culture générale: enjeux du "nouveau monde logiciel" (Cloud, DevOps, mode produit,...) pour la transformations du numérique public
-- Culture Cloud Native: l'impact du Cloud Native: technologies, méthodes, mode d'organisation...
-- Spécifique Cloud Pi Native: comprendre la valeur apportée par l'offre Cloud Pi Native
+- Enjeux du "nouveau monde logiciel" (Cloud, DevOps, mode produit,...) pour la transformations du numérique public
+- L'impact du Cloud Native: technologies, méthodes, mode d'organisation...
+- Comprendre la valeur apportée par l'offre Cloud Pi Native
  
 [Voir les contenus d'autoformation pour l'étape 1](./sensibilisation.md)
  
@@ -69,11 +69,11 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 
 >**Critères go/no go:** le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
 <details>
- <summary> Compétences requises </summary>
+ <summary> Ressources essentielles </summary>
   
-- Culture générale: Comprendre comment les grands acteurs du numériques ont tirés parti des nouvelles opportunités (cloud, kubernetes, DevSecOps,...)
-- Culture Cloud Native: Comprendre les concepts technologiques de conteneurisation et d'orchestration (kubernetes)
-- Spécifique Cloud Pi Native: Comprendre les différents services de l'offre Cloud Pi Native et leur interet à chaque étape du cycle de vie d'un produit
+- Comprendre comment les grands acteurs du numériques ont tirés parti des nouvelles opportunités (cloud, kubernetes, DevSecOps,...)
+- Comprendre les concepts technologiques de conteneurisation et d'orchestration (kubernetes)
+- Comprendre les différents services de l'offre Cloud Pi Native et leur interet à chaque étape du cycle de vie d'un produit
  
 [Voir les contenus d'autoformation pour l'étape 2](./formation_step2.md)
  
@@ -90,11 +90,11 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 
 >**Critères go/no go:** les tests réalisés sur une version suffisemment représentative du produit attestent que le cadre de normes est respecté
 <details>
- <summary> Compétences requises </summary>
+ <summary> Ressources essentielles </summary>
   
-- Culture générale: Mesurer l'impact de ces nouvelles opportunités sur la production logicielle: usines logicielles, organisations agiles, périmètres de responsabilités...
-- Culture Cloud Native: Monter une équipe produit et élaborer un plan de formation pour utiliser les outils Cloud Native
-- Spécifique Cloud Pi Native: Lancer un projet dans Cloud Pi Native, du "hello world" (chaine primaire) jusqu'au MVP
+- Mesurer l'impact de ces nouvelles opportunités sur la production logicielle: usines logicielles, organisations agiles, périmètres de responsabilités...
+- Monter une équipe produit et élaborer un plan de formation pour utiliser les outils Cloud Native
+- Lancer un projet dans Cloud Pi Native, du "hello world" (chaine primaire) jusqu'au MVP
 
  [Voir les contenus d'autoformation pour l'étape3](./formation_step3.md)
   
@@ -111,11 +111,11 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 
 >**Critères go/no go:** les métriques d'observabilité et les rapports sur le produit attestent de sa conformité aux standards de qualité et de sécurité
 <details>
- <summary> Compétences requises </summary>
+ <summary> Ressources essentielles </summary>
   
-- Culture générale: Assurer la sécurité et la qualité dans "le nouveau monde logiciel" (zéro-trust)
-- Culture Cloud Native: Concevoir un produit Clodu Native et gérer son cycle de vie de A à Z (sécurité k8s)
-- Spécifique Cloud Pi Native: Contruire un projet avec Cloud Pi Native: exigences/CCT, sécurité, ... jusqu'à la production (chaine secondaire)
+- Assurer la sécurité et la qualité dans "le nouveau monde logiciel" (zéro-trust)
+- Concevoir un produit Clodu Native et gérer son cycle de vie de A à Z (sécurité k8s)
+- Contruire un projet avec Cloud Pi Native: exigences/CCT, sécurité, ... jusqu'à la production (chaine secondaire)
 
  [Voir les contenus d'autoformation pour l'étape 4](./formation_step4.md)
  
@@ -128,11 +128,11 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 >- Mettre en place les bonnes pratiques et les moyens de leur suivi
 >- Assurer la continuité de service et des bonnes pratiques lors des évolutions du produit 
 <details>
- <summary> Compétences requises </summary>
+ <summary> Ressources essentielles </summary>
   
-- Culture générale: Manager pour rester autonome et performant sur la durée (anti-patterns, mode produit, cloud-agile...)
-- Culture Cloud Native: Utiliser les technologies du CNCF Landscape et les charts Helms / Operators
-- Spécifique Cloud Pi Native: Assurer la disponibilité et la continuité en production, garder les options ouvertes sur les transitions futures
+- Manager pour rester autonome et performant sur la durée (anti-patterns, mode produit, cloud-agile...)
+- Utiliser les technologies du CNCF Landscape et les charts Helms / Operators
+- Assurer la disponibilité et la continuité en production, garder les options ouvertes sur les transitions futures
   
 [Voir les contenus d'autoformation pour l'étape 5](./formation_step5.md)
   
