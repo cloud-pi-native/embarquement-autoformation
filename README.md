@@ -11,18 +11,17 @@ Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pour
 
 Hypothèse 1: l'alignement des `niveaux de maturité` des ressources proposées et des `étapes d'embarquement` rend l'offre de formation plus intelligible ce qui facilite sa prise en main.
 
-Hypohtèse 2: les ressources proposées sont de trois types correspondant aux grands périmètres de responsabilités de ces utilisateurs :
-> - Générales, sur le numérique et les enjeux de transformation: à destination de tous, en particuliers aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée (décisionnaires/couvernance);
-> - Relatives au "cloud native", sur les technologies et approches promues par ce nouveau paradigme: notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native" (pilotage/MOE);
-> - Spécifiques à l'offre Cloud Pi Native: consitutant la documentation d'utilisation de l'offre :destinés aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie (produits et systèmes).
+Hypohtèse 2: on distingue trois types de ressources correspondant aux grands périmètres de responsabilités des utilisateurs :
+> - Générales, sur le numérique et les enjeux de transformation: à destination de tous, en particulier aux personnes responsables du choix de l'offre de service pour un portefeuille de projets numériques `(décisionnaires/gouvernance)`;
+> - Relatives au "cloud native", sur les technologies et approches promues par ce nouveau paradigme: destinée en particulier aux personnes responsables de la structuration du plan projet et son suivi`(pilotage/MOE)`;
+> - Spécifiques à l'offre Cloud Pi Native: documentation destinée aux équipes techniques utilisant l'offre pour leur produits/systèmes `(techniques/produits et systèmes)`.
+
 
 ## Comment utiliser ces ressources?
 
-
-
-Cloud Pi Native est en développement agile avec les clients-partenaires qui la consomment: la priorité est donc de faciliter sa prise en main. Pour cela, les ressources peuvent etre utilisées de deux manières:
-1) **Pour embarquer rapidement:** une selection des ressources essentielles, quelque soit les profils qui composent l'équipe porteuse (voir la section relative aux `étapes de l'embarquement` ci-après);
-2) **Pour se former individuellement:** des ressources adaptées aux différentes maturités et périmètres de responsabilités (voir la section relative aux `parcours de formation` au bas de cette page). 
+Les ressources peuvent etre utilisées de deux manières:
+1) **Pour embarquer rapidement un équipe projet:** selection des ressources essentielles qui devra être assimilée pour compléter l'étape ;
+2) **Pour se former individuellement:** ressources adaptées au niveau de maturité et au périmètre de responsabilité de la personne pour se former. 
 
 
 ![alt_text](images/accompagnement.jpg)
@@ -30,7 +29,7 @@ Cloud Pi Native est en développement agile avec les clients-partenaires qui la 
 
 
 
-# Se former rapidement pour embarquer: ressources essentielles
+# Embarquer rapidement une équipe: ressources essentielles et étapes clefs
 
 ## A qui s'adresser?
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
@@ -146,15 +145,15 @@ L'effort d'accompagnement étant plus important à partir de l'étape 3, **l'acc
 
 # Se former individuellement: périmètres de responsabilité et parcours
 
-Toute personne désireuse de se former à titre individuel est priée de prendre connaissance du [support de sensibilisation aux enjeux](./0-sensibilisation.md), point de départ du plan de formation, communs aux différents parcours. Passée l'étape de sensibilisation (commune à tous), des parcours de formation ont été structurés pour les différents domaines de responsabilité des consommateurs de l'offre. 
+Toute personne désireuse de se former à titre individuel est priée de prendre connaissance du [support de sensibilisation aux enjeux](./0-sensibilisation.md), point de départ du plan de formation, communs aux différents parcours. 
 
-Les ressources de formation sont structurée en [**niveau de "maturité"**](./plan-formation.md), cette notion recouvrant la maitrise de connaissances et de pratiques: 
-Pour cela, les ressources sont de 3 types:
-1) [**"Culture générale"**](./parcours-culture-generale.md) : adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée, pour comprendre les spécificités du "nouveau monde logiciel". On les regroupe sous le titre `gouvernance/décisionnaire`: elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller: pilotage et  gouvernance des organisations, directions générales ou métiers, stratégie d'achat, RH, etc.
+Passée l'étape de sensibilisation (commune à tous), des parcours de formation ont été structurés en [**niveau de "maturité"**](./plan-formation.md) par périmètre de responsabilité. Les ressources adressent la maitrise de connaissances et de pratiques de 3 types:
+1) [**"Culture générale"**](./parcours-culture-generale.md) : adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée pour comprendre les spécificités du "nouveau monde logiciel". On les regroupe sous le titre `gouvernance/décisionnaire`: elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller: pilotage et gouvernance des organisations, directions générales ou métiers, stratégie d'achat, RH, etc.
 
-2) [**"Culture cloud native"**](./parcours-culture-cloudnative.md): notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native". On les regroupe sous le titre de `Pilotage MOE` : personnes qui pilotent des équipes assurant le développement ou les opérations sur les produits. Elles sont responsables de l'intégrité des projets (cadrage, bonne utilisation et suivi des ressources, orientations techniques...): pilotage/chefferie de projets/programmes, responsables d'unités de conception, de bureaux d'étude, etc.
+2) [**"Culture cloud native"**](./parcours-culture-cloudnative.md): notamment destinées aux personnes responsables de la structuration d'un plan projet (compétences, roles, organisation, technologies, ..) et son suivi (consommation budgetaire, UO, librables, ...), pour saisir les opportunités des technologies "cloud native". On les regroupe sous le titre de `Pilotage MOE` : personnes qui pilotent des équipes assurant le développement ou les opérations sur les produits. Elles sont responsables de l'intégrité des projets (cadrage, bonne utilisation et suivi des ressources, orientations techniques...): pilotage/chefferie de projets/programmes, responsables d'unités de conception, de bureaux d'étude, etc.
 
-3) [**"A MODIFIER Spécifiques à Cloud pi native"**](https://github.com/cloud-pi-native/dso-documentation/blob/master/README.md): destinés aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie. C'est la documentation, notamment destiné aux `équipes produit` qui élaborent de nouveaux produits numériques et/ou en assurent la gestion tout au long du cycle de vie. Elles sont responsables de la qualité des produits. Selon la taille et le d'organisation, ce périmètre peut recouvrir des personnes responsables de la `fiabilité des services & systèmes` (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.).
-Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent conseiller des **parcours de formation spécifiques** en fonction des besoins et de la maturité de l'équipe projet.
+3) [**"A MODIFIER Spécifiques à Cloud pi native"**](https://github.com/cloud-pi-native/documentation): destinées aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie. C'est la documentation destinée aux `équipes produit` qui élaborent de nouveaux produits numériques et/ou assurent la gestion tout au long du cycle de vie. Elles sont responsables de la qualité des produits. Selon la taille et le d'organisation, ce périmètre peut recouvrir des personnes responsables de la `fiabilité des services & systèmes` (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.).
+4) 
+Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aussi conseiller des **parcours de formation spécifiques** en fonction des besoins et de la maturité de l'équipe projet.
 
 
