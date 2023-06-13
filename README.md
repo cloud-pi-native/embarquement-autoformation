@@ -12,13 +12,15 @@ Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pour
 Notre hypothèse: les niveaux de maturité (i.e. le type de questions que se posent les clients) sont calqués sur les étapes d'embarquement (i.e. les besoins d'une équipe souhaitant consommer l'offre). 
 
 ## Comment utiliser ces ressources?
-Cloud Pi Native est en développement agile avec les clients-partenaires qui la consomment: la priorité est donc de faciliter sa prise en main. Pour cela, les ressources peuvent etre utilisées de deux manières:
-1) **Pour embarquer rapidement une équipe:** une selection des ressources essentielles à chaque étape (voir la section relative à l'embarquement ci-après);
-2) **Pour se former individuellement:** des ressources adaptée aux différentes maturité et périmètres de responsabilité (voir la section relative aux parcours au bas de cette page). Elles sont de trois types:
-> - Générales sur le numérique et les enjeux de transformation;
-> - Relatives aux technologies "cloud native";
-> - Spécifiques à l'offre Cloud Pi Native (documentation d'utilisation).
 
+Les ressources proposées sont de trois types:
+> - Générales: sur le numérique et les enjeux de transformation;
+> - Relatives au "cloud native": sur les technologies et approches promues par ce nouveau paradigme;
+> - Spécifiques à l'offre Cloud Pi Native: consitutant la documentation d'utilisation de l'offre.
+
+Cloud Pi Native est en développement agile avec les clients-partenaires qui la consomment: la priorité est donc de faciliter sa prise en main. Pour cela, les ressources peuvent etre utilisées de deux manières:
+1) **Pour embarquer rapidement:** une selection des ressources essentielles, quelque soit les profils qui composent l'équipe porteuse (voir la section relative aux `étapes de l'embarquement` ci-après);
+2) **Pour se former individuellement:** des ressources adaptées aux différentes maturités et périmètres de responsabilités (voir la section relative aux `parcours de formation` au bas de cette page). 
 
 
 ![alt_text](images/accompagnement.jpg)
@@ -28,10 +30,11 @@ Cloud Pi Native est en développement agile avec les clients-partenaires qui la 
 
 # Se former rapidement pour embarquer: ressources essentielles
 
-## A qui s'adresser? interlocuteurs du programme Cloud Pi Native
+## A qui s'adresser?
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
-- `L'équipe "adoption"` qui renseigne sur l'offre et oriente sur les ressources d'autoformation disponibles; 
-- `La "service team"` qui accompagne les équipes clientes à réaliser le lancement de leur projet (étape 3, réservée aux clients ministériels). L'effort étant plus important, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [A CHANGER!!!!! documentation](https://github.com/cloud-pi-native/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
+- `L'équipe "adoption"` qui, dans le premières étapes, renseigne sur l'offre et oriente sur les ressources de formation; 
+- `La "service team"` qui accompagne au lancement du projet (réservée aux clients ministériels). 
+L'effort d'accompagnement étant plus important à partir de l'étape 3, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [A CHANGER!!!!! documentation](https://github.com/cloud-pi-native/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
 
 
 ### Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
