@@ -6,17 +6,19 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 ## Quels accélérateurs?
 Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pourront bénéficier d'accélérateurs:
-- **Des ressources d'autoformation** organisées selon un [plan de formation](./plan-formation); 
-- **De l'accompagnement (réservé aux clients ministériels)** organisé en [étapes](./accompagnement.md) pour faciliter l'embarquement d'une équipe;
+- **Des ressources d'autoformation** organisées par [niveau de maturité](./plan-formation) (i.e. type de questions); 
+- **De l'accompagnement (réservé aux clients ministériels)** organisé par [étapes](./accompagnement.md) (embarquement) ;
 
-Notre hypothèse: les niveaux de maturité (i.e. le type de questions que se posent les clients) sont calqués sur les étapes d'embarquement (i.e. les besoins d'une équipe souhaitant consommer l'offre). 
+Hypothèse 1: l'alignement des `niveaux de maturité` des ressources proposées et des `étapes d'embarquement` rend l'offre de formation plus intelligible ce qui facilite sa prise en main.
+
+Hypohtèse 2: les ressources proposées sont de trois types correspondant aux grands périmètres de responsabilités de ces utilisateurs :
+> - Générales, sur le numérique et les enjeux de transformation: à destination de tous, en particuliers aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée (décisionnaires/couvernance);
+> - Relatives au "cloud native", sur les technologies et approches promues par ce nouveau paradigme: notamment destinée aux personnes responsables de la structuration d'un projet, des équipes et leur compétences, définir les orientations techniques... pour saisir les opportunités des technologies "cloud native" (pilotage/MOE);
+> - Spécifiques à l'offre Cloud Pi Native: consitutant la documentation d'utilisation de l'offre :destinés aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie (produits et systèmes).
 
 ## Comment utiliser ces ressources?
 
-Les ressources proposées sont de trois types:
-> - Générales: sur le numérique et les enjeux de transformation;
-> - Relatives au "cloud native": sur les technologies et approches promues par ce nouveau paradigme;
-> - Spécifiques à l'offre Cloud Pi Native: consitutant la documentation d'utilisation de l'offre.
+
 
 Cloud Pi Native est en développement agile avec les clients-partenaires qui la consomment: la priorité est donc de faciliter sa prise en main. Pour cela, les ressources peuvent etre utilisées de deux manières:
 1) **Pour embarquer rapidement:** une selection des ressources essentielles, quelque soit les profils qui composent l'équipe porteuse (voir la section relative aux `étapes de l'embarquement` ci-après);
