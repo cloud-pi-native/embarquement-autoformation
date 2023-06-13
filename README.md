@@ -20,8 +20,8 @@ Hypohtèse 2: on distingue trois types de ressources correspondant aux grands p�
 ## Comment utiliser ces ressources?
 
 Les ressources peuvent etre utilisées de deux manières:
-1) **Pour embarquer rapidement un équipe projet:** selection des ressources essentielles qui devra être assimilée pour compléter l'étape ;
-2) **Pour se former individuellement:** ressources adaptées au niveau de maturité et au périmètre de responsabilité de la personne pour se former. 
+1) **Pour embarquer rapidement un équipe projet:** sélection des ressources essentielles pour compléter l'étape ;
+2) **Pour se former individuellement:** ressources adaptées au niveau de maturité et au périmètre de responsabilité. 
 
 
 ![alt_text](images/accompagnement.jpg)
@@ -33,9 +33,9 @@ Les ressources peuvent etre utilisées de deux manières:
 
 ## A qui s'adresser?
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
-- `L'équipe "adoption"` qui, dans le premières étapes, renseigne sur l'offre et oriente sur les ressources de formation; 
-- `La "service team"` qui accompagne au lancement du projet (réservée aux clients ministériels). 
-L'effort d'accompagnement étant plus important à partir de l'étape 3, **l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (liste des prérequis est disponible dans la [A CHANGER!!!!! documentation](https://github.com/cloud-pi-native/dso-documentation/blob/209e5ffc0c1b1d042c8de4e7e53fc07530325e66/README.md)).
+- `L'équipe "adoption"` qui, dans les 3 premières étapes, renseigne sur l'offre et oriente sur les ressources de formation; 
+- `La "service team"` qui accompagne au lancement du projet à partir de l'étape 3 (réservée aux clients ministériels). 
+L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est conditionné à la vérification de prérequis techniques stricts**`, car nécessaires à la réussite du projet (cf. [liste des prérequis](https://github.com/cloud-pi-native/documentation)).
 
 
 ### Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
