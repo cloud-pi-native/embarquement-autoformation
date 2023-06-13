@@ -8,8 +8,6 @@
 - Cybersécurité des projets numériques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=494
 - D'où vient kubernetes et quels en sont les enjeux : https://www.youtube.com/watch?v=sVP8xb9BrhM
 - Qu'est ce que le DevSecOps en 8 minutes: https://www.youtube.com/watch?v=nrhxNNH5lt0&list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG&index=3
-
-## A trouver
 - Comment kubernetes permet de supporter les grands acteurs du numérique
 - Concepts d'agilité, Cloud, Devops
 - Organisation en mode produit
