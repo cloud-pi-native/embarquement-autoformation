@@ -9,12 +9,12 @@ Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pour
 - **Des ressources d'autoformation** organisées par [niveau de maturité](./plan-formation) (i.e. type de questions); 
 - **De l'accompagnement (réservé aux clients ministériels)** organisé par [étapes](./accompagnement.md) (embarquement) ;
 
-Hypothèse 1: l'alignement des `niveaux de maturité` des ressources proposées et des `étapes d'embarquement` rend l'offre de formation plus intelligible ce qui facilite sa prise en main.
+Hypothèse 1: l'alignement des `niveaux de maturité` avec les `étapes d'embarquement` accélère la prise en main de l'offre.
 
-Hypothèse 2: le type de parcours et de ressources proposés correspond au type de responsabilités des utilisateurs. On distingue:
-> - **Sur le numérique et les enjeux de transformation:** à destination de tous, notamment aux personnes responsables du choix de l'offre de service pour un portefeuille de projets numériques `(décisionnaires/gouvernance)`;
-> - **Sur le "cloud native", les technologies et approches promues par ce nouveau paradigme:** destinée en particulier aux personnes responsables de la structuration du plan projet et son suivi`(pilotage/MOE)`;
-> - **Spécifiques à Cloud Pi Native:** documentation de l'offre destinée aux équipes techniques qui l'utilisent pour leur produits/systèmes `("techniques"/produits et systèmes)`.
+Hypothèse 2: l'alignement du type de parcours/ressources avec le type de responsabilités accèlère l'identification de son role. On distingue:
+> - **Enjeux du numérique et des transformations associées:** à destination de tous, notamment aux personnes responsables du choix de l'offre de service pour un portefeuille de projets numériques `(décisionnaires/gouvernance)`;
+> - **Technologies et approches promues dans le paradigme "Cloud native":** destinée en particulier aux personnes responsables de la structuration du plan projet et son suivi`(pilotage/MOE)`;
+> - **Documentation d'utilisation de Cloud Pi Native:** destinée aux équipes techniques qui l'utilisent pour leur produits/systèmes `("techniques"/produits et systèmes)`.
 
 
 ## Comment utiliser ces ressources?
