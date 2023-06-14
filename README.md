@@ -4,32 +4,23 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 # Ressources mises à disposition dans cette section
 
-## Quels accélérateurs?
 Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pourront bénéficier d'accélérateurs:
 - **Des ressources d'autoformation** organisées par [niveau de maturité](./plan-formation) (i.e. type de questions); 
-- **De l'accompagnement (réservé aux clients ministériels)** organisé par [étapes](./accompagnement.md) (embarquement) ;
+- **De l'accompagnement (réservé aux clients ministériels)** organisé par [étapes](./accompagnement.md) (i.e. embarquement) ;
 
-Hypothèse 1: l'alignement des `niveaux de maturité` avec les `étapes d'embarquement` accélère la prise en main de l'offre.
+Hypothèse 1: l'alignement des `niveaux de maturité` avec les `étapes d'embarquement` permet d'accélèrer la prise en main de l'offre.
 
-Hypothèse 2: l'alignement du `type de parcours` avec le `type de responsabilités` exercées permet à chacun d'identifier son futur role et les ressources de formation pour s'y préparer. On distingue:
-> - **Enjeux du numérique et des transformations associées:** à destination de tous, notamment aux personnes responsables du choix de l'offre de service pour un portefeuille de projets numériques (décisionnaires/gouvernance);
-> - **Technologies et approches promues dans le paradigme "Cloud native":** destinée en particulier aux personnes responsables de la structuration du plan projet et son suivi (pilotage/MOE);
-> - **Documentation d'utilisation de Cloud Pi Native:** destinée aux équipes techniques qui l'utilisent pour leur produits/systèmes ("techniques"/produits et systèmes).
+Hypothèse 2: l'alignement de `parcours-type` avec le `type de responsabilités` exercées permet à chacun d'identifier 1) son role dans l'organisation à mettre en place autour de l'offre 2) d'identifier des ressources de formation pour s'y préparer.
 
 
 ## Comment utiliser ces ressources?
 
 Les ressources peuvent etre utilisées de deux manières:
-1) **Pour embarquer rapidement une équipe projet:** en consultant, étape par étape, la sélection des "ressources essentielles" pour compléter les étapes d'embarquement (voir section ci-après) ;
-2) **Pour se former individuellement:** en consultant, étape par étape, les ressources approfondies relevant de son périmètre de responsabilité (voir section au bas de cette page). 
+1) **Pour embarquer rapidement une équipe projet:** en consultant, étape par étape, la sélection des "ressources essentielles" pour compléter l'étape (voir section ci-après) ;
+2) **Pour se former individuellement:** en consultant, étape par étape, les ressources approfondies relevant d'un périmètre de responsabilité donné (voir section au bas de cette page). 
 
 
 ![alt_text](images/accompagnement.jpg)
-
-
-
-
-# Embarquer rapidement une équipe: ressources essentielles et étapes
 
 ## A qui s'adresser?
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
@@ -38,7 +29,27 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est conditionné à la vérification de prérequis techniques stricts**`, car nécessaires à la réussite du projet (cf. [liste des prérequis](https://github.com/cloud-pi-native/documentation)).
 
 
-### Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
+# Se former individuellement: périmètres de responsabilité et parcours
+
+Toute personne désireuse de se former à titre individuel est priée de prendre connaissance du [support de sensibilisation aux enjeux](./0-sensibilisation.md). Il s'agit du point de départ commun aux parcours de formation et au processus d'embarquement. 
+
+Des ressources d'autoformation sont ensuite disponibles à chaque `étape d'embarquement/niveau de maturité` en plus des ressources essentielles. Elles sont distinguées par `parcours/responsabilités`: 
+
+1) **"Spécifiques à Cloud pi native/équipes techniques"**: documentation destinée aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques tout au long de leur cycle de vie. 
+> Elles sont responsables de la qualité des produits. Selon la taille et de l'organisation, ce périmètre peut recouvrir des personnes responsables de la fiabilité des services & des systèmes (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.). Exemples: développeurs, opérateurs, DevOps, SRE, architectes solution, etc.
+
+2) **"Culture cloud native/pilotage MOE"**: ressources notamment destinées aux personnes responsables de la structuration d'un plan projet (compétences, roles, organisation, technologies, ..) son organisation et son suivi (consommation budgetaire, UO, librables, ...), pour saisir les opportunités du paradigme "cloud native".  
+> Elles pilotent des équipes assurant le développement ou les opérations sur les produits et sont responsables de l'intégrité des projets (cadrage, bonne utilisation et suivi des ressources, orientations techniques...). Exemples:  pilotage/chefferie de projets/programmes, responsables d'unités de conception, de bureaux d'étude, MOE, etc.
+
+3) **"Culture générale/gouvernance"**: ressources adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée pour comprendre les spécificités du "nouveau paradigme logiciel". 
+> Elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller. Exemples: pilotage et gouvernance des organisations, directions générales ou métiers, stratégie d'achat, stratégie RH, etc.
+
+Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aussi conseiller des ressources spécifiques en fonction des besoins et de la maturité de l'équipe projet.
+
+
+# Embarquement: étapes ressources
+
+## Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
 
 >**Objectif et étapes clefs**: L'équipe sait évaluer et argumenter la pertinence (ou non) à orienter son projet vers l'offre Cloud Pi Native
 >- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation aux enjeux](./sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), [CCT Cloud Native](./cloud-pi-native/CCT-Cloud-Native)...)
@@ -60,7 +71,7 @@ L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est
 </details>
 
 
-### Etape 2: structurer un plan projet, se préparer pour consommer l'offre
+## Etape 2: structurer un plan projet, se préparer pour consommer l'offre
 
 >**Objectif et étapes clefs**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
 >- Procéder au "maturity check" (voir section correspondante dans le [modèle de plan projet](./modele_plan_projet.md) et les [exemples existants](https://software.af.mil/wp-content/uploads/2019/12/DoD-Enterprise-DevSecOps-Maturity-Review-v1.6.docx)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
@@ -82,7 +93,7 @@ L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est
  
 </details>
 
-### Etape3: lancer son projet, construire dans un environnement sandbox "Cloud native"
+## Etape3: lancer son projet, construire dans un environnement sandbox "Cloud native"
 >**Objectif et étapes clefs**: L'équipe s'est organisée et exercée à prendre en main des technologies cloud native. Elle a ensuite réalisé un "Hello world" avec les éléments de l'offre, puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (découverte et mise en place de la chaine primaire).
 
 >- Entretien avec l'équipe d'accompagnement technique: passage en revue des prerequis, prise de connaissance des contexte métier et technique, évaluation des ressources à provisionner,... détermination d'une roadmap d'accompagnement
@@ -103,7 +114,7 @@ L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est
   
 </details>
 
-### Etape 4: passer en production, appréhender le Cloud souverain "Pi"
+## Etape 4: passer en production, appréhender le Cloud souverain "Pi"
 >**Objectif et étapes clefs**: L'équipe construit son projet et le déploie dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes imposé (découverte et mise en place de la chaine secondaire).
 
 >- Réaliser une [demande d'hébergement sur le Cloud Pi](https://resana.numerique.gouv.fr/public/document/consulter/7054535)
@@ -125,7 +136,7 @@ L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est
 </details>
 
 
-### Etape 5: atteindre les meilleurs standards, évoluer en production 
+## Etape 5: atteindre les meilleurs standards, évoluer en production 
 >**Objectif et étapes clefs**: L'équipe construit, opére et fait évoluer ses produits en autonomie. Les produits livrés en production sont conformes aux meilleurs standards de qualité et de sécurité. Elle a mis en place des bonnes pratiques et les monitore pour s'assurer de leur continuité.
 
 >- Mettre en place les bonnes pratiques et les moyens de leur suivi
@@ -142,17 +153,6 @@ L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est
 </details>
 
 
-# Se former individuellement: périmètres de responsabilité et parcours
 
-Toute personne désireuse de se former à titre individuel est priée de prendre connaissance du [support de sensibilisation aux enjeux](./0-sensibilisation.md), point de départ du plan de formation, communs aux différents parcours. 
-
-Passée l'étape de sensibilisation (commune à tous), des parcours de formation ont été structurés en [**niveau de "maturité"**](./plan-formation.md) par périmètre de responsabilité. Les ressources adressent la maitrise de connaissances et de pratiques de 3 types:
-1) [**"Culture générale"**](./parcours-culture-generale.md) : adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée pour comprendre les spécificités du "nouveau monde logiciel". On les regroupe sous le titre `gouvernance/décisionnaire`: elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller: pilotage et gouvernance des organisations, directions générales ou métiers, stratégie d'achat, RH, etc.
-
-2) [**"Culture cloud native"**](./parcours-culture-cloudnative.md): notamment destinées aux personnes responsables de la structuration d'un plan projet (compétences, roles, organisation, technologies, ..) et son suivi (consommation budgetaire, UO, librables, ...), pour saisir les opportunités des technologies "cloud native". On les regroupe sous le titre de `Pilotage MOE` : personnes qui pilotent des équipes assurant le développement ou les opérations sur les produits. Elles sont responsables de l'intégrité des projets (cadrage, bonne utilisation et suivi des ressources, orientations techniques...): pilotage/chefferie de projets/programmes, responsables d'unités de conception, de bureaux d'étude, etc.
-
-3) [**"A MODIFIER Spécifiques à Cloud pi native"**](https://github.com/cloud-pi-native/documentation): destinées aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits tout au long de leur cycle de vie. C'est la documentation destinée aux `équipes produit` qui élaborent de nouveaux produits numériques et/ou assurent la gestion tout au long du cycle de vie. Elles sont responsables de la qualité des produits. Selon la taille et le d'organisation, ce périmètre peut recouvrir des personnes responsables de la `fiabilité des services & systèmes` (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.).
-4) 
-Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aussi conseiller des **parcours de formation spécifiques** en fonction des besoins et de la maturité de l'équipe projet.
 
 
