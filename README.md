@@ -20,8 +20,8 @@ Hypothèse 2: l'alignement du `type de parcours` avec le `type de responsabilit�
 ## Comment utiliser ces ressources?
 
 Les ressources peuvent etre utilisées de deux manières:
-1) **Pour embarquer rapidement une équipe projet:** en consultant, étape par étape, la sélection des "ressources essentielles" pour compléter l'étape (voir section ci-après) ;
-2) **Pour se former individuellement:** en consultant, étape par étape, les ressources relevant de son périmètre de responsabilité (voir section au bas de cette page). 
+1) **Pour embarquer rapidement une équipe projet:** en consultant, étape par étape, la sélection des "ressources essentielles" pour compléter les étapes d'embarquement (voir section ci-après) ;
+2) **Pour se former individuellement:** en consultant, étape par étape, les ressources approfondies relevant de son périmètre de responsabilité (voir section au bas de cette page). 
 
 
 ![alt_text](images/accompagnement.jpg)
