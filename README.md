@@ -55,7 +55,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation aux enjeux](./sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), [CCT Cloud Native](./cloud-pi-native/CCT-Cloud-Native)...)
 >- Compléter le diagnostic flash permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien) et l'adresser au programme Cloud Pi Native
 
->**Livrable**: ["diagnostic flash" (préqualification)](./diagnostic.md)
+>**Livrable**: ["diagnostic flash" (préqualification)](./diagnostic-prequalification.md)
 
 >**Critères go/no go:** l'offre de service est pertinente pour le besoin exprimé
 
@@ -69,7 +69,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >- Consulter les ressources d'autoformation mise à disposition (voir sections correspondantes dans le [plan de formation](./plan_formation.md))
 >- Completer, autant que possible, le draft de plan projet
  
->**Livrable:** [plan projet (qualification)](./model-plan-projet.md)
+>**Livrable:** [plan projet (qualification)](./model_plan_projet.md)
 
 >**Critères go/no go:** le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
 
