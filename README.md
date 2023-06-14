@@ -11,7 +11,7 @@ Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pour
 
 Hypothèse 1: l'alignement des `niveaux de maturité` avec les `étapes d'embarquement` accélère la prise en main de l'offre.
 
-Hypothèse 2: l'alignement du `type de parcours` avec le `type de responsabilités exercées` permet à chacun d'identifier son futur role et les ressources de formation pour s'y préparer. On distingue:
+Hypothèse 2: l'alignement du `type de parcours` avec le `type de responsabilités` exercées permet à chacun d'identifier son futur role et les ressources de formation pour s'y préparer. On distingue:
 > - **Enjeux du numérique et des transformations associées:** à destination de tous, notamment aux personnes responsables du choix de l'offre de service pour un portefeuille de projets numériques (décisionnaires/gouvernance);
 > - **Technologies et approches promues dans le paradigme "Cloud native":** destinée en particulier aux personnes responsables de la structuration du plan projet et son suivi (pilotage/MOE);
 > - **Documentation d'utilisation de Cloud Pi Native:** destinée aux équipes techniques qui l'utilisent pour leur produits/systèmes ("techniques"/produits et systèmes).
