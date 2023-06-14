@@ -14,8 +14,8 @@ Quels sont les concepts technologiques, méthodologiques et organisationnels mis
 - A venir: qu'est est le lien etre cloud, agilité et DevOps ? 
 
 ## La conteneurisation et l'orchestration: kubernetes
-- L'essentiel de kuberntes en 7 minutes: https://www.youtube.com/watch?v=NChhdOZV4sY
-- Concepts de base: les "objets" kuberntes https://kubernetes.io/fr/docs/concepts/
+- L'essentiel de kubernetes en 7 minutes: https://www.youtube.com/watch?v=NChhdOZV4sY
+- Concepts de base: les "objets" kubernetes https://kubernetes.io/fr/docs/concepts/
 - Prendre en main kubernetes en 5 min avec un tutoriel "pour tous" https://kubernetes.io/fr/docs/tutorials/kubernetes-basics/
 
 ## L'offre Cloud Pi Native
@@ -23,7 +23,7 @@ Quels sont les concepts technologiques, méthodologiques et organisationnels mis
 - A venir: décripter les exigences du CCT Cloud Native
 - 
 
-# Pour aller plus loin/à venir
+# Pour aller plus loin
 - Qu'est ce que le DevOps : https://publication.octo.com/fr/telechargement-livre-blanc-decouverte-devops
 - Gestion des achats et fournisseurs dans les projets numériques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=495 
 - Introduction à Kubernetes: https://www.udemy.com/course/la_plateforme_k8s/
