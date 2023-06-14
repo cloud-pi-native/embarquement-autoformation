@@ -90,7 +90,7 @@ L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est
 >- Demandes d'ouverture des accès à la console Cloud Pi Native ([formulaire Démarches Simplifiées](https://www.demarches-simplifiees.fr/commencer/cloud-pi-native)) (valant engagement à respecter le cadre de normes) et des canaux d'aides
 >- Prise en main de l'offre: réalisation d'un "hello world", construction de son usine logicielle, déploiement d'un POC déployé dans l'environnement "bac à sable", construction d'un MVP du produit
 
->**Livrable:** MVP dans l'environnement bac à sable
+>**Livrable:** MVP dans l'environnement bac à sable (console + SecNumCloud)
 
 >**Critères go/no go:** les tests réalisés sur une version suffisemment représentative du produit attestent que le cadre de normes est respecté
 <details>
