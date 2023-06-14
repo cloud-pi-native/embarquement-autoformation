@@ -58,18 +58,9 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >**Livrable**: ["diagnostic flash" (préqualification)](./diagnostic.md)
 
 >**Critères go/no go:** l'offre de service est pertinente pour le besoin exprimé
-<details>
- 
- <summary> Ressources essentielles </summary>
-  
-- Enjeux du "nouveau monde logiciel" (Cloud, DevOps, mode produit,...) pour la transformations du numérique public
-- L'impact du Cloud Native: technologies, méthodes, mode d'organisation...
-- Comprendre la valeur apportée par l'offre Cloud Pi Native
- 
-[Voir les contenus d'autoformation pour l'étape 1](./sensibilisation.md)
- 
-</details>
 
+>**Ressources d'autoformation:** [sensibilisation](./sensibilisation.md)
+ 
 
 ## Etape 2: structurer un plan projet, se préparer pour consommer l'offre
 
@@ -77,21 +68,13 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >- Procéder au "maturity check" (voir section correspondante dans le [modèle de plan projet](./modele_plan_projet.md) et les [exemples existants](https://software.af.mil/wp-content/uploads/2019/12/DoD-Enterprise-DevSecOps-Maturity-Review-v1.6.docx)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
 >- Consulter les ressources d'autoformation mise à disposition (voir sections correspondantes dans le [plan de formation](./plan_formation.md))
 >- Completer, autant que possible, le draft de plan projet
-</details>
  
 >**Livrable:** [plan projet](./diagnostic.md)
 
 >**Critères go/no go:** le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
-<details>
- <summary> Ressources essentielles </summary>
-  
-- Comprendre comment les grands acteurs du numériques ont tirés parti des nouvelles opportunités (cloud, kubernetes, DevSecOps,...)
-- Comprendre les concepts technologiques de conteneurisation et d'orchestration (kubernetes)
-- Comprendre les différents services de l'offre Cloud Pi Native et leur interet à chaque étape du cycle de vie d'un produit
+
+> **Ressources d'autoformation:** [préparer son projet](./formation_step2.md)
  
-[Voir les contenus d'autoformation pour l'étape 2](./formation_step2.md)
- 
-</details>
 
 ## Etape3: lancer son projet, construire dans un environnement sandbox "Cloud native"
 >**Objectif et étapes clefs**: L'équipe s'est organisée et exercée à prendre en main des technologies cloud native. Elle a ensuite réalisé un "Hello world" avec les éléments de l'offre, puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (découverte et mise en place de la chaine primaire).
@@ -103,16 +86,10 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >**Livrable:** MVP dans l'environnement bac à sable (console + SecNumCloud)
 
 >**Critères go/no go:** les tests réalisés sur une version suffisemment représentative du produit attestent que le cadre de normes est respecté
-<details>
- <summary> Ressources essentielles </summary>
-  
-- Mesurer l'impact de ces nouvelles opportunités sur la production logicielle: usines logicielles, organisations agiles, périmètres de responsabilités...
-- Monter une équipe produit et élaborer un plan de formation pour utiliser les outils Cloud Native
-- Lancer un projet dans Cloud Pi Native, du "hello world" (chaine primaire) jusqu'au MVP
 
- [Voir les contenus d'autoformation pour l'étape3](./formation_step3.md)
-  
-</details>
+> **Ressources d'autoformation:** [lancer son projet](./formation_step3.md)
+
+
 
 ## Etape 4: passer en production, appréhender le Cloud souverain "Pi"
 >**Objectif et étapes clefs**: L'équipe construit son projet et le déploie dans l'environnement du Cloud Pi souverain, dans le respect du cadre de normes imposé (découverte et mise en place de la chaine secondaire).
@@ -124,34 +101,18 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >**Livrable:** produit dans l'environnement de production
 
 >**Critères go/no go:** les métriques d'observabilité et les rapports sur le produit attestent de sa conformité aux standards de qualité et de sécurité
-<details>
- <summary> Ressources essentielles </summary>
-  
-- Assurer la sécurité et la qualité dans "le nouveau monde logiciel" (zéro-trust)
-- Concevoir un produit Clodu Native et gérer son cycle de vie de A à Z (sécurité k8s)
-- Contruire un projet avec Cloud Pi Native: exigences/CCT, sécurité, ... jusqu'à la production (chaine secondaire)
 
- [Voir les contenus d'autoformation pour l'étape 4](./formation_step4.md)
- 
-</details>
+> **Ressources d'autoformation:** [passer en production](./formation_step4.md)
 
 
 ## Etape 5: atteindre les meilleurs standards, évoluer en production 
 >**Objectif et étapes clefs**: L'équipe construit, opére et fait évoluer ses produits en autonomie. Les produits livrés en production sont conformes aux meilleurs standards de qualité et de sécurité. Elle a mis en place des bonnes pratiques et les monitore pour s'assurer de leur continuité.
 
 >- Mettre en place les bonnes pratiques et les moyens de leur suivi
->- Assurer la continuité de service et des bonnes pratiques lors des évolutions du produit 
-<details>
- <summary> Ressources essentielles </summary>
-  
-- Manager pour rester autonome et performant sur la durée (anti-patterns, mode produit, cloud-agile...)
-- Utiliser les technologies du CNCF Landscape et les charts Helms / Operators
-- Assurer la disponibilité et la continuité en production, garder les options ouvertes sur les transitions futures
-  
-[Voir les contenus d'autoformation pour l'étape 5](./formation_step5.md)
-  
-</details>
 
+>- Assurer la continuité de service et des bonnes pratiques lors des évolutions du produit 
+
+> **Ressources d'autoformation:** [Evoluer en production](./formation_step5.md)
 
 
 
