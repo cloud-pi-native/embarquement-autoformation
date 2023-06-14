@@ -20,7 +20,7 @@ Hypothèse 2: on distingue trois types de ressources correspondant aux grands p�
 ## Comment utiliser ces ressources?
 
 Les ressources peuvent etre utilisées de deux manières:
-1) **Pour embarquer rapidement un équipe projet:** sélection des ressources essentielles pour compléter l'étape ;
+1) **Pour embarquer rapidement une équipe projet:** sélection des ressources essentielles pour compléter l'étape ;
 2) **Pour se former individuellement:** parcours adaptés au niveau de maturité et au périmètre de responsabilité. 
 
 
