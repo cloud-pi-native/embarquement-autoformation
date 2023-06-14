@@ -1,31 +1,30 @@
+# Modèle de plan projet (trame de qualification avant lancement du projet)
 
+## Contexte métier de la demande
+- Quelles missions et usage sont couverts par votre demande? (contexte métier, cas d'usage, fonctionnalités clef, criticité, ...)
+- Le parcours d'accompagnment vous semble t-il compatible avec votre calendrier, impératifs, deadlines,  roadmap?
 
-## Comprehension de ce que recouvre notre accompagnement
-- On ne fait pas à la place du projet, mais on accompagne à faire
-- On explique l’automatisation du lien entre la chaine primaire et secondaire : qu’est ce qui déclenche ? comment ça déploit ?
-- Pdt l’entretien on doit pouvoir se prononcer sur la facon dont les étapes sont chainées, est ce que ça correspond à nos standards.
+## Préparation de l'équipe
+- Le modèle de responsabilité, les exigences, l'architecture... vous semblent-elles claires?
+- L'accompagnement proposé par le programme Cloud Pi Native vous semble t-il clair? (nous en faisons pas "à la place de", mais accompagnons à faire)
+- Les compétences, roles, processus... à mettre en place vous semble t-il clair?
+- Y a t-il des sujets sur lesquels vous aurez des besoins de formation?
 
-## Questions relatives à la prise de connaissance des canaux et accès
-- Sont-ils déja sur Mattermost
-- Sont 
+## Contexte technique du projet
+- Les SI et applicatifs concernés sont-ils déja homologués? sur quel infrastructure? qu'est ce qui a déja été audité?
+- Disposer vous de métriques caractérisant le périmètre concerné? (nombre de modules, de VM, dépendances, ...)
+- Avous déja réalisé une estimation des ressources CPus, RAM, stockage... à provisionner? 
+- Quels services auront-ils besoin de consommer?
+- Disposer vus d'élément décrivant l'architecture actuelle? et l'architecture cible? 
 
-## Questions relatives aux ressources à provisionner
-- Estimation des ressources CPus, RAM, stockage... à prévoir
-- Quels services auront-ils besoin sde consommer?
+## Fonctionnement de Cloud Pi Native 
+- Le fonctionnement de la chaine de service vous semble t-il clair? (automatisation du lien entre la chaine primaire et secondaire : qu’est ce qui déclenche ? comment ça déploit ?)
+- Cette séquence, la façon dont tout cela est chainées, vous semblet-il compatible avec les standards de votre organisation?
+- le cas échéant, par quels composants et service seriez-vous interessés?
+- Quels sont les jalons et les deadlines associées? 
+- Qui seront les interlocuteurs et quelles sont leurs responsabilités par rapport à l'objectif visé?
+- Le cas échéant sur quels sujets/composants souhaiteriez vous contribuer ? 
 
-## Questions relatives à la composition et à la maturité de l'équipe (compétences, roles, processus) 
-- Qeuels suejts connaissant-ils déja? 
-- Sur quels sujets faudra t-il prévoir des besoins en formation?
-
-## Questions relatives à la compréhension du CCT Cloud Native
-
-
-## Questions relatives à la vérification des prérequis techniques
-- Sont ils déja homologués? sur quel infra? qu'est ce qui a déja été audité?
-
-
-## Aspects partenariaux
-- Sur quels sujets/composants pourront-ils contribuer ? 
-
-# Question
-Répartition des information entre préqualification et qualification?
+# En construction
+- Intégrer les questions posé dans le cadre de l'examen d'une demande d'hébergement
+- Matrice d'éligiblité (cf. CRiP, EDF, etc.)
