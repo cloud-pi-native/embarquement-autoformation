@@ -95,6 +95,11 @@ Toute les produits numériques sortent de la même usine et sont gérés selon u
 - **de rationaliser les couts**: via le choix des hébergements en fonction des contraintes, la mutualisation des couts à un niveau interministériel, "Inutile de prendre du cloud souverain pour des données ouvertes".
 - **de favoriser la transparence et l'ouverture**: contrairement à l'approche de certaines gros acteurs du numériques, nous avons opté pour une approche open soource car nous pensons que la complexité doit être dévoilée de facon adaptée à la montée en compétences de toutes les parties prenantes et faciliter l'appropriation des outils par les producteurs du numérique public.
 
+## Ressources approfondies/pour aller plus loin
+- Les Leviers du numérique pour la transformation des politiques publiques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=492
+- Mythes et réalités autour du cloud: https://blog.octo.com/legendes-cloud/?utm_campaign=Cloud&utm_medium=email&_hsmi=253444812&_hsenc=p2ANqtz-8lQizxUNx6C9MpKpDS58Mx7TqQmWO_h_cR54jZcwTq9j45JAyvAx_U9t7UMap1h3wav-CYrIhkaUAwljFYRc2FP41E8OhTYabo3torpacBkaDiWEQ&utm_content=253444812&utm_source=hs_automationhttps://blog.octo.com/cloud-enjeux-2023/?hsCtaTracking=dcae8808-b3c6-4fda-9d0d-5003828cfba7%7C69b4dd1f-f50a-4e84-866a-54506db51d8c
+- La doctrine "Cloud au centre" de l'État  https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=496	
+ 
 
 ## Reste à faire, pistes d'amélioration
 - Préciser le périmètre pour lequel l'offre est pertinente: quelles systèmes/applications ont vocation à l'utiliser? Les nouvelles pour des questions de mise à l'état de l'art, mais quid des anciennes? Retex: Nubo, Cloud centre, Commission Européenne, CRiP
@@ -104,10 +109,3 @@ Toute les produits numériques sortent de la même usine et sont gérés selon u
 -	Moyen de mesurer la réussite (ou non) de la session (OKR) ou le NPS (recommanderiez-vous cette offre-> NPR) 1) intro :  2) sondage sur les connaissances actuelles 3) présentation 4) "s'il ne fallait retenir qu'une chose" 5) quizz et collecte des retours (comment avez-vous trouvé... ? qu’est ce qui a manqué pour vous convaincre ? )
 -	Alimenter en exemple du quotidien, qui marche, reposant sur le paradigme "Cloud Native" : Google (Borg), Netflix, ... vs. des exemples de ce qui marche moins bien (banque ou assurance traditionnelles, ...)
 -	Démystifier la sécurité (argument développés dans les présentations de "Cloud au centre"): elle est différente pur un individu et à l'échelle d'un acteur "géostratégique" https://medium.com/@ismaelbouarfa/s%C3%A9curit%C3%A9-cloud-vs-s%C3%A9curit%C3%A9-on-premise-b6e742bf7b7b
-
-## Ressources approfondies/pour aller plus loin
-- Les Leviers du numérique pour la transformation des politiques publiques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=492
-- Mythes et réalités autour du cloud: https://blog.octo.com/legendes-cloud/?utm_campaign=Cloud&utm_medium=email&_hsmi=253444812&_hsenc=p2ANqtz-8lQizxUNx6C9MpKpDS58Mx7TqQmWO_h_cR54jZcwTq9j45JAyvAx_U9t7UMap1h3wav-CYrIhkaUAwljFYRc2FP41E8OhTYabo3torpacBkaDiWEQ&utm_content=253444812&utm_source=hs_automationhttps://blog.octo.com/cloud-enjeux-2023/?hsCtaTracking=dcae8808-b3c6-4fda-9d0d-5003828cfba7%7C69b4dd1f-f50a-4e84-866a-54506db51d8c
-- La doctrine "Cloud au centre" de l'État  https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=496	
- 
-
