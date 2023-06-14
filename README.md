@@ -69,7 +69,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >- Consulter les ressources d'autoformation mise à disposition (voir sections correspondantes dans le [plan de formation](./plan_formation.md))
 >- Completer, autant que possible, le draft de plan projet
  
->**Livrable:** [plan projet](./diagnostic.md)
+>**Livrable:** [plan projet (qualification)](./diagnostic.md)
 
 >**Critères go/no go:** le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
 
