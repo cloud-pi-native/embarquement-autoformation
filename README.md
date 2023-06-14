@@ -47,7 +47,7 @@ Des ressources d'autoformation sont ensuite disponibles à chaque `étape d'emba
 Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aussi conseiller des ressources spécifiques en fonction des besoins et de la maturité de l'équipe projet.
 
 
-# Embarquement: étapes & ressources
+# Embarquement d'une équipe: étapes & ressources
 
 ## Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
 
