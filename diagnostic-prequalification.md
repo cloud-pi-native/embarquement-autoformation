@@ -31,11 +31,40 @@
 - Quid de l'homologation?
 
 
-## A ajouter
+
+# Modèle de plan projet (préparation du rdv avec les équipes d'accompagnement technique)
+
+## Comprehension de ce que recouvre notre accompagnement
+- On ne fait pas à la place du projet, mais on accompagne à faire
+- On explique l’automatisation du lien entre la chaine primaire et secondaire : qu’est ce qui déclenche ? comment ça déploit ?
+- Pdt l’entretien on doit pouvoir se prononcer sur la facon dont les étapes sont chainées, est ce que ça correspond à nos standards.
+
+## Questions relatives à la prise de connaissance des canaux et accès
+- Sont-ils déja sur Mattermost
+- Sont 
+
+## Questions relatives aux ressources à provisionner
+- Estimation des ressources CPus, RAM, stockage... à prévoir
+- Quels services auront-ils besoin sde consommer?
+
+## Questions relatives à la composition et à la maturité de l'équipe (compétences, roles, processus) 
+- Qeuels suejts connaissant-ils déja? 
+- Sur quels sujets faudra t-il prévoir des besoins en formation?
+
+## Questions relatives à la compréhension du CCT Cloud Native
+
+
+## Questions relatives à la vérification des prérequis techniques
+- Sont ils déja homologués? sur quel infra? qu'est ce qui a déja été audité?
+
+
+## Aspects partenariaux
+- Sur quels sujets/composants pourront-ils contribuer ? 
+
+# Questions/à compléter
+- Répartition des information entre préqualification et qualification?
 - Intégrer les questions posé par le BRM dans el cadre de l'examen d'une demande d'hébergement
 - Comment distinguer une demande pertinente pour Cloud Pi Native d'une demande qui ne l'est pas ? (matrice d'éligiblité, CRiP, EDF, etc.)
 - Comment s'assurer qu'une demande est complète?
 - Quelle répartition des questions entre le diagnostic flash (préqualification) et le modèle de plan projet (qualification)? 
-
-
 
