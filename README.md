@@ -8,23 +8,23 @@ Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pour
 - **Des ressources d'autoformation** organisées par [niveau de maturité](./plan-formation) (i.e. type de questions); 
 - **De l'accompagnement (réservé aux clients ministériels)** organisé par [étapes](./accompagnement.md) (i.e. embarquement) ;
 
-Hypothèse 1: l'alignement des `niveaux de maturité` avec les `étapes d'embarquement` permet d'accélèrer la prise en main de l'offre.
-
-Hypothèse 2: l'alignement de `parcours-type` avec le `type de responsabilités` exercées permet à chacun d'identifier 1) son role dans l'organisation à mettre en place autour de l'offre 2) d'identifier des ressources de formation pour s'y préparer.
+Nous proposons ici des parcours de facilitation en se basant sur les hypothèses suivantes: 
+- Hypothèse 1: l'alignement des `niveaux de maturité` avec les `étapes d'embarquement` permet d'accélèrer la prise en main de l'offre.
+- Hypothèse 2: l'alignement de `parcours-type` avec le `type de responsabilités` exercées permet à chacun d'identifier 1) son role dans l'organisation à mettre en place pour consommer l'offre 2) d'identifier des ressources de formation pour s'y préparer.
 
 
 ## Comment utiliser ces ressources?
 
-Les ressources peuvent etre utilisées de deux manières:
-1) **Pour embarquer rapidement une équipe projet:** en consultant, étape par étape, la sélection des "ressources essentielles" pour compléter l'étape (voir section ci-après) ;
-2) **Pour se former individuellement:** en consultant, étape par étape, les ressources approfondies relevant d'un périmètre de responsabilité donné (voir section au bas de cette page). 
+Les ressources peuvent etre utilisées, étape par étape, de deux manières:
+1) **Pour embarquer rapidement une équipe projet:** en consultant une sélection de "ressources essentielles" pour compléter l'étape (voir les étapes ci-après) ;
+2) **Pour se former individuellement:** en consultant les ressources approfondies relevant d'un périmètre de responsabilité donné (voir les périmètres ci-dessous). 
 
 
 ![alt_text](images/accompagnement.jpg)
 
 ## A qui s'adresser?
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
-- `L'équipe "adoption"` qui, dans les 3 premières étapes, renseigne sur l'offre et oriente sur les ressources de formation; 
+- `L'équipe "adoption"` qui renseigne sur l'offre et oriente sur les ressources de formation; 
 - `La "service team"` qui accompagne au lancement du projet à partir de l'étape 3 (réservée aux clients ministériels). 
 L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est conditionné à la vérification de prérequis techniques stricts**`, car nécessaires à la réussite du projet (cf. [liste des prérequis](https://github.com/cloud-pi-native/documentation)).
 
@@ -47,7 +47,7 @@ Des ressources d'autoformation sont ensuite disponibles à chaque `étape d'emba
 Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aussi conseiller des ressources spécifiques en fonction des besoins et de la maturité de l'équipe projet.
 
 
-# Embarquement: étapes ressources
+# Embarquement: étapes & ressources
 
 ## Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
 
@@ -112,7 +112,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 
 >- Assurer la continuité de service et des bonnes pratiques lors des évolutions du produit 
 
-> **Ressources d'autoformation:** [Evoluer en production](./formation_step5.md)
+> **Ressources d'autoformation:** [évoluer en production](./formation_step5.md)
 
 
 
