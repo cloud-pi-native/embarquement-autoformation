@@ -1,4 +1,4 @@
-# Sensibilisation: yype de questions et problématiques adressées
+# Sensibilisation: type de questions et problématiques adressées
 De quels enjeux me parle t-on avec Cloud PI Native et en quoi cela me concerne ?
 - Enjeux du "nouveau monde logiciel" (Cloud, DevOps, mode produit,...) pour la transformations du numérique public
 - L'impact du Cloud Native: technologies, méthodes, mode d'organisation...
