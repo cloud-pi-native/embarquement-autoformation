@@ -20,8 +20,8 @@ Hypothèse 2: l'alignement du `type de parcours` avec le `type de responsabilit�
 ## Comment utiliser ces ressources?
 
 Les ressources peuvent etre utilisées de deux manières:
-1) **Pour embarquer rapidement une équipe projet:** sélection des ressources essentielles pour compléter l'étape ;
-2) **Pour se former individuellement:** parcours adaptés au niveau de maturité et au périmètre de responsabilité. 
+1) **Pour embarquer rapidement une équipe projet:** en consultant, étape par étape, la sélection des "ressources essentielles" pour compléter l'étape (voir section ci-après) ;
+2) **Pour se former individuellement:** en consultant, étape par étape, les ressources relevant de son périmètre de responsabilité (voir section au bas de cette page). 
 
 
 ![alt_text](images/accompagnement.jpg)
@@ -45,7 +45,7 @@ L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est
 >- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation aux enjeux](./sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), [CCT Cloud Native](./cloud-pi-native/CCT-Cloud-Native)...)
 >- Compléter le diagnostic flash permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien)
 
->**Livrable**: ["diagnostic flash" (préqualification)](./diagnostic-prequalification.md)
+>**Livrable**: ["diagnostic flash" (préqualification)](./diagnostic.md)
 
 >**Critères go/no go:** l'offre de service est pertinente pour le besoin exprimé
 <details>
@@ -69,7 +69,7 @@ L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est
 >- Completer, autant que possible, le draft de plan projet
 </details>
  
->**Livrable:** [plan projet](./modele_plan_projet.md)
+>**Livrable:** [plan projet](./diagnostic.md)
 
 >**Critères go/no go:** le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
 <details>
