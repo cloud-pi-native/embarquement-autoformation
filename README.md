@@ -41,9 +41,8 @@ L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est
 ### Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
 
 >**Objectif et étapes clefs**: L'équipe sait évaluer et argumenter la pertinence (ou non) à orienter son projet vers l'offre Cloud Pi Native
->- Solliciter le programme Cloud Pi Native
 >- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation aux enjeux](./sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), [CCT Cloud Native](./cloud-pi-native/CCT-Cloud-Native)...)
->- Compléter le diagnostic flash permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien)
+>- Compléter le diagnostic flash permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien) et l'adresser au programme Cloud Pi Native
 
 >**Livrable**: ["diagnostic flash" (préqualification)](./diagnostic.md)
 
