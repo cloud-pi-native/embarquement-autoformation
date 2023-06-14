@@ -1,4 +1,4 @@
-# "Diagnostic flash" pour la préqualification d'une demande adressée à Cloud Pi Native
+# "Diagnostic flash" (préparation d'une demande à Cloud Pi Native)
 
 ## Contexte de la demande
 
@@ -32,7 +32,7 @@
 
 
 
-# Modèle de plan projet (préparation du rdv avec les équipes d'accompagnement technique)
+# Modèle de plan projet (préparation au lancement du projet)
 
 ## Comprehension de ce que recouvre notre accompagnement
 - On ne fait pas à la place du projet, mais on accompagne à faire
