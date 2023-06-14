@@ -6,7 +6,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pourront bénéficier d'accélérateurs:
 - **Des ressources d'autoformation** organisées par [niveau de maturité](./plan-formation) (i.e. type de questions); 
-- **De l'accompagnement (réservé aux clients ministériels)** organisé par [étapes](./accompagnement.md) (i.e. embarquement) ;
+- **Un processus d'embarquement** organisé par [étapes](./accompagnement.md) (accompagnement actuellement réservé aux usagers ministériels);
 
 Nous proposons ici des parcours de facilitation en se basant sur les hypothèses suivantes: 
 - Hypothèse 1: l'alignement des `niveaux de maturité` avec les `étapes d'embarquement` permet d'accélèrer la prise en main de l'offre.
@@ -55,26 +55,21 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation aux enjeux](./sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), [CCT Cloud Native](./cloud-pi-native/CCT-Cloud-Native)...)
 >- Compléter le diagnostic flash permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien) et l'adresser au programme Cloud Pi Native
 
->**Livrable**: ["diagnostic flash" (préqualification)](./diagnostic-prequalification.md)
+>**Livrable à constituer et ressources**: ["diagnostic flash" (trame de préqualification)](./diagnostic-prequalification.md), ressources de [sensibilisation](./sensibilisation.md)
 
->**Critères go/no go:** l'offre de service est pertinente pour le besoin exprimé
+>**Critères go/no go:** la demande est suffisament claire pour attester que l'offre de service Cloud Pi Native répond de manière pertinente au besoin exprimé
 
->**Ressources:** [sensibilisation](./sensibilisation.md)
- 
 
 ## Etape 2: structurer un plan projet, se préparer pour consommer l'offre
 
 >**Objectif et étapes clefs**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
->- Procéder au "maturity check" (voir section correspondante dans le [modèle de plan projet](./modele_plan_projet.md) et les [exemples existants](https://software.af.mil/wp-content/uploads/2019/12/DoD-Enterprise-DevSecOps-Maturity-Review-v1.6.docx)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
->- Consulter les ressources d'autoformation mise à disposition (voir sections correspondantes dans le [plan de formation](./plan_formation.md))
->- Completer, autant que possible, le draft de plan projet
+>- Consulter les ressources de formation mise à disposition (voir ci dessous) et les [exemples existants](https://software.af.mil/wp-content/uploads/2019/12/DoD-Enterprise-DevSecOps-Maturity-Review-v1.6.docx)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
+>- Compléter autant que possible le [modèle de plan projet](./modele-plan-projet.md) 
  
->**Livrable:** [plan projet (qualification)](./model_plan_projet.md)
+>**Livrable à constituer et ressources**:[plan projet (trame de qualification)](./model_plan_projet.md), ressources pour [préparer son projet](./formation_step2.md)
 
->**Critères go/no go:** le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
+>**Critères go/no go:** l'équipe est suffisamment prete pour un entretien d'accompagnement technique 
 
-> **Ressources:** [préparer son projet](./formation_step2.md)
- 
 
 ## Etape3: lancer son projet, construire dans un environnement sandbox "Cloud native"
 >**Objectif et étapes clefs**: L'équipe s'est organisée et exercée à prendre en main des technologies cloud native. Elle a ensuite réalisé un "Hello world" avec les éléments de l'offre, puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (découverte et mise en place de la chaine primaire).
@@ -83,12 +78,9 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >- Demandes d'ouverture des accès à la console Cloud Pi Native ([formulaire Démarches Simplifiées](https://www.demarches-simplifiees.fr/commencer/cloud-pi-native)) (valant engagement à respecter le cadre de normes) et des canaux d'aides
 >- Prise en main de l'offre: réalisation d'un "hello world", construction de son usine logicielle, déploiement d'un POC déployé dans l'environnement "bac à sable", construction d'un MVP du produit
 
->**Livrable:** MVP dans l'environnement bac à sable (console + SecNumCloud)
+>**Livrable à constituer et ressources**: MVP dans l'environnement bac à sable (console + SecNumCloud), ressources pour [lancer son projet](./formation_step3.md)
 
 >**Critères go/no go:** les tests réalisés sur une version suffisemment représentative du produit attestent que le cadre de normes est respecté
-
-> **Ressources:** [lancer son projet](./formation_step3.md)
-
 
 
 ## Etape 4: passer en production, appréhender le Cloud souverain "Pi"
@@ -98,11 +90,9 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >- Provisionner ses ressources, accéder à l'usine logicielle et les déployer sur le Cloud Pi
 >- Déployer son produit (codes infra et applicatif) sur l'environnement de production
 
->**Livrable:** produit dans l'environnement de production
+>**Livrable à constituer et ressources**: produit numérique dans l'environnement de production, ressources pour [passer en production](./formation_step4.md)
 
 >**Critères go/no go:** les métriques d'observabilité et les rapports sur le produit attestent de sa conformité aux standards de qualité et de sécurité
-
-> **Ressources:** [passer en production](./formation_step4.md)
 
 
 ## Etape 5: atteindre les meilleurs standards, évoluer en production 
