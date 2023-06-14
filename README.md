@@ -59,7 +59,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 
 >**Critères go/no go:** l'offre de service est pertinente pour le besoin exprimé
 
->**Ressources d'autoformation:** [sensibilisation](./sensibilisation.md)
+>**Ressources:** [sensibilisation](./sensibilisation.md)
  
 
 ## Etape 2: structurer un plan projet, se préparer pour consommer l'offre
@@ -73,7 +73,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 
 >**Critères go/no go:** le projet/l'équipe sont suffisamment prets pour programmer un entretien avec les équipes d'accompagnement technique 
 
-> **Ressources d'autoformation:** [préparer son projet](./formation_step2.md)
+> **Ressources:** [préparer son projet](./formation_step2.md)
  
 
 ## Etape3: lancer son projet, construire dans un environnement sandbox "Cloud native"
@@ -87,7 +87,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 
 >**Critères go/no go:** les tests réalisés sur une version suffisemment représentative du produit attestent que le cadre de normes est respecté
 
-> **Ressources d'autoformation:** [lancer son projet](./formation_step3.md)
+> **Ressources:** [lancer son projet](./formation_step3.md)
 
 
 
@@ -102,7 +102,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 
 >**Critères go/no go:** les métriques d'observabilité et les rapports sur le produit attestent de sa conformité aux standards de qualité et de sécurité
 
-> **Ressources d'autoformation:** [passer en production](./formation_step4.md)
+> **Ressources:** [passer en production](./formation_step4.md)
 
 
 ## Etape 5: atteindre les meilleurs standards, évoluer en production 
@@ -112,7 +112,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 
 >- Assurer la continuité de service et des bonnes pratiques lors des évolutions du produit 
 
-> **Ressources d'autoformation:** [évoluer en production](./formation_step5.md)
+> **Ressources:** [évoluer en production](./formation_step5.md)
 
 
 
