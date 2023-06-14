@@ -1,6 +1,9 @@
 # "Diagnostic flash" pour la préqualification d'une demande adressée à Cloud Pi Native
 
 ## Contexte de la demande
+
+- Exemple de financement: https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/
+
 - Organisation de rattachement et application concernée (minstérielle? interministérielle?...)
 - Missions et usage couverts (contexte métier, cas d'usage, fonctionnalités clef, criticité, ...)
 - Type de projet et objectif visé: développement d'une nouvelle application, migration d'une application déja en production, refonte, évolution, expérimentation ...?
