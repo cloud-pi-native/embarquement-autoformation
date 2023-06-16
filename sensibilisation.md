@@ -4,7 +4,7 @@ De quels enjeux me parle t-on avec Cloud PI Native et en quoi cela me concerne ?
 - L'impact du Cloud Native: technologies, méthodes, mode d'organisation...
 - Comprendre la valeur apportée par l'offre Cloud Pi Native
  
-# Trame de sensibilisation 
+# L'essentiel: trame de sensibilisation 
  
 # "Cloud Pi Native" en 3 minutes ("elevator pitch")
 Usager, citoyen, agent, responsable politique, se mobilisent pour que les services numériques publics soient aussi simples d'accès et d'utilisation, fiables et évolutifs que ceux que proposent (souvent "gratuitement") les grands acteurs privés du numérique. "Cloud Pi Native" est une offre de services du MIOM, ouverte à l'interministériel, visant à fournir les moyens de produire des applications de qualité, sécurisées et souveraines (au sens de "l'autonomie stratégique").
@@ -110,7 +110,7 @@ La mutualisation d'infrastructures coûteuses, portées par un ministère et mis
 - L'offre s'appuie sur 1) l’adoption du cloud et des technologies "cloud native" comme enablers de la sécurité 2) une usine logicielle pour réduire la distance entre usagers et agents tout en maitrisant la qualité du code 3) un cadre de normes pour rester en maitrise du patrimoine numérique;
 - Elle est d'ores et déja disponible à l'expérimentation, en construction selon une approche opensource et incrémentale. Partenaires ministériels et industriels: venez la challenger et contribuer.
 
-# Ressources approfondies/pour aller plus loin
+# Ressources approfondies: pour aller plus loin
 - Les Leviers du numérique pour la transformation des politiques publiques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=492
 - Mythes et réalités autour du cloud: https://blog.octo.com/legendes-cloud/?utm_campaign=Cloud&utm_medium=email&_hsmi=253444812&_hsenc=p2ANqtz-8lQizxUNx6C9MpKpDS58Mx7TqQmWO_h_cR54jZcwTq9j45JAyvAx_U9t7UMap1h3wav-CYrIhkaUAwljFYRc2FP41E8OhTYabo3torpacBkaDiWEQ&utm_content=253444812&utm_source=hs_automationhttps://blog.octo.com/cloud-enjeux-2023/?hsCtaTracking=dcae8808-b3c6-4fda-9d0d-5003828cfba7%7C69b4dd1f-f50a-4e84-866a-54506db51d8c
 - La doctrine "Cloud au centre" de l'État  https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=496	
