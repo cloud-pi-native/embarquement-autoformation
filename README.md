@@ -31,7 +31,7 @@ L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est
 
 # Se former individuellement: périmètres de responsabilité
 
-Toute personne désireuse de se former à titre individuel est priée de prendre connaissance du [support de sensibilisation aux enjeux](./0-sensibilisation.md). Il s'agit du point de départ commun aux parcours de formation et au processus d'embarquement. 
+Toute personne désireuse de se former à titre individuel est priée de prendre connaissance du [support de sensibilisation aux enjeux](./sensibilisation.md). Il s'agit du point de départ commun aux parcours de formation et au processus d'embarquement. 
 
 Des ressources d'autoformation sont ensuite disponibles à chaque `étape d'embarquement/niveau de maturité` en plus des ressources essentielles. Elles sont distinguées par `parcours/responsabilités`: 
 
