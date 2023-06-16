@@ -3,7 +3,7 @@ De quels enjeux me parle t-on avec Cloud PI Native et en quoi cela me concerne ?
 - Enjeux du "nouveau monde logiciel" (Cloud, DevOps, mode produit,...) pour la transformations du numérique public
 - L'impact du Cloud Native: technologies, méthodes, mode d'organisation...
 - Comprendre la valeur apportée par l'offre Cloud Pi Native
-
+ 
 # "Cloud Pi Native" en 3 minutes ("elevator pitch")
 Usager, citoyen, agent, responsable politique, agissent pour que le les services numériques publics soient aussi simples d'accès et d'utilisation, fiables et évolutifs que ceux que proposent (souvent "gratuitement") les grands acteurs privés du numérique. "Cloud Pi Native" est une offre de services du MIOM, ouverte à l'interministériel, visant à fournir les moyens de produire des applications de qualité, sécurisées et souveraines (maitrise des dépendances).
 
