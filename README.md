@@ -5,8 +5,8 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 # Ressources mises à disposition dans cette section
 
 Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pourront bénéficier d'accélérateurs:
-- **Des ressources d'autoformation** organisées par [niveau de maturité](./plan-formation) (i.e. type de questions); 
-- **Un processus d'embarquement** organisé par [étapes](./accompagnement.md) (accompagnement actuellement réservé aux usagers ministériels);
+- **Des ressources d'autoformation** organisées par niveau de maturité (i.e. type de questions); 
+- **Un processus d'embarquement** organisé par étapes (accompagnement actuellement réservé aux usagers ministériels);
 
 Nous proposons ici des parcours de facilitation en se basant sur les hypothèses suivantes: 
 - Hypothèse 1: l'alignement des `niveaux de maturité` avec les `étapes d'embarquement` permet d'accélèrer la prise en main de l'offre.
