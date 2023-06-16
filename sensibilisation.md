@@ -4,9 +4,7 @@ De quels enjeux me parle t-on avec Cloud PI Native et en quoi cela me concerne ?
 - L'impact du Cloud Native: technologies, méthodes, mode d'organisation...
 - Comprendre la valeur apportée par l'offre Cloud Pi Native
 
-# Ressources essentielles
-
-## "Cloud Pi Native" en 3 minutes ("elevator pitch")
+# "Cloud Pi Native" en 3 minutes ("elevator pitch")
 Usager, citoyen, agent, responsable politique, agissent pour que le les services numériques publics soient aussi simples d'accès et d'utilisation, fiables et évolutifs que ceux que proposent (souvent "gratuitement") les grands acteurs privés du numérique. "Cloud Pi Native" est une offre de services du MIOM, ouverte à l'interministériel, visant à fournir les moyens de produire des applications de qualité, sécurisées et souveraines (maitrise des dépendances).
 
 Conforme à la doctrine "cloud au centre", cette offre vise à tirer la pleine puissance du Cloud pour transformer le numérique public. Elle s'appuie sur un socle technologique à l'état de l'art, conçu pour le cloud ("cloud native") permettant la maitrise des standards des produits numériques "en amont" (sécurité des données, RGPD, accessibilité, impact environnemental... ), en plus de légiférer sur les conséquences/activités "en aval".
@@ -14,7 +12,7 @@ Conforme à la doctrine "cloud au centre", cette offre vise à tirer la pleine p
 A travers un parcours unique, les produits numériques existants ou en cours de conception, pourront bénéficier: de l'hébergement sécurisé sur le Cloud Pi souverain, d'une usine logicielle permettant de déployer et gérer les produits de facon fluide et d'un cadre normalisant la gestion des produits tout au long du cycle de vie. Les équipes utilisatrices de l'offre bénéficieront d'un accompagnement adapté, jusqu'à l'autonomie. L'offre participe ainsi de la maitrise du patrimoine numérique en gagnant en intégration, en visibilité, en rationnalité.
 
 
-## A quelles questions cette présentation répond-elle?
+# A quelles questions cette présentation répond-elle?
 1.	Pourquoi parle t-on d'un "nouveau monde numérique" et quelle place y tient "le Cloud" ? Quel sont les enjeux pour le numérique public?
 2.	Qu'est ce que la doctrine « cloud au centre »? A quelles problèmes répond-elle et avec quels leviers? 
 3.	Qu'est ce qu'on appelle les technologies "cloud native"? Quel lien avec "le cloud"? Qu'est ce que ces technologies font de nouveau? 
@@ -79,41 +77,45 @@ Par le numrique, le monde est en transformation et il est nécessaire de remettr
 -	**Une usine logicielle "DevSecOps"**, qui orchestre et standardise les opérations qui vont du code décrivant une application à un produit numérique hébergé sur le cloud qui "tourne" pour ses usagers. Celle ci permet de réduire les frictions et assurer une continuité tout au long du cycle de vie des produits en facilitant la coordination des acteurs impliqués: developpeurs, responsables de sécurité, opérateurs. D'où sa designation: DevSecOps.
 - **Un accompagnement** pour l'embarquement et la montée en compétence des équipes afin atteindre un degré le plus d'autonomie possible dans la maitrise de ses responsabilités;
 
+
 ## Qu'est ce que l'offre Cloud Pi Native peut apporter à mon organisation/mon portefeuille projet ? 
 
 existe, elle est disponible et est développée en méthode agile : nos utilisateurs sont des partenaires qui bénéficient des avantages du service et contribuent à son évolution.
 Toute les produits numériques sortent de la même usine et sont gérés selon un flux standardisée ce qui permet: 
-- **de s'assurer de la confomité des développements**, notamment sous-traités (80% du numérique public) grace à la centralisation des dépots de code et du suivi du projet (backlog) ainsi qu'à l'automatisation des tests que l’on peut rejouer;
-- **de maîtriser la confiance au sein de mon organisation** en fournissant les garanties automatiquement AVANT de déployer sur le cloud (vérification des certificats, homologation continue,...) et en sectorisant une fois sur le cloud.
-- **de faciliter la gouvernance**: via l'offre d'observabilité et la garantie du cadre de norme, on bénéficie d'une meilleure intégration et d'une vision "tour de controle" sur le patrimoine applicatif et son activité;
-- **d'augmenter la proximité** entre l'ensemble des parties prenantes des produits numériques, d'un bout à l'autre sur une chaine unique, aprouvé et automatisée. Cela permet des cycle de développement beaucoup plus courts et la possibilité d'expérimenter rapidement pour réajuster (sur les plans technique ET métier);
-- **de rationaliser les couts**: via le choix des hébergements en fonction des contraintes, la mutualisation des couts à un niveau interministériel, "Inutile de prendre du cloud souverain pour des données ouvertes".
-- **de favoriser la transparence et l'ouverture**: contrairement à l'approche de certaines gros acteurs du numériques, nous avons opté pour une approche open soource car nous pensons que la complexité doit être dévoilée de facon adaptée à la montée en compétences de toutes les parties prenantes et faciliter l'appropriation des outils par les producteurs du numérique public.
 
-- favoriser la coopération entre fabriques étatiques et Industriel, freelance ou contributeur Open Source vous souhaitez vous faire une idée ?  L’offre est mise à disposition en open source pour favoriser l'appropriation des technologies « Cloud Native » Le but est de permettre l'émergence de standards du numérique public plus interopérables avec la production industrielle, qui soient véritablement alignées avec les valeurs du service public.
+### Une meilleure maitrise du patrimoine numérique
+- **Une plus grande intégration**: via l'observabilité et la cartographie, il est possible d'avoir une vision "tour de controle" du patrimoine numérique, sa santé et son évolution. Le cadre de normes fourni en outre des lignes directrice pour orienter les décisions et anticiper leurs conséquences;
+- **Une rationalisation des couts**: en offrant la possibilité de choisir un hébergement adapté ("inutile de prendre du cloud souverain pour des données ouvertes"), en mutualisantdes capacités (réutilisation d'un projet à l'autre et ouverture à l'interministériel) ainsi qu'une meilleure maitrise des développements. Ceci est notamment important que les développement externalisés qui représentent 80% du numérique public et font le plus souvent l'objet d'une facturation d'une usine logicielle ad hoc (~ 60k euros).
 
-- ouvrir de facon matrisée le nuémrique public 
+### Concilier ouverture et sécurisation
+- **Une plus grande transparence et ouverture**: nous avons opté pour une approche open soource car nous pensons que la complexité doit être dévoilée de facon adaptée à la montée en compétences de toutes les parties prenantes et faciliter l'appropriation des outils par les producteurs du numérique public.
+- **Une meilleure interopérabilité des fabriques étatiques avec l'industrie numérique**: en fluidifiant l'intégration et le déploiment, la coopération entre fabriques publiques et acteurs privés et facilité. L'ouverture en open source de l'offre favorise l'appropriation des technologies « Cloud Native » et l'émergence de standards du numérique public plus interopérables avec la production industrielle, qui soient véritablement alignées avec les valeurs du service public.
+
+### Une plus grande agilité et sécurité 
+- **Une augmentation de la proximité** entre usagers et producteurs du numériques publique. La levée des frictions le long de la chaine permet l'accélération des cycle de développement et la possibilité d'expérimenter rapidement pour réajuster (sur les plans technique ET métier);
+- **de maîtriser la confiance au sein de mon organisation** en automatisant autant que possible et au plus tot l'examen des garanties AVANT de déployer sur le cloud (vérification des certificats, homologation continue,...) tout en sectorisant données et traitements une fois sur le cloud.
 
 ## Comment est-elle consommable? 
+L'offre est actuellement en construction en agilité, de facon incrémentale et d'ores et déja disponible pour les projets clients qui l'expérimente. Le programme Cloud Pi Native accompagne les équipes ministérielles constituées qui souhaitent l'expérimenter et contribuer. L'offre se présente sous 3 formes
+-	« DSO », ouverte à tous : le code, « les plans » de l’usine logicielle, publiés en open-source permettant de monter sa propre plateforme pour déployer et gérer des produits numériques de qualité, de façon sécurisée;
+-	« DSO as-a-service » ouverte aux clients ministériels: une usine logicielle installé sur le Cloud Pi qui permet de déployer des produits numériques sans frictions vers l'herbergementd de son choix; 
+-	« Cloud Pi Native » ouverte aux client mnistériels: une offre complète associant l’usine logicielle installé sur le Cloud Pi et l’hébergement en production sur le Cloud Pi.
 
-L’ouverture en open source, en plus d’une exigence de transparence vis-à-vis des citoyens/usagers, est un levier pour l’innovation, le partage, la collecte de retours.
-Choix d’openshift comme socle pour compromis entre nécessité d’innover avec un écosystème de partenaires suffisement large et besoin de garantie de réassurance : support Redhat destiné à des milliers d’utilisateurs.
-Il s’agit de transformer un écosystème incluant : les développeurs, les modèles de sécurité, les designers, …  Pour cela nous adoptons une démarche incrémentale, visant à aligner la qualité et la sécurité du code déployé en production avec les attentes et finalités des agents et des usagers.
-
-
-L'offre sera, à terme, disponible sous 3 formes
--	« DSO » : le code, « les plans » de l’usine logicielle, permettant de monter sa propre plateforme pour déployer et gérer des produits numériques de qualité, de façon sécurisée ;
--	« DSO as-a-service » : une usine logicielle déjà installé sur le Cloud Pi qui permet de déployer des produits numériques sans frictions et de facon homologuée vers des hébergements externes au MIOM
--	« Cloud Pi Native » : une offre complète associant l’usine logicielle installé sur le Cloud Pi et l’hébergement en production sur le Cloud Pi.
+A terme, l'offre est destinée aux nouveaux projets et aux projets souhaitant basculer vers leur hébergement vers le Cloud Pi.  Ces expérimentations permettrotn d'affiner le modèle économique afin de rester concurrentiels.
 
 
-## Ressources approfondies/pour aller plus loin
+## S'il fallait ne retenir que 3 choses 
+- Les technologies cloud-native sont une clef de l'adaptation au "nouveau monde logiciel", un monde plus incertain soumis à des bouleversements rapides. Dans ce contexte, Cloud Pi Native vise à faire émerger des standards du numérique public;
+- L'offre s'appuie sur l’adoption du cloud Pi comme enabler de la sécurité, une usine logicielle pour réduire la distance entre usagers et agents totu en maitrisant la qualité du code, un cadre de normes pour rester en maitrise du patrimoine numérique;
+- Elle est d'ores et déja disponible à l'expérimentation, en construction selon une approche opensource et incrémentale. Partenaires ministériels et industriels: venez la challenger et contribuer.
+
+# Ressources approfondies/pour aller plus loin
 - Les Leviers du numérique pour la transformation des politiques publiques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=492
 - Mythes et réalités autour du cloud: https://blog.octo.com/legendes-cloud/?utm_campaign=Cloud&utm_medium=email&_hsmi=253444812&_hsenc=p2ANqtz-8lQizxUNx6C9MpKpDS58Mx7TqQmWO_h_cR54jZcwTq9j45JAyvAx_U9t7UMap1h3wav-CYrIhkaUAwljFYRc2FP41E8OhTYabo3torpacBkaDiWEQ&utm_content=253444812&utm_source=hs_automationhttps://blog.octo.com/cloud-enjeux-2023/?hsCtaTracking=dcae8808-b3c6-4fda-9d0d-5003828cfba7%7C69b4dd1f-f50a-4e84-866a-54506db51d8c
 - La doctrine "Cloud au centre" de l'État  https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=496	
  
 
-## Reste à faire, pistes d'amélioration
+# Reste à faire, pistes d'amélioration
 - Préciser le périmètre pour lequel l'offre est pertinente: quelles systèmes/applications ont vocation à l'utiliser? Les nouvelles pour des questions de mise à l'état de l'art, mais quid des anciennes? Retex: Nubo, Cloud centre, Commission Européenne, CRiP
 - Combien ça coute/qu'est ce que ca permet de gagner? Notamment dans le cadre de la LOPMI, beaucoup de développements= beaucoup de MCO à prévoir demain. Penser au cout du "montage de l'usine".Modèle économique: quels sont les modèles économiques et modes de contractualisation (accords de service) possibles?
 - Est-il possible de s’appuyer sur le témoignage d'un prescripteur? Retex: ministères ayant basculé sur ce type d'offre: MTE, MJ, MinArm, Educ. Nat. Aller chercher les arguments rationnels et impactants
