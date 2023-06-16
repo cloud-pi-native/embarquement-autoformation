@@ -1,5 +1,5 @@
 Les ressources rassemblées ici constituent une base de connaissances permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur [l'offre "Cloud Pi Native"](https://dnum-mi.github.io/). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
-- Faisant des pulls request sur le repository
+- Faisant des pulls request sur le repository 
 - Faisant des issues
 
 # Ressources mises à disposition dans cette section
