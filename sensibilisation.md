@@ -21,17 +21,19 @@ A travers un parcours unique, les produits numériques existants ou en cours de 
 4.	Qu'est ce que contient l'offre "Cloud Pi Native" du MIOM? Que peut-elle apporter à mon organisation/mon portefeuille de produits numériques? 
 
 
-## Pourquoi transformer la production du numérique public?
-Les domaines d’activités se font « disrupter » un à un par des nouveaux acteurs du numérique: banques, information, transports, sociabilité, hotellerie/tourisme... Un "nouveau monde numérique" a émergé, en évolution rapide et complexité croissante.
-
-Paradoxalement, cette complexité technique s'accompagne d'une grande simplicité d'accès et d'une qualité technique qui les rendent extrèmement concurentiels. Les utilisateurs de Facebook, Google Docs, Netflix, ... ont pris l'habitude de la simplicité d'utilisation (outils sans mode d'emploi), de la fiabilité (pas d'interruption de service) et de la continuité de l’expérience (pas de "Facebook 2.0" ou de "gmail 2.0: leurs fournisseurs améliorent en continu le service rendu sans faire de refonte).
+## Pourquoi transformer les moyens de production du numérique public?
+Les domaines d’activités se font « disrupter » un à un par des nouveaux acteurs du numérique: banques, information, transports, sociabilité, hotellerie/tourisme... Un "nouveau monde numérique" a émergé, en évolution rapide et complexité croissante. Paradoxalement, cette complexité technique s'accompagne d'une grande simplicité d'accès et d'une qualité technique qui les rendent extrèmement concurentiels. Les utilisateurs de Facebook, Google Docs, Netflix, ... ont pris l'habitude de la simplicité d'utilisation (outils sans mode d'emploi), de la fiabilité (pas d'interruption de service) et de la continuité de l’expérience (pas de "Facebook 2.0" ou de "gmail 2.0: leurs fournisseurs améliorent en continu le service rendu sans faire de refonte).
 
 Les usagers, dont les agents du service public s'attendent logiquement à ce que leurs outils de travail soient au niveau de ceux qu'ils utilisent comme particuliers. Ils ont d'ailleurs tendance à faire renter les outils qu'ils pratiquent et apprécient dans leur sphère professionnelle (ex: Télégram ou Whatsapp). C'est ce qui explique que les acteurs du "nouveau monde numérique" ont peu à peu imposé des standards "de fait" y compris sur des points relevant en principe de domaines régaliens (statut des données personnelles, certification de l'identité, émission de monnaie...). Pour cela les acteurs du "nouveau monde numérique" se sont appuyé sur: 
 1) de nouvelles technologies de passage à l'échelle 
 2) de nouveaux modes de production plus efficaces 
 3) de nouvelles normes autant culturelles portées par le modèle commercial (ex: marché des données personnelles) que techniques (ex: informatique ubiquitaire)
 
-## Qu'est ce que "le Cloud", quelle place joue t-il dans la transformation du paysage numérique?
+Se doter des moyens de produire et diffuser un numérique public souverain nécessite de s'appuyer sur deux leviers: 
+1) Par la législation, en régulant les activités générées par le numérique;
+2) Par une capacité technique, en se dotant d'outils permettant de maitriser la qualité technique et les standards (SSI, RGPD, accessibilité, impact environnemental... ) des produits numériques fabriqués, sous-traités ou acquis par l'Etat pour être intégrés à son patrimoine numérique.
+
+## Qu'est ce que "le Cloud", quelle role joue t-il dans la transformation du paysage numérique?
 Pour comprendre comment tout ceci est supporté par le cloud, rappelons que pour exister et fonctionner toute application, donnée ou brique technique (qui sont à la base d'un "produit numérique") nécessite d'être hébergé et exécuté par des serveurs. Ces ressrouces peuvent être:
 - Etre publiques: c'est à dire partagé avec des utilisateurs qui ne sont pas propriétaires des machines;
 - Etre privées: c'est à dire partagé au sein de l'organisation propriétéaire des machines;
@@ -44,12 +46,7 @@ Le "cloud" est une façon de gérer dynamiquement et à distance l'allocation de
 - Redimensionnement rapide (élasticité) en adaptant "instantanément" la puissance de calcul au trafic;
 - Facturation à l’usage: l'utilisateur paie le "cout marginal" d'utilisation des ressrouces (pas la mise en service);
 
-Pour réaliser ces caractéristiques, il existe différents [modèles de partage reponsabilités entre le fournisseur Cloud et l'utilisateur](https://www.redhat.com/fr/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud#questions-fr%C3%A9quentes): ce sont les types IaaS, PaaS, Saas (ex: en IaaS, c'est un fournisseur qui gère toute l'infrastructure. En Saas, il gère tout de l'infrastructure au logiciel). C'est en s'appuaynt sur ce haut niveau de qualité et de fiabilité des services cloud que les acteurs du "nouveau monde numérique" dominent le monde numérique et ont imposé leur sandards (ex: sécurité, régime juridique, protection des données, ...)
-
-Se doter des moyens de produire et diffuser un numérique public souverain nécessite de s'appuyer sur deux leviers: 
-1) Par la législation, en régulant les activités générées par le numérique;
-2) Par une capacité technique, en se dotant d'outils permettant de maitriser la qualité technique et les standards (SSI, RGPD, accessibilité, impact environnemental... ) des produits numériques fabriqués, sous-traités ou acquis par l'Etat pour être intégrés à son patrimoine numérique.
-C'est sur ce deuxième plan que se positionne l'offre Cloud Pi Native en permettant la maitrise des technologies du cloud computing.
+Pour réaliser ces caractéristiques, il existe différents [modèles de partage reponsabilités entre le fournisseur Cloud et l'utilisateur](https://www.redhat.com/fr/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud#questions-fr%C3%A9quentes): ce sont les types IaaS, PaaS, Saas (ex: en IaaS, c'est un fournisseur qui gère toute l'infrastructure. En Saas, il gère tout de l'infrastructure au logiciel). C'est en s'appuaynt sur ce haut niveau de qualité et de fiabilité des services cloud que les acteurs du "nouveau monde numérique" dominent le monde numérique et ont imposé leur sandards (ex: sécurité, régime juridique, protection des données, ...). L'offre Cloud Pi Native est une offre PaaS qui vise à permettre la maitrise des technologies du cloud computing.
 
 ## Qu'est ce qu'apporte le fait de mettre le « cloud au centre », comme le préconise la doctrine? 
 La crise covid l'a montré: sans la puissance du cloud, la bascule massive vers les outils numériques ayant permis l'essor du télétravail aurait été impossible. Dans le même temps, qu'ils bénéficaient de la robustesse de services essentiels à leur activité, des millions d'utilisateurs se sont posé des questions sur le devenir de leur données personnelles. Il y a donc des opportunités, mais aussi des enjeux très forts autour du cloud. 
@@ -75,9 +72,8 @@ Pour concretiser DANS LES FAITS les promesses portées par le Cloud, leurs infra
 Par extension, les leviers méthodologiques et culturels https://blog.octo.com/cloud-enjeux-2023/ ... mobilisés autour de ces technologies sont qualifés de "cloud native". C'est pourqui on l'utilise aussi comme un nom: "LE cloud native", pour désigner le paradigme de ces technologies.
 
 ## Qu’est-ce que propose l’offre Cloud Pi Native du Ministère de l'Intérieur?
-Par le numrique, le monde est en transformation et il est nécessaire de remettre le "cloud au centre" pour mitriser la complexité générée. "Cloud Pi Native" c’est une offre du MIOM qui vise à mettre les leviers technologiques, méthodologiques et culturels du « cloud native » pour le faire, à portée des acteurs interministériels. 
 
-Celle-ci comprend :
+Par le numrique, le monde est en transformation et il est nécessaire de remettre le "cloud au centre" pour maitriser la complexité qui est générée. "Cloud Pi Native" c’est une offre du MIOM qui vise à mettre les leviers technologiques, méthodologiques et culturels du « cloud native » pour le faire, à portée des acteurs interministériels. Celle-ci comprend :
 - **Le Cloud souverain "Pi"**, adaptée à l’hébergement de données sensibles (NP et DR) jusqu’au niveau diffusion restreinte grace à des infrastructures opérées par le ministère de l’Intérieur. Il est aussi plus souple et résilient dans son utilisation grace à kubernetes. 
 - **Un cadre de normes** qui s'impose à tous pour guider la mise en place des principes du "cloud native" tout au long du cycle de vie des produits numériques. Il vise à mettre en cohérence l'ensemble des principes, normes et exigences applicables aux produits numériques, dès la conception .
 -	**Une usine logicielle "DevSecOps"**, qui orchestre et standardise les opérations qui vont du code décrivant une application à un produit numérique hébergé sur le cloud qui "tourne" pour ses usagers. Celle ci permet de réduire les frictions et assurer une continuité tout au long du cycle de vie des produits en facilitant la coordination des acteurs impliqués: developpeurs, responsables de sécurité, opérateurs. D'où sa designation: DevSecOps.
@@ -94,8 +90,22 @@ Toute les produits numériques sortent de la même usine et sont gérés selon u
 - **de rationaliser les couts**: via le choix des hébergements en fonction des contraintes, la mutualisation des couts à un niveau interministériel, "Inutile de prendre du cloud souverain pour des données ouvertes".
 - **de favoriser la transparence et l'ouverture**: contrairement à l'approche de certaines gros acteurs du numériques, nous avons opté pour une approche open soource car nous pensons que la complexité doit être dévoilée de facon adaptée à la montée en compétences de toutes les parties prenantes et faciliter l'appropriation des outils par les producteurs du numérique public.
 
+- favoriser la coopération entre fabriques étatiques et Industriel, freelance ou contributeur Open Source vous souhaitez vous faire une idée ?  L’offre est mise à disposition en open source pour favoriser l'appropriation des technologies « Cloud Native » Le but est de permettre l'émergence de standards du numérique public plus interopérables avec la production industrielle, qui soient véritablement alignées avec les valeurs du service public.
+
+- ouvrir de facon matrisée le nuémrique public 
+
 ## Comment est-elle consommable? 
-L'offre est disponible 
+
+L’ouverture en open source, en plus d’une exigence de transparence vis-à-vis des citoyens/usagers, est un levier pour l’innovation, le partage, la collecte de retours.
+Choix d’openshift comme socle pour compromis entre nécessité d’innover avec un écosystème de partenaires suffisement large et besoin de garantie de réassurance : support Redhat destiné à des milliers d’utilisateurs.
+Il s’agit de transformer un écosystème incluant : les développeurs, les modèles de sécurité, les designers, …  Pour cela nous adoptons une démarche incrémentale, visant à aligner la qualité et la sécurité du code déployé en production avec les attentes et finalités des agents et des usagers.
+
+
+L'offre sera, à terme, disponible sous 3 formes
+-	« DSO » : le code, « les plans » de l’usine logicielle, permettant de monter sa propre plateforme pour déployer et gérer des produits numériques de qualité, de façon sécurisée ;
+-	« DSO as-a-service » : une usine logicielle déjà installé sur le Cloud Pi qui permet de déployer des produits numériques sans frictions et de facon homologuée vers des hébergements externes au MIOM
+-	« Cloud Pi Native » : une offre complète associant l’usine logicielle installé sur le Cloud Pi et l’hébergement en production sur le Cloud Pi.
+
 
 ## Ressources approfondies/pour aller plus loin
 - Les Leviers du numérique pour la transformation des politiques publiques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=492
