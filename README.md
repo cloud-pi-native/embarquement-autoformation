@@ -9,7 +9,7 @@ Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pour
 - **Un processus d'embarquement** organisé par étapes (accompagnement actuellement réservé aux usagers ministériels);
 
 Nous proposons ici des parcours de facilitation en se basant sur les hypothèses suivantes: 
-- Hypothèse 1: l'alignement des `niveaux de maturité` avec les `étapes d'embarquement` permet d'accélèrer la prise en main de l'offre.
+- Hypothèse 1: l'alignement des `niveaux de maturité` avec les `étapes d'embarquement` permet de focaliser la formation sur la prise en main de l'offre.
 - Hypothèse 2: l'alignement de `parcours-type` avec le `type de responsabilités` exercées permet à chacun d'identifier 1) son role dans l'organisation à mettre en place pour consommer l'offre 2) d'identifier des ressources de formation pour s'y préparer.
 
 
