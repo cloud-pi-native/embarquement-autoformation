@@ -29,7 +29,7 @@ Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est ani
 L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est conditionné à la vérification de prérequis techniques stricts**`, car nécessaires à la réussite du projet (cf. [liste des prérequis](https://github.com/cloud-pi-native/documentation)).
 
 
-# Se former individuellement: périmètres de responsabilité et parcours
+# Se former individuellement: périmètres de responsabilité
 
 Toute personne désireuse de se former à titre individuel est priée de prendre connaissance du [support de sensibilisation aux enjeux](./0-sensibilisation.md). Il s'agit du point de départ commun aux parcours de formation et au processus d'embarquement. 
 
