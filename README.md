@@ -25,8 +25,9 @@ Les ressources peuvent etre utilisées, étape par étape, de deux manières:
 ## A qui s'adresser?
 Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
 - `L'équipe "adoption"` qui renseigne sur l'offre et oriente sur les ressources de formation; 
-- `La "service team"` qui accompagne au lancement du projet à partir de l'étape 3 (réservée aux clients ministériels). 
-L'effort étant plus important, `**à partir de l'étape 3, l'accompagnement est conditionné à la vérification de prérequis techniques stricts**`, car nécessaires à la réussite du projet (cf. [liste des prérequis](https://github.com/cloud-pi-native/documentation)).
+- `La "service team"` qui accompagne au lancement du projet à partir de l'étape 3 (réservée aux clients ministériels).
+
+L'effort étant plus important, **à partir de l'étape 3, l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (cf. [liste des prérequis](https://github.com/cloud-pi-native/documentation)).
 
 
 # Se former individuellement: périmètres de responsabilité
