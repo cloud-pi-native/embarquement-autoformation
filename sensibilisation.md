@@ -99,7 +99,7 @@ L'offre permet que tous les produits numériques sortent d'une même usine, soie
 L'offre est actuellement destinée aux nouveaux projets et aux projets souhaitant basculer leur hébergement vers le Cloud Pi. Elle est en construction en agilité, de facon incrémentale mais d'ores et déja disponible sous 3 formes pour les projets clients qui souhaitent l'expérimenter:
 -	« DSO », ouverte à tous : le code, « les plans » de l’usine logicielle, publiés en open-source permettant de monter sa propre plateforme pour déployer et gérer des produits numériques de qualité, de façon sécurisée;
 -	« DSO as-a-service » ouverte aux clients ministériels: une usine logicielle installé sur le Cloud Pi qui permet de déployer des produits numériques sans frictions vers l'herbergementd de son choix; 
--	« Cloud Pi Native » ouverte aux client mnistériels: une offre complète associant l’usine logicielle installé sur le Cloud Pi et l’hébergement en production sur le Cloud Pi.
+-	« Cloud Pi Native » ouverte aux clients ministériels: une offre complète associant l’usine logicielle installé sur le Cloud Pi et l’hébergement en production sur le Cloud Pi.
 
 **Seules les équipes ministérielles constituées qui souhaitent expérimenter et contribuer à l'offre pourront bénéficier de l'accompagnement technique du programme Cloud Pi Native.** Le code source est cependant ouvert à tous, y compris aux acteurs privés souhaitant participer à l'émergence des standards du numérique public. 
 
