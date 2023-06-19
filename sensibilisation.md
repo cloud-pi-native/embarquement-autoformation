@@ -1,8 +1,9 @@
 # Sensibilisation: type de questions et problématiques adressées
-De quels enjeux me parle t-on avec Cloud PI Native et en quoi cela me concerne ?
-- Enjeux du "nouveau monde logiciel" (Cloud, DevOps, mode produit,...) pour la transformation du numérique public
-- L'impact du Cloud Native: technologies, méthodes, mode d'organisation...
-- Comprendre la valeur apportée par l'offre Cloud Pi Native
+Les ressources mises à disposition ici répondent aux questions relatives au enjeux de Cloud PI Native et à leurs implications pour le numérique public: 
+1.	Pourquoi parle t-on d'un "nouveau monde numérique" et quelle place y tient "le Cloud" ? Quels  enjeux cela pose t-il pour le numérique public?
+2.	Qu'est ce que la doctrine « cloud au centre »? A quelles problèmes répond-elle et avec quels leviers? 
+3.	Qu'est ce que l'on appelle les technologies "cloud native"? Quel lien avec "le cloud"? Qu'est ce que permettent ces technologies? 
+4.	Qu'est ce que contient l'offre "Cloud Pi Native" du MIOM? Que peut-elle apporter à mon organisation/mon portefeuille de produits numériques? 
  
 # L'essentiel: trame de sensibilisation 
  
@@ -12,14 +13,6 @@ Usager, citoyen, agent, responsable politique, se mobilisent pour que les servic
 Conformement à la doctrine "cloud au centre", cette offre vise à tirer la pleine puissance du Cloud pour transformer le numérique public. Elle s'appuie sur un socle technologique, véritable "usine logicielle" à l'état de l'art, conçue pour le cloud (i.e. "cloud native") permettant la maitrise des standards des produits numériques (sécurité des données, RGPD, accessibilité, impact environnemental... ).
 
 A travers un parcours unique, les produits numériques existants ou en cours de conception, pourront bénéficier: de l'hébergement sécurisé sur le Cloud Pi souverain, d'une usine logicielle permettant de déployer et gérer des produits "sans frictions" et d'un cadre normalisant la gestion des produits tout au long de leur cycle de vie. Les équipes minstérielles utilisatrices de l'offre bénéficieront d'un accompagnement adapté, jusqu'à l'autonomie. L'offre participe ainsi de la maitrise du patrimoine numérique en gagnant en intégration, visibilité, rationnalité.
-
-
-# A quelles questions cette présentation répond-elle?
-1.	Pourquoi parle t-on d'un "nouveau monde numérique" et quelle place y tient "le Cloud" ? Quels  enjeux cela pose t-il pour le numérique public?
-2.	Qu'est ce que la doctrine « cloud au centre »? A quelles problèmes répond-elle et avec quels leviers? 
-3.	Qu'est ce que l'on appelle les technologies "cloud native"? Quel lien avec "le cloud"? Qu'est ce que permettent ces technologies? 
-4.	Qu'est ce que contient l'offre "Cloud Pi Native" du MIOM? Que peut-elle apporter à mon organisation/mon portefeuille de produits numériques? 
-
 
 ## Pourquoi transformer les moyens de production du numérique public?
 Tous les jours de nouveaux domaines d’activités se font « disrupter » par de nouveaux acteurs du numérique: banques, information, transports, sociabilité, hotellerie/tourisme... Le paysage d'un "nouveau monde numérique" a émergé, en évolution rapide générant une complexité croissante. Paradoxalement, cette complexité technique s'accompagne d'une grande simplicité d'accès et d'une qualité technique des produits proposés qui les rendent extrèmement concurentiels. Les utilisateurs de Facebook, Google Docs, Netflix, ... ont pris l'habitude de cette simplicité d'utilisation (outils sans mode d'emploi), de cette fiabilité (pas d'interruption de service) et de cette continuité de l’expérience (pas de "Facebook 2.0" ou de "gmail 2.0: leurs fournisseurs améliorent en continu le service rendu).
