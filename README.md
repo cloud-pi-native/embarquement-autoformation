@@ -67,7 +67,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >- Consulter les ressources de formation mise à disposition (voir ci dessous) et les [exemples existants](https://software.af.mil/wp-content/uploads/2019/12/DoD-Enterprise-DevSecOps-Maturity-Review-v1.6.docx)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
 >- Compléter autant que possible le [modèle de plan projet](./modele-plan-projet.md) 
  
->**Livrable à constituer et ressources**:[plan projet (trame de qualification)](./model-plan-projet.md), ressources pour [préparer son projet](./formation_step2.md)
+>**Livrable à constituer et ressources**:[plan projet (trame de qualification)](./modele-plan-projet.md), ressources pour [préparer son projet](./formation_step2.md)
 
 >**Critères go/no go:** l'équipe est suffisamment prete pour un entretien d'accompagnement technique 
 
