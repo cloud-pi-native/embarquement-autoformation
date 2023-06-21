@@ -4,14 +4,14 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 # Ressources mises à disposition dans cette section
 
-Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pourront bénéficier d'accélérateurs:
-- **Des ressources d'autoformation** organisées par niveau de maturité (i.e. type de questions); 
-- **Un processus d'embarquement** organisé par étapes (accompagnement actuellement réservé aux usagers ministériels);
+Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pourront bénéficier:
+- **De ressources d'autoformation** distinguées par niveau de maturité (i.e. type de questions); 
+ - **D'un parcours de prise en main** distinguées par étapes d'embarquement, jusqu'à l'autonomie en production.
 
-Nous proposons ici des parcours de facilitation en se basant sur les hypothèses suivantes: 
-- Hypothèse 1: l'alignement des `niveaux de maturité` avec les `étapes d'embarquement` permet de focaliser la formation sur la prise en main de l'offre.
-- Hypothèse 2: l'alignement de `parcours-type` avec le `type de responsabilités` exercées permet à chacun d'identifier 1) son role dans l'organisation à mettre en place pour consommer l'offre 2) d'identifier des ressources de formation pour s'y préparer.
-
+Précisions sur le parcours:
+>- Respect de l'ordre chronologique : les `niveaux de maturité` requis vont croissant avec les `étapes d'embarquement`, jusqu'à l'autonomie en production ("you built it, you run it");
+>- Acessibilité : les 1ères étapes sont réalisables sans connaissances théoriques ou pratiques préalables;
+>- Reconnaissance des acquis : plutot que des parcours par métiers (qui ne correspondent pas toujours à la réalité et la diversité des activités sur le terrain) nous distingons des `périmètres de responsabilité`.
 
 ## Comment utiliser ces ressources?
 
