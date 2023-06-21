@@ -13,28 +13,25 @@ Pour cela, nous proposons un parcours d'embarquement unique qui peut être suivi
 >- Acessibilité : les 1ères étapes (comprendre l'offre pour préparer un projet) ne nécesitent pas de connaissances théoriques ou pratiques préalables;
 >- Reconnaissance des acquis : plutot que des formations par métiers (qui ne correspondent pas toujours à la réalité et la diversité des activités sur le terrain) nous distingons des `périmètres de responsabilité`.
 
+![alt_text](images/accompagnement.jpg)
+
 ## Comment utiliser ces ressources?
 
 Les ressources peuvent etre utilisées, étape par étape, de deux manières:
-1) **Pour embarquer rapidement une équipe projet:** en consultant une sélection de "ressources essentielles" pour compléter l'étape (voir les étapes ci-après) ;
-2) **Pour se former individuellement:** en consultant les ressources approfondies relevant d'un périmètre de responsabilité donné (voir les périmètres ci-dessous). 
+1) **Pour embarquer rapidement une équipe projet:** en consultant les sections "ressources essentielles" à chaque étape. Celle-ci comprenent la documentation de prise en main;
+2) **Pour se former individuellement:** en consultant, à chaque étape, les ressources de formation correspondant à votre périmètre de responsabilité (voir section "se former individuellement"). 
 
-
-![alt_text](images/accompagnement.jpg)
-
-## A qui s'adresser?
-Le dispositif d'accompagnement proposé par le programme Cloud Pi Native est animé par deux équipes :
-- `L'équipe "adoption"` qui renseigne sur l'offre et oriente sur les ressources de formation; 
-- `La "service team"` qui accompagne au lancement du projet à partir de l'étape 3 (réservée aux clients ministériels).
-
-L'effort étant plus important, **à partir de l'étape 3, l'accompagnement est conditionné à la vérification de prérequis techniques stricts**, car nécessaires à la réussite du projet (cf. [liste des prérequis](https://github.com/cloud-pi-native/documentation)).
-
+## A qui s'adresse cette offre?
+Les resssources s'adressent à 3 types de projets: 
+- **Expérimentation par une personne ou une organisation non-étatique**: nous vous invitons à prendre connaissance, expérimenter ou contribuer aux éléments mis à disposition (console, socle technique, cadre de cohérence technique Cloud Native à portée interministérielle...) en autonomie;
+- **Projet d'expérimentation porté par une organisation ministérielle**: nous vous invitons à compléter l'étape 1) afin d'organiser un entretien de préqualification de votre besoin.
+- **Projet de développement ou de migration sur Cloud Pi porté par une organisation ministérielle** nous vous invitons à compléter l'étape 1) et vous assurez du soutien d'un sponsor afin de bénéficier d'un accompagnement technique. Celui-ci sera conditionné à la réalisation d'un entretien de qualification du plan projet étape 3)
 
 # Se former individuellement: périmètres de responsabilité
 
 Toute personne désireuse de se former à titre individuel est priée de prendre connaissance du [support de sensibilisation aux enjeux](./sensibilisation.md). Il s'agit du point de départ commun aux parcours de formation et au processus d'embarquement. 
 
-Des ressources d'autoformation sont ensuite disponibles à chaque `étape d'embarquement/niveau de maturité` en plus des ressources essentielles. Elles sont distinguées par `parcours/responsabilités`: 
+Des ressources d'autoformation sont ensuite disponibles à chaque `étape du parcours d'embarquement. Elles sont distinguées par `parcours/responsabilités`: 
 
 1) **"Spécifiques à Cloud pi native/équipes techniques"**: documentation destinée aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques tout au long de leur cycle de vie. 
 > Elles sont responsables de la qualité des produits. Selon la taille et de l'organisation, ce périmètre peut recouvrir des personnes responsables de la fiabilité des services & des systèmes (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.). Exemples: développeurs, opérateurs, DevOps, SRE, architectes solution, etc.
@@ -50,18 +47,17 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 
 # Embarquement d'une équipe: étapes & ressources
 
-## Etape 1: juger de l'opportunité de l'offre Cloud Pi Native, argumenter son besoin
+## Etape 1: comprendre l'opportunité de l'offre Cloud Pi Native pour argumenter son besoin
 
->**Objectif et étapes clefs**: L'équipe sait évaluer et argumenter la pertinence (ou non) à orienter son projet vers l'offre Cloud Pi Native
->- Prendre connaissance des éléments nécessaires à la compréhension de l'offre ([support de sensibilisation aux enjeux](./sensibilisation.md), [page de présentation](https://dnum-mi.github.io/), [CCT Cloud Native](./cloud-pi-native/CCT-Cloud-Native))
->- Compléter le diagnostic flash permettant de préqualifier son besoin (en autonomie ou dans le cadre d'un entretien) et l'adresser au programme Cloud Pi Native
+>**Objectifs et étapes clefs**: vous avez entendu parler de Cloud Native, vous souhaitez juger de l'intret de l'offre Cloud Pi Native et son adéquation avec votre besoin. Pour cela:
+> - Prenez connaissances des éléments décrivant [l'offre](https://dnum-mi.github.io/) et([ses enjeux](./sensibilisation.md)
+> - Utilisez la [trame suivante](./diagnostic-prequalification.md) pour préqualifier votre besoin;
+> - Projet ministériel (nouveau ou existant): assurez vous que votre projet/initiative soit comprise et validée par un sponsor/votre hiérarchie. La trame de préqualification doit vous aider à construire l'argumentaire.
+>**suite**: 
+> - Projet ministériel : prendre contact avec Cloud Pi Native pour programmer un rdv de qualification (étape 3) et vous y préparer (étape 2)
+> - Expérimentation en autonomie: prendre de connaissance des ressources pour préparer son plan projet (étape 2)
 
->**Livrable à constituer et ressources**: ["diagnostic flash" (trame de préqualification)](./diagnostic-prequalification.md), ressources de [sensibilisation](./sensibilisation.md)
-
->**Critères go/no go:** la demande est suffisament claire pour attester que l'offre de service Cloud Pi Native répond de manière pertinente au besoin exprimé
-
-
-## Etape 2: structurer un plan projet, se préparer pour consommer l'offre
+## Etape 2: structurer un plan projet pour se préparer
 
 >**Objectif et étapes clefs**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
 >- Consulter les ressources de formation mise à disposition (voir ci dessous) et les [exemples existants](https://software.af.mil/wp-content/uploads/2019/12/DoD-Enterprise-DevSecOps-Maturity-Review-v1.6.docx)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
@@ -72,7 +68,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >**Critères go/no go:** l'équipe est suffisamment prete pour un entretien d'accompagnement technique 
 
 
-## Etape3: lancer son projet, construire dans un environnement sandbox "Cloud native"
+## Etape3: lancer son projet dans un environnement de développement "Cloud native" pour expérimenter
 >**Objectif et étapes clefs**: L'équipe s'est organisée et exercée à prendre en main des technologies cloud native. Elle a ensuite réalisé un "Hello world" avec les éléments de l'offre, puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (découverte et mise en place de la chaine primaire).
 
 >- Entretien avec l'équipe d'accompagnement technique: passage en revue des prerequis, prise de connaissance des contexte métier et technique, évaluation des ressources à provisionner,... détermination d'une roadmap d'accompagnement
@@ -96,7 +92,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 >**Critères go/no go:** les métriques d'observabilité et les rapports sur le produit attestent de sa conformité aux standards de qualité et de sécurité
 
 
-## Etape 5: atteindre les meilleurs standards, évoluer en production 
+## Etape 5: atteindre les meilleurs standards ("état de l'art "cloud native"), évoluer en production 
 >**Objectif et étapes clefs**: L'équipe construit, opére et fait évoluer ses produits en autonomie. Les produits livrés en production sont conformes aux meilleurs standards de qualité et de sécurité. Elle a mis en place des bonnes pratiques et les monitore pour s'assurer de leur continuité.
 
 >- Mettre en place les bonnes pratiques et les moyens de leur suivi
