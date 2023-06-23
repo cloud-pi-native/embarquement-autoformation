@@ -2,7 +2,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - Faisant des pulls request sur le repository 
 - Faisant des issues
 
-# A qui cette section s'adresse t-elle?
+# A quels usages cette section s'adresse t-elle?
 
 Les personnes ou organisations souhaitant comprendre et consommer tout ou partie de l’offre pourront bénéficier d'un **parcours de prise en main "pas à pas"** centralisant des **ressources d'autoformation** adaptés au type de questions qu'ils se posent (i.e. "niveau de maturité"). Ce parcours d'embarquement/formation peut etre suivi:
 - **pour embarquer rapidement une équipe projet**: via les "ressources essentielles" à chaque étape (documentation de l'offre + selection des connaissances et pratiques indispensables à la prise en main);
