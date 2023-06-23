@@ -8,12 +8,16 @@ Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pour
 - **De ressources d'autoformation** distinguées par niveau de maturité (i.e. type de questions); 
 - **Une prise en main en main "pas à pas"**, par étapes, jusqu'à l'autonomie en production.
 
-Pour cela, nous proposons un parcours d'embarquement unique qui peut être suivi en autonomie ou accompagné (cf. conditions) et reposant sur les principes suivants:
+Pour cela, nous proposons un parcours unique d'embarquement et de formation qui peut être suivi en autonomie ou accompagné pour les projets ministériels (cf. conditions).
+
+![alt_text](images/accompagnement.jpg)
+
+
+Explication/principes de fonctionnement:
 >- Respect de l'ordre chronologique : le `niveau de maturité` requis augmente au fur et à mesure des `étapes d'embarquement`, jusqu'à l'autonomie en production;
 >- Acessibilité : les 1ères étapes (comprendre l'offre pour préparer un projet) ne nécesitent pas de connaissances théoriques ou pratiques préalables;
 >- Reconnaissance des acquis : plutot que des formations par métiers (qui ne correspondent pas toujours à la réalité et la diversité des activités sur le terrain) nous distingons des `périmètres de responsabilité`.
 
-![alt_text](images/accompagnement.jpg)
 
 ## Comment utiliser ces ressources?
 
