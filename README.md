@@ -4,9 +4,9 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 # A qui cette section s'adresse t-elle?
 
-Les personnes ou organisations souhaitant comprendre et consommer tout ou partie de l’offre pourront bénéficier d'un **parcours de prise en main "pas à pas"** centralisant des **ressources d'autoformation** adaptés au type de questions qu'ils se posent (i.e. "niveau de maturité").
-
-Ce parcours d'embarquement/formation peut etre suivi **pour embarquer rapidement une équipe projet** ("ressources essentielles": documentation + selection des connaissances et pratiques indispensables à la prise en main ) ou **pour se former individuellement** (ressources "pour aller plus loin" sur un périmètre de responsabilité donné).
+Les personnes ou organisations souhaitant comprendre et consommer tout ou partie de l’offre pourront bénéficier d'un **parcours de prise en main "pas à pas"** centralisant des **ressources d'autoformation** adaptés au type de questions qu'ils se posent (i.e. "niveau de maturité"). Ce parcours d'embarquement/formation peut etre suivi:
+- **pour embarquer rapidement une équipe projet**: via les "ressources essentielles" à chaque étape (documentation de l'offre + selection des connaissances et pratiques indispensables à la prise en main);
+- **pour se former individuellement**: via des ressources approfondies triées par périmètre de responsabilité (voir les différents périmètres dans la section "se former à titre individuel").
 
 
 ![alt_text](images/accompagnement.jpg)
