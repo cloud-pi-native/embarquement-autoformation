@@ -2,15 +2,11 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - Faisant des pulls request sur le repository 
 - Faisant des issues
 
-# Ressources mises à disposition dans cette section
+# A qui cette section s'adresse t-elle?
 
-Les "clients" souhaitant comprendre et/ou consommer l’offre Cloud Pi Native, pourront bénéficier:
-- **De ressources d'autoformation** distinguées par niveau de maturité (i.e. type de questions qui se posent); 
-- **Un parcours de prise en main en main "pas à pas"** de la sensibilisation aux enjeux, jusqu'à l'autonomie en production.
+Les personnes ou organisations souhaitant comprendre et consommer tout ou partie de l’offre pourront bénéficier d'un **parcours de prise en main "pas à pas"** centralisant des **ressources d'autoformation** adaptés au type de questions qu'ils se posent (i.e. "niveau de maturité").
 
-Pour cela, nous proposons un parcours unique d'embarquement et de formation qui peut être suivi en autonomie ou accompagné (accompagnement réservé aux projets ministériels, prendre connaissance des conditions aux différentes étapes):
-1) **Pour embarquer rapidement une équipe projet:** en consultant les sections "ressources essentielles" à chaque étape (celles-ci comprennent la documentation de prise en main et l'explication des connaissances et pratiques clefs);
-2) **Pour se former individuellement:** en consultant, à chaque étape, les ressources de formation correspondant à votre périmètre de responsabilité (voir section "se former individuellement").
+Ce parcours d'embarquement/formation peut etre suivi **pour embarquer rapidement une équipe projet** ("ressources essentielles": documentation + selection des connaissances et pratiques indispensables à la prise en main ) ou **pour se former individuellement** (ressources "pour aller plus loin" sur un périmètre de responsabilité donné).
 
 
 ![alt_text](images/accompagnement.jpg)
