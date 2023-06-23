@@ -4,38 +4,30 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 # Ressources mises à disposition dans cette section
 
-Les "clients" souhaitant comprendre et consommer l’offre Cloud Pi Native, pourront bénéficier:
-- **De ressources d'autoformation** distinguées par niveau de maturité (i.e. type de questions); 
-- **Une prise en main en main "pas à pas"**, par étapes, jusqu'à l'autonomie en production.
+Les "clients" souhaitant comprendre et/ou consommer l’offre Cloud Pi Native, pourront bénéficier:
+- **De ressources d'autoformation** distinguées par niveau de maturité (i.e. type de questions qui se posent); 
+- **Un parcours de prise en main en main "pas à pas"** de la sensibilisation aux enjeux, jusqu'à l'autonomie en production.
 
-Pour cela, nous proposons un parcours unique d'embarquement et de formation qui peut être suivi en autonomie ou accompagné pour les projets ministériels (cf. conditions).
+Pour cela, nous proposons un parcours unique d'embarquement et de formation qui peut être suivi en autonomie ou accompagné (accompagnement réservé aux projets ministériels, prendre connaissance des conditions aux différentes étapes):
+1) **Pour embarquer rapidement une équipe projet:** en consultant les sections "ressources essentielles" à chaque étape (celles-ci comprennent la documentation de prise en main et l'explication des connaissances et pratiques clefs);
+2) **Pour se former individuellement:** en consultant, à chaque étape, les ressources de formation correspondant à votre périmètre de responsabilité (voir section "se former individuellement").
+
 
 ![alt_text](images/accompagnement.jpg)
 
 
-Explication/principes de fonctionnement:
+Explications/principes de fonctionnement:
 >- Respect de l'ordre chronologique : le `niveau de maturité` requis augmente au fur et à mesure des `étapes d'embarquement`, jusqu'à l'autonomie en production;
->- Acessibilité : les 1ères étapes (comprendre l'offre pour préparer un projet) ne nécessitent pas de connaissances théoriques ou pratiques préalables;
->- Reconnaissance des acquis : plutot que des formations par métiers (qui ne correspondent pas toujours à la réalité et la diversité des activités sur le terrain) nous distingons des `périmètres de responsabilité`.
+>- Acessibilité : les 1ères étapes (comprendre l'offre et préparer un projet) ne nécessitent pas de connaissances théoriques ou pratiques préalables;
+>- Reconnaissance des acquis : plutot que des formations par métiers, dont les intitulés ne correspondent pas toujours à la réalité sur le terrain, nous distingons des `périmètres de responsabilités`.
 
+## A quel type d'initiatives s'adresse ces ressources ?
+- **Cas 1: projet (développement ou migration) porté par une organisation ministérielle, sur l'environnement souverain du Cloud Pi** nous vous invitons à utiliser les ressources de sensibilisation pour vous argumenter et obtenir le soutien d'un sponsor, puis à prendre contact avec le programme Cloud Pi Native. L'accompagnement technique sera conditionné à la vérification de prérequis lors d'un entretien de qualification du plan projet (étpae 3).
+- **Cas 2: expérimentation portée par une organisation ministérielle**: nous vous invitons à utiliser les ressources de sensibilisation, puis à prendre contact avec le programme Cloud Pi Native, afin d'organiser un entretien de préqualification de votre besoin (étape 2).
+- **Cas 3: expérimentation en autonomie par un acteur ou une organisation non-étatique**: nous vous invitons à prendre connaissance, expérimenter ou contribuer aux éléments mis à disposition (console, socle technique, cadre de cohérence technique Cloud Native à portée interministérielle...).
 
-## Comment utiliser ces ressources?
-
-Les ressources peuvent etre utilisées, étape par étape, de deux manières:
-1) **Pour embarquer rapidement une équipe projet:** en consultant les sections "ressources essentielles" à chaque étape. Celle-ci comprenent la documentation de prise en main;
-2) **Pour se former individuellement:** en consultant, à chaque étape, les ressources de formation correspondant à votre périmètre de responsabilité (voir section "se former individuellement"). 
-
-## A quel type de projets s'adresse cette offre?
-Les resssources s'adressent à 3 types de projets: 
-- **Expérimentation par une personne ou une organisation non-étatique**: nous vous invitons à prendre connaissance, expérimenter ou contribuer aux éléments mis à disposition (console, socle technique, cadre de cohérence technique Cloud Native à portée interministérielle...) en autonomie;
-- **Expérimentation porté par une organisation ministérielle**: nous vous invitons à compléter l'étape 1) afin d'organiser un entretien de préqualification de votre besoin.
-- **Projet (développement ou migration) sur Cloud Pi porté par une organisation ministérielle** nous vous invitons à compléter l'étape 1) et vous assurez du soutien d'un sponsor afin de bénéficier d'un accompagnement technique. Celui-ci sera conditionné à la réalisation d'un entretien de qualification du plan projet étape 3)
-
-# Se former individuellement: périmètres de responsabilité
-
-Toute personne désireuse de se former à titre individuel est priée de prendre connaissance du [support de sensibilisation aux enjeux](./sensibilisation.md). Il s'agit du point de départ commun aux parcours de formation et au processus d'embarquement. 
-
-Des ressources d'autoformation sont ensuite disponibles à chaque `étape du parcours d'embarquement. Elles sont distinguées par `parcours/responsabilités`: 
+# Se former à titre individuel
+Toute personne désireuse de se former est priée de prendre connaissance du [support de sensibilisation aux enjeux](./sensibilisation.md). Il s'agit du point de départ commun aux différents parcours, distinguées par périmètre de responsabilités: 
 
 1) **Périmètre "équipes techniques"**: documentation spécifiques à Cloud pi native destinée aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques tout au long de leur cycle de vie. 
 > Elles sont responsables de la qualité des produits. Selon la taille et de l'organisation, ce périmètre peut recouvrir des personnes responsables de la fiabilité des services & des systèmes (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.). Exemples: développeurs, opérateurs, DevOps, SRE, architectes solution, etc.
