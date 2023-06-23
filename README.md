@@ -25,11 +25,11 @@ Les ressources peuvent etre utilisées, étape par étape, de deux manières:
 1) **Pour embarquer rapidement une équipe projet:** en consultant les sections "ressources essentielles" à chaque étape. Celle-ci comprenent la documentation de prise en main;
 2) **Pour se former individuellement:** en consultant, à chaque étape, les ressources de formation correspondant à votre périmètre de responsabilité (voir section "se former individuellement"). 
 
-## A qui s'adresse cette offre?
+## A quel type de projets s'adresse cette offre?
 Les resssources s'adressent à 3 types de projets: 
 - **Expérimentation par une personne ou une organisation non-étatique**: nous vous invitons à prendre connaissance, expérimenter ou contribuer aux éléments mis à disposition (console, socle technique, cadre de cohérence technique Cloud Native à portée interministérielle...) en autonomie;
-- **Projet d'expérimentation porté par une organisation ministérielle**: nous vous invitons à compléter l'étape 1) afin d'organiser un entretien de préqualification de votre besoin.
-- **Projet de développement ou de migration sur Cloud Pi porté par une organisation ministérielle** nous vous invitons à compléter l'étape 1) et vous assurez du soutien d'un sponsor afin de bénéficier d'un accompagnement technique. Celui-ci sera conditionné à la réalisation d'un entretien de qualification du plan projet étape 3)
+- **Expérimentation porté par une organisation ministérielle**: nous vous invitons à compléter l'étape 1) afin d'organiser un entretien de préqualification de votre besoin.
+- **Projet (développement ou migration) sur Cloud Pi porté par une organisation ministérielle** nous vous invitons à compléter l'étape 1) et vous assurez du soutien d'un sponsor afin de bénéficier d'un accompagnement technique. Celui-ci sera conditionné à la réalisation d'un entretien de qualification du plan projet étape 3)
 
 # Se former individuellement: périmètres de responsabilité
 
@@ -37,13 +37,13 @@ Toute personne désireuse de se former à titre individuel est priée de prendre
 
 Des ressources d'autoformation sont ensuite disponibles à chaque `étape du parcours d'embarquement. Elles sont distinguées par `parcours/responsabilités`: 
 
-1) **"Spécifiques à Cloud pi native/équipes techniques"**: documentation destinée aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques tout au long de leur cycle de vie. 
+1) ** Périmètre "équipes techniques"**: documentation spécifiques à Cloud pi native destinée aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques tout au long de leur cycle de vie. 
 > Elles sont responsables de la qualité des produits. Selon la taille et de l'organisation, ce périmètre peut recouvrir des personnes responsables de la fiabilité des services & des systèmes (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.). Exemples: développeurs, opérateurs, DevOps, SRE, architectes solution, etc.
 
-2) **"Culture cloud native/pilotage MOE"**: ressources notamment destinées aux personnes responsables de la structuration d'un plan projet (compétences, roles, organisation, technologies, ..) son organisation et son suivi (consommation budgetaire, UO, livrables, ...), pour saisir les opportunités du paradigme "cloud native".  
+2) **Périmètre "pilotage MOE"**: ressources relative au "cloud native" notamment destinées aux personnes responsables de la structuration d'un projet (compétences, roles, organisation, technologies, ..) son organisation et son suivi (consommation budgetaire, UO, livrables, ...), pour saisir les opportunités du paradigme "cloud native".  
 > Elles pilotent des équipes assurant le développement ou les opérations sur les produits et sont responsables de l'intégrité des projets (cadrage, bonne utilisation et suivi des ressources, orientations techniques...). Exemples:  pilotage/chefferie de projets/programmes, responsables d'unités de conception, de bureaux d'étude, MOE, etc.
 
-3) **"Culture générale/gouvernance"**: ressources adressées à tous, notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée pour comprendre les spécificités du "nouveau paradigme logiciel". 
+3) **Périmètre "gouvernance/décisionnaire"**: ressources de culture générale sur les enjeux du numérique, adressées à tous et notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée pour comprendre les spécificités du "nouveau monde logiciel". 
 > Elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller. Exemples: pilotage et gouvernance des organisations, directions générales ou métiers, stratégie d'achat, stratégie RH, etc.
 
 Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aussi conseiller des ressources spécifiques en fonction des besoins et de la maturité de l'équipe projet.
