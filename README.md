@@ -15,7 +15,7 @@ Pour cela, nous proposons un parcours unique d'embarquement et de formation qui 
 
 Explication/principes de fonctionnement:
 >- Respect de l'ordre chronologique : le `niveau de maturité` requis augmente au fur et à mesure des `étapes d'embarquement`, jusqu'à l'autonomie en production;
->- Acessibilité : les 1ères étapes (comprendre l'offre pour préparer un projet) ne nécesitent pas de connaissances théoriques ou pratiques préalables;
+>- Acessibilité : les 1ères étapes (comprendre l'offre pour préparer un projet) ne nécessitent pas de connaissances théoriques ou pratiques préalables;
 >- Reconnaissance des acquis : plutot que des formations par métiers (qui ne correspondent pas toujours à la réalité et la diversité des activités sur le terrain) nous distingons des `périmètres de responsabilité`.
 
 
