@@ -8,7 +8,7 @@ Les personnes ou organisations souhaitant comprendre et consommer tout ou partie
 
 Ce parcours d'embarquement/formation peut etre suivi:
 - **Pour se former à titre individuel**: via des ressources "étendues" à chaque étape, triées par périmètre de responsabilité (voir les différents périmètres dans la section "se former à titre individuel").
-- **Pour embarquer rapidement une équipe projet**: via les "ressources essentielles" à chaque étape contenant la documentation de l'offre et une selection des connaissances et pratiques indispensables à la prise en main. Concernant le type de projet, on distingue plusieurs mode d'accompagnement (cf. détails dans "conditions d'accompagnement");
+- **Pour embarquer rapidement une équipe projet**: via les "ressources essentielles" à chaque étape contenant la documentation de l'offre et une selection des connaissances et pratiques indispensables à la prise en main. Concernant le type de projet, on distingue plusieurs modes d'accompagnement (cf. détails dans "conditions d'accompagnement");
   - **Cas 1** projet de développement ou de migration sur le cloud souverain Pi, porté par une organisation ministérielle. Un accompagnement technique au lancement est proposé par le programme Cloud Pi Native (soumis à un entretien de qualification),
   - **Cas 2:** expérimentation de l'offre portée par une organisation ministérielle. Un entretien de préqualification (avant la qualification) est proposé par le programme Cloud Pi Native afin d'évaluer la pertinence à accompagner le projet;
   - **Cas 3:** expérimentation par un acteur ou une organisation "externe" (non-étatique). Les ressources à disposition peuvent etre consultées en autonomie. Un section "contribuer" est à paraitre.
