@@ -17,6 +17,7 @@ Explications/principes de fonctionnement:
 >- Acessibilité : les 1ères étapes (comprendre l'offre et préparer un projet) ne nécessitent pas de connaissances théoriques ou pratiques préalables;
 >- Reconnaissance des acquis : plutot que des formations par métiers, dont les intitulés ne correspondent pas toujours à la réalité sur le terrain, nous distingons des `périmètres de responsabilités`.
 
+
 ## A quel type d'initiatives s'adresse ces ressources ?
 - **Cas 1: projet (développement ou migration) porté par une organisation ministérielle, sur l'environnement souverain du Cloud Pi** nous vous invitons à utiliser les ressources de sensibilisation pour vous argumenter et obtenir le soutien d'un sponsor, puis à prendre contact avec le programme Cloud Pi Native. L'accompagnement technique sera conditionné à la vérification de prérequis lors d'un entretien de qualification du plan projet (étpae 3).
 - **Cas 2: expérimentation portée par une organisation ministérielle**: nous vous invitons à utiliser les ressources de sensibilisation, puis à prendre contact avec le programme Cloud Pi Native, afin d'organiser un entretien de préqualification de votre besoin (étape 2).
