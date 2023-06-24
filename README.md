@@ -4,18 +4,18 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 # Que contient cette section?
 
-Les personnes ou organisations souhaitant comprendre et consommer tout ou partie de l’offre pourront bénéficier du **parcours de prise en main "pas à pas"** structurant la **documentation de l'offre** et des **ressources d'autoformation** adaptés au type de questions qu'elles se posent (i.e. leur "niveau de maturité" sur le socle Cloud Native mis à disposition). 
+Les personnes ou organisations souhaitant comprendre et consommer tout ou partie de l’offre pourront bénéficier du **parcours de prise en main "pas à pas"** structurant la **documentation de l'offre** et des **ressources d'autoformation** adaptés aux questions qu'elles se posent ("niveau de maturité"). 
 
 ## A qui ces ressources s'adressent-elles?
 
 Ce parcours d'embarquement/formation peut etre suivi:
 - **Pour se former à titre individuel**: en consultant les ressources "étendues" de chaque étape, triées par périmètre de responsabilité (voir les différents périmètres dans la section "se former à titre individuel").
 - **Pour embarquer rapidement une équipe projet**: en consultant les "ressources essentielles" de chaque étape rassemblant la documentation de l'offre et une selection des connaissances et pratiques indispensables à la prise en main. Concernant le type de projet, un accompagnement est possible (cf. détails dans "conditions d'accompagnement");
-  - **Cas 1, projet de développement ou de migration sur le cloud souverain Pi, porté par une organisation ministérielle**. Un accompagnement technique au lancement est proposé par le programme Cloud Pi Native et soumis à un entretien de qualification du plan projet (étape 3);
-  - **Cas 2, expérimentation de l'offre portée par une organisation ministérielle**. Un entretien de préqualification du besoin (étape 2, avant la qualification du plan projet) est proposé par le programme Cloud Pi Native afin d'évaluer la pertinence à accompagner le projet;
-  - **Cas 3, expérimentation par un acteur ou une organisation "externe" (non-étatique)**. Les ressources à disposition peuvent etre consultées en autonomie. Un section "contribuer" est à paraitre.
+  - **Cas 1, projet de développement ou de migration sur le cloud souverain Pi, porté par une organisation ministérielle**. Un accompagnement technique au lancement est proposé par le programme Cloud Pi Native. Un entretien de qualification du plan projet (étape 3) est requis pour évaluer l'effort nécessaire;
+  - **Cas 2, expérimentation de l'offre portée par une organisation ministérielle**. Le type d'accompagnement par le programme Cloud Pi Native est à étudier. Un entretien de préqualification du besoin (étape 2, avant la qualification du plan projet) est requis pour évaluer le type d'accompagnement pertinent;
+  - **Cas 3, expérimentation par un acteur ou une organisation "externe" (non-étatique)**. Les ressources sont consultables en autonomie. Un section "contribuer" est à paraitre.
 
-## Strcuture du parcours d'embarquement/formation
+## Strucuture du parcours d'embarquement/formation
 
 
 ![alt_text](images/accompagnement.jpg)
