@@ -12,8 +12,8 @@ Les personnes ou organisations souhaitant comprendre et/ou consommer tout ou par
 Ce parcours d'embarquement/formation peut etre suivi:
 - **Pour se former à titre individuel**: en consultant des ressources d'autoformation à chaque étape, distinguées par périmètre de responsabilité (voir les différents périmètres dans la section "se former à titre individuel") et niveau de "maturité" (type de question).
 - **Pour embarquer rapidement une équipe projet**: en consultant pour chaque étape la élection des éléments de [documentation de l'offre](https://github.com/cloud-pi-native/documentation), les connaissances et les pratiques indispensables à la prise en main. Selon les types de projets et l'organisation porteuse, un accompagnement techique peut être mis à disposition: 
-  - **Cas 1: développement ou migration sur le cloud souverain Pi, porté par une organisation ministérielle**. Un accompagnement technique au lancement est proposé par le programme Cloud Pi Native. Un entretien de qualification du plan projet est requis pour évaluer l'accompagnement nécessaire;
-  - **Cas 2: expérimentation de l'offre portée par une organisation ministérielle**. Le type d'accompagnement par le programme Cloud Pi Native est à étudier. Un entretien de préqualification du besoin est requis pour déterminer si un accompagnement est justitifié et, le cas échéant, de quelle type;
+  - **Cas 1: développement ou migration sur le cloud souverain Pi, porté par une organisation ministérielle**. Un accompagnement technique au lancement est proposé par le programme Cloud Pi Native;
+  - **Cas 2: expérimentation de l'offre portée par une organisation ministérielle**. La possibilité et le type d'accompagnement par le programme Cloud Pi Native est à étudier ;
   - **Cas 3, expérimentation de l'offre portée par un acteur ou une organisation "externe" (non-étatique)**. Les ressources sont consultables en autonomie. Un section "contribuer" est à paraitre.
 
 Nous invitons à consulter le détails des conditions d'accompagnement en introduction de la section "Utilisation pour l'embarquement d'une équipe projet".
