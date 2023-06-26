@@ -6,7 +6,7 @@ Quels sont les concepts technologiques, méthodologiques et organisationnels mis
 
 # Ressources essentielles
 
-## Concepts à la base des opportunités du nouveau monde numériques
+## Concepts à la base des opportunités du nouveau monde numérique
 - Qu'est ce que le DevSecOps en 8 minutes: https://www.youtube.com/watch?v=nrhxNNH5lt0&list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG&index=3
 - Qu'est ce que le mode produit? https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=480
 - Cybersécurité des projets numériques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=494
