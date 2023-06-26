@@ -14,7 +14,7 @@
 ## Elements de l'offre ayant retenu votre interet
 - Comment avez vous eu connaissance de l'offre Cloud Pi Native et quelle en est votre compréhension actuelle? https://dnum-mi.github.io/
 - Avez vous déja pris connaissance de ce que contient l'offre et des conditions pour bénéficier d'un accompagnement technique? https://github.com/cloud-pi-native/documentation
-- Avez vous pris connaissance du cadre de normes à respecter (CCT Cloud native)? https://github.com/cloud-pi-native/cct-cloud-native
+- Avez vous pris connaissance des éléments généraux contenus dans le cadre de cohérence technique (CCT Cloud native)? https://github.com/cloud-pi-native/cct-cloud-native
 
 ## Elements facultatifs (qui seront passé en revue lors de la qualification)
 - Le cas échéant, par quels composants et services seriez-vous interessés?
