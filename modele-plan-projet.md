@@ -9,6 +9,7 @@
 - L'accompagnement proposé par le programme Cloud Pi Native vous semble t-il clair? (nous en faisons pas "à la place de", mais accompagnons à faire)
 - Les compétences, roles, processus... à mettre en place vous semble t-il clair?
 - Y a t-il des sujets sur lesquels vous aurez des besoins de formation?
+- Comment évaluriez vous la préparation de vos équipes? [exemples existants](https://software.af.mil/wp-content/uploads/2019/12/DoD-Enterprise-DevSecOps-Maturity-Review-v1.6.docx)
 
 ## Contexte technique du projet
 - Les SI et applicatifs concernés sont-ils déja homologués? sur quel infrastructure? qu'est ce qui a déja été audité?
@@ -27,4 +28,4 @@
 
 # En construction
 - Intégrer les questions posé dans le cadre de l'examen d'une demande d'hébergement
-- Matrice d'éligiblité (cf. CRiP, EDF, etc.)
+- Matrice d'éligiblité type de projet/type d'hébergement (cf. CRiP, EDF, etc.)
