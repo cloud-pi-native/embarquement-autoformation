@@ -1,22 +1,27 @@
-Les ressources rassemblées ici constituent une base de connaissances permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur [l'offre "Cloud Pi Native"](https://dnum-mi.github.io/). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
+Les ressources rassemblées ici constituent une base de connaissances permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur l'offre cloud native portée par le Ministère de l'Intérieur s'appuyant un environnement du Cloud souverain Pi (offre "Cloud Pi Native"). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
 - Faisant des pulls request sur le repository 
 - Faisant des issues
 
 # Que contient cette section?
 
-Les personnes ou organisations souhaitant comprendre et consommer tout ou partie de l’offre pourront bénéficier du **parcours de prise en main "pas à pas"** structurant la **documentation de l'offre** et des **ressources d'autoformation** adaptés aux questions qu'elles se posent ("niveau de maturité"). 
+Les personnes ou organisations souhaitant comprendre et/ou consommer tout ou partie de l’offre pourront suivre un **parcours de prise en main "pas à pas"** facilitant l'appropriation de la **[documentation de l'offre Cloud Native](https://github.com/cloud-pi-native/documentation)** et des **ressources d'autoformation**. 
+
 
 ## A qui ces ressources s'adressent-elles?
 
 Ce parcours d'embarquement/formation peut etre suivi:
-- **Pour se former à titre individuel**: en consultant les ressources "étendues" de chaque étape, triées par périmètre de responsabilité (voir les différents périmètres dans la section "se former à titre individuel").
-- **Pour embarquer rapidement une équipe projet**: en consultant les "ressources essentielles" de chaque étape rassemblant la documentation de l'offre et une selection des connaissances et pratiques indispensables à la prise en main. Concernant le type de projet, un accompagnement est possible (cf. détails dans "conditions d'accompagnement");
-  - **Cas 1, projet de développement ou de migration sur le cloud souverain Pi, porté par une organisation ministérielle**. Un accompagnement technique au lancement est proposé par le programme Cloud Pi Native. Un entretien de qualification du plan projet (étape 3) est requis pour évaluer l'effort nécessaire;
-  - **Cas 2, expérimentation de l'offre portée par une organisation ministérielle**. Le type d'accompagnement par le programme Cloud Pi Native est à étudier. Un entretien de préqualification du besoin (étape 2, avant la qualification du plan projet) est requis pour évaluer le type d'accompagnement pertinent;
-  - **Cas 3, expérimentation par un acteur ou une organisation "externe" (non-étatique)**. Les ressources sont consultables en autonomie. Un section "contribuer" est à paraitre.
+- **Pour se former à titre individuel**: en consultant des ressources d'autoformation à chaque étape, distinguées par périmètre de responsabilité (voir les différents périmètres dans la section "se former à titre individuel") et niveau de "maturité" (type de question).
+- **Pour embarquer rapidement une équipe projet**: en consultant pour chaque étape la élection des éléments de [documentation de l'offre](https://github.com/cloud-pi-native/documentation), les connaissances et les pratiques indispensables à la prise en main. Selon les types de projets et l'organisation porteuse, un accompagnement techique peut être mis à disposition: 
+  - **Cas 1: développement ou migration sur le cloud souverain Pi, porté par une organisation ministérielle**. Un accompagnement technique au lancement est proposé par le programme Cloud Pi Native. Un entretien de qualification du plan projet est requis pour évaluer l'accompagnement nécessaire;
+  - **Cas 2: expérimentation de l'offre portée par une organisation ministérielle**. Le type d'accompagnement par le programme Cloud Pi Native est à étudier. Un entretien de préqualification du besoin est requis pour déterminer si un accompagnement est justitifié et, le cas échéant, de quelle type;
+  - **Cas 3, expérimentation de l'offre portée par un acteur ou une organisation "externe" (non-étatique)**. Les ressources sont consultables en autonomie. Un section "contribuer" est à paraitre.
+
+Nous invitons à consulter le détails des conditions d'accompagnement en introduction de la section "Utilisation pour l'embarquement d'une équipe projet".
+
 
 ## Strucuture du parcours d'embarquement/formation
 
+Le parcours d'embarquement comporte 5 étapes depuis la prise de connaissance de l'offre jusqu'à son utilisation en autonomie. Sur le plan de l'autoformation, ces 5 étapes correspondent à des degrés de "maturité" (i.e. type de questions que les utilisateurs se posent).
 
 ![alt_text](images/accompagnement.jpg)
 
@@ -29,15 +34,15 @@ Explications/principes de fonctionnement:
 
 
 # Utilisation pour se former à titre individuel
-Toute personne désireuse de suivre le parcours pour se former à titre individuel est invitée à prendre connaissance de son périmètre de responsabilités, afin d'identifier les ressources adaptées: 
+Toute personne désireuse de suivre le parcours pour se former à titre individuel est invitée à prendre connaissance de son périmètre, pour étudier les ressources adaptées aux responsabiltiés qu'elle exerce: 
 
-1) **Périmètre "équipes techniques"**: documentation spécifiques à Cloud pi native destinée aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques tout au long de leur cycle de vie. 
-> Elles sont responsables de la qualité des produits. Selon la taille et de l'organisation, ce périmètre peut recouvrir des personnes responsables de la fiabilité des services & des systèmes (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.). Exemples: développeurs, opérateurs, DevOps, SRE, architectes solution, etc.
+1) **Périmètre "technique"**: ressources spécifiques à Cloud pi native destinée aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques tout au long de leur cycle de vie. 
+> Elles sont responsables de la qualité des produits/SI. Selon la taille et de l'organisation, ce périmètre peut recouvrir des personnes responsables de la fiabilité des services & des systèmes (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.). Exemples: développeurs, opérateurs, DevOps, SRE, architectes solution, etc.
 
 2) **Périmètre "pilotage MOE"**: ressources relatives au "cloud native" notamment destinées aux personnes responsables de la structuration d'un projet (compétences, roles, organisation, technologies, ..) son organisation et son suivi (consommation budgetaire, UO, livrables, ...), pour saisir les opportunités du paradigme "cloud native".  
 > Elles pilotent des équipes assurant le développement ou les opérations sur les produits et sont responsables de l'intégrité des projets (cadrage, bonne utilisation et suivi des ressources, orientations techniques...). Exemples:  pilotage/chefferie de projets/programmes, responsables d'unités de conception, de bureaux d'étude, MOE, etc.
 
-3) **Périmètre "gouvernance/décisionnaire"**: ressources de culture générale sur les enjeux du numérique, adressées à tous et notamment aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée pour comprendre les spécificités du "nouveau monde logiciel". 
+3) **Périmètre "gouvernance/décisionnaire"**: ressources de culture générale sur les enjeux du numérique, adressées à tous mais particulièrement aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée pour comprendre les spécificités du "nouveau monde logiciel". 
 > Elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller. Exemples: pilotage et gouvernance des organisations, directions générales ou métiers, stratégie d'achat, stratégie RH, etc.
 
 Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aussi conseiller des ressources spécifiques en fonction des besoins et de la maturité de l'équipe projet.
@@ -46,26 +51,35 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 # Utilisation pour l'embarquement d'une équipe projet
 
 ## Détails des conditions d'accompagnement
-- **Cas 1:** projet (développement ou migration) porté par une organisation ministérielle, pour tout ou partie dans l'environnement souverain du Cloud Pi* nous vous invitons à utiliser les ressources de sensibilisation pour vous argumenter et obtenir le soutien d'un sponsor, puis à prendre contact avec le programme Cloud Pi Native. L'accompagnement technique sera conditionné à la vérification de prérequis lors d'un entretien de qualification du plan projet (étape 3).
-- **Cas 2: expérimentation portée par une organisation ministérielle**: nous vous invitons à utiliser les ressources de sensibilisation, puis à prendre contact avec le programme Cloud Pi Native, afin d'organiser un entretien de préqualification de votre besoin (étape 2).
-- **Cas 3: expérimentation en autonomie par un acteur externe (organisation non-étatique)**: Les ressources à disposition peuvent etre consultées en autonomie. Un section "contribuer" est à paraitre. Nous vous invitons à prendre connaissance, expérimenter ou contribuer aux éléments mis à disposition (console, socle technique, cadre de cohérence technique Cloud Native à portée interministérielle...). Si vous êtes porteurs d'initiatives de contribution, collaboration ou partenariat, vous pouvez prendre contact avec le programme Cloud Pi Native.
+**Cas 1:** projet de développement ou migration porté par une organisation ministérielle, qui sera déployé pour tout ou partie dans l'environnement souverain du Cloud Pi. Vous pouvez bénéficier d'un accompagnement technique au lancement du projet à conditions de disposer du soutien d'un sponsor (responsable hiérarchique se portant garant du projet) et d'avoir validé les prérequis nécessaires à la réussite du projet.
 
-Pour ces différents cas de figure, l'adresse de contact du programme est [cloudpinative-relations@interieur.gouv.fr](cloudpinative-relations@interieur.gouv.fr).
+**Cas 2:** expérimentation des composants de l'offre, portée par une organisation ministérielle. Un entretien de préqualification est nécessaire pour déterminer si un accompagnement technique peut être proposé. Ceci dépend de l'intéret des résultats de l'expérimentation pour l'ensemble de la communauté des utilisateurs et de la soutenabilité de l'effort d'accompagnement par le pogramme Cloud Pi Native;
+
+**Cas 3:** expérimentation en autonomie par un acteur externe ou une organisation ne relevant pas d'un ministère ou hors du secteur public. Ces démarches ne peuvent pas faire l'objet d'un accompagnement technique par le programme Cloud Pi Native. Vous pouvez en revanche prendre connaissance, expérimenter ou contribuer aux éléments mis à disposition (console, socle technique, cadre de cohérence technique Cloud Native...) et nous faire part d'initiatives partenariales.
+
+Pour les cas cités plus haut, l'adresse de contact du programme est [cloudpinative-relations@interieur.gouv.fr](cloudpinative-relations@interieur.gouv.fr).
 
 
-## Etape 1: comprendre l'opportunité de l'offre Cloud Pi Native pour argumenter son besoin
+## Etape 0: comprendre les enjeux du "Cloud Native" et l'offre Cloud Pi Native
+> **Objectifs et étapes clefs**: vous avez entendu parler de Cloud Pi Native, vous souhaitez maintenant juger ou argumenter de l'adéquation de l'offre proposée avec votre besoin. Pour cela:Prenez connaissances des éléments: 
+- De présentation [l'offre](https://dnum-mi.github.io/);
+- De [sensiblisation aux enjeux associés](./sensibilisation.md);
 
->**Objectifs et étapes clefs**: vous avez entendu parler de Cloud Native, vous souhaitez juger de l'intret de l'offre Cloud Pi Native et son adéquation avec votre besoin. Pour cela:
-> - Prenez connaissances des éléments décrivant [l'offre](https://dnum-mi.github.io/) et([ses enjeux](./sensibilisation.md)
-> - Utilisez la [trame suivante](./diagnostic-prequalification.md) pour préqualifier votre besoin;
-> - Projet ministériel (nouveau ou existant): assurez vous que votre projet/initiative soit comprise et validée par un sponsor/votre hiérarchie. La trame de préqualification doit vous aider à construire l'argumentaire.
+
+## Etape 1: argumenter l'opportunité du Cloud Native pour son besoin
+
+> **Objectifs et étapes clefs**: vous avez entendu parler de Cloud Pi Native, vous souhaitez maintenant juger ou argumenter de l'adéquation de l'offre proposée avec votre besoin. Pour cela:
+> -
+> - Utilisez la [trame suivante](./diagnostic-prequalification.md) pour réaliser la préqualification de votre besoin;
+> - Assurez vous que votre démarche soit comprise et soutenue par un sponsor hiérarchique. En cas de recherche de sponsor, appuyez vous sur la trame de préqualification pour construire votre argumentaire.
 >**suite**: 
-> - Projet ministériel : prendre contact avec Cloud Pi Native pour programmer un rdv de qualification (étape 3) et vous y préparer (étape 2)
-> - Expérimentation en autonomie: prendre de connaissance des ressources pour préparer son plan projet (étape 2)
+> - Projet ministériel sur Cloud Pi: prendre contact avec Cloud Pi Native pour programmer un rdv de préqualification 
+> - Expérimentation ministérielle: prendre de connaissance des ressources pour préparer votre plan projet (étape 2)
+> - expérimentation "externe": prendre de connaissance des ressources pour préparer votre plan projet (étape 2)
 
 ## Etape 2: structurer un plan projet pour se préparer
 
->**Objectif et étapes clefs**: L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
+>**Objectif et étapes clefs**: vous avez établi l'interet/l'adéquation de l'offre proposée L'équipe sait à quoi l'engage le respect des normes du CCT Cloud Native et s'organise pour consommer l'offre
 >- Consulter les ressources de formation mise à disposition (voir ci dessous) et les [exemples existants](https://software.af.mil/wp-content/uploads/2019/12/DoD-Enterprise-DevSecOps-Maturity-Review-v1.6.docx)) pour évaluer le degré de préparation de son projet: vérification des prérequis organisationnels (compétences, roles, ...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
 >- Compléter autant que possible le [modèle de plan projet](./modele-plan-projet.md) 
  
