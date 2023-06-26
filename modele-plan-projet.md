@@ -1,4 +1,4 @@
-# Modèle de plan projet (trame de qualification avant lancement du projet)
+# Trame de qualification du plan projet
 
 ## Contexte métier de la demande
 - Quelles missions et usage sont couverts par votre demande? (contexte métier, cas d'usage, fonctionnalités clef, criticité, ...)
