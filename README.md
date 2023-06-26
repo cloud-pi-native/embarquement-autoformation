@@ -7,7 +7,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 Les personnes ou organisations souhaitant comprendre et/ou consommer tout ou partie de l’offre pourront suivre un **parcours de prise en main "pas à pas"** facilitant l'appropriation de la **[documentation de l'offre Cloud Native](https://github.com/cloud-pi-native/documentation)** et des **ressources d'autoformation**. 
 
 
-## A qui le parcours d'embarquement/autoformation s'adresse t-il?
+## A quelles démarches le parcours s'adresse t-il?
 
 **Pour se former à titre individuel**: en consultant des ressources d'autoformation à chaque étape, distinguées par périmètre de responsabilité (voir les différents périmètres dans la section "se former à titre individuel") et niveau de "maturité" (type de question).
 
@@ -33,7 +33,7 @@ Explications/principes de fonctionnement:
 
 
 
-# Utilisation pour se former à titre individuel
+# Se former à titre individuel: quel est mon périmètre? 
 
 Toute personne désireuse de suivre le parcours pour se former à titre individuel est invitée à prendre connaissance de son périmètre, pour étudier les ressources adaptées aux responsabiltiés qu'elle exerce: 
 
@@ -61,37 +61,34 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 Pour les cas cités plus haut, l'adresse de contact du programme est [cloudpinative-relations@interieur.gouv.fr](cloudpinative-relations@interieur.gouv.fr).
 
 
-## Etape 0: comprendre les enjeux du "Cloud Native" et l'offre Cloud Pi Native
-> **Objectifs et étapes clefs**: vous souhaitez vous renseigner sur Cloud Pi Native. Pour cela, vous pouvez vous rendre sur: 
-- La page de présentation [l'offre](https://dnum-mi.github.io/);
-- Le [support de sensiblisation](./sensibilisation.md);
-
 
 ## Etape 1: argumenter l'opportunité du Cloud Native, analyser son besoin
 
-> **Objectifs et étapes clefs**: vous vous êtes renseignés sur l'offre Cloud Pi Native et les enjeux auxquels elles répond, vous souhaitez maintenant juger ou argumenter de l'adéquation de l'offre proposée avec votre besoin. Pour cela: 
-> - Prenez connaissance de la [trame de préqualification](./diagnostic-prequalification.md);
-> - Utilisez les ressources et liens pointés dans cette trame pour analyser votre besoin (contexte, financement/sponsor, cadre de normes, ...); 
-> - Assurez vous que votre démarche soit comprise et soutenue par un sponsor hiérarchique. En cas de recherche de sponsor, appuyez vous sur la trame de préqualification pour construire votre argumentaire.
->**Initiative accompagnée**: 
-> - Projet porté par un acteur/une organisation rattachée à un ministère : prendre contact par mail avec le programme Cloud Pi Native, en décrivant votre besoin (cf. trame) pour programmer un rdv de préqualification de votre besoin en accompagnement;  
-> - Expérimentation portée par un acteur/une organisation "externe": idem en cas d'initiative partenariale à portée d'interet général ou d'amélioration du socle de l'offre au bénéfice de la communauté des utilisateurs;
+> **Objectifs et étapes clefs**: vous avez entendu parer de l'offre Cloud Pi Native et osuhaitez vous renseigner pour juger ou argumenter de son adéquation (ou non) avec votre besoin. Pour cela: 
+> - Prenez connaissance la [page de présentation l'offre](https://dnum-mi.github.io/) et du [support de sensiblisation aux enjeux](./sensibilisation.md);
+> - Appuyez vous sur la [trame de préqualification du besoin](./diagnostic-prequalification.md) pour analyser votre besoin (contexte, financement/sponsor, cadre, ...) et vous assurer que votre démarche et bien comprise et soutenue par un sponsor.
+> - Si vous ête en recherche de sponsor, appuyez vous sur la trame de préqualification pour construire votre argumentaire.
+
+>**Initiative accompagnée**:
+> - Projet porté par un acteur/une organisation rattachée à un ministère : prendre contact par mail avec le programme Cloud Pi Native, en décrivant votre démarche (cf. trame) pour programmer un rdv de préqualification de votre besoin en accompagnement;  
+> - Expérimentation portée par un acteur/une organisation "externe": idem si votre initiative est partenariale, à visée d'interet général ou d'amélioration du socle de l'offre au bénéfice de la communauté des utilisateurs;
  
 ## Etape 2: structurer son plan projet, se préparer
-
->**Objectif et étapes clefs**: vous avez établi l'interet/l'adéquation de l'offre proposée avec votre besoin. Vosu souhaitez maintenant savoir à quoi vous engage le fait de la consommer et comment vous y préparer. Pour cela,
-> - Prenez connaissance du cadre de cohérences technique dans lequel s'inscrit lo'ffre (CCT Cloud Native);
-> - Consulter les [ressources d'autoformation](./formation_step2.md) mises à disposition;
-> - Compléter autant que possible le [modèle de plan projet](./modele-plan-projet.md) pour évaluer votre degré de préparation: vérification des prérequis organisationnels (compétences, roles, modèle de responsabilités...) et techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
+>**Objectif et étapes clefs**: vous avez établi l'interet/l'adéquation de l'offre proposée avec votre besoin. Vous souhaitez maintenant savoir à quoi vous engage le fait de la consommer et comment vous y préparer. Pour cela: 
+> - Consulter les [ressources d'autoformation de l'étape 2](./formation_step2.md) et le cadre de cohérences technique dans lequel s'inscrit l'offre ([CCT Cloud Native](https://github.com/cloud-pi-native/cct-cloud-native));
+> - Appuyez vous sur la [trame de qualification](./modele-plan-projet.md) pour élaborer votre plan projet et vous assurer de vérifier les prérequis organisationnels (compétences, roles, modèle de responsabilités...) techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
+> - Si vous devez faire des demande de ressources d'infrastructures et services, appuyez vous sur cette trame;
 >**Initiative accompagnée**: 
 > - Projet porté par un acteur/une organisation rattachée à un ministère : appuyez vous sur le modèle de plan projet pour préparer l'entretien de qualification technique;  
 
-## Etape3: lancer son projet dans un environnement de développement "Cloud native" pour expérimenter
->**Objectif et étapes clefs**: vous avez complété L'équipe s'est organisée et exercée à prendre en main des technologies cloud native. Elle a ensuite réalisé un "Hello world" avec les éléments de l'offre, puis mis en place son usine logicielle dans un environnement bac à sable pour construire sont projet (découverte et mise en place de la chaine primaire).
+## Etape3: lancer son projet dans un environnement de développement "Cloud native", expérimenter
+>**Objectif et étapes clefs**: vous avez élaboré un plan projet. Vous souhaitez maintenant utiliser l'offre pour lancer votre projet dans un environnement de développement. Pour cela:
+> - Consultez les [ressources de formation de l'étape 3](./formation_step3.md)
+> - Appuyez vous sur la [documentation de l'offre](https://github.com/cloud-pi-native/documentation) pour vous exercer, réaliser un "Hello world", puis un MVP  ;
+>**Initiative accompagnée**: 
+>- Projet porté par un acteur/une organisation rattachée à un ministère sur le Cloud Pi: entretien avec l'équipe d'accompagnement technique pour qualifier le projet et poser une roadmap d'accompagnement.
+>- 
 
->- Entretien avec l'équipe d'accompagnement technique: passage en revue des prerequis, prise de connaissance des contexte métier et technique, évaluation des ressources à provisionner,... détermination d'une roadmap d'accompagnement
->- Demandes d'ouverture des accès à la console Cloud Pi Native (valant engagement à respecter le cadre de normes) et des canaux d'aides
->- Prise en main de l'offre: réalisation d'un "hello world", construction de son usine logicielle, déploiement d'un POC déployé dans l'environnement "bac à sable", construction d'un MVP du produit
 
 >**Livrable à constituer et ressources**: MVP dans l'environnement bac à sable (console + SecNumCloud), ressources pour [lancer son projet](./formation_step3.md)
 
