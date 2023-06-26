@@ -21,7 +21,6 @@ Quels sont les concepts technologiques, méthodologiques et organisationnels mis
 ## L'offre Cloud Pi Native
 - A venir: offre DSO, DSOaaS, Cloud Pi, Cloud Pi Native
 - A venir: décripter les exigences du CCT Cloud Native
-- 
 
 # Pour aller plus loin
 - Qu'est ce que le DevOps : https://publication.octo.com/fr/telechargement-livre-blanc-decouverte-devops
