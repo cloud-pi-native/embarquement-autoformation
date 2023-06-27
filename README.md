@@ -57,6 +57,9 @@ Tout accompagnement est conditionné à :
   
 A ce jour, plusieurs cas peuvent faire l'objet d'un accompagnement. Cette liste n'est pas close, le programme se reserve la possibilité droit d'accompagner les initiatives d'interet général ou de développement de l'offre à destination de la communauté de ses utilisateurs.
 
+liste des cas éligibibles pour accompagnement à la préqualification
+liste des cas éligibles pour accompagnement à la qualification
+
 - **Cas 1: projet "Cloud Pi Native"** projet de développement ou migration porté par une organisation ministérielle, qui sera déployé pour tout ou partie dans l'environnement souverain du Cloud Pi. Vous bénéficierez d'un accompagnement technique au lancement du projet à conditions de disposer du soutien d'un sponsor (responsable hiérarchique se portant garant du projet) et d'avoir validé les prérequis nécessaires à la réussite du projet.
 - **Cas 2: "expérimentation DSO interne"** expérimentation du composant "usine logicielle" de l'offre, portée par une organisation ministérielle. Un entretien de préqualification est nécessaire pour déterminer si un accompagnement technique peut être proposé. Ceci dépend de l'intéret des résultats de l'expérimentation pour l'ensemble de la communauté des utilisateurs et de la soutenabilité de l'effort d'accompagnement par le pogramme Cloud Pi Native;
 - **Cas 3: expérimentation externe** expérimentation en autonomie par un acteur externe ou une organisation ne relevant pas d'un ministère ou hors du secteur public. Ces démarches ne peuvent pas faire l'objet d'un accompagnement technique par le programme Cloud Pi Native. Vous pouvez en revanche prendre connaissance, expérimenter ou contribuer aux éléments mis à disposition (console, socle technique, cadre de cohérence technique Cloud Native...) et nous faire part d'initiatives partenariales.
