@@ -11,6 +11,7 @@ Les personnes ou organisations souhaitant comprendre et/ou consommer tout ou par
 Le parcours peut être suivi: 
 - **Pour se former à titre individuel**: en consultant des ressources d'autoformation à chaque étape, distinguées par périmètre de responsabilité (voir les différents périmètres dans la section "se former à titre individuel") et niveau de "maturité" (type de question).
 - **Pour embarquer rapidement une équipe projet**: en consultant pour chaque étape une sélection d'éléments de [documentation de l'offre](https://github.com/cloud-pi-native/documentation), des ressources de connaissances et de pratiques indispensables à la prise en main. 
+
 Selon les types de projets et l'organisation porteuse, un accompagnement technique peut être mis à disposition. Nous invitons à consulter le détails des conditions d'accompagnement en introduction de la section "Utilisation pour l'embarquement d'une équipe projet".
 
 
