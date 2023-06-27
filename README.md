@@ -6,7 +6,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 Les personnes ou organisations souhaitant comprendre et/ou consommer tout ou partie de l’offre pourront suivre un **parcours de prise en main "pas à pas"** facilitant:
 - l'appropriation de la **[documentation de l'offre Cloud Native](https://github.com/cloud-pi-native/documentation)**
-- la consultation des **ressources d'autoformation**. 
+- la consultation des [**ressources d'autoformation**](./plan-formation.md). 
 
 
 ## A quelles démarches le parcours s'adresse t-il?
