@@ -9,7 +9,7 @@ Les personnes ou organisations souhaitant comprendre et/ou consommer tout ou par
 - la consultation des [**ressources d'autoformation**](./plan-formation.md). 
 
 
-## A quelles démarches le parcours s'adresse t-il?
+# Pour quoi faire ?
 Le parcours peut être suivi: 
 - **Pour se former à titre individuel**: en consultant des ressources d'autoformation à chaque étape, distinguées par périmètre de responsabilité (voir les différents périmètres dans la section "se former à titre individuel") et niveau de "maturité" (type de question).
 - **Pour embarquer rapidement une équipe projet**: en consultant pour chaque étape une sélection d'éléments de [documentation de l'offre](https://github.com/cloud-pi-native/documentation), des ressources de connaissances et de pratiques indispensables à la prise en main. 
@@ -17,7 +17,7 @@ Le parcours peut être suivi:
 *Selon les types de projets et l'organisation porteuse, un accompagnement technique peut être mis en place. Nous invitons à consulter **les conditions d'accompagnement** en introduction du parcours.*
 
 
-## Strucuture du parcours d'embarquement/formation
+# Strucuture du parcours d'embarquement/formation
 
 Le parcours comporte 5 étapes qui vont de la prise de connaissance de l'offre jusqu'à son utilisation en autonomie. Sur le plan de l'autoformation, ces 5 étapes correspondent à des degrés de "maturité" (i.e. type de questions que les utilisateurs se posent).
 
