@@ -4,7 +4,9 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 # Que contient cette section?
 
-Les personnes ou organisations souhaitant comprendre et/ou consommer tout ou partie de l’offre pourront suivre un **parcours de prise en main "pas à pas"** facilitant l'appropriation de la **[documentation de l'offre Cloud Native](https://github.com/cloud-pi-native/documentation)** et des **ressources d'autoformation**. 
+Les personnes ou organisations souhaitant comprendre et/ou consommer tout ou partie de l’offre pourront suivre un **parcours de prise en main "pas à pas"** facilitant:
+- l'appropriation de la **[documentation de l'offre Cloud Native](https://github.com/cloud-pi-native/documentation)**
+- la consultation des **ressources d'autoformation**. 
 
 
 ## A quelles démarches le parcours s'adresse t-il?
@@ -12,7 +14,7 @@ Le parcours peut être suivi:
 - **Pour se former à titre individuel**: en consultant des ressources d'autoformation à chaque étape, distinguées par périmètre de responsabilité (voir les différents périmètres dans la section "se former à titre individuel") et niveau de "maturité" (type de question).
 - **Pour embarquer rapidement une équipe projet**: en consultant pour chaque étape une sélection d'éléments de [documentation de l'offre](https://github.com/cloud-pi-native/documentation), des ressources de connaissances et de pratiques indispensables à la prise en main. 
 
-Selon les types de projets et l'organisation porteuse, un accompagnement technique peut être mis en place. Nous invitons à consulter **les conditions d'accompagnement** en introduction du parcours.
+*Selon les types de projets et l'organisation porteuse, un accompagnement technique peut être mis en place. Nous invitons à consulter **les conditions d'accompagnement** en introduction du parcours.*
 
 
 ## Strucuture du parcours d'embarquement/formation
