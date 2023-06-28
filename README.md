@@ -49,22 +49,21 @@ Pour se former à titre individuel, il est nécessaire d'identifier le périmèt
 
 # Utilisation pour l'embarquement d'une équipe projet
 
-## Condition d'accompagnement par le programme Cloud Pi Native
+## Quelles démarches sont accompagnées par le programme Cloud Pi Native?
 
-| Organisation porteuse|Type d'initiative| Accompagnement proposé |
-| -------------- | --------------- | ------------------------ |
-| Organisation rattachée à un ministère | Déploiement ou migration d’un projet sur le Cloud Pi | préqualification, qualification, appui au lancement et suivi |
-| Organisation rattachée à un ministère | Expérimentation de l’usine logicielle sur autres infra | préqualification, qualification et/ou appui au lancement|
-| Organisation externe | Expérimentaton pour initiative partenariale | RDV de préqualification |
-| Organisation externe | Expérimentation en autonomie | Pas d’accompagnement |
+| Cas |Organisation porteuse|Démarche| Type d'aide |
+|----| -------------- | --------------- | ------------------------ |
+|1|Organisation rattachée à un ministère | Déploiement ou migration d’un projet sur le Cloud Pi | préqualification, qualification, appui au lancement et suivi |
+|2| Organisation rattachée à un ministère | Expérimentation de l’usine logicielle sur d'autres infra | préqualification, qualification et/ou appui au lancement|
+|3| Organisation externe | Expérimentation pour initiative partenariale | préqualification |
+|4| Organisation externe | Expérimentation en autonomie | Pas d’accompagnement |
 
-Le programme propose son aide sur:
-- La préqualification: aide à l'analyse la demande , adéquation avec l'offre (composants existants ou à développer);
-- La qualification: aide à la structuration d'un plan projet, préparation au lancement (prérequis, effort d'accompagnement à prévoir);
-- L'appui technique au lancement et suivi du projet: aide aux équipes techniques en charge du projet;
-Pour les cas cités plus haut, l'adresse de contact du programme est [cloudpinative-relations@interieur.gouv.fr](cloudpinative-relations@interieur.gouv.fr).
+L'accompagnement par les équipes du programme Cloud Pi Native consiste en:
+- Préqualification: aide à la structuration de la démarche et analyse de son adéquation avec l'offre (les composants: existants, inscrits ou à inscrire à la roadmap du programme);
+- Qualification: aide à la structuration du plan projet et, le cas échéant, estimation de l'effort d'accompagnement à prévoir;
+- Appui au lancement du projet et appui technique: aide/conseil des équipes techniques clientes en charge du projet;
 
-
+Les conditions d'accomapgnement seront détaillées à chaque étape du parcours.
 
 ## Etape 1: argumenter l'opportunité du Cloud Native, analyser son besoin
 
@@ -73,16 +72,9 @@ Pour les cas cités plus haut, l'adresse de contact du programme est [cloudpinat
 > - Appuyez vous sur la [trame de préqualification du besoin](./diagnostic-prequalification.md) pour analyser votre besoin (contexte, financement/sponsor, cadre, ...) et vous assurer que votre démarche et bien comprise et soutenue par un sponsor.
 > - Si vous ête en recherche de sponsor, appuyez vous sur la trame de préqualification pour construire votre argumentaire.
 
->**Pour bénéficier de l'accompagnement**: prendre contact par mail avec le programme Cloud Pi Native pour faire connaitre votre démarche en vous appuyant sur la trame de préqualification pour la décrire.
-> - Projet porté par une entité ministérielle: un  entretien d'analyse de votre besoin sera programmé;
-> - Expérimentation portée par un acteur/une organisation "externe": un échange pourra être programmési votre initiative est partenariale, à visée d'interet général ou d'amélioration du socle de l'offre au bénéfice de la communauté des utilisateurs;
-
-
-
-- **Cas 1: projet "Cloud Pi Native"** projet de développement ou migration porté par une organisation ministérielle, qui sera déployé pour tout ou partie dans l'environnement souverain du Cloud Pi. Vous bénéficierez d'un accompagnement technique au lancement du projet à conditions de disposer du soutien d'un sponsor (responsable hiérarchique se portant garant du projet) et d'avoir validé les prérequis nécessaires à la réussite du projet.
-- **Cas 2: "expérimentation DSO interne"** expérimentation du composant "usine logicielle" de l'offre, portée par une organisation ministérielle. Un entretien de préqualification est nécessaire pour déterminer si un accompagnement technique peut être proposé. Ceci dépend de l'intéret des résultats de l'expérimentation pour l'ensemble de la communauté des utilisateurs et de la soutenabilité de l'effort d'accompagnement par le pogramme Cloud Pi Native;
-- **Cas 3: expérimentation externe** expérimentation en autonomie par un acteur externe ou une organisation ne relevant pas d'un ministère ou hors du secteur public. Ces démarches ne peuvent pas faire l'objet d'un accompagnement technique par le programme Cloud Pi Native. Vous pouvez en revanche prendre connaissance, expérimenter ou contribuer aux éléments mis à disposition (console, socle technique, cadre de cohérence technique Cloud Native...) et nous faire part d'initiatives partenariales
-
+>**Pour bénéficier d'un accompagnement**: cas 1, 2, 3 vous pouvez prendre contact par mail avec le programme Cloud Pi Native pour faire connaitre votre démarche (s'appuyer sur la trame de préqualification pour la décrire) et programmer un entretien de préqualification.
+> - Aucune démarche commerciale ne sera étudiée;
+> - Toute initiative partenariale, à visée d'interet général ou de contribution à l'offre communautaire sera étudiée;
 
 
  
@@ -91,8 +83,13 @@ Pour les cas cités plus haut, l'adresse de contact du programme est [cloudpinat
 > - Consulter les [ressources d'autoformation de l'étape 2](./formation_step2.md) et le cadre de cohérences technique dans lequel s'inscrit l'offre ([CCT Cloud Native](https://github.com/cloud-pi-native/cct-cloud-native));
 > - Appuyez vous sur la [trame de qualification](./modele-plan-projet.md) pour élaborer votre plan projet et vous assurer de vérifier les prérequis organisationnels (compétences, roles, modèle de responsabilités...) techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
 > - Si vous devez faire des demandes de ressources d'infrastructures et services, appuyez vous sur cette trame;
->**Initiative accompagnée**: 
-> - Projet porté par un acteur/une organisation rattachée à un ministère : appuyez vous sur le modèle de plan projet pour entretien de qualification technique;  
+>**Conditions d'accompagnement**: 
+> - Projet porté par un acteur/une organisation rattachée à un ministère : appuyez vous sur le modèle de plan projet pour entretien de qualification technique;
+
+
+- **Cas 1: projet "Cloud Pi Native"** projet de développement ou migration porté par une organisation ministérielle, qui sera déployé pour tout ou partie dans l'environnement souverain du Cloud Pi. Vous bénéficierez d'un accompagnement technique au lancement du projet à conditions de disposer du soutien d'un sponsor (responsable hiérarchique se portant garant du projet) et d'avoir validé les prérequis nécessaires à la réussite du projet.
+- **Cas 2: "expérimentation DSO interne"** expérimentation du composant "usine logicielle" de l'offre, portée par une organisation ministérielle. Un entretien de préqualification est nécessaire pour déterminer si un accompagnement technique peut être proposé. Ceci dépend de l'intéret des résultats de l'expérimentation pour l'ensemble de la communauté des utilisateurs et de la soutenabilité de l'effort d'accompagnement par le pogramme Cloud Pi Native;
+- **Cas 3: expérimentation externe** expérimentation en autonomie par un acteur externe ou une organisation ne relevant pas d'un ministère ou hors du secteur public. Ces démarches ne peuvent pas faire l'objet d'un accompagnement technique par le programme Cloud Pi Native. Vous pouvez en revanche prendre connaissance, expérimenter ou contribuer aux éléments mis à disposition (console, socle technique, cadre de cohérence technique Cloud Native...) et nous faire part d'initiatives partenariales
 
 ## Etape3: lancer son projet dans un environnement de développement "Cloud native", expérimenter
 >**Objectif et étapes clefs**: vous avez élaboré un plan projet. Vous souhaitez maintenant utiliser l'offre pour lancer votre projet dans un environnement de développement. Pour cela:
