@@ -51,9 +51,10 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 
 ## Détails des conditions d'accompagnement
 
-Tout accompagnement est conditionné à :
-- La réalisation d'un entretien de préqualification de la demande/besoin, pour évaluer son adéquation avec l'offre ;
-- La réalisation d'un échange de qualification du plan projet, pour évaluer l'effort d'accompagnement par les équipes techniques ("service team");
+- Préqualification: afin de comprendre la démarche de l'équipe, évaluer l'adéquation de l'offre avec son besoin ou de son initiative avec la roadmap de l'offre ;
+- Qualification: La réalisation d'un échange de qualification du plan projet, pour évaluer l'effort d'accompagnement par les équipes techniques ("service team");
+- Accompagnement au lancement du projet et au suivi technique du projet;
+- 
   
 A ce jour, plusieurs cas peuvent faire l'objet d'un accompagnement. Cette liste n'est pas close, le programme se reserve la possibilité droit d'accompagner les initiatives d'interet général ou de développement de l'offre à destination de la communauté de ses utilisateurs.
 
