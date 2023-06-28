@@ -51,7 +51,7 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 
 ## Détails des conditions d'accompagnement
 
-- Préqualification: afin de comprendre la démarche de l'équipe, évaluer l'adéquation de l'offre avec son besoin ou de son initiative avec la roadmap de l'offre ;
+Préqualification: comprendre la démarche de l'équipe, estimer l'adéquation du besoin exprimé avec de l'offre (si la brique technique est disposnible) ou la roadmpa ou d'une initiative avec la roadmap de l'offre) ;
 - Qualification: La réalisation d'un échange de qualification du plan projet, pour évaluer l'effort d'accompagnement par les équipes techniques ("service team");
 - Accompagnement au lancement du projet et au suivi technique du projet;
 - 
@@ -76,8 +76,7 @@ Pour les cas cités plus haut, l'adresse de contact du programme est [cloudpinat
 > - Appuyez vous sur la [trame de préqualification du besoin](./diagnostic-prequalification.md) pour analyser votre besoin (contexte, financement/sponsor, cadre, ...) et vous assurer que votre démarche et bien comprise et soutenue par un sponsor.
 > - Si vous ête en recherche de sponsor, appuyez vous sur la trame de préqualification pour construire votre argumentaire.
 
->**Initiative accompagnée**:
-> Prendre contact par mail avec le programme Cloud Pi Native pour faire connaitre votre démarche en vous appuyant sur la trame de préqualification pour la décrire. :
+>**Initiative accompagnée**: prendre contact par mail avec le programme Cloud Pi Native pour faire connaitre votre démarche en vous appuyant sur la trame de préqualification pour la décrire. :
 > - Projet porté par une entité ministérielle: un  entretien d'analyse de votre besoin sera programmé;
 > - Expérimentation portée par un acteur/une organisation "externe": un échange pourra être programmési votre initiative est partenariale, à visée d'interet général ou d'amélioration du socle de l'offre au bénéfice de la communauté des utilisateurs;
  
@@ -85,7 +84,7 @@ Pour les cas cités plus haut, l'adresse de contact du programme est [cloudpinat
 >**Objectif et étapes clefs**: vous avez établi l'interet/l'adéquation de l'offre proposée avec votre besoin. Vous souhaitez maintenant savoir à quoi vous engage le fait de la consommer et comment vous y préparer. Pour cela: 
 > - Consulter les [ressources d'autoformation de l'étape 2](./formation_step2.md) et le cadre de cohérences technique dans lequel s'inscrit l'offre ([CCT Cloud Native](https://github.com/cloud-pi-native/cct-cloud-native));
 > - Appuyez vous sur la [trame de qualification](./modele-plan-projet.md) pour élaborer votre plan projet et vous assurer de vérifier les prérequis organisationnels (compétences, roles, modèle de responsabilités...) techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
-> - Si vous devez faire des demande de ressources d'infrastructures et services, appuyez vous sur cette trame;
+> - Si vous devez faire des demandes de ressources d'infrastructures et services, appuyez vous sur cette trame;
 >**Initiative accompagnée**: 
 > - Projet porté par un acteur/une organisation rattachée à un ministère : appuyez vous sur le modèle de plan projet pour entretien de qualification technique;  
 
