@@ -50,8 +50,12 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 # Utilisation pour l'embarquement d'une équipe projet
 
 ## Détails des conditions d'accompagnement
-- Echange de préqualification: comprendre la démarche de l'équipe porteuse, estimer l'adéquation du besoin exprimé avec l'offre (pour une brique technique ou fonctionnalité disponible) ou la roadmap (pour une proposition ou un  développement en cours) ;
-- Echnage de Qualification: La réalisation d'un échange de qualification du plan projet, pour évaluer l'effort d'accompagnement par les équipes techniques ("service team");
+Toute personne ou organisation est libre d'expérimenter l'offre en autonomie.
+- Faire connaitre d'une initiative au programme Cloud Pi Native
+  - Ouvert à tout type d'acteur ou d'organisation dès lors
+  - Les démarches à visée commerciale ne seront pas examinées;
+- Préqualification: échange permettant de comprendre la démarche de l'équipe porteuse, estimer l'adéquation du besoin exprimé avec l'offre ou la roadmap, la faisabilité technique d'un accompagnement ;
+- Qualification: échange permettant de qualifier le plan projet, pour évaluer sa viabilité technique et, le cas échéant, l'effort technique d'accompagnement;
 - Accompagnement au lancement du projet et au suivi technique du projet;
 - 
   
