@@ -3,39 +3,39 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - Faisant des issues
 
 # Que contient cette section?
-
-Les personnes ou organisations souhaitant comprendre et/ou consommer tout ou partie de l’offre pourront suivre un **parcours de prise en main "pas à pas"** facilitant:
+**Un parcours de prise en main "pas à pas"**, destiné aux personnes ou organisations souhaitant comprendre et consommer l’offre, qui facilite:
 - l'appropriation de la **[documentation de l'offre Cloud Native](https://github.com/cloud-pi-native/documentation)**
 - la consultation des [**ressources d'autoformation**](./plan-formation.md). 
 
 
 # Pour quoi faire ?
-Le parcours peut être suivi: 
-- **Pour se former à titre individuel**: en consultant des ressources d'autoformation à chaque étape, distinguées par périmètre de responsabilité (voir les différents périmètres dans la section "se former à titre individuel") et niveau de "maturité" (type de question).
-- **Pour embarquer rapidement une équipe projet**: en consultant pour chaque étape une sélection d'éléments de [documentation de l'offre](https://github.com/cloud-pi-native/documentation), des ressources de connaissances et de pratiques indispensables à la prise en main. 
+- **Pour se former à titre individuel**: en consultant des ressources d'autoformation disponibles à chaque étape (voir le périmètre correspondant à ses responsabilités dans la section "se former à titre individuel");
+- **Pour embarquer rapidement une équipe projet**: en consultant, à chaque étape du parcours, la sélection d'éléments de [documentation de l'offre](https://github.com/cloud-pi-native/documentation), de connaissances théoriques et pratiques nécessaires à la prise en main. 
 
-*Selon les types de projets et l'organisation porteuse, un accompagnement technique peut être mis en place. Nous invitons à consulter **les conditions d'accompagnement** en introduction du parcours.*
+***Conditions d'accompagnement**: selon le type de projet et l'organisation porteuse, un accompagnement par les équipes du programme Cloud Pi Native peut être mis en place. Nous invitons à consulter les conditions en introduction.*
 
 
-# Strucuture du parcours d'embarquement/formation
+# Etapes du parcours d'embarquement/autoformation
 
-Le parcours comporte 5 étapes qui vont de la prise de connaissance de l'offre jusqu'à son utilisation en autonomie. Sur le plan de l'autoformation, ces 5 étapes correspondent à des degrés de "maturité" (i.e. type de questions que les utilisateurs se posent).
+Le parcours comporte 5 étapes "d'embarquement", de la prise de connaissance de l'offre à l'utilisation en autonomie. Pour l'autoformation, ces 5 étapes correspondent à des degrés de "maturité" (i.e. type de questions que les utilisateurs se posent).
 
 ![alt_text](images/accompagnement.jpg)
 
+<details>
 
-Explications/principes de fonctionnement:
->- Respect de l'ordre chronologique : le `niveau de maturité` requis augmente au fur et à mesure des `étapes d'embarquement`, jusqu'à l'autonomie en production;
->- Acessibilité : les 1ères étapes (comprendre l'offre et préparer un projet) ne nécessitent aucune connaissance théorique ou pratique préalables;
->- Reconnaissance des acquis : plutot que des formations par métiers, dont les intitulés ne correspondent pas toujours à la réalité des missions exercées sur le terrain, nous distingons de façon macroscopique, des `périmètres de responsabilités`.
+<summary> Hypothèses/principes de conception du parcours </summary>
 
+- Respect de l'ordre chronologique : le `niveau de maturité` requis augmente au fur et à mesure des `étapes d'embarquement`, jusqu'à l'autonomie en production;
+- Acessibilité : les premières étapes (comprendre l'offre et préparer un projet) ne nécessitent aucune connaissance théorique ou pratique préalables;
+- Reconnaissance des acquis : plutot que des formations par métiers, dont les intitulés ne correspondent pas toujours à la réalité des missions exercées sur le terrain, nous distingons de façon macroscopique, des `périmètres de responsabilités`.
 
+</details>
 
 # Se former à titre individuel: quel est mon périmètre? 
 
-Toute personne désireuse de suivre le parcours pour se former à titre individuel est invitée à prendre connaissance de son périmètre, pour étudier les ressources adaptées aux responsabiltiés qu'elle exerce: 
+Pour se former à titre individuel, il est nécessaire d'identifier le périmètre correspondant aux responsabiltiés que l'on exerce: 
 
-1) **Périmètre "technique"**: ressources spécifiques à Cloud pi native destinée aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques tout au long de leur cycle de vie. 
+1) **Périmètre "technique"**: ressources spécifiques aux composant technique de l'offre Cloud Pi Native destinée aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques, tout au long de leur cycle de vie. 
 > Elles sont responsables de la qualité des produits/SI. Selon la taille et de l'organisation, ce périmètre peut recouvrir des personnes responsables de la fiabilité des services & des systèmes (plateformes de services, pipelines de livraison DevSecOps, services d’hébergement, environnements, réseaux, etc.). Exemples: développeurs, opérateurs, DevOps, SRE, architectes solution, etc.
 
 2) **Périmètre "pilotage MOE"**: ressources relatives au "cloud native" notamment destinées aux personnes responsables de la structuration d'un projet (compétences, roles, organisation, technologies, ..) son organisation et son suivi (consommation budgetaire, UO, livrables, ...), pour saisir les opportunités du paradigme "cloud native".  
