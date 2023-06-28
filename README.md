@@ -44,19 +44,24 @@ Pour se former à titre individuel, il est nécessaire d'identifier le périmèt
 3) **Périmètre "gouvernance/décisionnaire"**: ressources de culture générale sur les enjeux du numérique, adressées à tous mais particulièrement aux personnes responsables de l'orientation de projets numériques vers une offre  de service donnée pour comprendre les spécificités du "nouveau monde logiciel". 
 > Elles sont responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller. Exemples: pilotage et gouvernance des organisations, directions générales ou métiers, stratégie d'achat, stratégie RH, etc.
 
-Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aussi conseiller des ressources spécifiques en fonction des besoins et de la maturité de l'équipe projet.
+*Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aussi conseiller des ressources spécifiques en fonction des besoins et de la maturité de l'équipe projet.*
 
 
 # Utilisation pour l'embarquement d'une équipe projet
 
 ## Condition d'accompagnement par le programme Cloud Pi Native
 Le programme propose son aide sur:
-- La préqualification: aide à l'analyse du besoin, détermination de l'offre adaptée (composants existants ou à développer);
+- La préqualification: aide à l'analyse la demande , adéquation avec l'offre (composants existants ou à développer);
 - La qualification: aide à la structuration d'un plan projet, préparation au lancement (prérequis, effort d'accompagnement à prévoir);
 - L'appui technique au lancement et suivi du projet: aide aux équipes techniques en charge du projet;
 
 
-
+| Organisation porteuse|Type d'initiative| |       PDMA**
+| -------------- | --------------- | ------------------------ |
+| Construction   | 8 heures        | 24h (backup nocturne quotidien) |
+| Déploiement    | 8 heures        | 24h (backup nocturne quotidien) |
+| Construction   | 8 heures        | 24h (backup nocturne quotidien) |
+| Déploiement    | 8 heures        | 24h (backup nocturne quotidien) |
 
 - **Cas 1: projet "Cloud Pi Native"** projet de développement ou migration porté par une organisation ministérielle, qui sera déployé pour tout ou partie dans l'environnement souverain du Cloud Pi. Vous bénéficierez d'un accompagnement technique au lancement du projet à conditions de disposer du soutien d'un sponsor (responsable hiérarchique se portant garant du projet) et d'avoir validé les prérequis nécessaires à la réussite du projet.
 - **Cas 2: "expérimentation DSO interne"** expérimentation du composant "usine logicielle" de l'offre, portée par une organisation ministérielle. Un entretien de préqualification est nécessaire pour déterminer si un accompagnement technique peut être proposé. Ceci dépend de l'intéret des résultats de l'expérimentation pour l'ensemble de la communauté des utilisateurs et de la soutenabilité de l'effort d'accompagnement par le pogramme Cloud Pi Native;
