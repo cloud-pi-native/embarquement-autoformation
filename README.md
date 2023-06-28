@@ -49,18 +49,14 @@ Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aus
 
 # Utilisation pour l'embarquement d'une équipe projet
 
-## Détails des conditions d'accompagnement
-- Préqualification: échange permettant de comprendre la démarche de l'équipe porteuse (contexte, objectifs, , estimer l'adéquation du besoin exprimé avec l'offre ou la roadmap, la faisabilité technique d'un accompagnement ;
-    - Ouvert à tout type de porteur 
-    - Les démarches à visée commerciale ne seront pas examinées;
-- Qualification: échange permettant de qualifier le plan projet, pour évaluer sa viabilité technique et, le cas échéant, l'effort technique d'accompagnement;
-- Accompagnement au lancement du projet et au suivi technique du projet;
-- 
-  
-A ce jour, plusieurs cas peuvent faire l'objet d'un accompagnement. Cette liste n'est pas close, le programme se reserve la possibilité droit d'accompagner les initiatives d'interet général ou de développement de l'offre à destination de la communauté de ses utilisateurs.
+## Condition d'accompagnement par le programme Cloud Pi Native
+Le programme propose son aide sur:
+- La préqualification: aide à l'analyse du besoin, détermination de l'offre adaptée (composants existants ou à développer);
+- La qualification: aide à la structuration d'un plan projet, préparation au lancement (prérequis, effort d'accompagnement à prévoir);
+- L'appui technique au lancement et suivi du projet: aide aux équipes techniques en charge du projet;
 
-liste des cas éligibibles pour accompagnement à la préqualification
-liste des cas éligibles pour accompagnement à la qualification
+
+
 
 - **Cas 1: projet "Cloud Pi Native"** projet de développement ou migration porté par une organisation ministérielle, qui sera déployé pour tout ou partie dans l'environnement souverain du Cloud Pi. Vous bénéficierez d'un accompagnement technique au lancement du projet à conditions de disposer du soutien d'un sponsor (responsable hiérarchique se portant garant du projet) et d'avoir validé les prérequis nécessaires à la réussite du projet.
 - **Cas 2: "expérimentation DSO interne"** expérimentation du composant "usine logicielle" de l'offre, portée par une organisation ministérielle. Un entretien de préqualification est nécessaire pour déterminer si un accompagnement technique peut être proposé. Ceci dépend de l'intéret des résultats de l'expérimentation pour l'ensemble de la communauté des utilisateurs et de la soutenabilité de l'effort d'accompagnement par le pogramme Cloud Pi Native;
@@ -77,7 +73,7 @@ Pour les cas cités plus haut, l'adresse de contact du programme est [cloudpinat
 > - Appuyez vous sur la [trame de préqualification du besoin](./diagnostic-prequalification.md) pour analyser votre besoin (contexte, financement/sponsor, cadre, ...) et vous assurer que votre démarche et bien comprise et soutenue par un sponsor.
 > - Si vous ête en recherche de sponsor, appuyez vous sur la trame de préqualification pour construire votre argumentaire.
 
->**Initiative accompagnée**: prendre contact par mail avec le programme Cloud Pi Native pour faire connaitre votre démarche en vous appuyant sur la trame de préqualification pour la décrire. :
+>**Initiative accompagnée**: prendre contact par mail avec le programme Cloud Pi Native pour faire connaitre votre démarche en vous appuyant sur la trame de préqualification pour la décrire.
 > - Projet porté par une entité ministérielle: un  entretien d'analyse de votre besoin sera programmé;
 > - Expérimentation portée par un acteur/une organisation "externe": un échange pourra être programmési votre initiative est partenariale, à visée d'interet général ou d'amélioration du socle de l'offre au bénéfice de la communauté des utilisateurs;
  
