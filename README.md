@@ -83,7 +83,8 @@ Les conditions d'accomapgnement seront détaillées à chaque étape du parcours
 > - Consulter les [ressources d'autoformation de l'étape 2](./formation_step2.md) et le cadre de cohérences technique dans lequel s'inscrit l'offre ([CCT Cloud Native](https://github.com/cloud-pi-native/cct-cloud-native));
 > - Appuyez vous sur la [trame de qualification](./modele-plan-projet.md) pour élaborer votre plan projet et vous assurer de vérifier les prérequis organisationnels (compétences, roles, modèle de responsabilités...) techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
 > - Si vous devez faire des demandes de ressources d'infrastructures et services, appuyez vous sur cette trame;
->**Conditions d'accompagnement**: 
+
+>**Pour bénéficier d'un accompagnement**:
 > - Projet porté par un acteur/une organisation rattachée à un ministère : appuyez vous sur le modèle de plan projet pour entretien de qualification technique;
 
 
