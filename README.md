@@ -12,8 +12,6 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - **Pour se former à titre individuel**: en consultant des ressources d'autoformation disponibles à chaque étape (voir le périmètre correspondant à ses responsabilités dans la section "se former à titre individuel");
 - **Pour embarquer rapidement une équipe projet**: en consultant, à chaque étape du parcours, la sélection d'éléments de [documentation de l'offre](https://github.com/cloud-pi-native/documentation), de connaissances théoriques et pratiques nécessaires à la prise en main. 
 
-***Conditions d'accompagnement**: selon le type de projet et l'organisation porteuse, un accompagnement par les équipes du programme Cloud Pi Native peut être mis en place. Nous invitons à consulter les conditions en introduction.*
-
 
 # Etapes du parcours d'embarquement/autoformation
 
