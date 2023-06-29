@@ -60,14 +60,14 @@ Pour se former à titre individuel, il est nécessaire d'identifier le périmèt
 
 L'accompagnement par les équipes du programme Cloud Pi Native consiste en:
 - Préqualification: aide à la structuration de la démarche et analyse de son adéquation avec l'offre (les composants: existants, inscrits ou à inscrire à la roadmap du programme);
-- Qualification: aide à la structuration du plan projet et, le cas échéant, estimation de l'effort d'accompagnement à prévoir;
-- Appui au lancement du projet et appui technique: aide/conseil des équipes techniques clientes en charge du projet;
+- Qualification: aide à la structuration du plan projet et, le cas échéant, estimation de l'effort technique et d'accompagnement à prévoir;
+- Accompagnement "technique" pour le lancement et le suivi du projet: aide/conseil des équipes techniques clientes en charge du projet;
 
-Les conditions d'accomapgnement seront détaillées à chaque étape du parcours.
+Les conditions d'accompagnement seront détaillées à chaque étape du parcours.
 
 ## Etape 1: argumenter l'opportunité du Cloud Native, analyser son besoin
 
-> **Objectifs et étapes clefs**: vous avez entendu parer de l'offre Cloud Pi Native et osuhaitez vous renseigner pour juger ou argumenter de son adéquation (ou non) avec votre besoin. Pour cela: 
+> **Objectifs et étapes clefs**: vous avez entendu parer de l'offre Cloud Pi Native et souhaitez vous renseigner pour juger ou argumenter de son adéquation (ou non) avec votre besoin. Pour cela: 
 > - Prenez connaissance la [page de présentation l'offre](https://dnum-mi.github.io/) et du [support de sensiblisation aux enjeux](./sensibilisation.md);
 > - Appuyez vous sur la [trame de préqualification du besoin](./diagnostic-prequalification.md) pour analyser votre besoin (contexte, financement/sponsor, cadre, ...) et vous assurer que votre démarche et bien comprise et soutenue par un sponsor.
 > - Si vous ête en recherche de sponsor, appuyez vous sur la trame de préqualification pour construire votre argumentaire.
