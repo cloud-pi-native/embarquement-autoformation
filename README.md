@@ -120,7 +120,7 @@ Les conditions d'accompagnement seront détaillées à chaque étape du parcours
 > - Projet à déployer sur le Cloud Pi :  assurez-vous d’avoir pris connaissance de la procédure de [demande d’hébergement]( https://pi.interieur.rie.gouv.fr/home-dnum/infrastructure-et-dev/hebergement-et-reseau/hebergement/)
 
 
-## Etape 4: passer en production, construire dans le respect des normes
+## Etape 4: passer en production, construire dans le respect des normes "Cloud Native"
 >**Objectif et étapes clefs**: vous avez réalisé une version suffisamment représentative de votre produit (MVP) en environnement de développement. Vous souhaitez maintenant déployer votre produit dans un environnement de production et vous assurer que le cadre de normes est respecté.
 >- Provisionner vos ressources
 > - Consulter les [ressources de formation de l'étape 4](./formation_step4.md)
@@ -130,7 +130,7 @@ Les conditions d'accompagnement seront détaillées à chaque étape du parcours
 >- Réaliser une [demande d'hébergement sur le Cloud Pi](https://resana.numerique.gouv.fr/public/document/consulter/7054535) (section à venir)
 
 
-## Etape 5: atteindre les meilleurs standards, évoluer en continu
+## Etape 5: atteindre les meilleurs standards du "Cloud Native", évoluer en continu
 >**Objectif et étapes clefs**: L'équipe construit, opère et fait évoluer ses produits en autonomie, dans le respect des normes. L’équipes souhaite maintenant mettre en place l’ensemble des bonnes pratiques pour répondre aux meilleurs standards de qualité et de sécurité, tout en évoluant en continu.
 
 >- Mettre en place les bonnes pratiques et les moyens de leur suivi
