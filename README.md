@@ -73,7 +73,7 @@ Responsables de la pertinence des décisions stratégiques ce qui recouvre, plus
 | Cas |Organisation porteuse|Démarche| Eligible à un accompagnement sur |
 |----| -------------- | --------------- | ------------------------ |
 |1| Organisation rattachée à un ministère | Déploiement ou migration d’un projet sur le Cloud Pi | Préqualification, qualification, appui au lancement et suivi |
-|2| Organisation rattachée à un ministère | Expérimentation de l’usine logicielle sur d'autres infra | Préqualification, qualification et/ou appui au lancement|
+|2| Organisation rattachée à un ministère | Expérimentation de l’usine logicielle sur d'autres infra | Préqualification, qualification, appui au lancement à définir|
 |3| Organisation externe | Expérimentation pour initiative partenariale | Préqualification |
 |4| Organisation externe | Expérimentation en autonomie | Pas d’accompagnement |
 
@@ -86,58 +86,59 @@ Les conditions d'accompagnement seront détaillées à chaque étape du parcours
 
 ## Etape 1: argumenter l'opportunité du Cloud Native, analyser son besoin
 
-> **Objectifs et étapes clefs**: vous avez entendu parer de l'offre Cloud Pi Native et souhaitez vous renseigner pour juger ou argumenter de son adéquation (ou non) avec votre besoin. Pour cela: 
-> - Prenez connaissance la [page de présentation l'offre](https://dnum-mi.github.io/) et du [support de sensiblisation aux enjeux](./sensibilisation.md);
-> - Appuyez vous sur la [trame de préqualification](./diagnostic-prequalification.md) pour analyser votre besoin (contexte, objectifs, moyens ...) et décrire votre démarche;
-> - Si vous ête en recherche de sponsor, appuyez-vous sur la trame de préqualification pour construire un argumentaire;
+> **Objectifs et étapes clefs**: vous avez entendu parler de l'offre Cloud Pi Native et souhaitez-vous renseigner pour juger ou argumenter de son adéquation (ou non) avec votre besoin. Pour cela: 
+> - Prenez connaissance la [page de présentation l'offre](https://dnum-mi.github.io/) et du [support de sensibilisation aux enjeux](./sensibilisation.md);
+> - Appuyez-vous sur la [trame de préqualification](./diagnostic-prequalification.md) pour analyser votre besoin (contexte, objectifs, moyens ...) et décrire votre démarche;
+> - Si vous êtes en recherche de sponsor, appuyez-vous sur la trame de préqualification pour construire un argumentaire;
 
->**Pour bénéficier d'un accompagnement**: prenez contact par mail avec le programme Cloud Pi Native pour faire connaitre votre démarche (s'appuyer sur la trame de préqualification pour la décrire) et programmer un entretien de préqualification.
-> - Acteurs ministériels: assurez vous de bénéficier du soutien d'un sponsor;
-> - Acteurs externes: aucune démarche commerciale ne sera étudiée. Nous accompagnons les initiatives partenariales, à visée d'interet général ou de contribution à l'offre communautaire;
+>**Eligibles à un accompagnement**: prenez contact par mail avec le programme Cloud Pi Native pour faire connaitre votre démarche et programmer un entretien de préqualification.
+> - Acteurs ministériels: assurez-vous, auprès de votre hiérarchie, que votre démarche s’inscrit bien dans un projet financé et soutenu ;
+> - Acteurs externes: aucune démarche commerciale ne sera étudiée. Nous accompagnons les initiatives partenariales, à visée d'intérêt général ou de contribution à l'offre communautaire;
 
- 
+
 ## Etape 2: structurer son plan projet, se préparer
->**Objectif et étapes clefs**: vous avez établi l'interet/l'adéquation de l'offre proposée avec votre besoin. Vous souhaitez maintenant savoir à quoi vous engage le fait de la consommer et comment vous y préparer. Pour cela: 
+>**Objectif et étapes clefs**: vous avez établi de l'adéquation de l'offre proposée avec votre besoin. Vous souhaitez maintenant savoir à quoi vous engage le fait de la consommer et comment vous y préparer. Pour cela: 
 > - Consulter les [ressources d'autoformation de l'étape 2](./formation_step2.md) et le cadre de cohérences technique dans lequel s'inscrit l'offre ([CCT Cloud Native](https://github.com/cloud-pi-native/cct-cloud-native));
-> - Appuyez vous sur la [trame de qualification](./modele-plan-projet.md) pour élaborer votre plan projet et vous assurer de vérifier les prérequis organisationnels (compétences, roles, modèle de responsabilités...) techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
-> - Si vous devez faire des demandes de ressources d'infrastructures et services, appuyez vous sur cette trame;
+> - Appuyez-vous sur la [trame de qualification](./modele-plan-projet.md) pour élaborer votre plan projet et vous assurer de vérifier les prérequis organisationnels (compétences, roles, modèle de responsabilités...) techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
+> - Si vous devez faire des demandes de ressources d'infrastructures, prenez connaissance des démarches à engager;
 
->**Pour bénéficier d'un accompagnement**: appuyez vous sur la trame de qualification pour construire votre modèle de plan projet.
-> - Projet porté par un acteur/une organisation rattachée à un ministère :  pour entretien de qualification technique;
+>**Eligibles à un accompagnement**: appuyez-vous sur la trame de qualification pour préparer votre plan projet.
+> - Projet porté par un acteur/une organisation rattachée à un ministère :  sollicitez un entretien de qualification technique;
+> - Initiative partenariale portée par un acteur externe : merci de communiquer votre plan projet au programme Cloud Pi Native, qui se réserve la possibilité de programmer un entretien de qualification;
 
-
-- **Cas 1: projet "Cloud Pi Native"** projet de développement ou migration porté par une organisation ministérielle, qui sera déployé pour tout ou partie dans l'environnement souverain du Cloud Pi. Vous bénéficierez d'un accompagnement technique au lancement du projet à conditions de disposer du soutien d'un sponsor (responsable hiérarchique se portant garant du projet) et d'avoir validé les prérequis nécessaires à la réussite du projet.
-- **Cas 2: "expérimentation DSO interne"** expérimentation du composant "usine logicielle" de l'offre, portée par une organisation ministérielle. Un entretien de préqualification est nécessaire pour déterminer si un accompagnement technique peut être proposé. Ceci dépend de l'intéret des résultats de l'expérimentation pour l'ensemble de la communauté des utilisateurs et de la soutenabilité de l'effort d'accompagnement par le pogramme Cloud Pi Native;
-- **Cas 3: expérimentation externe** expérimentation en autonomie par un acteur externe ou une organisation ne relevant pas d'un ministère ou hors du secteur public. Ces démarches ne peuvent pas faire l'objet d'un accompagnement technique par le programme Cloud Pi Native. Vous pouvez en revanche prendre connaissance, expérimenter ou contribuer aux éléments mis à disposition (console, socle technique, cadre de cohérence technique Cloud Native...) et nous faire part d'initiatives partenariales
 
 ## Etape3: lancer son projet dans un environnement de développement "Cloud native", expérimenter
->**Objectif et étapes clefs**: vous avez élaboré un plan projet. Vous souhaitez maintenant utiliser l'offre pour lancer votre projet dans un environnement de développement. Pour cela:
+>**Objectif et étapes clefs**: vous avez élaboré votre plan projet. Vous souhaitez maintenant utiliser l'offre pour lancer votre projet dans un environnement de développement. Pour cela:
 > - Consultez les [ressources de formation de l'étape 3](./formation_step3.md)
-> - Appuyez vous sur la [documentation de l'offre](https://github.com/cloud-pi-native/documentation) pour:
+> - Appuyez-vous sur la [documentation de l'offre](https://github.com/cloud-pi-native/documentation) pour:
 >   - Vérifier les prérequis;
 >   - Réaliser un "Hello world"
 >   - Déployer un MVP dans l'environnement de développement;
->**Initiative accompagnée**: 
->- Projet porté par un acteur/une organisation rattachée à un ministère sur le Cloud Pi: réalisation d'un entretien technique pour qualifier le projet et définir une roadmap d'accompagnement. Utilisation du bac à sable.
+
+>**Eligibles à un accompagnement**: vous avez obtenu un entretien de qualification pour définir une roadmap d’accompagnement.
+> - Projet porté par un acteur/une organisation rattachée à un ministère :  assurez-vous de présenter les prérequis et préparez vos questions/besoins en formation.
+> - Projet à déployer sur le Cloud Pi :  assurez-vous d’avoir pris connaissance de la procédure de [demande d’hébergement]( https://pi.interieur.rie.gouv.fr/home-dnum/infrastructure-et-dev/hebergement-et-reseau/hebergement/)
 
 
-## Etape 4: passer en production, appréhender le Cloud souverain "Pi"
->**Objectif et étapes clefs**: vous avez réalisé une version suffisemment représentative de votre produit (MVP) en environnement de développement et les tests réalisés attestent que le cadre de normes est respecté. Vous souhaitez maintenant déployer votre produit dans un environnement de production.
->- Provisionner ses ressources
+## Etape 4: passer en production, construire dans le respect des normes
+>**Objectif et étapes clefs**: vous avez réalisé une version suffisamment représentative de votre produit (MVP) en environnement de développement. Vous souhaitez maintenant déployer votre produit dans un environnement de production et vous assurer que le cadre de normes est respecté.
+>- Provisionner vos ressources
 > - Consulter les [ressources de formation de l'étape 4](./formation_step4.md)
-> - Appuyez vous sur la [documentation de l'offre](https://github.com/cloud-pi-native/documentation) pour déployer votre produit;
->**Initiative accompagnée**: 
->- Réaliser une [demande d'hébergement sur le Cloud Pi](https://resana.numerique.gouv.fr/public/document/consulter/7054535)
+> - Appuyez-vous sur la [documentation de l'offre](https://github.com/cloud-pi-native/documentation) pour déployer votre produit dans l’environnement de production;
+
+>**Eligibles à un accompagnement**: 
+>- Réaliser une [demande d'hébergement sur le Cloud Pi](https://resana.numerique.gouv.fr/public/document/consulter/7054535) (section à venir)
 
 
-## Etape 5: atteindre les meilleurs standards ("état de l'art "cloud native"), évoluer en production 
->**Objectif et étapes clefs**: L'équipe construit, opére et fait évoluer ses produits en autonomie. Les produits livrés en production sont conformes aux meilleurs standards de qualité et de sécurité. Elle a mis en place des bonnes pratiques et les monitore pour s'assurer de leur continuité.
+## Etape 5: atteindre les meilleurs standards, évoluer en continu
+>**Objectif et étapes clefs**: L'équipe construit, opère et fait évoluer ses produits en autonomie, dans le respect des normes. L’équipes souhaite maintenant mettre en place l’ensemble des bonnes pratiques pour répondre aux meilleurs standards de qualité et de sécurité, tout en évoluant en continu.
 
 >- Mettre en place les bonnes pratiques et les moyens de leur suivi
 
 >- Assurer la continuité de service et des bonnes pratiques lors des évolutions du produit 
 
 > **Ressources:** [évoluer en production](./formation_step5.md)
+
 
 
 
