@@ -51,11 +51,11 @@ Pour se former à titre individuel, il est nécessaire d'identifier le périmèt
 
 ## Quelles démarches sont accompagnées par le programme Cloud Pi Native?
 
-| Cas |Organisation porteuse|Démarche| Type d'aide |
+| Cas |Organisation porteuse|Démarche| Eligible à un accompagnement sur |
 |----| -------------- | --------------- | ------------------------ |
-|1|Organisation rattachée à un ministère | Déploiement ou migration d’un projet sur le Cloud Pi | préqualification, qualification, appui au lancement et suivi |
-|2| Organisation rattachée à un ministère | Expérimentation de l’usine logicielle sur d'autres infra | préqualification, qualification et/ou appui au lancement|
-|3| Organisation externe | Expérimentation pour initiative partenariale | préqualification |
+|1| Organisation rattachée à un ministère | Déploiement ou migration d’un projet sur le Cloud Pi | Préqualification, qualification, appui au lancement et suivi |
+|2| Organisation rattachée à un ministère | Expérimentation de l’usine logicielle sur d'autres infra | Préqualification, qualification et/ou appui au lancement|
+|3| Organisation externe | Expérimentation pour initiative partenariale | Préqualification |
 |4| Organisation externe | Expérimentation en autonomie | Pas d’accompagnement |
 
 L'accompagnement par les équipes du programme Cloud Pi Native consiste en:
@@ -84,8 +84,8 @@ Les conditions d'accompagnement seront détaillées à chaque étape du parcours
 > - Appuyez vous sur la [trame de qualification](./modele-plan-projet.md) pour élaborer votre plan projet et vous assurer de vérifier les prérequis organisationnels (compétences, roles, modèle de responsabilités...) techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
 > - Si vous devez faire des demandes de ressources d'infrastructures et services, appuyez vous sur cette trame;
 
->**Pour bénéficier d'un accompagnement**:
-> - Projet porté par un acteur/une organisation rattachée à un ministère : appuyez vous sur le modèle de plan projet pour entretien de qualification technique;
+>**Pour bénéficier d'un accompagnement**: appuyez vous sur la trame de qualification pour construire votre modèle de plan projet.
+> - Projet porté par un acteur/une organisation rattachée à un ministère :  pour entretien de qualification technique;
 
 
 - **Cas 1: projet "Cloud Pi Native"** projet de développement ou migration porté par une organisation ministérielle, qui sera déployé pour tout ou partie dans l'environnement souverain du Cloud Pi. Vous bénéficierez d'un accompagnement technique au lancement du projet à conditions de disposer du soutien d'un sponsor (responsable hiérarchique se portant garant du projet) et d'avoir validé les prérequis nécessaires à la réussite du projet.
