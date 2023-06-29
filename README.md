@@ -88,13 +88,12 @@ Les conditions d'accompagnement seront détaillées à chaque étape du parcours
 
 > **Objectifs et étapes clefs**: vous avez entendu parer de l'offre Cloud Pi Native et souhaitez vous renseigner pour juger ou argumenter de son adéquation (ou non) avec votre besoin. Pour cela: 
 > - Prenez connaissance la [page de présentation l'offre](https://dnum-mi.github.io/) et du [support de sensiblisation aux enjeux](./sensibilisation.md);
-> - Appuyez vous sur la [trame de préqualification du besoin](./diagnostic-prequalification.md) pour analyser votre besoin (contexte, financement/sponsor, cadre, ...) et vous assurer que votre démarche et bien comprise et soutenue par un sponsor.
-> - Si vous ête en recherche de sponsor, appuyez vous sur la trame de préqualification pour construire votre argumentaire.
+> - Appuyez vous sur la [trame de préqualification](./diagnostic-prequalification.md) pour analyser votre besoin (contexte, objectifs, moyens ...) et décrire votre démarche;
+> - Si vous ête en recherche de sponsor, appuyez-vous sur la trame de préqualification pour construire un argumentaire;
 
->**Pour bénéficier d'un accompagnement**: cas 1, 2, 3 vous pouvez prendre contact par mail avec le programme Cloud Pi Native pour faire connaitre votre démarche (s'appuyer sur la trame de préqualification pour la décrire) et programmer un entretien de préqualification.
-> - Aucune démarche commerciale ne sera étudiée;
-> - Toute initiative partenariale, à visée d'interet général ou de contribution à l'offre communautaire sera étudiée;
-
+>**Pour bénéficier d'un accompagnement**: prenez contact par mail avec le programme Cloud Pi Native pour faire connaitre votre démarche (s'appuyer sur la trame de préqualification pour la décrire) et programmer un entretien de préqualification.
+> - Acteurs ministériels: assurez vous de bénéficier du soutien d'un sponsor;
+> - Acteurs externes: aucune démarche commerciale ne sera étudiée. Nous accompagnons les initiatives partenariales, à visée d'interet général ou de contribution à l'offre communautaire;
 
  
 ## Etape 2: structurer son plan projet, se préparer
