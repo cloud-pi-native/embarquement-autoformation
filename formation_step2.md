@@ -1,4 +1,4 @@
-# Etape 2 structurer son projet
+# Etape 2: structurer son projet
 
 ## Compétences à acquérir
 Quels sont les concepts technologiques, méthodologiques et organisationnels mis -en avant et -comment puis-je les comprendre ?
