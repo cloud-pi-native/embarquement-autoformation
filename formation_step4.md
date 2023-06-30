@@ -1,4 +1,4 @@
-# Etpae 4: passer en production
+# Etape 4: passer en production
 
 ## Compétences à acquérir
 - Culture générale: Assurer la sécurité et la qualité dans "le nouveau monde logiciel" (zéro-trust)
