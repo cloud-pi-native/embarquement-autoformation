@@ -78,33 +78,33 @@ Responsables de la pertinence des décisions stratégiques ce qui recouvre, plus
 |4| Organisation externe | Expérimentation en autonomie | Pas d’accompagnement |
 
 L'accompagnement par les équipes du programme Cloud Pi Native consiste en:
-- Préqualification: aide à la structuration de la démarche et analyse de son adéquation avec l'offre (les composants: existants, inscrits ou à inscrire à la roadmap du programme);
-- Qualification: aide à la structuration du plan projet et, le cas échéant, estimation de l'effort technique et d'accompagnement à prévoir;
-- Accompagnement "technique" pour le lancement et le suivi du projet: aide/conseil des équipes techniques clientes en charge du projet;
+- **Préqualification:** aide à la structuration de la démarche et analyse de son adéquation avec l'offre (les composants: existants, inscrits ou à inscrire à la roadmap du programme);
+- **Qualification:** aide à la structuration du plan projet et, le cas échéant, estimation de l'effort technique et d'accompagnement à prévoir;
+- **Accompagnement technique:** aide/conseil des équipes techniques clientes en charge du projet pour le lancement et/ou le suivi de leur projet;
 
 Les conditions d'accompagnement seront détaillées à chaque étape du parcours.
 
-## Etape 1: argumenter l'opportunité du Cloud Native, analyser son besoin
+## Etape 1: analyser l'opportunité du Cloud Native, argumenter son besoin
 
 > **Objectifs et étapes clefs**: vous avez entendu parler de l'offre Cloud Pi Native et souhaitez-vous renseigner pour juger ou argumenter de son adéquation (ou non) avec votre besoin. Pour cela: 
 > - Prenez connaissance la [page de présentation l'offre](https://dnum-mi.github.io/) et du [support de sensibilisation aux enjeux](./sensibilisation.md);
 > - Appuyez-vous sur la [trame de préqualification](./diagnostic-prequalification.md) pour analyser votre besoin (contexte, objectifs, moyens ...) et décrire votre démarche;
 > - Si vous êtes en recherche de sponsor, appuyez-vous sur la trame de préqualification pour construire un argumentaire;
 
->**Eligibles à un accompagnement**: prenez contact par mail avec le programme Cloud Pi Native pour faire connaitre votre démarche et programmer un entretien de préqualification.
+>**Eligibles à un accompagnement**: prenez contact par mail avec le programme Cloud Pi Native pour faire connaitre votre démarche. Elle pourra être approfondie dans el cadre d'un entretien de préqualification.
 > - Acteurs ministériels: assurez-vous, auprès de votre hiérarchie, que votre démarche s’inscrit bien dans un projet financé et soutenu ;
 > - Acteurs externes: aucune démarche commerciale ne sera étudiée. Nous accompagnons les initiatives partenariales, à visée d'intérêt général ou de contribution à l'offre communautaire;
 
 
 ## Etape 2: structurer son plan projet, se préparer
->**Objectif et étapes clefs**: vous avez établi de l'adéquation de l'offre proposée avec votre besoin. Vous souhaitez maintenant savoir à quoi vous engage le fait de la consommer et comment vous y préparer. Pour cela: 
+>**Objectif et étapes clefs**: vous avez établi l'adéquation de l'offre proposée avec votre besoin. Vous souhaitez maintenant savoir à quoi vous engage le fait de la consommer et comment vous y préparer. Pour cela: 
 > - Consulter les [ressources d'autoformation de l'étape 2](./formation_step2.md) et le cadre de cohérences technique dans lequel s'inscrit l'offre ([CCT Cloud Native](https://github.com/cloud-pi-native/cct-cloud-native));
 > - Appuyez-vous sur la [trame de qualification](./modele-plan-projet.md) pour élaborer votre plan projet et vous assurer de vérifier les prérequis organisationnels (compétences, roles, modèle de responsabilités...) techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
-> - Si vous devez faire des demandes de ressources d'infrastructures, prenez connaissance des démarches à engager;
+> - Si vous devez faire des demandes de ressources d'infrastructures, prenez connaissance à cette étape des démarches à engager;
 
->**Eligibles à un accompagnement**: appuyez-vous sur la trame de qualification pour préparer votre plan projet.
-> - Projet porté par un acteur/une organisation rattachée à un ministère :  sollicitez un entretien de qualification technique;
-> - Initiative partenariale portée par un acteur externe : merci de communiquer votre plan projet au programme Cloud Pi Native, qui se réserve la possibilité de programmer un entretien de qualification;
+>**Eligibles à un accompagnement**: préparez votre plan projet.
+> - Projet porté par un acteur/une organisation rattachée à un ministère : sollicitez un entretien de qualification technique du plan projet;
+> - Initiative partenariale portée par un acteur externe : merci de communiquer votre plan projet au programme Cloud Pi Native, qui se réserve la possibilité de programmer un entretien de qualification (interet général ou pour la communauté);
 
 
 ## Etape3: lancer son projet dans un environnement de développement "Cloud native", expérimenter
@@ -112,8 +112,8 @@ Les conditions d'accompagnement seront détaillées à chaque étape du parcours
 > - Consultez les [ressources de formation de l'étape 3](./formation_step3.md)
 > - Appuyez-vous sur la [documentation de l'offre](https://github.com/cloud-pi-native/documentation) pour:
 >   - Vérifier les prérequis;
->   - Réaliser un "Hello world"
->   - Déployer un MVP dans l'environnement de développement;
+>   - Vous exercer et réaliser un "Hello world"
+>   - Déployer un MVP en environnement de développement;
 
 >**Eligibles à un accompagnement**: vous avez obtenu un entretien de qualification pour définir une roadmap d’accompagnement.
 > - Projet porté par un acteur/une organisation rattachée à un ministère :  assurez-vous de présenter les prérequis et préparez vos questions/besoins en formation.
@@ -132,9 +132,7 @@ Les conditions d'accompagnement seront détaillées à chaque étape du parcours
 
 ## Etape 5: atteindre les meilleurs standards du "Cloud Native", évoluer en continu
 >**Objectif et étapes clefs**: L'équipe construit, opère et fait évoluer ses produits en autonomie, dans le respect des normes. L’équipes souhaite maintenant mettre en place l’ensemble des bonnes pratiques pour répondre aux meilleurs standards de qualité et de sécurité, tout en évoluant en continu.
-
 >- Mettre en place les bonnes pratiques et les moyens de leur suivi
-
 >- Assurer la continuité de service et des bonnes pratiques lors des évolutions du produit 
 
 > **Ressources:** [évoluer en production](./formation_step5.md)
