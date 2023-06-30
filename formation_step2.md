@@ -1,4 +1,6 @@
-# Compétences à acquérir
+# Etape 2 structurer son projet
+
+## Compétences à acquérir
 Quels sont les concepts technologiques, méthodologiques et organisationnels mis -en avant et -comment puis-je les comprendre ?
 - Culture générale: comprendre ce que sont les opportunités dont les grands acteurs du numériques ont tirés parti (cloud, kubernetes, DevSecOps,...)
 - Culture Cloud Native: Comprendre les concepts technologiques de conteneurisation et d'orchestration (kubernetes)
@@ -18,15 +20,18 @@ Quels sont les concepts technologiques, méthodologiques et organisationnels mis
 - Concepts de base: les "objets" kubernetes https://kubernetes.io/fr/docs/concepts/
 - Prendre en main kubernetes en 5 min avec un tutoriel "pour tous" https://kubernetes.io/fr/docs/tutorials/kubernetes-basics/
 
-## L'offre Cloud Pi Native
-- A venir: offre DSO, DSOaaS, Cloud Pi, Cloud Pi Native
-- A venir: décripter les exigences du CCT Cloud Native
 
-# Pour aller plus loin
-- Qu'est ce que le DevOps : https://publication.octo.com/fr/telechargement-livre-blanc-decouverte-devops
+# Formation à titre individuel
+
+## Périmètre gouvernance/décisionnaire
 - Gestion des achats et fournisseurs dans les projets numériques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=495 
 - Introduction à Kubernetes: https://www.udemy.com/course/la_plateforme_k8s/
 
+## Périmètre pilotage MOE
+- Manager une equipe produit, cloud, agile: https://www.udemy.com/course/les-fondamentaux-de-lagilite-scrum/"
+  Manager à l'ère du cloud : https://www.udemy.com/course/cloud-computing-for-beginners-infrastructure-as-a-service/"
+
+## Périmètre technique 
 - Formation externe (Wescale): https://training.wescale.fr/formations/conteneurs-kubernetes-fondamentaux.
 - Documentation officielle k8s: https://kubernetes.io/fr/docs/concepts/
 - Formation externe (Wescale): https://blog.wescale.fr/kubernetes-pour-les-nuls
@@ -35,12 +40,11 @@ Quels sont les concepts technologiques, méthodologiques et organisationnels mis
 - Concepts-clef, "la persistance" https://kubernetes.io/fr/docs/concepts/storage/persistent-volumes/
 - Concept-clef "les opérateurs kubernetes": https://blog.wescale.fr/3-exemples-pour-comprendre-les-op%C3%A9rateurs-kubernetes
 
-- Manager à l'ère du cloud : https://www.udemy.com/course/cloud-computing-for-beginners-infrastructure-as-a-service/"
-- Manager une equipe produit, cloud, agile: https://www.udemy.com/course/les-fondamentaux-de-lagilite-scrum/"
-
-
+# Ressources à venir
+- A venir: offre DSO, DSOaaS, Cloud Pi, Cloud Pi Native
+- A venir: décripter les exigences du CCT Cloud Native
 - A venir: comment kubernetes a permis de supporter les grands acteurs du numérique
-- A venir: ppréhender la complexité
+- A venir: appréhender la complexité
 - Mener la primo conception d'un produit lean start-up + architecture (IaC, notions de réseau, Chaine CI/CD, ressources Cloud
 - Notions d'automatisation, disponibilité, modularité, exploitabilité/observabilité (contenu Nubothon)
 
