@@ -109,7 +109,7 @@ Responsables de la pertinence des décisions stratégiques ce qui recouvre, plus
 > - Initiative partenariale portée par un acteur externe : merci de communiquer votre plan projet au programme Cloud Pi Native, qui se réserve la possibilité de programmer un entretien de qualification (interet général ou pour la communauté);
 
 
-## Etape3: lancer son projet dans un environnement de développement "Cloud native"
+## Etape 3: lancer son projet dans un environnement de développement "Cloud native"
 >**Objectif et étapes clefs**: vous avez élaboré votre plan projet. Vous souhaitez maintenant utiliser l'offre pour lancer votre projet dans un environnement de développement. Pour cela:
 > - Consultez les [ressources de formation de l'étape 3](./formation_step3.md)
 > - Appuyez-vous sur la [documentation de l'offre](https://github.com/cloud-pi-native/documentation) pour:
