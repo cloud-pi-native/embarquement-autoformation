@@ -29,7 +29,7 @@ Quels sont les concepts technologiques, méthodologiques et organisationnels mis
 
 ## Périmètre pilotage MOE
 - Manager une equipe produit, cloud, agile: https://www.udemy.com/course/les-fondamentaux-de-lagilite-scrum/"
-  Manager à l'ère du cloud : https://www.udemy.com/course/cloud-computing-for-beginners-infrastructure-as-a-service/"
+- Manager à l'ère du cloud : https://www.udemy.com/course/cloud-computing-for-beginners-infrastructure-as-a-service/"
 
 ## Périmètre technique 
 - Formation externe (Wescale): https://training.wescale.fr/formations/conteneurs-kubernetes-fondamentaux.
