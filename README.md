@@ -29,13 +29,13 @@ Le parcours comporte 5 étapes "d'embarquement", de la prise de connaissance de 
 
 </details>
 
-## Quelles démarches sont accompagnées par le programme Cloud Pi Native?
+## Quelles démarches peuvent être accompagnées par le programme Cloud Pi Native?
 Les équipes du programme Cloud Pi Native proposent un accompagnement sur:
 - **Préqualification:** aide à la structuration de la démarche et analyse de son adéquation avec l'offre (les composants: existants, inscrits ou à inscrire à la roadmap du programme);
 - **Qualification:** aide à la structuration du plan projet et, le cas échéant, estimation de l'effort technique et d'accompagnement à prévoir;
 - **Accompagnement technique:** aide/conseil des équipes techniques clientes en charge du projet pour le lancement et/ou le suivi de leur projet;
 
-| Cas |Organisation porteuse|Démarche| Type d'accompagnement éligible|
+| Cas |Organisation porteuse|Démarche| Types d'accompagnement éligible|
 |----| -------------- | --------------- | ------------------------ |
 |1| Organisation rattachée à un ministère | Déploiement ou migration d’un projet sur le Cloud Pi | Préqualification, qualification, appui au lancement et suivi |
 |2| Organisation rattachée à un ministère | Expérimentation de l’usine logicielle sur d'autres infrastructures | Préqualification, qualification, appui au lancement à définir|
