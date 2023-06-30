@@ -33,7 +33,9 @@ Le parcours comporte 5 étapes "d'embarquement", de la prise de connaissance de 
 
 Pour se former à titre individuel, il est nécessaire d'identifier le périmètre correspondant aux responsabiltiés que l'on exerce: 
 
-1) **Périmètre "technique"**: ressources spécifiques aux composants de l'offre Cloud Pi Native destinées aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques, tout au long de leur cycle de vie. 
+1) **Périmètre "technique"**: ressources spécifiques aux composants de l'offre Cloud Pi Native destinées aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques, tout au long de leur cycle de vie. Cela peut être:
+- Pour développer et opérer des produits;
+- Pour mettre en place et assurer la fiabilité des systèmes de production (SRE).
 
 <details>
 
