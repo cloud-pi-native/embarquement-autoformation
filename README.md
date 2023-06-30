@@ -10,7 +10,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 # Pour quoi faire ?
 - **Pour se former à titre individuel**: en consultant des ressources d'autoformation disponibles à chaque étape (voir le périmètre correspondant à ses responsabilités dans la section "se former à titre individuel");
-- **Pour embarquer rapidement une équipe projet**: en consultant, à chaque étape du parcours, la sélection d'éléments de [documentation de l'offre](https://github.com/cloud-pi-native/documentation), de connaissances théoriques et pratiques nécessaires à la prise en main. 
+- **Pour embarquer rapidement une équipe projet**: en consultant, à chaque étape du parcours, la sélection d'éléments de [documentation de l'offre](https://github.com/cloud-pi-native/documentation), de connaissances théoriques et pratiques nécessaires. 
 
 
 # Etapes du parcours d'embarquement/autoformation
@@ -50,8 +50,8 @@ Les conditions d'accompagnement seront détaillées à chaque étape du parcours
 Pour se former à titre individuel, il est nécessaire d'identifier le périmètre correspondant aux responsabiltiés que l'on exerce: 
 
 1) **Périmètre "technique"**: ressources spécifiques aux composants de l'offre Cloud Pi Native destinées aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques, tout au long de leur cycle de vie. Cela peut être:
-- Directement, pour développer et opérer des produits;
-- Indirectement, pour mettre en place et assurer la fiabilité des systèmes de production nécessaires (SRE).
+    - Directement, pour développer et opérer des produits;
+    - Indirectement, pour mettre en place et assurer la fiabilité des systèmes de production nécessaires (SRE).
 
 <details>
 
@@ -86,7 +86,7 @@ Responsables de la pertinence des décisions stratégiques ce qui recouvre, plus
 
 # Utilisation pour l'embarquement d'une équipe projet
 
-## Etape 1: analyser l'opportunité du Cloud Native, argumenter son besoin
+## Etape 1: comprendre l'opportunité du Cloud Native
 
 > **Objectifs et étapes clefs**: vous avez entendu parler de l'offre Cloud Pi Native et souhaitez-vous renseigner pour juger ou argumenter de son adéquation (ou non) avec votre besoin. Pour cela: 
 > - Prenez connaissance la [page de présentation l'offre](https://dnum-mi.github.io/) et du [support de sensibilisation aux enjeux](./sensibilisation.md);
@@ -98,7 +98,7 @@ Responsables de la pertinence des décisions stratégiques ce qui recouvre, plus
 > - Acteurs externes: aucune démarche commerciale ne sera étudiée. Nous accompagnons les initiatives partenariales, à visée d'intérêt général ou de contribution à l'offre communautaire;
 
 
-## Etape 2: structurer son plan projet, se préparer
+## Etape 2: préparer son projet "cloud native"
 >**Objectif et étapes clefs**: vous avez établi l'adéquation de l'offre proposée avec votre besoin. Vous souhaitez maintenant savoir à quoi vous engage le fait de la consommer et comment vous y préparer. Pour cela: 
 > - Consulter les [ressources d'autoformation de l'étape 2](./formation_step2.md) et le cadre de cohérences technique dans lequel s'inscrit l'offre ([CCT Cloud Native](https://github.com/cloud-pi-native/cct-cloud-native));
 > - Appuyez-vous sur la [trame de qualification](./modele-plan-projet.md) pour élaborer votre plan projet et vous assurer de vérifier les prérequis organisationnels (compétences, roles, modèle de responsabilités...) techniques (complexité, technologies, ...), compréhension du cadre de normes, évaluation des éventuels besoins de formation...
@@ -109,7 +109,7 @@ Responsables de la pertinence des décisions stratégiques ce qui recouvre, plus
 > - Initiative partenariale portée par un acteur externe : merci de communiquer votre plan projet au programme Cloud Pi Native, qui se réserve la possibilité de programmer un entretien de qualification (interet général ou pour la communauté);
 
 
-## Etape3: lancer son projet dans un environnement de développement "Cloud native", expérimenter
+## Etape3: lancer son projet dans un environnement de développement "Cloud native"
 >**Objectif et étapes clefs**: vous avez élaboré votre plan projet. Vous souhaitez maintenant utiliser l'offre pour lancer votre projet dans un environnement de développement. Pour cela:
 > - Consultez les [ressources de formation de l'étape 3](./formation_step3.md)
 > - Appuyez-vous sur la [documentation de l'offre](https://github.com/cloud-pi-native/documentation) pour:
@@ -124,7 +124,7 @@ Responsables de la pertinence des décisions stratégiques ce qui recouvre, plus
 
 ## Etape 4: passer en production, construire dans le respect des normes "Cloud Native"
 >**Objectif et étapes clefs**: vous avez réalisé une version suffisamment représentative de votre produit (MVP) en environnement de développement. Vous souhaitez maintenant déployer votre produit dans un environnement de production et vous assurer que le cadre de normes est respecté.
->- Provisionner vos ressources
+> - Provisionner vos ressources
 > - Consulter les [ressources de formation de l'étape 4](./formation_step4.md)
 > - Appuyez-vous sur la [documentation de l'offre](https://github.com/cloud-pi-native/documentation) pour déployer votre produit dans l’environnement de production;
 
