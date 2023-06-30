@@ -29,13 +29,29 @@ Le parcours comporte 5 étapes "d'embarquement", de la prise de connaissance de 
 
 </details>
 
+## Quelles démarches sont accompagnées par le programme Cloud Pi Native?
+Les équipes du programme Cloud Pi Native proposent un accompagnement sur:
+- **Préqualification:** aide à la structuration de la démarche et analyse de son adéquation avec l'offre (les composants: existants, inscrits ou à inscrire à la roadmap du programme);
+- **Qualification:** aide à la structuration du plan projet et, le cas échéant, estimation de l'effort technique et d'accompagnement à prévoir;
+- **Accompagnement technique:** aide/conseil des équipes techniques clientes en charge du projet pour le lancement et/ou le suivi de leur projet;
+
+| Cas |Organisation porteuse|Démarche| Type d'accompagnement éligible|
+|----| -------------- | --------------- | ------------------------ |
+|1| Organisation rattachée à un ministère | Déploiement ou migration d’un projet sur le Cloud Pi | Préqualification, qualification, appui au lancement et suivi |
+|2| Organisation rattachée à un ministère | Expérimentation de l’usine logicielle sur d'autres infra | Préqualification, qualification, appui au lancement à définir|
+|3| Organisation externe | Expérimentation pour initiative partenariale | Préqualification |
+|4| Organisation externe | Expérimentation en autonomie | Pas d’accompagnement |
+
+Les conditions d'accompagnement seront détaillées à chaque étape du parcours.
+
+
 # Se former à titre individuel: quel est mon périmètre? 
 
 Pour se former à titre individuel, il est nécessaire d'identifier le périmètre correspondant aux responsabiltiés que l'on exerce: 
 
 1) **Périmètre "technique"**: ressources spécifiques aux composants de l'offre Cloud Pi Native destinées aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques, tout au long de leur cycle de vie. Cela peut être:
-- Pour développer et opérer des produits;
-- Pour mettre en place et assurer la fiabilité des systèmes de production (SRE).
+- Directement, pour développer et opérer des produits;
+- Indirectement, pour mettre en place et assurer la fiabilité des systèmes de production nécessaires (SRE).
 
 <details>
 
@@ -69,22 +85,6 @@ Responsables de la pertinence des décisions stratégiques ce qui recouvre, plus
 
 
 # Utilisation pour l'embarquement d'une équipe projet
-
-## Quelles démarches sont accompagnées par le programme Cloud Pi Native?
-
-| Cas |Organisation porteuse|Démarche| Eligible à un accompagnement sur |
-|----| -------------- | --------------- | ------------------------ |
-|1| Organisation rattachée à un ministère | Déploiement ou migration d’un projet sur le Cloud Pi | Préqualification, qualification, appui au lancement et suivi |
-|2| Organisation rattachée à un ministère | Expérimentation de l’usine logicielle sur d'autres infra | Préqualification, qualification, appui au lancement à définir|
-|3| Organisation externe | Expérimentation pour initiative partenariale | Préqualification |
-|4| Organisation externe | Expérimentation en autonomie | Pas d’accompagnement |
-
-L'accompagnement par les équipes du programme Cloud Pi Native consiste en:
-- **Préqualification:** aide à la structuration de la démarche et analyse de son adéquation avec l'offre (les composants: existants, inscrits ou à inscrire à la roadmap du programme);
-- **Qualification:** aide à la structuration du plan projet et, le cas échéant, estimation de l'effort technique et d'accompagnement à prévoir;
-- **Accompagnement technique:** aide/conseil des équipes techniques clientes en charge du projet pour le lancement et/ou le suivi de leur projet;
-
-Les conditions d'accompagnement seront détaillées à chaque étape du parcours.
 
 ## Etape 1: analyser l'opportunité du Cloud Native, argumenter son besoin
 
