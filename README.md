@@ -1,6 +1,7 @@
-Les ressources rassemblées ici constituent une base de connaissances permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur l'offre cloud native portée par le Ministère de l'Intérieur s'appuyant un environnement du Cloud souverain Pi (offre "Cloud Pi Native"). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
+![image](https://github.com/cloud-pi-native/embarquement-autoformation/assets/95349293/4a5f968f-151c-4e58-806c-bacd29df9d91)Les ressources rassemblées ici constituent une base de connaissances permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur l'offre cloud native portée par le Ministère de l'Intérieur s'appuyant un environnement du Cloud souverain Pi (offre "Cloud Pi Native"). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
 - Faisant des pulls request sur le repository 
 - Faisant des issues
+
 
 # Que contient cette section?
 **Un parcours de prise en main "pas à pas"**, destiné aux personnes ou organisations souhaitant comprendre et consommer l’offre, qui facilite:
