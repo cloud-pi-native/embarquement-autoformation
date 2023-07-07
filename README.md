@@ -51,7 +51,7 @@ Il est nécessaire d'identifier son périmètre parmi 3 types, selon la nature d
 
 1) **Périmètre "technique"**: ressources spécifiques aux composants de l'offre Cloud Pi Native destinées aux équipes techniques responsables de l'utilisation de l'offre pour construire, opérer et gérer des produits numériques, tout au long de leur cycle de vie. Cela peut être:
     - Directement, pour développer et opérer des produits (équipe DevOps);
-    - Indirectement, pour mettre en place et assurer la fiabilité des systèmes de production nécessaires (SRE, ingénieur plateforme).
+    - Indirectement, pour mettre en place et assurer la fiabilité des systèmes de production nécessaires (SRE, ingéniérie de plateforme).
 
 <details>
 
