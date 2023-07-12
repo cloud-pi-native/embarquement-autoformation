@@ -1,5 +1,6 @@
 
 
+
 Niveau de maturité de l'équipe|	Sensibilisée aux enjeux|Acculturée aux concepts|Prise en main/ découverte| Expérimentée/ conformité|Avancée/ perfomance|
 |------|------|-----|-----|-----|-----|
 | Type de questions| De quels enjeux me parle t-on avec Cloud PI Native et en quoi cela me concerne ?| Quels sont les concepts technologiques, méthodologiques et organisationnels mis -en avant et -comment puis-je les comprendre ?| Quelle valeur mes équipes de production retiraient-elles d'un socle Cloud Native (usine DevSecOps appuyée sur le cloud)?| Comment tirer le plein potentiel d'une offre Cloud Native?| Comment garantir la continuité des pratiques, la MCO/MCS et les évolutions au meilleur niveau de performances?|
