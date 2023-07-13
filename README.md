@@ -59,7 +59,7 @@ Ressources et mode d'emploi de cloud Pi Native;
 
 
 
-# Se former à titre individuel: quel est mon périmètre? 
+# Ressources d'autoformation: pour quel périmètre de responsabilités? 
 
 Il est nécessaire d'identifier son périmètre parmi 3 types, selon la nature des responsabiltiés exercées: 
 
