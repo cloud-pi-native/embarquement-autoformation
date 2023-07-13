@@ -13,7 +13,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - **Pour embarquer rapidement une équipe projet**: en consultant, à chaque étape du parcours, la sélection d'éléments de [documentation de l'offre](https://github.com/cloud-pi-native/documentation), de connaissances théoriques et pratiques nécessaires. 
 
 
-# Etapes du parcours d'embarquement/autoformation
+# Parcours d'embarquement/autoformation
 
 Le parcours comporte 5 étapes "d'embarquement", de la prise de connaissance de l'offre à l'utilisation en autonomie. Pour l'autoformation, ces 5 étapes correspondent à des degrés de "maturité" (i.e. type de questions que les utilisateurs se posent).
 
@@ -44,6 +44,9 @@ Les équipes du programme Cloud Pi Native proposent un accompagnement sur:
 
 Les conditions d'accompagnement seront détaillées à chaque étape du parcours.
 
+# Plan d'accompagnement et de formation
+
+![alt_text](images/embarquement-formation.jpg)
 
 # Se former à titre individuel: quel est mon périmètre? 
 
