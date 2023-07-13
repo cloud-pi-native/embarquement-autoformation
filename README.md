@@ -9,8 +9,8 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 
 # Pour quoi faire ?
-- **Pour se former à titre individuel**: en consultant des ressources d'autoformation disponibles à chaque étape (voir le périmètre correspondant à ses responsabilités dans la section "se former à titre individuel");
-- **Pour embarquer rapidement une équipe projet**: en consultant, à chaque étape du parcours, la sélection d'éléments de [documentation de l'offre](https://github.com/cloud-pi-native/documentation), de connaissances théoriques et pratiques nécessaires. 
+- **Pour embarquer rapidement une équipe projet**: en consultant, à chaque étape du parcours, les ressources et le mode d'emploi de Cloud Pi Native ainsi qu'une sélection de connaissances théoriques et pratiques nécessaires.
+- **Pour s'autoformer**: en consultant, à chaque étape, des ressources non-spécifique à Cloud Pi Native (voir le périmètre correspondant à la nature des responsabilités exercées dans la section "se former à titre individuel");
 
 
 # Etapes du parcours d'embarquement/autoformation
@@ -29,12 +29,13 @@ Le parcours comporte 5 étapes "d'embarquement", de la prise de connaissance de 
 
 </details>
 
-## Quelles démarches peuvent être accompagnées par le programme Cloud Pi Native?
+## Quel accompagnement possible sur Cloud Pi Native?
 Les équipes du programme Cloud Pi Native proposent un accompagnement sur:
 - **Préqualification:** aide à la structuration de la démarche et analyse de son adéquation avec l'offre (les composants: existants, inscrits ou à inscrire à la roadmap du programme);
 - **Qualification:** aide à la structuration du plan projet et, le cas échéant, estimation de l'effort technique et d'accompagnement à prévoir;
 - **Accompagnement technique:** aide/conseil des équipes techniques clientes en charge du projet pour le lancement et/ou le suivi de leur projet;
 
+## Quelles démarches sont éligibles à un accomapgnement?
 | Cas |Organisation porteuse|Démarche| Types d'accompagnement éligible|
 |----| -------------- | --------------- | ------------------------ |
 |1| Organisation rattachée à un ministère | Déploiement ou migration d’un projet sur le Cloud Pi | Préqualification, qualification, appui au lancement et suivi |
@@ -42,7 +43,7 @@ Les équipes du programme Cloud Pi Native proposent un accompagnement sur:
 |3| Organisation externe | Expérimentation dans le cadre d'une initiative partenariale | Préqualification |
 |4| Organisation externe | Expérimentation pour ses propres finalités | Pas d’accompagnement |
 
-Les conditions d'accompagnement seront détaillées à chaque étape du parcours.
+Voir les conditions d'accompagnement détaillées à chaque étape du parcours.
 
 
 # Se former à titre individuel: quel est mon périmètre? 
