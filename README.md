@@ -48,8 +48,9 @@ Les conditions d'accompagnement seront détaillées à chaque étape du parcours
 
 ![alt_text](images/embarquement-formation.jpg)
 
+- Stade d'avancement du projet: avancement dans la démarche de consommation de l'offre et l'utilisation en autonomie;
 - Maturité de l'équipe: macro-questions, auxquelles on apporte des ressources/niveaux de réponse différents selon la nature des responsabilités exercées;
-Ressources et mode d'emploi de cloud Pi Native
+Ressources et mode d'emploi de cloud Pi Native;
 - Ressources et mode d'emploi de cloud Pi Native : les ressources et leur mode d'emploi/usage selon le stade d'avancement : sensibilisation, acculturation, expérimentation, mise en place, exploitation, … ;
 - Eligibilité à un accompagnement : conditions pour bénéficier d’un accompagnement et actions d’accompagnement ; 
 - Ressources d’autoformation :  ressources non-spécifiques à l’offre, nécessaires pour comprendre et utiliser les ressources spécifiques à Cloud Pi Native. Les distinctions entre responsabilités pourront être affinés selon les personas ou métiers) ;
