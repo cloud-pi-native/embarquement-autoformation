@@ -35,11 +35,11 @@ Les équipes du programme Cloud Pi Native proposent un accompagnement sur:
 - **Qualification:** aide à la structuration du plan projet et, le cas échéant, estimation de l'effort technique et d'accompagnement à prévoir;
 - **Accompagnement technique:** aide/conseil des équipes techniques clientes en charge du projet pour le lancement et/ou le suivi de leur projet;
 
-| Cas |Organisation porteuse|Démarche| Types d'accompagnement éligible|
+| Cas |Organisation porteuse|Objectifs| Types d'accompagnement éligible|
 |----| -------------- | --------------- | ------------------------ |
-|1| Rattachée à un ministère | Déploiement ou migration sur le Cloud Pi | Préqualification, qualification, appui au lancement et suivi |
-|2| Rattachée à un ministère | Expérimentation sur d'autres infrastructures | Préqualification, qualification, appui au lancement à définir|
-|3| Externe | Expérimentation en initiative partenariale | Préqualification |
+|1| Rattachée à un ministère | Déploiement, migration ou expérimentations sur le Cloud Pi | Préqualification, qualification, appui au lancement et suivi |
+|2| Rattachée à un ministère | Déploiement, migration ou expérimentations sur d'autres infrastructures | Préqualification, qualification, appui au lancement à définir|
+|3| Externe | Initiative partenariale | Préqualification |
 |4| Externe | Expérimentation pour ses propres finalités | Pas d’accompagnement |
 
 Les conditions d'accompagnement seront détaillées à chaque étape du parcours.
