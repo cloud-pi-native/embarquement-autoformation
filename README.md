@@ -98,7 +98,7 @@ Responsables de la pertinence des décisions stratégiques ce qui recouvre, plus
 *Les équipes d'accompagnement du programme programme Cloud Pi Native peuvent aussi conseiller des ressources spécifiques en fonction des besoins et de la maturité de l'équipe projet.*
 
 
-# Utilisation pour l'embarquement d'une équipe projet
+# Mode d'emploi pour l'embarquement d'une équipe projet
 
 ## Etape 1: comprendre l'opportunité du Cloud Native
 
