@@ -37,10 +37,10 @@ Les équipes du programme Cloud Pi Native proposent un accompagnement sur:
 
 | Cas |Organisation porteuse|Démarche| Types d'accompagnement éligible|
 |----| -------------- | --------------- | ------------------------ |
-|1| Organisation rattachée à un ministère | Déploiement ou migration d’un projet sur le Cloud Pi | Préqualification, qualification, appui au lancement et suivi |
-|2| Organisation rattachée à un ministère | Expérimentation de l’usine logicielle sur d'autres infrastructures | Préqualification, qualification, appui au lancement à définir|
-|3| Organisation externe | Expérimentation dans le cadre d'une initiative partenariale | Préqualification |
-|4| Organisation externe | Expérimentation pour ses propres finalités | Pas d’accompagnement |
+|1| Rattachée à un ministère | Déploiement ou migration sur le Cloud Pi | Préqualification, qualification, appui au lancement et suivi |
+|2| Rattachée à un ministère | Expérimentation sur d'autres infrastructures | Préqualification, qualification, appui au lancement à définir|
+|3| Externe | Expérimentation en initiative partenariale | Préqualification |
+|4| Externe | Expérimentation pour ses propres finalités | Pas d’accompagnement |
 
 Les conditions d'accompagnement seront détaillées à chaque étape du parcours.
 
