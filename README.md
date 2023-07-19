@@ -37,8 +37,8 @@ Sous réserve d'éligibilité, les équipes du programme Cloud Pi Native accompa
 |----| -------------- | --------------- | ------------------------ |
 |1| Rattachée à un ministère | Déploiement, migration ou expérimentations sur le Cloud Pi | Préqualification, qualification, assistance au lancement et suivi |
 |2| Rattachée à un ministère | Déploiement, migration ou expérimentations sur d'autres infrastructures | Préqualification, qualification, assistance au lancement à définir|
-|3| Externe | Initiative partenariale | Préqualification |
-|4| Externe | Expérimentation pour ses propres finalités | Pas d’accompagnement |
+|3| Externe | Initiative partenariale d'interet public| Préqualification |
+|4| Externe | Expérimentation pour ses propres finalités | Pas d’accompagnement prévu |
 
 
 # Plan d'accompagnement et de formation
