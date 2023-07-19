@@ -3,12 +3,12 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - Faisant des issues
 
 # Que contient cette section?
-**Un parcours d'embarquement/formation "pas à pas"**, destiné aux personnes ou organisations souhaitant comprendre et/ou consommer l’offre [Cloud Pi Native](https://dnum-mi.github.io/) du MIOM, qui facilite l'appropriation de la **[documentation de l'offre Cloud Native](https://github.com/cloud-pi-native/documentation)** et la mise en oeuvre du plan de formation (voir section correspondante ci après). 
+**Un parcours d'embarquement/formation "pas à pas"**, destiné aux personnes ou organisations souhaitant comprendre et/ou consommer l’offre [Cloud Pi Native](https://dnum-mi.github.io/) du MIOM. 
 
 
 # Pour quoi faire ?
 - **Pour se former à titre individuel** sur les technologies cloud native en consultant des ressources d'autoformation disponibles à chaque étape (voir le périmètre correspondant à ses responsabilités dans la section "se former à titre individuel");
-- **Pour embarquer rapidement une équipe projet** sur l'offre Cloud Pi Native du MIOM en consultant, à chaque étape du parcours, le "mode d'emploi" et la documentation ainsi que les connaissances théoriques et pratiques nécessaires.
+- **Pour embarquer rapidement une équipe projet/produit** sur l'offre Cloud Pi Native du MIOM en consultant, à chaque étape du parcours, le "mode d'emploi" et la documentation ainsi que les connaissances théoriques et pratiques nécessaires.
 
 Le parcours comporte 5 étapes, de la prise de connaissance à l'utilisation en autonomie qui correspondent à des degrés de "maturité" croissant (i.e. type de questions que les utilisateurs se posent).
 
@@ -45,11 +45,11 @@ Pour mettre en oeuvre l'embarquement, nous mettns à disposition des éléments 
 # contenu des ressources d'autoformation
 Ressources non-spécifiques à l’offre, mais nécessaires pour comprendre et utiliser Cloud Pi Native. Elles diffèrent selon la nature des responsabilités exercées (voir plus bas) et la maturité requise à l'étape d'embarquement (type de questions que se posent les équipes). Les périmètres de responsabilités peuvent etre affinées selon le métiers ou le profil des utilisateurs, le plan de formation distingue 3 types de responsabilités différents: 
 
-1- **"Réalisation technique"**: équipes techniques responsables de la prise en main de l'offre pour construire, opérer et gérer des produits numériques, tout au long de leur cycle de vie. Directement, pour développer et opérer des produits (équipe DevOps) ou indirectement, pour mettre en place et assurer la fiabilité des systèmes de production nécessaires (SRE, ingéniérie de plateforme). 
+1- **"Réalisation technique"**: équipes techniques responsables de la prise en main de l'offre pour construire, opérer et gérer des produits numériques, tout au long de leur cycle de vie. Directement, pour développer et opérer des produits (équipe DevOps) ou indirectement, pour mettre en place et assurer la fiabilité des systèmes de production nécessaires (SRE, ingéniérie de plateforme) dans un environnement "cloud native".
 
-2- **"Pilotage MOE"**: personnes responsables de la structuration et de l'exécution d'un projet (compétences, roles, organisation, technologies, ..) son organisation et son suivi (consommation budgetaire, UO, livrables, ...), pour saisir les opportunités du paradigme "cloud native".  
+2- **"Pilotage MOE"**: personnes responsables de la structuration et de la mobilisation d'une équipe projet/produit (compétences, roles, organisation, choix technologiques, ..) son organisation et son suivi (contractuel, budgetaire, UO, livrables, ...), pour saisir les opportunités du paradigme "cloud native".
 
-3- **Périmètre "gouvernance/décisionnaire"**: personnes responsables de l'orientation de projets numériques vers une offre  de service donnée pour comprendre les spécificités du "nouveau monde logiciel". 
+3- **Périmètre "gouvernance/décisionnaire"**: personnes responsables de l'orientation de projets numériques vers une offre  de service donnée pour comprendre les spécificités du "nouveau monde logiciel" et les opportunités du paradigme "cloud native". 
 
 <details>
 <summary> Voir les exemples de profils </summary>
