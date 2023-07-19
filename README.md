@@ -42,7 +42,7 @@ Pour mettre en oeuvre l'embarquement, nous mettns à disposition des éléments 
 - [**Matrice d'éligiblité**](.\matrice_eligibilite.md): quelles conditions/quelles démarches pour être accompagnées par le programme Cloud Pi Native?
 - [**Checklist**](.\checklist.md): listes des questions et critères à valider avant de passer à l'étape suivante
 
-# contenu des ressources d'autoformation
+# Contenu du plan de formation
 Ressources non-spécifiques à l’offre, mais nécessaires pour comprendre et utiliser Cloud Pi Native. Elles diffèrent selon la nature des responsabilités exercées (voir plus bas) et la maturité requise à l'étape d'embarquement (type de questions que se posent les équipes). Les périmètres de responsabilités peuvent etre affinées selon le métiers ou le profil des utilisateurs, le plan de formation distingue 3 types de responsabilités différents: 
 
 1- **"Réalisation technique"**: équipes techniques responsables de la prise en main de l'offre pour construire, opérer et gérer des produits numériques, tout au long de leur cycle de vie. Directement, pour développer et opérer des produits (équipe DevOps) ou indirectement, pour mettre en place et assurer la fiabilité des systèmes de production nécessaires (SRE, ingéniérie de plateforme) dans un environnement "cloud native".
