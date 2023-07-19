@@ -27,7 +27,9 @@ Le parcours comporte 5 étapes, de la prise de connaissance à l'utilisation en 
 
 # Contenu du plan d'embarquement
 
-Le plan d'embarquement permet d'avancer étape par étape de la découverte à l'utilisation en autonomie de l'offre et l'accompagnement auquel une initiative est éligible.
+Le plan d'embarquement permet d'avancer étape par étape de la découverte à l'utilisation en autonomie. Pour chaque étape: 
+- [**La matrice d'éligiblité**](.\matrice_eligibilite.md): indique l'accompagnement auquel une initiative est éligible;
+- [**La checklist**](.\checklist.md): indique les questions et critères à valider pour passer à l'étape suivante.
 
 | | | | |
 |-|-|-|-|
@@ -38,9 +40,6 @@ Le plan d'embarquement permet d'avancer étape par étape de la découverte à l
 |4|Passer en production, construire dans le respect de normes "Cloud Native"|Consulter la [documentation de l'offre](https://github.com/cloud-pi-native/documentation)/ provisionner et déployer son environnement de production "Cloud native"/ prise en main des outils d'observabilité|S'intégrer aux processus nominaux (hébergement, homologation, certification, …)/ Suivi technique avec la service team|
 |5|Atteindre les meilleurs standards du "Cloud Native", évolution continue|(à venir|(à venir)|
 
-Pour mettre en oeuvre l'embarquement, nous mettns à disposition des éléments suivants:
-- [**Matrice d'éligiblité**](.\matrice_eligibilite.md): quelles conditions/quelles démarches pour être accompagnées par le programme Cloud Pi Native?
-- [**Checklist**](.\checklist.md): listes des questions et critères à valider avant de passer à l'étape suivante
 
 # Contenu du plan de formation
 Ressources non-spécifiques à l’offre, disponibles en appui pour comprendre et utiliser Cloud Pi Native. 
