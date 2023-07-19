@@ -43,7 +43,9 @@ Pour mettre en oeuvre l'embarquement, nous mettns à disposition des éléments 
 - [**Checklist**](.\checklist.md): listes des questions et critères à valider avant de passer à l'étape suivante
 
 # Contenu du plan de formation
-Ressources non-spécifiques à l’offre, mais nécessaires pour comprendre et utiliser Cloud Pi Native. Elles diffèrent selon la nature des responsabilités exercées (voir plus bas) et la maturité requise à l'étape d'embarquement (type de questions que se posent les équipes). Les périmètres de responsabilités peuvent etre affinées selon le métiers ou le profil des utilisateurs, le plan de formation distingue 3 types de responsabilités différents: 
+Ressources non-spécifiques à l’offre, disponibles en appui pour comprendre et utiliser Cloud Pi Native. 
+
+Les ressources diffèrent selon la nature des responsabilités exercées (voir plus bas) et la maturité requise à l'étape d'embarquement (type de questions qui se posent aux utilisateurs). Les périmètres de responsabilités peuvent etre affinées selon le métiers ou le profil. Dans sa version actuelle, le plan de formation distingue 3 types de responsabilités: 
 
 1- **"Réalisation technique"**: équipes techniques responsables de la prise en main de l'offre pour construire, opérer et gérer des produits numériques, tout au long de leur cycle de vie. Directement, pour développer et opérer des produits (équipe DevOps) ou indirectement, pour mettre en place et assurer la fiabilité des systèmes de production nécessaires (SRE, ingéniérie de plateforme) dans un environnement "cloud native".
 
@@ -59,9 +61,7 @@ Ressources non-spécifiques à l’offre, mais nécessaires pour comprendre et u
 - **Gouvernance/décisionnaire**: responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller. Exemples: pilotage et gouvernance des organisations, directions générales ou métiers, stratégie d'achat, stratégie RH, etc.
 </details>
 
-
-# Mode d'emploi pour l'embarquement d'une équipe projet
-
+Le plan de formation articule les ressources tout au long du parcours suivant: 
 | | | | | |
 |-|-|-|-|-|
 |N° étape|Maturité de l'équipe|Ressources d'autoformation Périmètre décision/stratégie|Ressources d'autoformation Périmètre pilotage MOE|Ressources d'autoformation Périmètre  réalisation technique  (produit ou système de production)|
