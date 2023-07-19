@@ -3,7 +3,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - Faisant des issues
 
 # Que contient cette section?
-**Un parcours d'embarquement/formation "pas à pas"**, destiné aux personnes ou organisations souhaitant comprendre et/ou consommer l’offre [Cloud Pi Native](https://dnum-mi.github.io/) du MIOM. 
+**Un parcours d'embarquement/formation "pas à pas"**, destiné aux personnes ou organisations souhaitant comprendre et/ou consommer l’offre [Cloud Pi Native](https://dnum-mi.github.io/) du MIOM pour réaliser une transformation de son socle de production vers le "cloud native".
 
 
 # Pour quoi faire ?
