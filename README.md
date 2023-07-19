@@ -27,44 +27,33 @@ Le parcours comporte 5 étapes "d'embarquement", de la prise de connaissance de 
 
 </details>
 
-## Quelles démarches peuvent être accompagnées par le programme Cloud Pi Native?
-Sous réserve d'éligibilité, les équipes du programme Cloud Pi Native accompagnent à :
-- **La préqualification du besoin et de la démarche:** aide à la structuration de la démarche, analyse du besoin et de son adéquation avec l'offre (i.e. les composants existants ou figurant à la roadmap du programme);
-- **La qualification technique:** aide à la structuration du plan projet, à la préparation de l'équipe, et, le cas échéant, à l'estimation de l'effort d'accompagnement technique à prévoir;
-- **Au lancement et au suivi:** aide/conseil des équipes techniques clientes en charge du projet pour le lancement et/ou le suivi de leur projet;
 
-| Cas |Organisation porteuse|Objectifs| Types d'accompagnement éligible|
-|----| -------------- | --------------- | ------------------------ |
-|1| Rattachée à un ministère | Déploiement, migration ou expérimentations sur le Cloud Pi | Préqualification, qualification, assistance au lancement et suivi |
-|2| Rattachée à un ministère | Déploiement, migration ou expérimentations sur d'autres infrastructures | Préqualification, qualification, assistance au lancement à définir|
-|3| Externe | Initiative partenariale d'interet public| Préqualification |
-|4| Externe | Expérimentation pour ses propres finalités | Pas d’accompagnement prévu |
+# Plan d'embarquement
 
+ Avancement dans la démarche de consommation de l'offre: de la découverte à l'utilisation en autonomie
+Les ressources et le mode d'emploi de Cloud Pi Native selon le stade d'avancement : sensibilisation, acculturation, expérimentation, mise en place, exploitation, … 
 
-# Plan d'accompagnement et de formation
+| | | | |
+|-|-|-|-|
+|**N° étape**|**Stade d'avancement du projet** |**Ressources et mode d'emploi de cloud Pi Native**|**Si éligible à un accompagnement**|
+|1|Qualifier son besoin, analyser l'opportunité du Cloud Native|Consulter les supports de sensibilisation/ spécifier son besoin/ S'assurer du soutien de la démarche (sponsor)|Prendre contact avec le programme Cloud Pi Native/RDV de préqualification avec l'équipe Adoption|
+|2|Préparer son projet/produit en "cloud native"|Consulter le Cadre de cohérence Technique "Cloud Native"/ définir son plan projet|Completer  le formulaire de demande d'accès à la console/ RDV de qualification technique avec les équipes Adoption et Service team|
+|3|Lancer son projet/produit dans un environnement de développement "Cloud native"|Consulter la documentation de l'offre/ s'exercer avec les tutoriels/ provisionner et déployer son environnement de développement "cloud native"|Préparation de l'architecture projet/ RDV de lancement avec la Service Team|
+|4|Passer en production, construire dans le respect de normes "Cloud Native"|Consulter la documentation de l'offre/ provisionner et déployer son environnement de production "Cloud native"/ prise en main des outils d'observabilité|S'intégrer aux processus nominaux (hébergement, homologation, certification, …)/ Suivi technique avec la service team|
+|5|Atteindre les meilleurs standards du "Cloud Native", évolution continue|(à venir|(à venir)|
 
-| | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|
-|N° étape|Stade d'avancement du projet |Maturité de l'équipe|Ressources et mode d'emploi de cloud Pi Native|Accompagnement|Ressources d'autoformation Périmètre décision/stratégie|Ressources d'autoformation Périmètre pilotage MOE|Ressources d'autoformation Périmètre  réalisation technique  (produit ou système de production)|Checklist|
-|1|Comprendre l'opportunité du Cloud Native pour son besoin|Quels sont les mutations/enjeux/risques actuels du numérique et quels sont les opportunités?  |- Consulter les supports de sensibilisation - Spécifier son besoin - Obtenir le soutien de sa démarche (sponsor)|- Prendre contact avec le programme Cloud Pi Native - RDV de préqualification avec l'équipe Adoption|Comprendre les enjeux du "nouveau monde logiciel" pour la transformation du numérique public|Opportunités du "nouveau monde numérique" : technologies "cloud native", méthodologies, approches et mode d'organisation, culture...|Opportunité d'un socle de production à l'état de l'art "Cloud Native" pour le développement et la gestion de produits numériques|Organisation/contexte métier, besoin, démarche/objectifs, type de projet et adéquation offre|
-|2|Préparer son projet/produit "cloud native"|Sur quoi reposent les opportunités du cloud native et comment s'en saisir à son niveau?|- Lire le Cadre de cohérence Technique (CCT Cloud Native) - Définir son plan projet (cf. Checklist)|- Completer  le formulaire de demande d'accès à la console - RDV de qualification technique Adoption/Service team|Comprendre comment les grands acteurs du numériques/grandes organisation ont tirés parti des nouvelles opportunités|Comprendre les technologies, modes d'organisation et cultures portées par le cloud native|Comprendre les différents services d'un socle de production Cloud Native à chaque étape du cycle de vie d'un produit|Organisation de l'équipe et périmètre technique, prérequis, qualification technique du projet|
-|3|Lancer son projet/produit dans un environnement de développement "Cloud native"|Comment se préparer pour mettre en place une offre cloud native, chacun à son niveau? |- Lire documentation de l'offre - S'exercer avec les tutoriels - Provisionner et déployer son environnement de développement "cloud native".|- Préparation de l'architecture projet - RDV de lancement avec la Service Team|Comprendre l'impact de ces nouvelles opportunités sur la gouvernance des organisations|Organiser et préparer une équipe produit pour mettre en place et utiliser des outils "cloud native"|Réaliser un premier "hello world", puis construire un MVP avec un socle de production Cloud Native|Préparation de l'équipe et de l'architecture projet, provisionnement et mise en place de l'environnement de dev., préparation des démarches pour la production|
-|4|Passer en production, construire dans le respect de normes "Cloud Native"|Comment réaliser le potentiel du cloud native, dans le respect des des différentes normes (techniques, organisationelles, etc.)? |- Lire la documentation de l'offre - Provisionner et déployer son environnement de production "Cloud native" - Prise en main des outils d'observabilité|- S'intégrer aux processus nominaux (hébergement, homologation, certification, …) - Suivi technique avec la service team|Assurer la qualité et la sécurité au niveau des organisations dans le "nouveau monde logiciel"|S'organiser pour concevoir et gérer des produits de A à Z dans un cadre Cloud Native|Déployer en production, puis mettre en service un produit cloud native|Provisionnement et mise en place de l'environnement de production, respect des exigences du cadre normes, préparation des bonnes pratiques|
-|5|Atteindre les meilleurs standards du "Cloud Native", évolution continue|Comment garantir en continu, l'intégration, le suivi et la pérénnité des bonnes pratiques tout en permettant la maitrise de standards en évolution permanente? | | |Manager un patrimoine numérique pour rester autonome et performant sur la durée|Tirer le plein potentiel et contribuer aux technologies du CNCF Landscape (dont charts helms/operators)|Assurer la disponibilité et la continuité, MCO/MCS, garder des options ouvertes sur les transitions futures| |
+- Matrice d'éligiblité: quelles démarches peuvent être accompagnées par le programme Cloud Pi Native?
 
+- Plan de formation (détaillé plus bas): "Type de questions, auxquelle les ressources de formation apporte des niveaux de réponse différents selon la nature des responsabilités exercées et le stade d'embarquement
+Ressources non-spécifiques à l’offre, nécessaires pour comprendre et utiliser Cloud Pi Native, selon le périmètre de responsabilité: 
+- Décision/gouvernance;
+- Pilotage MOE;
+- Réalisation technique produit ou système;
 
-- **Stade d'avancement du projet**: avancement dans la démarche de consommation de l'offre et l'utilisation en autonomie;
-- **Maturité de l'équipe**: macro-questions, auxquelles on apporte des ressources/niveaux de réponse différents selon la nature des responsabilités exercées;
-Ressources et mode d'emploi de cloud Pi Native;
-- **Ressources et mode d'emploi de cloud Pi Native**: les ressources et leur mode d'emploi/usage selon le stade d'avancement : sensibilisation, acculturation, expérimentation, mise en place, exploitation, … ;
-- **Accompagnement**: ssous réserve d'éligibilité (voir section correspondante), assistance du programme Cloud Pi Native ; 
-- **Ressources d’autoformation**:  ressources non-spécifiques à l’offre, nécessaires pour comprendre et utiliser les ressources spécifiques à Cloud Pi Native. Les distinctions entre responsabilités pourront être affinés selon les personas ou métiers) ;
-- [**Checklist**](.\checklist.md): questions et critères à valider avant de passer à l'étape suivante.
+- [**Checklist**](.\checklist.md): des questions et critères à valider avant de passer à l'étape suivante.
 
 
-
-
-# Ressources d'autoformation: pour quel périmètre de responsabilités? 
+# Ressources d'autoformation
 
 Il est nécessaire d'identifier son périmètre parmi 3 types, selon la nature des responsabiltiés exercées: 
 
