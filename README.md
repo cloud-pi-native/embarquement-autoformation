@@ -12,7 +12,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 
 Le parcours comporte 5 étapes, de la prise de connaissance à l'utilisation en autonomie qui correspondent à des degrés de "maturité" croissant (i.e. type de questions que les utilisateurs se posent).
 
-![alt_text](images/accompagnement.jpg)
+![alt_text](images/embarquement-formation.jpg)
 
 <details>
 
