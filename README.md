@@ -28,8 +28,8 @@ Le parcours comporte 5 étapes, de la prise de connaissance à l'utilisation en 
 # Contenu du plan d'embarquement
 
 Le plan d'embarquement permet d'avancer étape par étape de la découverte à l'utilisation en autonomie. Pour chaque étape: 
-- [**La matrice d'éligiblité**](.\matrice_eligibilite.md): indique l'accompagnement auquel une initiative est éligible;
-- [**La checklist**](.\checklist.md): indique les questions et critères à valider pour passer à l'étape suivante.
+- [**La matrice d'éligiblité**](./matrice_eligibilite.md): indique l'accompagnement auquel une initiative est éligible;
+- [**La checklist**](./checklist.md): indique les questions et critères à valider pour passer à l'étape suivante.
 
 | | | | |
 |-|-|-|-|
