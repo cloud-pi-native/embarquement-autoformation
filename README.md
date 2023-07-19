@@ -3,7 +3,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - Faisant des issues
 
 # Que contient cette section?
-**Un parcours d'embarquement/formation "pas à pas"**, destiné aux personnes ou organisations souhaitant comprendre et consommer l’offre, qui facilite l'appropriation de la **[documentation de l'offre Cloud Native](https://github.com/cloud-pi-native/documentation)** et la mise en oeuvre du [**plan de formation**](./plan-formation.md). 
+**Un parcours d'embarquement/formation "pas à pas"**, destiné aux personnes ou organisations souhaitant comprendre et consommer l’offre, qui facilite l'appropriation de la **[documentation de l'offre Cloud Native](https://github.com/cloud-pi-native/documentation)** et la mise en oeuvre du plan de formation (voir section correspondante ci après). 
 
 
 # Pour quoi faire ?
@@ -40,7 +40,6 @@ Sous réserve d'éligibilité, les équipes du programme Cloud Pi Native accompa
 |3| Externe | Initiative partenariale | Préqualification |
 |4| Externe | Expérimentation pour ses propres finalités | Pas d’accompagnement |
 
-Les conditions d'accompagnement seront détaillées à chaque étape du parcours.
 
 # Plan d'accompagnement et de formation
 
@@ -60,9 +59,7 @@ Ressources et mode d'emploi de cloud Pi Native;
 - **Ressources et mode d'emploi de cloud Pi Native**: les ressources et leur mode d'emploi/usage selon le stade d'avancement : sensibilisation, acculturation, expérimentation, mise en place, exploitation, … ;
 - **Accompagnement**: ssous réserve d'éligibilité (voir section correspondante), assistance du programme Cloud Pi Native ; 
 - **Ressources d’autoformation**:  ressources non-spécifiques à l’offre, nécessaires pour comprendre et utiliser les ressources spécifiques à Cloud Pi Native. Les distinctions entre responsabilités pourront être affinés selon les personas ou métiers) ;
-- **Checklist**: questions et critères à valider avant de passer à l'étape suivante.
-
-
+- [**Checklist**](./checklist.md): questions et critères à valider avant de passer à l'étape suivante.
 
 
 # Ressources d'autoformation: pour quel périmètre de responsabilités? 
