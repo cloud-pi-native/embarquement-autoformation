@@ -3,7 +3,7 @@ Les ressources rassemblées ici constituent une base de connaissances permettre 
 - Faisant des issues
 
 # Que contient cette section?
-**Un parcours d'embarquement/formation "pas à pas"**, destiné aux personnes ou organisations souhaitant comprendre et consommer l’offre, qui facilite l'appropriation de la **[documentation de l'offre Cloud Native](https://github.com/cloud-pi-native/documentation)** et la mise en oeuvre du [**plan de formation**](./plan-formation.md). 
+**Un parcours d'embarquement/formation "pas à pas"**, destiné aux personnes ou organisations souhaitant comprendre et consommer l’offre, qui facilite l'appropriation de la **[documentation de l'offre Cloud Native](https://github.com/cloud-pi-native/documentation)** et la mise en oeuvre du plan de fromation (voir section correspondante ci après). 
 
 
 # Pour quoi faire ?
@@ -29,9 +29,9 @@ Le parcours comporte 5 étapes "d'embarquement", de la prise de connaissance de 
 
 ## Quelles démarches peuvent être accompagnées par le programme Cloud Pi Native?
 Sous réserve d'éligibilité, les équipes du programme Cloud Pi Native accompagnent à :
-- **La préqualification du besoin:** aide à la structuration de la démarche, analyse du besoin et de son adéquation avec l'offre (i.e. les composants existants ou figurant à la roadmap du programme);
+- **La préqualification du besoin et de la démarche:** aide à la structuration de la démarche, analyse du besoin et de son adéquation avec l'offre (i.e. les composants existants ou figurant à la roadmap du programme);
 - **La qualification technique:** aide à la structuration du plan projet, à la préparation de l'équipe, et, le cas échéant, à l'estimation de l'effort d'accompagnement technique à prévoir;
-- **Assitance au lancement et suivi:** aide/conseil des équipes techniques clientes en charge du projet pour le lancement et/ou le suivi de leur projet;
+- **Au lancement et au suivi:** aide/conseil des équipes techniques clientes en charge du projet pour le lancement et/ou le suivi de leur projet;
 
 | Cas |Organisation porteuse|Objectifs| Types d'accompagnement éligible|
 |----| -------------- | --------------- | ------------------------ |
@@ -40,7 +40,6 @@ Sous réserve d'éligibilité, les équipes du programme Cloud Pi Native accompa
 |3| Externe | Initiative partenariale | Préqualification |
 |4| Externe | Expérimentation pour ses propres finalités | Pas d’accompagnement |
 
-Les conditions d'accompagnement seront détaillées à chaque étape du parcours.
 
 # Plan d'accompagnement et de formation
 
@@ -60,7 +59,7 @@ Ressources et mode d'emploi de cloud Pi Native;
 - **Ressources et mode d'emploi de cloud Pi Native**: les ressources et leur mode d'emploi/usage selon le stade d'avancement : sensibilisation, acculturation, expérimentation, mise en place, exploitation, … ;
 - **Accompagnement**: ssous réserve d'éligibilité (voir section correspondante), assistance du programme Cloud Pi Native ; 
 - **Ressources d’autoformation**:  ressources non-spécifiques à l’offre, nécessaires pour comprendre et utiliser les ressources spécifiques à Cloud Pi Native. Les distinctions entre responsabilités pourront être affinés selon les personas ou métiers) ;
-- **Checklist**: questions et critères à valider avant de passer à l'étape suivante.
+- [**Checklist**](.\checklist.md): questions et critères à valider avant de passer à l'étape suivante.
 
 
 
