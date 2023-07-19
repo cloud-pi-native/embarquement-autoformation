@@ -75,6 +75,11 @@ Comment se préparer et mettre en place une offre cloud native, chacun à son ni
 # Step 4 : Passer en production, construire dans le respect des normes "Cloud Native"
 Comment réaliser le potentiel du cloud native, dans le respect des différentes normes (techniques, organisationnelles, etc.)? 
 
+## Réaliser les demandes nécessaires
+- [Offre d’hébergement]( https://pi.interieur.rie.gouv.fr/home-dnum/infrastructure-et-dev/hebergement-et-reseau/hebergement/)
+- [Demande d'hébergement sur le Cloud Pi](https://resana.numerique.gouv.fr/public/document/consulter/7054535) (section à venir)
+
+
 
 # Step 5 : Atteindre les meilleurs standards du "Cloud Native", évolution continue
 Comment garantir en continu, l'intégration, le suivi et la pérénnité des bonnes pratiques tout en permettant la maitrise de standards en évolution permanente?
