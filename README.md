@@ -53,7 +53,7 @@ Dans sa version actuelle, le plan de formation distingue 3 types de responsabili
 
 2- **"Pilotage MOE"**: personnes responsables de la structuration et de la mobilisation d'une équipe projet/produit (compétences, roles, organisation, choix technologiques, ..) son organisation et son suivi (contractuel, budgetaire, UO, livrables, ...), pour saisir les opportunités du paradigme "cloud native".
 
-3- **Périmètre "gouvernance/décisionnaire"**: personnes responsables de l'orientation de projets numériques vers une offre  de service donnée pour comprendre les spécificités du "nouveau monde logiciel" et les opportunités du paradigme "cloud native". 
+3- **"Gouvernance/décision"**: personnes responsables de l'orientation de projets numériques vers une offre  de service donnée pour comprendre les spécificités du "nouveau monde logiciel" et les opportunités du paradigme "cloud native". 
 
 <details>
 <summary> Voir les exemples de profils </summary>
