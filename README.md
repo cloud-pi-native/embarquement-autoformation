@@ -42,9 +42,7 @@ Le plan d'embarquement permet d'avancer étape par étape de la découverte à l
 
 
 # Contenu du plan de formation
-Ressources non-spécifiques à l’offre, disponibles en appui pour comprendre et utiliser Cloud Pi Native. 
-
-Les ressources diffèrent selon la nature des responsabilités exercées (voir plus bas) et la maturité requise à l'étape d'embarquement (type de questions qui se posent aux utilisateurs). Les périmètres de responsabilités peuvent etre affinées selon le métiers ou le profil. 
+Ressources non-spécifiques à l’offre, disponibles en appui pour comprendre et utiliser Cloud Pi Native. Elles diffèrent selon la nature des responsabilités exercées (voir plus bas) et la maturité requise par l'étape d'embarquement (type de questions qui se posent aux utilisateurs). 
 
 ## Périmètres de responsabilité
 Dans sa version actuelle, le plan de formation distingue 3 types de responsabilités: 
