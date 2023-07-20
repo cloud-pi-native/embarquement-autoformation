@@ -27,14 +27,12 @@ Le parcours comporte 5 étapes, de la prise de connaissance à l'utilisation en 
 
 # Contenu du plan d'embarquement
 
-Le plan d'embarquement permet d'avancer étape par étape de la découverte à l'utilisation en autonomie. Pour chaque étape: 
-- [**La matrice d'éligiblité**](./matrice_eligibilite.md): indique l'accompagnement auquel une initiative est éligible;
-- [**La checklist**](./checklist.md): indique les questions et critères à valider pour passer à l'étape suivante.
+Le plan d'embarquement permet d'avancer étape par étape de la découverte à l'utilisation en autonomie. Pour être guidés dans les questions et critères à valider pour passer à l'étape suivante, consultez [**la checklist**](./checklist.md). Vous savoir à quel type d'accompagnement vous etes éligibles, référez vous à la [(politique d'accompagnement)](https://github.com/cloud-pi-native/embarquement-autoformation/blob/main/eligibilite.md).
 
 | | | | |
 |-|-|-|-|
 |**N° étape**|**Stade d'avancement du projet** |**Ressources et mode d'emploi de cloud Pi Native**|**Si éligible à un accompagnement**|
-|1|Qualifier son besoin, analyser l'opportunité du Cloud Native|Consulter la [page de présentation l'offre](https://dnum-mi.github.io/) et le [support de sensibilisation aux enjeux](./sensibilisation.md)/ spécifier son besoin/ S'assurer du soutien de la démarche (sponsor)|Prendre contact avec le programme Cloud Pi Native/**RDV de préqualification avec l'équipe Adoption** [(politique d'accompagnement)](https://github.com/cloud-pi-native/embarquement-autoformation/blob/main/eligibilite.md)|
+|1|Qualifier son besoin, analyser l'opportunité du Cloud Native|Consulter la [page de présentation l'offre](https://dnum-mi.github.io/) et le [support de sensibilisation aux enjeux](./sensibilisation.md)/ spécifier son besoin/ S'assurer du soutien de la démarche (sponsor)|Prendre contact avec le programme Cloud Pi Native/**RDV de préqualification de votre besoin avec l'offre avec l'équipe Adoption** |
 |2|Préparer son projet/produit en "cloud native"|Consulter le [Cadre de cohérence Technique "Cloud Native"](https://github.com/cloud-pi-native/cct-cloud-native/blob/main/README.md)/ définir son plan projet/évaluer son degré de préparation (maturité)|Completer  le [formulaire de demande d'accès à la console](https://www.demarches-simplifiees.fr/commencer/cloud-pi-native)/ **RDV de qualification technique avec un tech lead du programme**|
 |3|Lancer son projet/produit dans un environnement de développement "Cloud native"|Consulter la [documentation de l'offre](https://github.com/cloud-pi-native/documentation)/ s'exercer avec les tutoriels/ provisionner et déployer son environnement de développement "cloud native"|Préparation de l'architecture projet/ **RDV de lancement avec la Service Team**|
 |4|Passer en production, construire dans le respect de normes "Cloud Native"|Consulter la [documentation de l'offre](https://github.com/cloud-pi-native/documentation)/ provisionner et déployer son environnement de production "Cloud native"/ prise en main des outils d'observabilité|S'intégrer aux processus nominaux (hébergement, homologation, certification, …)/ **Suivi technique avec la service team**|
