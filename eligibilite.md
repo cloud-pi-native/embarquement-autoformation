@@ -1,4 +1,4 @@
-# Eligibilité à l'accompagnement
+# Politique d'accompagnement et conditions d'éligibilité
 
 Les équipes du programme Cloud Pi Native assistent à :
 - **La préqualification du besoin et de la démarche:** RDV d'aide à la structuration de la démarche, analyse du besoin et de son adéquation avec l'offre (i.e. les composants existants ou figurant à la roadmap du programme);
