@@ -1,4 +1,4 @@
-# Step 1 : Comprendre l'opportunité du Cloud Native pour son besoin
+# Step 1 : Qualifier son besoin, analyser l'opportunité du Cloud Native
 L’équipe a besoin de comprendre l'opportunité du Cloud Native pour son besoin. La checklist permet l'analyse de la pertinence/adéquation du besoin avec l'offre de service proposée et/ou la roadmap du programme Cloud Pi native (à venir: matrice d'éligibilité). Eligible à un accompagnement : la checklist permet de préparer le RDV de préqualification de la demande (adéquation avec l’offre et/ou le programme) et la légitimité de passer en qualification technique.
 
 ## Contexte métier et besoin motivant la demande
@@ -17,7 +17,7 @@ L’équipe a besoin de comprendre l'opportunité du Cloud Native pour son besoi
 -	Le besoins/motivations sous-jacents ont-ils déjà été qualifiés et quantifiés ? (Irritants, verrous techniques, efforts/travaux à fournir…). 
 -	Si oui, sur quels points l’offre Cloud Pi Native a-t-elle été identifié comme apportant de la valeur ? Des points de convergence/des contributions à l’offre et sa raodmap ont-ils déjà été identifiés ? 
 -	Quels sont les risques et contraintes à se lancer ? (criticité des applications, contraintes calendaires, disponibilité des équipes…) Quels sont les risques à ne pas se lancer dans le Cloud Native ?
-
+- Si vous souhaitez être accompagnés: avez vous pris connaissance de la [politique d'accompagnement](https://github.com/cloud-pi-native/embarquement-autoformation/blob/main/eligibilite.md)?
 
 # Step 2 : Préparer son projet/produit "cloud native"
 L’équipe a besoin de préparer son projet/produit "cloud native" avant de se lancer. La checklist permet de comprendre sur quoi reposent les opportunités du cloud native, quels sont les prérequis pour s’en saisir et préparer un plan projet pour le lancement.
