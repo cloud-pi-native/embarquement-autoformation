@@ -27,7 +27,9 @@ Le parcours comporte 5 étapes, de la prise de connaissance à l'utilisation en 
 
 # Contenu du plan d'embarquement
 
-Le plan d'embarquement permet d'avancer étape par étape de la découverte à l'utilisation en autonomie. Pour être guidés dans les questions et critères à valider pour passer à l'étape suivante, consultez [**la checklist**](./checklist.md). Vous savoir à quel type d'accompagnement vous etes éligibles, référez vous à la [(politique d'accompagnement)](https://github.com/cloud-pi-native/embarquement-autoformation/blob/main/eligibilite.md).
+Le plan d'embarquement permet d'avancer étape par étape de la découverte à l'utilisation en autonomie: 
+- Pour être guidés dans les questions et critères à valider avant de passer à l'étape suivante, consultez [la checklist](./checklist.md).
+- Vous savoir à quel type d'accompagnement vous etes éligibles, débutez en consultant la [politique d'accompagnement](https://github.com/cloud-pi-native/embarquement-autoformation/blob/main/eligibilite.md).
 
 | | | | |
 |-|-|-|-|
