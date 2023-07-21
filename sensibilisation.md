@@ -110,6 +110,8 @@ La mutualisation d'infrastructures coûteuses, portées par un ministère et mis
  
 
 # Reste à faire, pistes d'amélioration
+- Intérêt pour les décisions de décomissionnement 
+- Intérêt pour la planification des ressources infra
 - Préciser le périmètre pour lequel l'offre est pertinente: quelles systèmes/applications ont vocation à l'utiliser? Les nouvelles pour des questions de mise à l'état de l'art, mais quid des anciennes? Retex: Nubo, Cloud centre, Commission Européenne, CRiP
 - Combien ça coute/qu'est ce que ca permet de gagner? Notamment dans le cadre de la LOPMI, beaucoup de développements= beaucoup de MCO à prévoir demain. Penser au cout du "montage de l'usine".Modèle économique: quels sont les modèles économiques et modes de contractualisation (accords de service) possibles?
 - Est-il possible de s’appuyer sur le témoignage d'un prescripteur? Retex: ministères ayant basculé sur ce type d'offre: MTE, MJ, MinArm, Educ. Nat. Aller chercher les arguments rationnels et impactants
