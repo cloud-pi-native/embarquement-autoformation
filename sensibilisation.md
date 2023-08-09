@@ -20,11 +20,11 @@ Tous les jours de nouveaux domaines d’activités se font « disrupter » par
 Les usagers, dont les agents du service public, s'attendent logiquement à ce que leurs outils de travail soient au niveau de ceux qu'ils utilisent comme particuliers. Ils ont d'ailleurs tendance à faire renter les outils qu'ils pratiquent et apprécient dans leur sphère professionnelle (ex: Télégram ou Whatsapp). C'est ce qui explique que les acteurs du "nouveau monde numérique" ont peu à peu imposé leurs standards "de fait" y compris sur des points relevant de domaines régaliens (statut des données personnelles, certification de l'identité, émission de monnaie...). Pour cela les acteurs du "nouveau monde numérique" se sont appuyé sur: 
 1) de nouvelles technologies de passage à l'échelle;
 2) de nouveaux modes de production plus efficace;
-3) de nouvelles normes culturelles portées par: le modèle commercial (ex: marché des données personnelles), les choix techniques (ex: informatique ubiquitaire), des incitations comportementales (ex: partage de photos/informations pouvant être considérées comme relevant de la vie privée contre gain de notoriété) ou la captation de l'attention.
+3) de nouvelles normes culturelles portées par: le modèle commercial (ex: modèle "service contre données"), les choix techniques (ex: informatique ubiquitaire), des incitations comportementales (ex: partage de photos/informations pouvant être considérées comme relevant de la vie privée contre gain de notoriété) ou la captation de l'attention.
 
 Se doter des moyens de produire et diffuser un numérique public souverain nécessite de s'appuyer sur deux leviers: 
 1) Par la législation, en régulant les activités générées par le numérique;
-2) Par la puissance technique, en se dotant d'outils permettant de maitriser la qualité technique et les standards (SSI, RGPD, accessibilité, impact environnemental... ) des produits numériques fabriqués, sous-traités ou acquis par l'Etat en vue d'être intégrés à son patrimoine numérique.
+2) Par la puissance technique, en se dotant d'outils permettant de maitriser la qualité technique et les standards (SSI, RGPD, accessibilité, impact environnemental... ) des produits numériques fabriqués, sous-traités ou acquis par l'Etat en vue d'être intégrés au son patrimoine numérique national.
 
 ## Qu'est ce que "le Cloud", quelle role joue t-il dans la transformation du paysage numérique?
 Pour comprendre comment tout ceci est supporté par le cloud, rappelons que pour exister et fonctionner les applications, données et briques techniques qui sont à la base d'un "produit numérique" nécessitent d'être hébergées et exécutées par des serveurs. Ces servuers, ces ressources peuvent être:
