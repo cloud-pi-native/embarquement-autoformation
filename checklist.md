@@ -70,7 +70,7 @@ Eligibible à un accompagnement :  la checklist permet de préparer le RDV de qu
 - Quels sont les services (URL) que vous allez exposer sur Internet / RIE / Intranet ?
 - Connaissez vous les noms de domaines de votre application ? Tout environnements confondus
 
-## vous souhaitez être accompagné
+## Vous souhaitez être accompagné par le programme Cloud Pi Native
 - Avez vous pris connaissance de la [politique d'accompagnement](https://github.com/cloud-pi-native/embarquement-autoformation/blob/main/eligibilite.md) et de l'accompagnement auquel votre démarche est éligible?
 - Le cas échéant, avez vous pris contact avec le programme pour planifier un RDV de qualification technique avec un tech lead du programme (remplissage du [formulaire Démarche Simplifée](https://www.demarches-simplifiees.fr/commencer/cloud-pi-native))? 
 -   Avez vous un architecte BACI identifié sur votre projet ?
