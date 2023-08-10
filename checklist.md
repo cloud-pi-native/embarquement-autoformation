@@ -85,6 +85,11 @@ Comment se préparer et mettre en place une offre cloud native, chacun à son ni
 -	Déploiement du code applicatifs et code décrivant l'infrastructure
 -	Vous etes vous renseigné sur les différentes démarches qui seront à engager pour consommer l’offre « en production » ? (demande d’hébergement, homologation, certificats, …)
 
+## Vous souhaitez être accompagné par le programme Cloud Pi Native
+- Avez vous pris connaissance de la [politique d'accompagnement](https://github.com/cloud-pi-native/embarquement-autoformation/blob/main/eligibilite.md) et de l'accompagnement auquel votre démarche est éligible?
+- Le cas échéant, avez vous pris contact avec le programme pour planifier un RDV de lancement avec la service team (cloudpinative-relations@interieur.gouv.fr)? 
+
+
 # Step 4 : Passer en production, construire dans le respect des normes "Cloud Native"
 Comment réaliser le potentiel du cloud native, dans le respect des différentes normes (techniques, organisationnelles, etc.)? 
 
