@@ -5,19 +5,21 @@ L’équipe a besoin de comprendre l'opportunité du Cloud Native pour son besoi
 -	Quel est le périmètre applicatif concerné (contexte métier/missions) ?
 -	Quelle est l’organisation responsable du périmètre applicatif, quelles sont ses missions ?
 -	Quelle sont les besoins/motivations pour l’utilisation des éléments de l’offre ? (lesquels ?)
--	Quel est le type de demande (move2cloud, nouveau projet, expérimentation, migration...) ?
+-	Quel est le type de demande: migration vers le cloud (move2cloud), nouveau projet "cloud  native", expérimentation de la chaine de livraison DevSecOps,... ?
 
 ## Cadre organisationnel et démarche de consommation de l’offre
 -	Quel est la position/le rôle de l’émetteur de la demande ?
--	Dans quel cadre la démarche est-elle soutenue/financée ? (projet, programme, expérimentation…)
--	Le sponsor/responsable hiérarchique sont-ils informés de la démarche ? comment soutient-il la démarche ? (mise à disposition de personnels, budget, 
+-	Dans quel cadre la démarche est-elle soutenue/financée ? (projet, programme, budget de fonctionnement ou expérimentation…)
+-	Les sponsors/responsables hiérarchiques sont-ils informés de la démarche ? comment soutiennent-il la démarche ? (mise à disposition de personnels, budget, ressources...)
 -	Des équipes sont-elles dédiées ? Si oui, composition des équipes impliquées (nombre de personnes, statut, rôles et compétences…) ?
 
-## Adéquation avec l’offre Cloud Pi Native (si elle est possible sur la base des infos à disposition)
+## Adéquation avec l’offre Cloud Pi Native (sur la base des infos à disposition)
 -	Le besoins/motivations sous-jacents ont-ils déjà été qualifiés et quantifiés ? (Irritants, verrous techniques, efforts/travaux à fournir…). 
 -	Si oui, sur quels points l’offre Cloud Pi Native a-t-elle été identifié comme apportant de la valeur ? Des points de convergence/des contributions à l’offre et sa raodmap ont-ils déjà été identifiés ? 
 -	Quels sont les risques et contraintes à se lancer ? (criticité des applications, contraintes calendaires, disponibilité des équipes…) Quels sont les risques à ne pas se lancer dans le Cloud Native ?
-- Si vous souhaitez être accompagnés: avez vous pris connaissance de la [politique d'accompagnement](https://github.com/cloud-pi-native/embarquement-autoformation/blob/main/eligibilite.md)?
+
+## Vous souhaitez être accompagnés par le programme Cloud Pi Native
+- Avez vous pris connaissance de la [politique d'accompagnement](https://github.com/cloud-pi-native/embarquement-autoformation/blob/main/eligibilite.md) et des conditions d'éligibilité?
 
 # Step 2 : Préparer son projet/produit "cloud native"
 L’équipe a besoin de préparer son projet/produit "cloud native" avant de se lancer. La checklist permet de comprendre sur quoi reposent les opportunités du cloud native, quels sont les prérequis pour s’en saisir et préparer un plan projet pour le lancement.
