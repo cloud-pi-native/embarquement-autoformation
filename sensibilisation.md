@@ -1,4 +1,4 @@
-# Sensibilisation: type de questions et problématiques adressées
+![image](https://github.com/cloud-pi-native/embarquement-autoformation/assets/95349293/76040fb5-79cc-40a1-853f-c82c1babea38)# Sensibilisation: type de questions et problématiques adressées
 Les ressources mises à disposition ici répondent aux questions relatives au enjeux de Cloud PI Native et à leurs implications pour le numérique public: 
 1.	Pourquoi parle t-on d'un "nouveau monde numérique" et quelle place y tient "le Cloud" ? Quels  enjeux cela pose t-il pour le numérique public?
 2.	Qu'est ce que la doctrine « cloud au centre »? A quelles problèmes répond-elle et avec quels leviers? 
@@ -40,6 +40,9 @@ Le "cloud" est une façon de gérer dynamiquement et à distance l'allocation de
 - Facturation à l’usage: l'utilisateur paie le "cout marginal" d'utilisation des ressrouces (pas la mise en service);
 
 Pour réaliser ces caractéristiques, il existe différents [modèles de partage reponsabilités entre le fournisseur Cloud et l'utilisateur](https://www.redhat.com/fr/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud#questions-fr%C3%A9quentes): ce sont les types IaaS, PaaS, Saas (ex: en IaaS, c'est un fournisseur qui gère toute l'infrastructure. En Saas, il gère tout de l'infrastructure au logiciel). C'est en s'appuyant sur ce haut niveau de qualité et de fiabilité des services cloud que les acteurs du "nouveau monde numérique" dominent le monde numérique et ont imposé leurs sandards (ex: sécurité, régime juridique, protection des données, ...). L'offre Cloud Pi Native est une offre PaaS qui vise à permettre la maitrise des technologies du cloud computing par la puissance publique.
+
+Il est important de se rappeler que [le Cloud fourni une sécurité "as-a-service" (comprendre ici: assumée par le fournisseur et mutualisée) supérieure au on-premise (hébergement par l'organisation cliente)](https://medium.com/@ismaelbouarfa/s%C3%A9curit%C3%A9-cloud-vs-s%C3%A9curit%C3%A9-on-premise-b6e742bf7b7b). Ceci est permis par les capcités du fournisseurs cloud en termes de: mise à jour, résilience, etc. mais ceci est valable seulement à condition que la protection des données et le partage des responsabilités soient bien pris en compte et assumés par l'entreprise ou  l'administration cliente. 
+
 
 ## Qu'est ce qu'apporte le fait de mettre le « cloud au centre », comme le préconise la doctrine? 
 La crise covid l'a montré: sans la puissance du cloud, la bascule massive vers les outils numériques ayant permis l'essor du télétravail aurait été impossible. Dans le même temps, des millions d'utilisateurs se sont posé des questions sur le devenir de leur données personnelles. Il y a donc des opportunités, mais aussi des enjeux très forts autour du cloud. 
@@ -118,4 +121,4 @@ La mutualisation d'infrastructures coûteuses, portées par un ministère et mis
 - Petite intro: qu'est ce que le cloud? (figure?)
 -	Moyen de mesurer la réussite (ou non) de la session (OKR) ou le NPS (recommanderiez-vous cette offre-> NPR) 1) intro :  2) sondage sur les connaissances actuelles 3) présentation 4) "s'il ne fallait retenir qu'une chose" 5) quizz et collecte des retours (comment avez-vous trouvé... ? qu’est ce qui a manqué pour vous convaincre ? )
 -	Alimenter en exemple du quotidien, qui marche, reposant sur le paradigme "Cloud Native" : Google (Borg), Netflix, ... vs. des exemples de ce qui marche moins bien (banque ou assurance traditionnelles, ...)
--	Démystifier la sécurité (argument développés dans les présentations de "Cloud au centre"): elle est différente pur un individu et à l'échelle d'un acteur "géostratégique" https://medium.com/@ismaelbouarfa/s%C3%A9curit%C3%A9-cloud-vs-s%C3%A9curit%C3%A9-on-premise-b6e742bf7b7b
+
