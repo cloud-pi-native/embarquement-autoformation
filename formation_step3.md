@@ -10,7 +10,9 @@
 
 ### Périmètre pilotage MOE: organiser et préparer une équipe produit pour mettre en place et utiliser des outils "cloud native" (contractualisation, provisionnement, compétences, ...)
 - Amorcer son équipe produit et élaborer un plan de formation (maturity check): https://github.com/dnum-mi/dso-formation/blob/main/2.6-plan_formation.md
--  Mettre en place la contractualisation: https://www.demarches-simplifiees.fr/commencer/cloud-pi-native
+- Sécuriser ses projets numériques: https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=488
+- Mettre en place la contractualisation: https://www.demarches-simplifiees.fr/commencer/cloud-pi-native
+- Gestion des achats et fournisseurs dans les projet numériques	https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=495
 
 ### Périmètre technique: réaliser un premier "hello world", puis construire un MVP avec un socle de production Cloud Native
 - [documentation de l'offre](https://github.com/cloud-pi-native/documentation)
