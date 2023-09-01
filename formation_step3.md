@@ -6,7 +6,7 @@
 
 ## Ressources d'autoformation (par périmètre de responsabilité)
 
-### Périmètre gouvernance/décisionnaire: Mesurer l'impact de ces nouvelles opportunités sur les organisations produisant du numérique (stratégie, financement, gouvernance budgétaire, programmation, ...)
+### Périmètre gouvernance/décisionnaire: mesurer l'impact des opportunités du cloud native sur les organisations produisant du numérique (stratégie, financement, gouvernance budgétaire, programmation, ...)
 - Comprendre une usine logicielle DevSecOps et l'organisation autour: https://www.youtube.com/watch?v=wSBqoueGLTQ
 
 ### Périmètre pilotage MOE: organiser et préparer une équipe produit pour mettre en place et utiliser des outils "cloud native" (contractualisation, provisionnement, compétences, ...)
