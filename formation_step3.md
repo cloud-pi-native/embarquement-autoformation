@@ -1,8 +1,8 @@
 # Etape 3: comment me préparer, à mon niveau de responsabilité, pour mettre en place une offre cloud native?
 
 ## Ressources essentielles (pour tous)
-Cloud Native : comprendre l'essentiel en 9 minutes: https://www.youtube.com/watch?v=k-NXaFZ5lCU
-Creating the Cloud native organisation: https://www.youtube.com/watch?v=T0XgRVPqCOM
+- Cloud Native : comprendre l'essentiel en 9 minutes: https://www.youtube.com/watch?v=k-NXaFZ5lCU
+- Creating the Cloud native organisation: https://www.youtube.com/watch?v=T0XgRVPqCOM
 
 ## Ressources d'autoformation (par périmètre de responsabilité)
 
