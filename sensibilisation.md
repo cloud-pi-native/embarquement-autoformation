@@ -1,4 +1,7 @@
-![image](https://github.com/cloud-pi-native/embarquement-autoformation/assets/95349293/76040fb5-79cc-40a1-853f-c82c1babea38)# Sensibilisation: type de questions et problématiques adressées
+# Etape 1: sensibilisation aux enjeux/risques des mutations du numérique (et en quoi suis-je concerné?)
+
+## Ttype de questions et problématiques adressées
+![image](https://github.com/cloud-pi-native/embarquement-autoformation/assets/95349293/76040fb5-79cc-40a1-853f-c82c1babea38)
 Les ressources mises à disposition ici répondent aux questions relatives au enjeux de Cloud PI Native et à leurs implications pour le numérique public: 
 1.	Pourquoi parle t-on d'un "nouveau monde numérique" et quelle place y tient "le Cloud" ? Quels  enjeux cela pose t-il pour le numérique public?
 2.	Qu'est ce que la doctrine « cloud au centre »? A quelles problèmes répond-elle et avec quels leviers? 
