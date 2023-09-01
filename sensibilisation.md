@@ -103,7 +103,7 @@ L'offre est actuellement destinée aux nouveaux projets et aux projets souhaitan
 
 La mutualisation d'infrastructures coûteuses, portées par un ministère et mise à la disposition de tous les ministères, amènent des questions nouvelles sur le partage des coûts des investissements que ces infrastructures nécessitent pour être pérénisées. Les expérimentations en cours doivent affiner le modèle économique qui permettra à l'offre d'être et rester concurrentielle.
 
-### S'il fallait ne retenir que 3 choses 
+### S'il ne fallait retenir que 3 choses 
 - Les technologies cloud-native sont une clef de l'adaptation au "nouveau monde logiciel", un monde plus incertain soumis à des bouleversements rapides. Dans ce contexte, Cloud Pi Native vise à faire émerger des standards du numérique public, condition de la pérénisation d'un patrimoine numérique public;
 - L'offre s'appuie sur 1) l’adoption du cloud et des technologies "cloud native" comme enablers de la sécurité 2) une usine logicielle pour réduire la distance entre usagers et agents tout en maitrisant la qualité du code 3) un cadre de normes pour rester en maitrise du patrimoine numérique;
 - Elle est d'ores et déja disponible à l'expérimentation, en construction selon une approche opensource et incrémentale. Partenaires ministériels et industriels: venez la challenger et contribuer.
