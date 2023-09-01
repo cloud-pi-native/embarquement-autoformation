@@ -1,24 +1,22 @@
-# Etape 4: passer en production
+# Etape 4: omment réaliser le potentiel du cloud native, à quoi m'engage le respect des différentes normes (techniques, organisationelles, etc.)?
 
-## Compétences à acquérir
-- Culture générale: Assurer la sécurité et la qualité dans "le nouveau monde logiciel" (zéro-trust)
-- Culture Cloud Native: Concevoir un produit Clodu Native et gérer son cycle de vie de A à Z (sécurité k8s)
-- Spécifique Cloud Pi Native: Contruire un projet avec Cloud Pi Native: exigences/CCT, sécurité, ... jusqu'à la production (chaine secondaire)
+## Ressoruces essentielles (pour tous)
 
-# Formation à titre individuel
+## Ressources d'autoformation (par périmètre de responsabilité)
 
-## Périmètre gouvernance/décisionnaire
+### Périmètre gouvernance/décisionnaire: assurer la qualité et la sécurité au niveau des organisations dans le "nouveau monde logiciel"
 - Comprendre la sécurité à l’ère du cloud (zero-trust...) https://www.techniques-ingenieur.fr/base-documentaire/technologies-de-l-information-th9/securite-des-si-organisation-dans-l-entreprise-et-legislation-42458210/systeme-d-information-hybride-et-securite-un-retour-a-la-realite-h5140/ 
+
+### Périmètre pilotage MOE: s'organiser pour concevoir et gérer des produits de A à Z dans un cadre Cloud Native (sécurité k8s)
 - La sécurité à l’ère  kubernetes, introduction: https://www.redhat.com/fr/topics/containers/intro-kubernetes-security 
 - La sécurité à l’ère  kubernetes, bonnes pratiques: https://www.redhat.com/fr/topics/containers/kubernetes-security-best-practices
-- Travailler en DevSecOps: éléments "avancés" des parcours d'apprentissage SAFe
 
-## Périmètre pilotage MOE
+## Périmètre technique: déployer en production, puis mettre en service un produit cloud native
 - Concevoir une architecture applicative avec kubernetes, introduction: https://www.youtube.com/watch?v=umXEmn3cMWY
 - Concevoir une architecture applicative avec kubernetes https://www.redhat.com/fr/topics/containers/kubernetes-architecture
 - Observer les signaux de vie d'une l’application (prometheus) https://www.youtube.com/watch?v=ti0YEPZAxMk
 
-## Périmètre technique
+### A venir
 - Concevoir et préparer l’observabilité
 - Security by design/préparer l'homologation
 - Gérer le fonctionnnement de la chaine secondaire
