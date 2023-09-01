@@ -6,7 +6,7 @@ Quels sont les concepts technologiques, méthodologiques et organisationnels mis
 - Culture Cloud Native: Comprendre les concepts technologiques de conteneurisation et d'orchestration (kubernetes)
 - Spécifique Cloud Pi Native: Comprendre les différents services de l'offre Cloud Pi Native et leur interet à chaque étape du cycle de vie d'un produit
 
-# Ressources essentielles
+# Ressources essentielles (pour tous)
 
 ## Concepts à la base des opportunités du nouveau monde numérique
 - Qu'est ce que le DevSecOps en 8 minutes: https://www.youtube.com/watch?v=nrhxNNH5lt0&list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG&index=3
@@ -21,7 +21,7 @@ Quels sont les concepts technologiques, méthodologiques et organisationnels mis
 - Prendre en main kubernetes en 5 min avec un tutoriel "pour tous" https://kubernetes.io/fr/docs/tutorials/kubernetes-basics/
 
 
-# Formation à titre individuel
+# Ressources d'autoformation (par périmètre de responsabilité)
 
 ## Périmètre gouvernance/décisionnaire
 - Gestion des achats et fournisseurs dans les projets numériques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=495 
