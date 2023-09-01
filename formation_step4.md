@@ -1,6 +1,6 @@
 # Etape 4: omment réaliser le potentiel du cloud native, à quoi m'engage le respect des différentes normes (techniques, organisationelles, etc.)?
 
-## Ressoruces essentielles (pour tous)
+## Ressources essentielles (pour tous)
 Cybersécurité des projets numériques: https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=494
 Identité numérique: https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=491
 
