@@ -4,15 +4,13 @@
 - Qu'est ce que le DevSecOps en 8 minutes: https://www.youtube.com/watch?v=nrhxNNH5lt0&list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG&index=3
 - Qu'est ce que le mode produit? https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=480
 - Cybersécurité des projets numériques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=494
-
 - D'ou vient kubernetes et à quels enjeux cela répond-il? https://www.youtube.com/watch?v=sVP8xb9BrhM
 - L'essentiel de kubernetes en 7 minutes: https://www.youtube.com/watch?v=NChhdOZV4sY
 - Prendre en main kubernetes en 5 min avec un tutoriel "pour tous" https://kubernetes.io/fr/docs/tutorials/kubernetes-basics/
 
 ## Ressources d'autoformation (par périmètre de responsabilité)
 
-### Périmètre gouvernance/décisionnaire
-Comprendre comment les grands acteurs du numériques/grandes organisations ont tirés parti des nouvelles opportunités
+### Périmètre gouvernance/décisionnaire: comprendre comment les grands acteurs du numériques/grandes organisations ont tirés parti des nouvelles opportunités
 - Gestion des achats et fournisseurs dans les projets numériques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=495 
 
 ### Périmètre pilotage MOE: comprendre les technologies portées par le cloud native (orchestration et conteneurisation)
