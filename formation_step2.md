@@ -9,7 +9,7 @@
 
 ## Ressources d'autoformation (par périmètre de responsabilité)
 
-### Périmètre gouvernance/décisionnaire: comprendre comment les grands acteurs du numériques/grandes organisations ont tirés parti des nouvelles opportunités
+### Périmètre gouvernance/décisionnaire: comprendre comment les grands acteurs du numériques/grandes organisations ont tirés parti des opportunités du Cloud Native
 - Gestion des achats et fournisseurs dans les projets numériques https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=495
 - D'ou vient kubernetes et à quels enjeux cela répond-il? https://www.youtube.com/watch?v=sVP8xb9BrhM
 
