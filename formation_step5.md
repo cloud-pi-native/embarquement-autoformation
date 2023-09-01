@@ -1,22 +1,20 @@
-# Etape 5: atteindre les meilleurs stadnards, contribuer 
-## Compétences à acquérir
-- Culture générale: Manager pour rester autonome et performant sur la durée (anti-patterns, mode produit, cloud-agile...)
-- Culture Cloud Native: Utiliser les technologies du CNCF Landscape et les charts Helms / Operators
-- Spécifique Cloud Pi Native: Assurer la disponibilité et la continuité en production, garder les options ouvertes sur les transitions futures
+# Etape 5:comment garantir, en évolution permanente, l'intégration/pérénnité des bonnes pratiques et la maitrise des standards?
 
-# Se former à titre individuel 
+## Ressources essentielles (pour tous)
 
-## Périmètre gouvernance/décisionnaire
-- Les anti-patterns
+
+# Ressources de formation (par périmètre de responsabilité)
+
+## Périmètre gouvernance/décisionnaire: manager un patrimoine numérique pour rester autonome et performant sur la durée (anti patterns, organisation en mode produit et cloud-agile)
 - Management de produit https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=480
 - Manager une équipe produit & cloud & agile https://publication.octo.com/fr/culture-produit-product-management-octo
 
-# Périmètre pilotage MOE
+# Périmètre pilotage MOE: tirer le plein potentiel et contribuer aux technologies du CNCF Landscape (dont charts helms/operators)
 - Comprendre le lien entre opensource et culture cloud native https://www.oracle.com/fr/cloud/cloud-native/what-is-cloud-native/#defining
 - Comprendre le CNCF Landscape https://landscape.cncf.io/
 - Pourquoi passer du mode projet au mode produit: https://blog.octo.com/passer-du-mode-projet-au-mode-produit/
 
-# Périmètre technique 
+# Périmètre technique: assurer la disponibilité et la continuité, MCO/MCS, garder des options ouvertes sur les transitions futures
 - comprendre les "charts Helms": https://helm.sh/fr/
 - Introduction à helm: https://blog.wescale.fr/introduction-a-helm
 - Les bases de helm: https://blog.wescale.fr/helm-pour-les-nuls-et-moins-nuls
@@ -36,3 +34,5 @@
 - Formation avancées à kubernetes: https://training.wescale.fr/formations/kubernetes-avancee-devops
 - Les " Operators", pour les développeurs: https://www.youtube.com/watch?v=-I91DSU8glA
 
+# A venir
+- Les anti-patterns
