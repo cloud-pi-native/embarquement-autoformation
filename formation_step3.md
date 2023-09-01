@@ -1,30 +1,26 @@
-## Etape 3: lancer son projet en "Cloud native"
+# Etape 3: Comment me préparer, à mon niveau de responsabilité, pour mettre en place une offre cloud native?
 
-# Compétences à acquérir
-- Mesurer l'impact de ces nouvelles opportunités sur la production logicielle: usines logicielles, organisations agiles, périmètres de responsabilités...
-- Monter une équipe produit et élaborer un plan de formation pour utiliser les outils Cloud Native
-- Lancer un projet dans Cloud Pi Native, du "hello world" (chaine primaire) jusqu'au MVP
+## Ressources essentielles (pour tous)
 
-# Ressources essentielles
-- [documentation de l'offre](https://github.com/cloud-pi-native/documentation)
-  Mettre en place la contractualisation: https://www.demarches-simplifiees.fr/commencer/cloud-pi-native
-- Commander ses ressources, mettre en oeuvre le pipeline, réaliser un hello world: https://github.com/cloud-pi-native/documentation/blob/master/getting-started.md)
-- Configurer son projet/ chaine primaire 
-- Architectures de référence
-- Tutoriels
 
-# Formation à titre individuel
+## Ressources d'autoformation (par périmètre de responsabilité)
 
-## Périmètre gouvernance/décisionnaire
+### Périmètre gouvernance/décisionnaire: Mesurer l'impact de ces nouvelles opportunités sur les organisations produisant du numérique (stratégie, financement, gouvernance budgétaire, programmation, ...)
 - Comprendre une usine logicielle DevSecOps et l'organisation autour: https://www.youtube.com/watch?v=wSBqoueGLTQ
 
-## Périmètre pilotage MOE
+### Périmètre pilotage MOE: organiser et préparer une équipe produit pour mettre en place et utiliser des outils "cloud native" (contractualisation, provisionnement, compétences, ...)
 - Amorcer son équipe produit et élaborer un plan de formation (maturity check): https://github.com/dnum-mi/dso-formation/blob/main/2.6-plan_formation.md
+-  Mettre en place la contractualisation: https://www.demarches-simplifiees.fr/commencer/cloud-pi-native
 
-## Périmètre technique
+### Périmètre technique: réaliser un premier "hello world", puis construire un MVP avec un socle de production Cloud Native
+- [documentation de l'offre](https://github.com/cloud-pi-native/documentation)
 - Comprendre & mettre en œuvre un pipeline DevSecOps: https://www.redhat.com/fr/resources/5-ways-to-devsecops-with-automation-checklist
 - Comprendre & hands-on GitOps: https://github.com/dnum-mi/gitops-tutorial
 - Un outils de livraison continue pour kuberntes (ArgoCD): https://argo-cd.readthedocs.io/en/stable/
+- Commander ses ressources, mettre en oeuvre le pipeline, réaliser un hello world: https://github.com/cloud-pi-native/documentation/blob/master/getting-started.md)
 
 # Ressources à venir
 - Assurer la disponibilité & continuité
+- Configurer son projet/ chaine primaire 
+- Architectures de référence
+- Tutoriels
