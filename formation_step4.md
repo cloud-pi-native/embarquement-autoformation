@@ -2,6 +2,7 @@
 
 ## Ressoruces essentielles (pour tous)
 Cybersécurité des projets numériques: https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=494
+Identité numérique: https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=491
 
 ## Ressources d'autoformation (par périmètre de responsabilité)
 
