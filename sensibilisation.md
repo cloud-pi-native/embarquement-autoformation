@@ -1,23 +1,22 @@
 # Etape 1: sensibilisation aux enjeux/risques des mutations du numérique (et en quoi suis-je concerné?)
 
-## Ttype de questions et problématiques adressées
-![image](https://github.com/cloud-pi-native/embarquement-autoformation/assets/95349293/76040fb5-79cc-40a1-853f-c82c1babea38)
+## Type de questions et problématiques adressées
 Les ressources mises à disposition ici répondent aux questions relatives au enjeux de Cloud PI Native et à leurs implications pour le numérique public: 
 1.	Pourquoi parle t-on d'un "nouveau monde numérique" et quelle place y tient "le Cloud" ? Quels  enjeux cela pose t-il pour le numérique public?
 2.	Qu'est ce que la doctrine « cloud au centre »? A quelles problèmes répond-elle et avec quels leviers? 
 3.	Qu'est ce que l'on appelle les technologies "cloud native"? Quel lien avec "le cloud"? Qu'est ce que permettent ces technologies? 
 4.	Qu'est ce que contient l'offre "Cloud Pi Native" du MIOM? Que peut-elle apporter à mon organisation/mon portefeuille de produits numériques? 
  
-# L'essentiel: trame de sensibilisation 
- 
-# "Cloud Pi Native" en 3 minutes ("elevator pitch")
+## L'essentiel "Cloud Pi Native" en 3 minutes ("elevator pitch")
 Usager, citoyen, agent, responsable politique, se mobilisent pour que les services numériques publics soient aussi simples d'accès et d'utilisation, fiables et évolutifs que ceux que proposent (souvent "gratuitement") les grands acteurs privés du numérique. "Cloud Pi Native" est une offre de services du MIOM, ouverte à l'interministériel, visant à fournir les moyens de produire des applications de qualité, sécurisées et souveraines (au sens de "l'autonomie stratégique").
 
 Conformement à la doctrine "cloud au centre", cette offre vise à tirer la pleine puissance du Cloud pour transformer le numérique public. Elle s'appuie sur un socle technologique, véritable "usine logicielle" à l'état de l'art, conçue pour le cloud (i.e. "cloud native") permettant la maitrise des standards des produits numériques (sécurité des données, RGPD, accessibilité, impact environnemental... ).
 
 A travers un parcours unique, les produits numériques existants ou en cours de conception, pourront bénéficier: de l'hébergement sécurisé sur le Cloud Pi souverain, d'une usine logicielle permettant de déployer et gérer des produits "sans frictions" et d'un cadre normalisant la gestion des produits tout au long de leur cycle de vie. Les équipes minstérielles utilisatrices de l'offre bénéficieront d'un accompagnement adapté, jusqu'à l'autonomie. L'offre participe ainsi de la maitrise du patrimoine numérique en gagnant en intégration, visibilité, rationnalité.
 
-## Pourquoi transformer les moyens de production du numérique public?
+## Pour mieux comprendre....
+
+### Pourquoi transformer les moyens de production du numérique public?
 Tous les jours de nouveaux domaines d’activités se font « disrupter » par de nouveaux acteurs du numérique: banques, information, transports, sociabilité, hotellerie/tourisme... Le paysage d'un "nouveau monde numérique" a émergé, en évolution rapide générant une complexité croissante. Paradoxalement, cette complexité technique s'accompagne d'une grande simplicité d'accès et d'une qualité technique des produits proposés qui les rendent extrèmement concurentiels. Les utilisateurs de Facebook, Google Docs, Netflix, ... ont pris l'habitude de cette simplicité d'utilisation (outils sans mode d'emploi), de cette fiabilité (pas d'interruption de service) et de cette continuité de l’expérience (pas de "Facebook 2.0" ou de "gmail 2.0: leurs fournisseurs améliorent en continu le service rendu).
 
 Les usagers, dont les agents du service public, s'attendent logiquement à ce que leurs outils de travail soient au niveau de ceux qu'ils utilisent comme particuliers. Ils ont d'ailleurs tendance à faire renter les outils qu'ils pratiquent et apprécient dans leur sphère professionnelle (ex: Télégram ou Whatsapp). C'est ce qui explique que les acteurs du "nouveau monde numérique" ont peu à peu imposé leurs standards "de fait" y compris sur des points relevant de domaines régaliens (statut des données personnelles, certification de l'identité, émission de monnaie...). Pour cela les acteurs du "nouveau monde numérique" se sont appuyé sur: 
@@ -29,7 +28,7 @@ Se doter des moyens de produire et diffuser un numérique public souverain néce
 1) Par la législation, en régulant les activités générées par le numérique;
 2) Par la puissance technique, en se dotant d'outils permettant de maitriser la qualité technique et les standards (SSI, RGPD, accessibilité, impact environnemental... ) des produits numériques fabriqués, sous-traités ou acquis par l'Etat en vue d'être intégrés au son patrimoine numérique national.
 
-## Qu'est ce que "le Cloud", quelle role joue t-il dans la transformation du paysage numérique?
+### Qu'est ce que "le Cloud", quelle role joue t-il dans la transformation du paysage numérique?
 Pour comprendre comment tout ceci est supporté par le cloud, rappelons que pour exister et fonctionner les applications, données et briques techniques qui sont à la base d'un "produit numérique" nécessitent d'être hébergées et exécutées par des serveurs. Ces servuers, ces ressources peuvent être:
 - Publiques: c'est à dire partagé avec des utilisateurs qui ne sont pas propriétaires des machines;
 - Privées: c'est à dire partagé au sein de l'organisation propriétéaire des machines;
@@ -47,7 +46,7 @@ Pour réaliser ces caractéristiques, il existe différents [modèles de partage
 Il est important de se rappeler que [le Cloud fourni une sécurité "as-a-service" (comprendre ici: assumée par le fournisseur et mutualisée) supérieure au on-premise (hébergement par l'organisation cliente)](https://medium.com/@ismaelbouarfa/s%C3%A9curit%C3%A9-cloud-vs-s%C3%A9curit%C3%A9-on-premise-b6e742bf7b7b). Ceci est permis par les capcités du fournisseurs cloud en termes de: mise à jour, résilience, etc. mais ceci est valable seulement à condition que la protection des données et le partage des responsabilités soient bien pris en compte et assumés par l'entreprise ou  l'administration cliente. 
 
 
-## Qu'est ce qu'apporte le fait de mettre le « cloud au centre », comme le préconise la doctrine? 
+### Qu'est ce qu'apporte le fait de mettre le « cloud au centre », comme le préconise la doctrine? 
 La crise covid l'a montré: sans la puissance du cloud, la bascule massive vers les outils numériques ayant permis l'essor du télétravail aurait été impossible. Dans le même temps, des millions d'utilisateurs se sont posé des questions sur le devenir de leur données personnelles. Il y a donc des opportunités, mais aussi des enjeux très forts autour du cloud. 
 
 La doctrine « cloud au centre » vise à fournir un cadre pour moderniser l'action publique par une nouvelle génération de services numérique répondant aux enjeux de :
@@ -60,7 +59,7 @@ Pour répondre aux enjeux, cette "posture cloud" doit être déclinée comme un 
 2) Développements internes;
 3) Développements externatisés (sous-traitance). 
 
-## Qu’est ce que l'on appelle "cloud native"? 
+### Qu’est ce que l'on appelle "cloud native"? 
 
 Pour concretiser DANS LES FAITS les promesses portées par le Cloud, less infrastructures et applications doivent être pensées pour le cloud dès leur conception. D'ou le terme de technologies "cloud native" (née du cloud). Schématiquement on met essentiellement d'accent sur les [technologies](https://www.redhat.com/fr/topics/cloud-native-apps) qui permettent de: 
 1) Consommer du cloud de facon très automatisée avec un maximum d'autonomie et de fiabilité: **"kubernetes" et les conteneurs**; 
@@ -70,7 +69,7 @@ Pour concretiser DANS LES FAITS les promesses portées par le Cloud, less infras
 
 Par extension, les [leviers méthodologiques et culturels mobilisés autour de ces technologies](https://blog.octo.com/cloud-enjeux-2023/) sont qualifés de "cloud native". C'est pourqui on l'utilise aussi comme un nom: "LE cloud native", pour désigner le paradigme dans lequel s'inscrivent ces technologies.
 
-## Qu’est-ce que propose l’offre Cloud Pi Native du Ministère de l'Intérieur?
+### Qu’est-ce que propose l’offre Cloud Pi Native du Ministère de l'Intérieur?
 
 Par le numérique, le monde est en transformation et il est nécessaire de remettre le "cloud au centre" pour maitriser la complexité générée. "Cloud Pi Native" est l'offre du MIOM qui vise à mettre les leviers technologiques, méthodologiques et culturels du « cloud native » à portée des acteurs interministériels. Celle-ci comprend :
 - **Le Cloud souverain "Pi"**, adaptée à l’hébergement de données sensibles jusqu’au niveau diffusion restreinte grace à des infrastructures opérées par le ministère de l’Intérieur. Il est aussi plus souple et résilient dans son utilisation grace à kubernetes;
@@ -79,7 +78,7 @@ Par le numérique, le monde est en transformation et il est nécessaire de remet
 - **Un accompagnement** pour l'embarquement et la montée en compétence des équipes afin atteindre un degré le plus d'autonomie possible dans la maitrise de son périmètre de responsabilités;
 
 
-## Qu'est ce que l'offre Cloud Pi Native peut apporter à mon organisation/mon portefeuille projet ? 
+### Qu'est ce que l'offre Cloud Pi Native peut apporter à mon organisation/mon portefeuille projet ? 
 
 L'offre permet que tous les produits numériques sortent d'une même usine, soient gérés selon un flux standardisé et bénéficient d'un herbergément adatapé à leur niveau de sensibilité. Ceci permet: 
 - Une meilleure maitrise du patrimoine numérique
@@ -104,24 +103,22 @@ L'offre est actuellement destinée aux nouveaux projets et aux projets souhaitan
 
 La mutualisation d'infrastructures coûteuses, portées par un ministère et mise à la disposition de tous les ministères, amènent des questions nouvelles sur le partage des coûts des investissements que ces infrastructures nécessitent pour être pérénisées. Les expérimentations en cours doivent affiner le modèle économique qui permettra à l'offre d'être et rester concurrentielle.
 
-## S'il fallait ne retenir que 3 choses 
+### S'il fallait ne retenir que 3 choses 
 - Les technologies cloud-native sont une clef de l'adaptation au "nouveau monde logiciel", un monde plus incertain soumis à des bouleversements rapides. Dans ce contexte, Cloud Pi Native vise à faire émerger des standards du numérique public, condition de la pérénisation d'un patrimoine numérique public;
 - L'offre s'appuie sur 1) l’adoption du cloud et des technologies "cloud native" comme enablers de la sécurité 2) une usine logicielle pour réduire la distance entre usagers et agents tout en maitrisant la qualité du code 3) un cadre de normes pour rester en maitrise du patrimoine numérique;
 - Elle est d'ores et déja disponible à l'expérimentation, en construction selon une approche opensource et incrémentale. Partenaires ministériels et industriels: venez la challenger et contribuer.
 
-# Ressources approfondies: pour aller plus loin
+## Ressources approfondies: pour aller plus loin
 - [Les Leviers du numérique pour la transformation des politiques publiques](https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=492)
 - [Mythes et réalités autour du clou](https://blog.octo.com/legendes-cloud/?utm_campaign=Cloud&utm_medium=email&_hsmi=253444812&_hsenc=p2ANqtz-8lQizxUNx6C9MpKpDS58Mx7TqQmWO_h_cR54jZcwTq9j45JAyvAx_U9t7UMap1h3wav-CYrIhkaUAwljFYRc2FP41E8OhTYabo3torpacBkaDiWEQ&utm_content=253444812&utm_source=hs_automationhttps://blog.octo.com/cloud-enjeux-2023/?hsCtaTracking=dcae8808-b3c6-4fda-9d0d-5003828cfba7%7C69b4dd1f-f50a-4e84-866a-54506db51d8c)
 - [La doctrine "Cloud au centre" de l'État](https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=496)
  
 
-# Reste à faire, pistes d'amélioration
+# A venir
 - Intérêt pour les décisions de décomissionnement 
 - Intérêt pour la planification des ressources infra
-- Préciser le périmètre pour lequel l'offre est pertinente: quelles systèmes/applications ont vocation à l'utiliser? Les nouvelles pour des questions de mise à l'état de l'art, mais quid des anciennes? Retex: Nubo, Cloud centre, Commission Européenne, CRiP
-- Combien ça coute/qu'est ce que ca permet de gagner? Notamment dans le cadre de la LOPMI, beaucoup de développements= beaucoup de MCO à prévoir demain. Penser au cout du "montage de l'usine".Modèle économique: quels sont les modèles économiques et modes de contractualisation (accords de service) possibles?
-- Est-il possible de s’appuyer sur le témoignage d'un prescripteur? Retex: ministères ayant basculé sur ce type d'offre: MTE, MJ, MinArm, Educ. Nat. Aller chercher les arguments rationnels et impactants
-- Petite intro: qu'est ce que le cloud? (figure?)
--	Moyen de mesurer la réussite (ou non) de la session (OKR) ou le NPS (recommanderiez-vous cette offre-> NPR) 1) intro :  2) sondage sur les connaissances actuelles 3) présentation 4) "s'il ne fallait retenir qu'une chose" 5) quizz et collecte des retours (comment avez-vous trouvé... ? qu’est ce qui a manqué pour vous convaincre ? )
--	Alimenter en exemple du quotidien, qui marche, reposant sur le paradigme "Cloud Native" : Google (Borg), Netflix, ... vs. des exemples de ce qui marche moins bien (banque ou assurance traditionnelles, ...)
+- Définition du périmètre pour lequel l'offre est pertinente (critère d'éligiblité). Retex: Nubo, Cloud centre, Commission Européenne, CRiP
+- Combien ça coute/qu'est ce que ca permet de gagner? Notamment dans le cadre de la LOPMI, beaucoup de développements= beaucoup de MCO à prévoir demain. Penser au cout du "montage de l'usine". Modèle économique: quels sont les modèles économiques et modes de contractualisation dans le secteur public (accords de service)?
+- Témoignages de prescripteur (Retex: ministères ayant basculé sur ce type d'offre: MTE, MJ, MinArm, Educ. Nat.)
+-	Exemples du quotidien, qui marche, reposant sur le paradigme "Cloud Native" : Google (Borg), Netflix, ... vs. des exemples de ce qui marche moins bien (banque ou assurance traditionnelles, ...)
 
