@@ -1,4 +1,4 @@
-# Etape 4: omment réaliser le potentiel du cloud native, à quoi m'engage le respect des différentes normes (techniques, organisationelles, etc.)?
+# Etape 4: comment réaliser le potentiel du cloud native, à quoi m'engage le respect des différentes normes (techniques, organisationelles, etc.)?
 
 ## Ressources essentielles (pour tous)
 Cybersécurité des projets numériques: https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=494
