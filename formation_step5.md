@@ -20,9 +20,6 @@
 - Les bases de helm: https://blog.wescale.fr/helm-pour-les-nuls-et-moins-nuls
 - Cours sur les chart helm: https://cours.hadrienpelissier.fr/03-kubernetes/cours_7_helm/
 - Les operators en bref: https://www.youtube.com/watch?v=i9V4oCa5f9I (ressource EN)
-- Garder les options ouvertes sur des transitions futures
-- Assurer la disponibilité et la continuité
-- Architecture hautement diponible, résiliente et rémédiation automatique dans OCP 
 - Observabilité, Alerting, Event Bridge, Scalabilité horizontale & verticale, Chaos engineering ... 
 - Documentation technique: https://kubernetes.io/fr/docs/concepts/workloads/controllers/deployment/
 - Le chaos engineering partie 1: https://blog.wescale.fr/le-guide-de-chaos-engineering-part-1
@@ -36,3 +33,6 @@
 
 # A venir
 - Les anti-patterns
+- Garder les options ouvertes sur des transitions futures
+- Assurer la disponibilité et la continuité
+- Architecture hautement diponible, résiliente et rémédiation automatique dans OCP
