@@ -1,4 +1,4 @@
-# Etape 2: structurer son projet
+# Etape 2: Comment comprendre les concepts derrière le "cloud native" et comment m'en saisir à mon niveau?
 
 ## Ressources essentielles (pour tous)
 - Qu'est ce que le DevSecOps en 8 minutes: https://www.youtube.com/watch?v=nrhxNNH5lt0&list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG&index=3
