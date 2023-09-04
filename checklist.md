@@ -6,6 +6,7 @@ L’équipe a besoin de comprendre l'opportunité du Cloud Native pour son besoi
 -	Quelle est l’organisation responsable du périmètre applicatif, quelles sont ses missions ?
 -	Quels sont les besoins/motivations pour l’utilisation de l’offre ? (quels composants on retenus votre interet?)
 -	Quel est le type de demande: migration vers le cloud (move2cloud), nouveau projet "cloud  native", expérimentation de la chaine de livraison DevSecOps,... ?
+-	Quelles sont les infrastructures cibles et qui en est responsable? 
 
 ## Cadre organisationnel et démarche de consommation de l’offre
 -	Quel est la position/le rôle de l’émetteur de la demande ?
