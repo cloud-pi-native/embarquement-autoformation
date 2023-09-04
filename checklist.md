@@ -4,7 +4,7 @@ L’équipe a besoin de comprendre l'opportunité du Cloud Native pour son besoi
 ## Contexte métier et besoin motivant la demande
 -	Quel est le périmètre applicatif concerné (contexte métier/missions) ?
 -	Quelle est l’organisation responsable du périmètre applicatif, quelles sont ses missions ?
--	Quelle sont les besoins/motivations pour l’utilisation des éléments de l’offre ? (lesquels ?)
+-	Quels sont les besoins/motivations pour l’utilisation de l’offre ? (quels composants on retenus votre interet?)
 -	Quel est le type de demande: migration vers le cloud (move2cloud), nouveau projet "cloud  native", expérimentation de la chaine de livraison DevSecOps,... ?
 
 ## Cadre organisationnel et démarche de consommation de l’offre
