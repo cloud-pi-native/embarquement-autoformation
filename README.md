@@ -25,7 +25,7 @@ Le parcours comporte 5 étapes, de la prise de connaissance à l'utilisation en 
 </details>
 
 
-# Contenu du plan d'embarquement
+# Etapes du plan d'embarquement
 
 Le plan d'embarquement permet d'avancer étape par étape de la découverte à l'utilisation en autonomie: 
 - Pour être guidés dans les questions et critères à valider avant de passer à l'étape suivante, consultez [la checklist](./checklist.md).
