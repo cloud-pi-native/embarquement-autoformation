@@ -41,7 +41,7 @@ Le plan d'embarquement permet d'avancer étape par étape de la découverte à l
 |5|Atteindre les meilleurs standards du "Cloud Native", évolution continue|(à venir)|(à venir)|
 
 
-# Contenu du plan de formation
+# Plan de formation
 Ressources non-spécifiques à l’offre, disponibles en appui pour comprendre et utiliser Cloud Pi Native. Elles diffèrent selon la nature des responsabilités exercées (voir plus bas) et la maturité requise par l'étape d'embarquement (type de questions qui se posent aux utilisateurs). 
 
 ## Périmètres de responsabilité
