@@ -33,7 +33,7 @@ Le plan d'embarquement permet d'avancer étape par étape de la découverte à l
 - Pour être guidés dans les questions et critères à valider avant de passer à l'étape suivante, consultez [la checklist](./checklist.md).
 - Vous savoir à quel type d'accompagnement vous etes éligibles, débutez en consultant la [politique d'accompagnement](https://github.com/cloud-pi-native/embarquement-autoformation/blob/main/eligibilite.md).
 
-| | | | | |
+| | | | | 
 |-|-|-|-|
 |**N° étape**|**Stade d'avancement du projet** |**Ressources et mode d'emploi de cloud Pi Native**|**Si éligible à un accompagnement**|
 |1|Qualifier son besoin, analyser l'opportunité du Cloud Native|Consulter la [page de présentation l'offre](https://dnum-mi.github.io/) et le [support de sensibilisation aux enjeux](./sensibilisation.md)/ spécifier son besoin/ S'assurer du soutien de la démarche (sponsor)|Prendre contact avec le programme Cloud Pi Native/[**RDV de préqualification de votre besoin avec l'offre avec l'équipe Adoption**(https://www.demarches-simplifiees.fr/commencer/prequalification-cloud-pi-native) |
