@@ -1,6 +1,6 @@
 # Etape 1: sensibilisation aux enjeux/risques des mutations du numérique (et en quoi suis-je concerné?)
 
-- [Présentation de sensibilisation](https://github.com/cloud-pi-native/embarquement-autoformation/files/13318327/Sensibilisation.Cloud.Pi.Native.V12.pdf)
+[Présentation de sensibilisation](https://github.com/cloud-pi-native/embarquement-autoformation/files/13318327/Sensibilisation.Cloud.Pi.Native.V12.pdf)
 
 ## Type de questions et problématiques adressées
 Les ressources mises à disposition ici répondent aux questions relatives au enjeux de Cloud PI Native et à leurs implications pour le numérique public: 
