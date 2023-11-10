@@ -113,12 +113,3 @@ La mutualisation d'infrastructures coûteuses, portées par un ministère et mis
 - [Mythes et réalités autour du cloud](https://blog.octo.com/legendes-cloud/?utm_campaign=Cloud&utm_medium=email&_hsmi=253444812&_hsenc=p2ANqtz-8lQizxUNx6C9MpKpDS58Mx7TqQmWO_h_cR54jZcwTq9j45JAyvAx_U9t7UMap1h3wav-CYrIhkaUAwljFYRc2FP41E8OhTYabo3torpacBkaDiWEQ&utm_content=253444812&utm_source=hs_automationhttps://blog.octo.com/cloud-enjeux-2023/?hsCtaTracking=dcae8808-b3c6-4fda-9d0d-5003828cfba7%7C69b4dd1f-f50a-4e84-866a-54506db51d8c)
 - [La doctrine "Cloud au centre" de l'État](https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=496)
  
-
-# A venir
-- Intérêt pour les décisions de décomissionnement 
-- Intérêt pour la planification des ressources infra
-- Définition du périmètre pour lequel l'offre est pertinente (critère d'éligiblité). Retex: Nubo, Cloud centre, Commission Européenne, CRiP
-- Combien ça coute/qu'est ce que ca permet de gagner? Notamment dans le cadre de la LOPMI, beaucoup de développements= beaucoup de MCO à prévoir demain. Penser au cout du "montage de l'usine". Modèle économique: quels sont les modèles économiques et modes de contractualisation dans le secteur public (accords de service)?
-- Témoignages de prescripteur (Retex: ministères ayant basculé sur ce type d'offre: MTE, MJ, MinArm, Educ. Nat.)
--	Exemples du quotidien, qui marche, reposant sur le paradigme "Cloud Native" : Google (Borg), Netflix, ... vs. des exemples de ce qui marche moins bien (banque ou assurance traditionnelles, ...)
-
