@@ -1,5 +1,7 @@
 # Etape 1: sensibilisation aux enjeux/risques des mutations du numérique (et en quoi suis-je concerné?)
 
+- [Présentation de sensibilisation](https://github.com/cloud-pi-native/embarquement-autoformation/files/13318327/Sensibilisation.Cloud.Pi.Native.V12.pdf)
+
 ## Type de questions et problématiques adressées
 Les ressources mises à disposition ici répondent aux questions relatives au enjeux de Cloud PI Native et à leurs implications pour le numérique public: 
 1.	Pourquoi parle t-on d'un "nouveau monde numérique" et quelle place y tient "le Cloud" ? Quels  enjeux cela pose t-il pour le numérique public?
@@ -109,6 +111,7 @@ La mutualisation d'infrastructures coûteuses, portées par un ministère et mis
 - Elle est d'ores et déja disponible à l'expérimentation, en construction selon une approche opensource et incrémentale. Partenaires ministériels et industriels: venez la challenger et contribuer.
 
 ## Ressources approfondies: pour aller plus loin
+- [Sensibilisation Cloud Pi Native V12.pdf](https://github.com/cloud-pi-native/embarquement-autoformation/files/13318327/Sensibilisation.Cloud.Pi.Native.V12.pdf)
 - [Les Leviers du numérique pour la transformation des politiques publiques](https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=492)
 - [Mythes et réalités autour du cloud](https://blog.octo.com/legendes-cloud/?utm_campaign=Cloud&utm_medium=email&_hsmi=253444812&_hsenc=p2ANqtz-8lQizxUNx6C9MpKpDS58Mx7TqQmWO_h_cR54jZcwTq9j45JAyvAx_U9t7UMap1h3wav-CYrIhkaUAwljFYRc2FP41E8OhTYabo3torpacBkaDiWEQ&utm_content=253444812&utm_source=hs_automationhttps://blog.octo.com/cloud-enjeux-2023/?hsCtaTracking=dcae8808-b3c6-4fda-9d0d-5003828cfba7%7C69b4dd1f-f50a-4e84-866a-54506db51d8c)
 - [La doctrine "Cloud au centre" de l'État](https://mentor.gouv.fr/local/catalog/pages/training.php?trainingid=496)
