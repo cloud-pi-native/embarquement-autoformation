@@ -1,16 +1,16 @@
 # WIP (work in progress)
 
-Les ressources rassemblées ici constituent une base de connaissances permettre aux équipes clientes d'acquérir rapidement un maximum d'autonomie sur l'offre cloud native portée par le Ministère de l'Intérieur s'appuyant un environnement du Cloud souverain Pi (offre "Cloud Pi Native"). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
+Les ressources rassemblées ici constituent une base de connaissances permettre aux équipes clientes de s'autoformer pour acquérir rapidement un maximum d'autonomie sur l'offre cloud native portée par le Ministère de l'Intérieur s'appuyant un environnement du Cloud souverain Pi (offre "Cloud Pi Native"). Dans une logique d’amélioration continue, vous pouvez proposer vos commentaires en:
 - Faisant des pulls request sur le repository 
 - Faisant des issues
 
 # Que contient cette section?
-**Un parcours d'embarquement/formation "pas à pas"**, destiné aux personnes ou organisations souhaitant comprendre et/ou consommer l’offre [Cloud Pi Native](https://dnum-mi.github.io/) du MIOM pour réaliser une transformation de son socle de production vers le "cloud native".
+**Une "valise" de ressources d'autoformation** pour accompagner la montée en compétences et embarquer"pas à pas"**. Elle est destinée aux personnes ou organisations souhaitant comprendre et/ou consommer l’offre [Cloud Pi Native](https://dnum-mi.github.io/) du MIOM pour réaliser une transformation de son socle de production vers le "cloud native".
 
 
 # Pour quoi faire ?
 - **Pour se former à titre individuel** sur les technologies cloud native en consultant des ressources d'autoformation disponibles à chaque étape (voir le périmètre correspondant à ses responsabilités dans la section "se former à titre individuel");
-- **Pour embarquer rapidement une équipe projet/produit** sur l'offre Cloud Pi Native du MIOM en consultant, à chaque étape du parcours, le "mode d'emploi" et la documentation ainsi que les connaissances théoriques et pratiques nécessaires.
+- **Pour embarquer une équipe projet/produit** sur l'offre Cloud Pi Native du MIOM en consultant, à chaque étape du parcours, le "mode d'emploi" et la documentation ainsi que les connaissances théoriques et pratiques nécessaires.
 
 Le parcours comporte 5 étapes, de la prise de connaissance à l'utilisation en autonomie qui correspondent à des degrés de "maturité" croissant (i.e. type de questions que les utilisateurs se posent).
 
@@ -27,7 +27,7 @@ Le parcours comporte 5 étapes, de la prise de connaissance à l'utilisation en 
 </details>
 
 
-# Etapes du plan d'embarquement
+# Quelle "maturité" requise pour quelle étape d'embarquement?
 
 Le plan d'embarquement permet d'avancer étape par étape de la découverte à l'utilisation en autonomie: 
 - Pour être guidés dans les questions et critères à valider avant de passer à l'étape suivante, consultez [la checklist](./checklist.md).
@@ -43,11 +43,11 @@ Le plan d'embarquement permet d'avancer étape par étape de la découverte à l
 |5|Atteindre les meilleurs standards du "Cloud Native", évolution continue|(à venir)|(à venir)|
 
 
-# Plan de formation
-Ressources non-spécifiques à l’offre, disponibles en appui pour comprendre et utiliser Cloud Pi Native. Elles diffèrent selon la nature des responsabilités exercées (voir plus bas) et la maturité requise par l'étape d'embarquement (type de questions qui se posent aux utilisateurs). 
+# Valise d'autoformation
+Ces ressources sont non-spécifiques à l’offre, disponibles en appui pour comprendre et utiliser Cloud Pi Native. Elles sotn distinguées selon la nature des responsabilités exercées (voir plus bas) et la "maturité" requise par l'étape d'embarquement ("maturité" = type de questions qui se posent aux utilisateurs). 
 
-## Périmètres de responsabilité
-Dans sa version actuelle, le plan de formation distingue 3 types de responsabilités: 
+## Nature de responsabilités
+Dans sa version actuelle, le plan de formation distingue 3 types d'apprenants en fonction de leur domaine de responsabilités: 
 
 1- **"Réalisation technique"**: équipes techniques responsables de la prise en main de l'offre pour construire, opérer et gérer des produits numériques, tout au long de leur cycle de vie. Directement, pour développer et opérer des produits (équipe DevOps) ou indirectement, pour mettre en place et assurer la fiabilité des systèmes de production nécessaires (SRE, ingéniérie de plateforme) dans un environnement "cloud native".
 
@@ -64,8 +64,6 @@ Dans sa version actuelle, le plan de formation distingue 3 types de responsabili
 </details>
 
 ## Ressources d'autoformation
-
-
 
 
 | | | | | |
