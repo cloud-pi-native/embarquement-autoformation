@@ -63,7 +63,7 @@ Dans sa version actuelle, le plan de formation distingue 3 types d'apprenants en
 - **Gouvernance/décisionnaire**: responsables de la pertinence des décisions stratégiques ce qui recouvre, plus largement, les personnes chargées de les conseiller. Exemples: pilotage et gouvernance des organisations, directions générales ou métiers, stratégie d'achat, stratégie RH, etc.
 </details>
 
-## Ressources d'autoformation
+## Ressources d'autoformation, par nature de responsabilités, par étape
 
 
 | | | | | |
